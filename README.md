@@ -1,2 +1,1 @@
-# Aspose.HTML-Products
-Aspose.HTML product family landing pages
+This repository contains Aspose.HTML Product Family landing pages.
