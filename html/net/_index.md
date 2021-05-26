@@ -20,9 +20,6 @@ url: /net/
 {{< blocks/products/pf/carousel >}}
 
 {{< blocks/products/pf/carousel-item h3="At a Glance" description="An overview of API." >}}
-{{< /blocks/products/pf/carousel-item >}}
-
-{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.HTML for .NET supports the .NET framework & .NET Standard." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -96,7 +93,7 @@ url: /net/
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.HTML for .NET supported formats are listed below." >}}
+{{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.HTML for .NET supports the .NET framework & .NET Standard." >}}
 <div class="diagram1 d1-net">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -140,6 +137,87 @@ url: /net/
  <!--/row-->
  <div class="d1-logo">
   <img alt="HTML Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png"/>
+  <header>
+   Aspose.HTML
+  </header>
+  <footer>
+   <small>
+    <em>
+     for
+    </em>
+    .NET
+   </small>
+  </footer>
+ </div>
+ <!--/logo-->
+</div>
+
+{{< /blocks/products/pf/carousel-item >}}
+
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.HTML for .NET [supported formats](https://docs.aspose.com/html/net/supported-file-formats/)  are listed below." >}}
+<div class="diagram1 d2 d1-net">
+ <div class="d1-row">
+  <div class="d1-col d1-left">
+   <header>
+    <i class="fa fa-arrows-v">
+    </i>
+    Input/Output
+   </header>
+   <ul>
+    <li>
+     (X)HTML
+    </li>
+    <li>
+     MHTML
+    </li>
+    <li>
+     SVG
+    </li>
+    <li>
+     Markdown
+    </li>
+   </ul>
+   <header>
+    <i class="fa fa-long-arrow-down">
+    </i>
+    Input Only
+   </header>
+   <ul>
+    <li>
+     EPUB
+    </li>
+    <li>
+     HTML Template
+    </li>
+   </ul>
+  </div>
+  <!--/left-->
+  <div class="d1-col d1-right">
+   <header>
+    <i class="fa fa-mail-forward">
+    </i>
+    Output Only
+   </header>
+   <ul>
+    <li>
+     PDF
+    </li>
+    <li>
+     XPS
+    </li>
+    <li>
+     <b>
+      Images:
+     </b>
+     TIFF, JPEG, PNG, BMP
+    </li>
+   </ul>
+  </div>
+  <!--/right-->
+ </div>
+ <!--/row-->
+ <div class="d1-logo">
+  <img alt=".NET HTML API" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png"/>
   <header>
    Aspose.HTML
   </header>
