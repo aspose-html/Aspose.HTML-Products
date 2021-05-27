@@ -5,15 +5,21 @@ url: /net/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data & convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-net.png" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data & convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-net.png" pfName="Aspose.HTML for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/html/net/" instalationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.HTML for .NET is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API supports to generate, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, SVG, and Markdown and rendering to PDF, XPS and Image file formats.</p>
-<p>Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality.</p>
+<p>
+ Aspose.HTML for .NET is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API supports to generate, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, SVG, and Markdown and rendering to PDF, XPS and Image file formats.
+</p>
+
+<p>
+ Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -502,12 +508,6 @@ using (var document = new Aspose.Html.HTMLDocument("https://en.wikipedia.org/wik
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -533,9 +533,9 @@ using (var document = new Aspose.Html.HTMLDocument("https://en.wikipedia.org/wik
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/html/net" pricingInformationLink="https://purchase.aspose.com/pricing/html/net" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.HTML offers individual HTML processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.HTML" description="Aspose.HTML offers individual HTML processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/html/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" sdkName="Aspose.HTML for Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

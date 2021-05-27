@@ -5,15 +5,21 @@ url: /java/
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-java-header.png" pfName="Aspose.HTML" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-java-header.png" pfName="Aspose.HTML for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for Java" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/html/java/" instalationsDocsLink="https://docs.aspose.com/html/java/installation/" nugetLink="" nugetPackageName="" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.HTML for Java is an advanced HTML manipulation API to manipulate and generate HTML within the Java applications. API allows to add, delete, replace nodes, extract CSS and navigate through a document via multiple ways. Moreover, API provides the capabilities to load EPUB and MHTML as well as offers the scripting which allows manipulating DOM via JavaScript.</p>
-<p>Aspose.HTML for Java supports inter-file format conversion to load HTML document and save the output in XPS, PDF and raster images including JPEG, PNG, BMP and more as well as provide encryption for PDF files.</p>
+<p>
+ Aspose.HTML for Java is an advanced HTML manipulation API to manipulate and generate HTML within the Java applications. API allows to add, delete, replace nodes, extract CSS and navigate through a document via multiple ways. Moreover, API provides the capabilities to load EPUB and MHTML as well as offers the scripting which allows manipulating DOM via JavaScript.
+</p>
+
+<p>
+ Aspose.HTML for Java supports inter-file format conversion to load HTML document and save the output in XPS, PDF and raster images including JPEG, PNG, BMP and more as well as provide encryption for PDF files.
+</p>
+
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -397,12 +403,6 @@ for (Node node : nodelist)
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="" subTitle="" >}}
-
-{{< blocks/products/pf/testimonials-quote >}}
-{{< /blocks/products/pf/testimonials-quote >}}
-
-{{< /blocks/products/pf/testimonials >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
@@ -428,9 +428,9 @@ for (Node node : nodelist)
 
 {{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/html/java" pricingInformationLink="https://purchase.aspose.com/pricing/html/java" >}}
 
-{{< blocks/products/pf/offers-section pfName="Aspose.HTML offers individual HTML processing APIs for other popular development environments as listed below:" >}}
+{{< blocks/products/pf/offers-section pfName="Aspose.HTML" description="Aspose.HTML offers individual HTML processing APIs for other popular development environments as listed below:" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/html/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" sdkName="Aspose.HTML for .NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/html/net" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" sdkName=".NET" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

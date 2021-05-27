@@ -60,14 +60,28 @@ Free online App to extract text and images from HTML, XHTML, MHTML, EPUB, SVG fi
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
-Our overall experience with Aspose’s product has been very impressive. Aspose integration into our product suite reduced our internal product development overhead and ensured accurate and reliable generation of files in a seamless and secure manner.
+<p class="first">
+ Our overall experience with Aspose’s product has been very impressive. Aspose integration into our product suite reduced our internal product development overhead and ensured accurate and reliable generation of files in a seamless and secure manner.
+ <em>
+  Doug Downer | DYNECON, USA
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< blocks/products/pf/testimonials-quote >}}
-We think that the .net business world wouldn’t have been the same without Aspose.Total.net. We have worked on a lot of business projects and few of them didn’t include Aspose. We like the fact that Aspose.Total is a complete offer, so we do not need to have multiple libraries to achieve our client’s objectives.
+<p class="second">
+ We think that the .net business world wouldn’t have been the same without Aspose.Total.net. We have worked on a lot of business projects and few of them didn’t include Aspose. We like the fact that Aspose.Total is a complete offer, so we do not need to have multiple libraries to achieve our client’s objectives.
+ <em>
+  Yassine LOUDAD | Qualetech, France
+ </em>
+</p>
+
 {{< /blocks/products/pf/testimonials-quote >}}
+
 {{< /blocks/products/pf/testimonials >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
