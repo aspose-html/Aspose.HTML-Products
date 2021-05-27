@@ -2,6 +2,7 @@
 title: C# .NET API for HTML XHTML MHTML EPUB Markdown and SVG 
 weight: 950
 url: /net/ 
+description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB Markdown and SVG
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
