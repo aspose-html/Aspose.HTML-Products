@@ -1,6 +1,6 @@
 ---
 title: Convert MHTML to HTML via Java 
-weight: 260
+weight: 200
 url: /java/conversion/mhtml-to-html/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert MHTML to HTML Using Java" %}}
 
- In order to render MHTML to HTML, weвЂ™ll use
+ In order to render MHTML to HTML, we’ll use
  [Aspose.Html for Java](https://products.aspose.com/html/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html) 
@@ -76,7 +76,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert MHTML to HTML - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert MHTML to HTML - Java‎" offSpacer="" %}}
 
 ```cs
 // load HTML document
@@ -107,7 +107,7 @@ Converter.convertHTML(
 
     {{% blocks/products/pf/agp/content h2="Java HTML Parser Library" %}}
 
- Aspose.HTML is an advanced web scrapping and HTML parsing library. One can create, edit, navigate through nodes, extract data and convert HTML, XHTML, MHTML files to PDF, Images and formats. Moreover, it also handles CSS , HTML Canvas, SVG, XPath and JavaScript out-of-the-box to extend manipulation tasks. Its a standalone API and does not require any software installation. вЂЋ
+ Aspose.HTML is an advanced web scrapping and HTML parsing library. One can create, edit, navigate through nodes, extract data and convert HTML, XHTML, MHTML files to PDF, Images and formats. Moreover, it also handles CSS , HTML Canvas, SVG, XPath and JavaScript out-of-the-box to extend manipulation tasks. Its a standalone API and does not require any software installation. ‎
 
 
 

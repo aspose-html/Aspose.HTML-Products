@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to JPEG via .NET 
-weight: 590
+weight: 710
 url: /net/conversion/html-to-jpeg/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Standard.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to JPEG Using C#" %}}
 
- In order to convert HTML to JPEG, weвЂ™ll use
+ In order to convert HTML to JPEG, we’ll use
  [Aspose.Html for .NET](https://products.aspose.com/html/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.html) 

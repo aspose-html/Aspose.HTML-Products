@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to PDF via .NET 
-weight: 610
+weight: 110
 url: /net/conversion/html-to-pdf/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Standard.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to PDF Using C#" %}}
 
- In order to convert HTML to PDF, weвЂ™ll use
+ In order to convert HTML to PDF, we’ll use
  [Aspose.Html for .NET](https://products.aspose.com/html/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.html) 

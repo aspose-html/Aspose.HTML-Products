@@ -1,6 +1,6 @@
 ---
 title: Convert EPUB to PDF via .NET 
-weight: 530
+weight: 940
 url: /net/conversion/epub-to-pdf/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Standard.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert EPUB to PDF Using C#" %}}
 
- In order to convert EPUB to PDF, weвЂ™ll use
+ In order to convert EPUB to PDF, we’ll use
  [Aspose.Html for .NET](https://products.aspose.com/html/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.html) 

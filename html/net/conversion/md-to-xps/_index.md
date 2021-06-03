@@ -1,6 +1,6 @@
 ---
 title: Convert MD to XPS via .NET 
-weight: 720
+weight: 60
 url: /net/conversion/md-to-xps/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Standard.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert MD to XPS Using C#" %}}
 
- In order to convert MD to XPS, weвЂ™ll use
+ In order to convert MD to XPS, we’ll use
  [Aspose.Html for .NET](https://products.aspose.com/html/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.html) 

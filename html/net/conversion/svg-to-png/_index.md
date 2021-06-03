@@ -1,6 +1,6 @@
 ---
 title: Convert SVG to PNG via .NET 
-weight: 840
+weight: 400
 url: /net/conversion/svg-to-png/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Standard.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert SVG to PNG Using C#" %}}
 
- In order to convert SVG to PNG, weвЂ™ll use
+ In order to convert SVG to PNG, we’ll use
  [Aspose.Html for .NET](https://products.aspose.com/html/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.html) 

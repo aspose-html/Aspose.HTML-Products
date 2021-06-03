@@ -1,6 +1,6 @@
 ---
 title: Convert XHTML to BMP via .NET 
-weight: 870
+weight: 340
 url: /net/conversion/xhtml-to-bmp/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Standard.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert XHTML to BMP Using C#" %}}
 
- In order to convert XHTML to BMP, weвЂ™ll use
+ In order to convert XHTML to BMP, we’ll use
  [Aspose.Html for .NET](https://products.aspose.com/html/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.html) 

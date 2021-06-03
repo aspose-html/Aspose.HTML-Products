@@ -1,6 +1,6 @@
 ---
 title: Convert HTML to BMP via .NET 
-weight: 570
+weight: 280
 url: /net/conversion/html-to-bmp/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Standard.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to BMP Using C#" %}}
 
- In order to convert HTML to BMP, weвЂ™ll use
+ In order to convert HTML to BMP, we’ll use
  [Aspose.Html for .NET](https://products.aspose.com/html/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.html) 

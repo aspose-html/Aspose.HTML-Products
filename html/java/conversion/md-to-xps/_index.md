@@ -1,6 +1,6 @@
 ---
 title: Convert MD to XPS via Java 
-weight: 240
+weight: 670
 url: /java/conversion/md-to-xps/ 
 description: Try our On-Premise APIs for your document conversion on Java Runtime Environment for JSP/JSF Application and Desktop Applications.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% blocks/products/pf/agp/content h2="How to Convert MD to XPS Using Java" %}}
 
- In order to render MD to XPS, weвЂ™ll use
+ In order to render MD to XPS, we’ll use
  [Aspose.Html for Java](https://products.aspose.com/html/java) 
  API which is a feature-rich, powerful and easy to use conversion API for Java platform. You can download its latest version directly from
  [Maven](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html) 
@@ -76,7 +76,7 @@ description: Try our On-Premise APIs for your document conversion on Java Runtim
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
-{{% blocks/products/pf/agp/code-block title="Convert MD to XPS - JavaвЂЋ" offSpacer="" %}}
+{{% blocks/products/pf/agp/code-block title="Convert MD to XPS - Java‎" offSpacer="" %}}
 
 ```cs
 // save MD as a XPS 
@@ -101,7 +101,7 @@ Converter.convertMarkdown("template.md","output.xps");
 
     {{% blocks/products/pf/agp/content h2="Java HTML Parser Library" %}}
 
- Aspose.HTML is an advanced web scrapping and HTML parsing library. One can create, edit, navigate through nodes, extract data and convert HTML, XHTML, MHTML files to PDF, Images and formats. Moreover, it also handles CSS , HTML Canvas, SVG, XPath and JavaScript out-of-the-box to extend manipulation tasks. Its a standalone API and does not require any software installation. вЂЋ
+ Aspose.HTML is an advanced web scrapping and HTML parsing library. One can create, edit, navigate through nodes, extract data and convert HTML, XHTML, MHTML files to PDF, Images and formats. Moreover, it also handles CSS , HTML Canvas, SVG, XPath and JavaScript out-of-the-box to extend manipulation tasks. Its a standalone API and does not require any software installation. ‎
 
 
 

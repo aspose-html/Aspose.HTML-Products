@@ -1,6 +1,6 @@
 ---
 title: Convert MD to JPEG via .NET 
-weight: 680
+weight: 100
 url: /net/conversion/md-to-jpeg/ 
 description: Try our On-Premise APIs with your document on .NET Framework, .NET Standard.
 ---
@@ -13,7 +13,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert MD to JPEG Using C#" %}}
 
- In order to convert MD to JPEG, weвЂ™ll use
+ In order to convert MD to JPEG, we’ll use
  [Aspose.Html for .NET](https://products.aspose.com/html/net) 
  API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
  [NuGet](https://www.nuget.org/packages/aspose.html) 
