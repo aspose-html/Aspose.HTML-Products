@@ -6,11 +6,11 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-java-header.png" pfName="Aspose.HTML for Java" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-java-header.png" pfName="Aspose.HTML" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/html/java/" instalationsDocsLink="https://docs.aspose.com/html/java/installation/" nugetLink="" nugetPackageName="" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com/pricing/html/java" docsLink="https://docs.aspose.com/html/java/" installationsDocsLink="https://docs.aspose.com/html/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html" directDownloadLink="https://downloads.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

@@ -6,11 +6,11 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data & convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-net.png" pfName="Aspose.HTML for .NET" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data & convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-net.png" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com" docsLink="https://docs.aspose.com/html/net/" instalationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/pricing/html/net" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
