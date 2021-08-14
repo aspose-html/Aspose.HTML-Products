@@ -11,11 +11,11 @@ description: Read HTML EPUB or MHTML. Edit or render to PDF, Image, Markdown, MH
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.HTML On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-net.png" productLink="https://products.aspose.com/html/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" productLink="https://products.aspose.com/html/net" >}}
 On Premise APIs to target .NET Framework, .NET Core & Xamarin platforms to develop HTML manipulation applications.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/272x272/aspose_html-for-java.png" productLink="https://products.aspose.com/html/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" productLink="https://products.aspose.com/html/java" >}}
 Java APIs to create, manipulate, convert HTML files in any application based on Java SE or EE.
 {{< /blocks/products/pf/product >}}
 
