@@ -6,7 +6,7 @@ description: Read HTML EPUB or MHTML. Edit or render to PDF, Image, Markdown, MH
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Hyper Text Markup Language Solution" h2="A set of advanced manipulation APIs & cross-platform apps for HTML, XHTML, MHTML formats." logoImageSrc="https://www.aspose.com/templates/brand/images/html/aspose_html-brand.png" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="Hyper Text Markup Language Solution" h2="A set of advanced manipulation APIs & cross-platform apps for HTML, XHTML, MHTML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-brand.svg" imageAlt="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.HTML On Premise APIs Include" >}}
