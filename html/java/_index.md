@@ -10,7 +10,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com/pricing/html/java" docsLink="https://docs.aspose.com/html/java/" installationsDocsLink="https://docs.aspose.com/html/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html" directDownloadLink="https://downloads.aspose.com/html/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/java/" installationsDocsLink="https://docs.aspose.com/html/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html" directDownloadLink="https://downloads.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>

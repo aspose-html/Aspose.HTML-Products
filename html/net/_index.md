@@ -10,7 +10,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/pricing/html/net" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/html/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
