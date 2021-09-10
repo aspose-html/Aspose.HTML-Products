@@ -6,7 +6,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-java-header.png" pfName="Aspose.HTML" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-java.svg" pfName="Aspose.HTML" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for Java" >}}
 

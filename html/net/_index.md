@@ -6,7 +6,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data & convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/html/header/aspose_html-for-net.png" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data & convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-net.svg" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for .NET" >}}
 
