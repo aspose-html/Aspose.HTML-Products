@@ -13,13 +13,9 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>
- Aspose.HTML for .NET is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API supports to generate, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, SVG, and Markdown and rendering to PDF, XPS and Image file formats.
-</p>
+<p>Aspose.HTML for .NET is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API supports to generate, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, SVG, and Markdown and rendering to PDF, XPS and Image file formats.</p>
 
-<p>
- Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality.
-</p>
+<p>Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality.</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
