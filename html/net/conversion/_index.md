@@ -5,7 +5,7 @@ description: Convert hypertext markup language HTML to PDF Word and Images with 
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="HTML Conversion Via C#" h2="Convert hypertext markup language HTML to PDF, Word DOC, DOCX and Images including BMP, JPG, PNG, TIFF to build cross-platform .NET applications." >}}
+{{< blocks/products/pf/feature-page-header h1="HTML Conversion Via C#" h2="Convert hypertext markup language HTML to PDF, Microsoft<sup>&reg;</sup> Word DOC, DOCX and Images including BMP, JPG, PNG, TIFF to build cross-platform .NET applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 Hypertext markup language HTML is the language of web. Currently mostly information is present on websites in form of webpages. So converting this HTML based information into other formats like Microsoft<sup>&reg;</sup> Word , PDF and image formats is common scenario. **.NET HTML API** makes the conversion process easier for developers. It loads the file using [HTMLDocument class](https://apireference.aspose.com/html/net/aspose.html/htmldocument), create the relevant save options object and use the [converter class](https://apireference.aspose.com/html/net/aspose.html.converters/converter) relevant conversion method.
@@ -41,7 +41,7 @@ Just like PDF conversion, process of converting HTML to image formats is almost 
 
 {{% blocks/products/pf/feature-page-section  h2="Convert HTML to Word DOC / DOCX File" %}}
 
-.NET API is capable of HTML to Microsoft Word formats DOC / DOCX conversion. Developers can use [DocSaveOptions Class](https://apireference.aspose.com/html/net/aspose.html.saving/docsaveoptions) for the word settings. Remaining process is almost similar to above cases, that is loading the source file and using Converter.ConvertHTML method.
+.NET API is capable of HTML to Microsoft<sup>&reg;</sup> Word formats DOC / DOCX conversion. Developers can use [DocSaveOptions Class](https://apireference.aspose.com/html/net/aspose.html.saving/docsaveoptions) for the word settings. Remaining process is almost similar to above cases, that is loading the source file and using Converter.ConvertHTML method.
 
 {{% blocks/products/pf/feature-page-code h3="C# Code for HTML to Word Conversion" %}}
 
