@@ -110,7 +110,7 @@ Converter.convertHTML(
 
     {{% blocks/products/pf/agp/content h2="Java HTML Parser Library" %}}
 
- HTML API is an advanced web scrapping and HTML parsing library. One can create, edit, navigate through nodes, extract data and convert HTML, XHTML, MHTML files to PDF, Images and formats. Moreover, it also handles CSS , HTML Canvas, SVG, XPath and JavaScript out-of-the-box to extend manipulation tasks. Its a standalone API and does not require any software installation. ‎
+ HTML API is an advanced web scrapping and HTML parsing library. One can create, edit, navigate through nodes, extract data and convert HTML, XHTML, MHTML files to PDF, Images and formats. Moreover, it also handles CSS , HTML Canvas, SVG, XPath and JavaScript out-of-the-box to extend manipulation tasks. Its a standalone API and does not require any software installation.  
 
 
 

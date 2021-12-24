@@ -6,7 +6,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-java.svg" pfName="Aspose.HTML" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-java.svg" pfName="Aspose.HTML" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for Java" >}}
 
@@ -14,11 +14,11 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 
 {{< blocks/products/pf/tab-content >}}
 <p>
- Aspose.HTML for Java is an advanced HTML manipulation API to manipulate and generate HTML within the Java applications. API allows to add, delete, replace nodes, extract CSS and navigate through a document via multiple ways. Moreover, API provides the capabilities to load EPUB and MHTML as well as offers the scripting which allows manipulating DOM via JavaScript.
+ Aspose.HTML for Java is an advanced HTML manipulation API to manipulate and generate HTML within the Java applications. API allows to add, delete, replace nodes, extract CSS and navigate through a document via multiple ways. Moreover, API provides the capabilities to load EPUB and MHTML as well as offers the scripting which allows manipulating DOM via JavaScript.
 </p>
 
 <p>
- Aspose.HTML for Java supports inter-file format conversion to load HTML document and save the output in XPS, PDF and raster images including JPEG, PNG, BMP and more as well as provide encryption for PDF files.
+ Aspose.HTML for Java supports inter-file format conversion to load HTML document and save the output in XPS, PDF and raster images including JPEG, PNG, BMP and more as well as provide encryption for PDF files.
 </p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -72,7 +72,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
      Create HTML Pages
     </li>
     <li>
-     Load Existing Document
+     Load Existing Document
     </li>
     <li>
      Navigate Through Nodes
@@ -265,7 +265,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
     <em class="fa fa-download ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Load existing file
+     Load existing file
     </p>
    </div>
    <div class="col-lg-4">
@@ -279,7 +279,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
     <em class="fa fa-balance-scale ico-blue fa-2x col-lg-2">
     </em>
     <p class="col-lg-10">
-     Lightweight and standalone component
+     Lightweight and standalone component
     </p>
    </div>
    <div class="col-lg-4">
@@ -319,7 +319,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
    </div>
    <div class="col-lg-12">
     <h2 class="h2title">
-     Rendering from HTML to PDF and XPS Format
+     Rendering from HTML to PDF and XPS Format
     </h2>
     <p>
      API supports the rendering of HTML to most commonly used raster images including BMP, TIFF, JPEG, &amp; PNG, PDF, and XPS formats. Developers can customize by configuring PageSetup aspects for the resultant fixed-layout formats including page numbers to be rendered, resultant page size or setting the JPEG compression for the embedded images.
@@ -361,7 +361,7 @@ renderer.render(new XpsDevice(new XpsRenderingOptions(), dir + "output.xps"), ht
      HTML Nodes Navigation
     </h2>
     <p>
-     API supports navigation through the HTML file either by XPath,  elements or CSS selector queries and one can insert, extract, remove or replace nodes easily.
+     API supports navigation through the HTML file either by XPath,  elements or CSS selector queries and one can insert, extract, remove or replace nodes easily.
     </p>
     <div class="codeblock" id="code">
      <h3>

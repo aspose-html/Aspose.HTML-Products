@@ -26,11 +26,11 @@ Java APIs to create, manipulate, convert HTML files in any application based on 
 {{< blocks/products/pf/product-card-row title="Aspose.HTML Cloud APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-curl.png" productLink="https://products.aspose.cloud/html/curl" >}}
-Just send a REST API call to process HTML files from any type of device capable of executing cURL commands.
+Just send a REST API call to process HTML files from any type of device capable of executing cURL commands.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-net.png" productLink="https://products.aspose.cloud/html/net" >}}
-SDK specifically designed to facilitate .NET programmers to use Aspose.HTML RESTFul APIs with ease.
+SDK specifically designed to facilitate .NET programmers to use Aspose.HTML RESTFul APIs with ease.
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-java.png" productLink="https://products.aspose.cloud/html/java" >}}
@@ -61,7 +61,7 @@ Free online App to extract text and images from HTML, XHTML, MHTML, EPUB, SVG fi
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="What People Are Saying" subTitle="Don't just take our word for it. See what users have to say about Aspose." caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">
