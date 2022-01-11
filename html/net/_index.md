@@ -78,7 +78,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET HTML Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg"/>
+  <img width="70" height="75" alt=".NET HTML Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg"/>
   <header>
    Aspose.HTML
   </header>
@@ -139,7 +139,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="HTML Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg"/>
+  <img width="70" height="75" alt="HTML Manipulation APIs" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg"/>
   <header>
    Aspose.HTML
   </header>
@@ -220,7 +220,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt=".NET HTML API" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg"/>
+  <img width="70" height="75" alt=".NET HTML API" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg"/>
   <header>
    Aspose.HTML
   </header>
