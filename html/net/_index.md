@@ -354,23 +354,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
      <h3>
       Convert HTML to PDF and PNG - C#
      </h3>
-     <pre><code class="cs">// Load the HTML file to be converted
-
-using (var document = new Aspose.Html.HTMLDocument("document.html"))
-
-{
-
-    // Convert HTML to PDF
-
-    Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "output.pdf");
-
-
-
-    // Convert HTML to Image
-
-    Aspose.Html.Converters.Converter.ConvertHTML(document, new ImageSaveOptions(ImageFormat.Png), "output.png");
-
-}</code></pre>
+     {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-html-to-pdf-and-png.cs" >}}
     </div>
     You can check the quality of conversion
     <a href="https://products.aspose.app/html/conversion/html-to-pdf" rel="noopener noreferrer" target="_blank">
@@ -389,28 +373,14 @@ using (var document = new Aspose.Html.HTMLDocument("document.html"))
      <h3>
       Convert HTML to Markdown - C#
      </h3>
-     <pre><code class="cs">// Load HTML file
-
-using (var document = new Aspose.Html.HTMLDocument("document.html"))
-
-{
-
-    // Convert HTML to Markdown using a set of features supported by GitLab Flavored Markdown
-
-    document.Save("output.md", Aspose.Html.Saving.MarkdownSaveOptions.Git);
-
-}</code></pre>
+      {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-html-to-md.cs" >}}
     </div>
     The reverse conversion is that simple!
     <div class="codeblock" id="code">
      <h3>
       Convert Markdown to HTML - C#
      </h3>
-     <pre><code class="cs">// Convert Markdown to HTML
-
-Aspose.Html.Converters.Converter.ConvertMarkdown("document.md", "output.html");
-
-</code></pre>
+      {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-md-to-html.cs" >}}
     </div>
     You can try Markdown Converter
     <a href="https://products.aspose.app/html/markdown" rel="opener noopener noreferrer" target="_blank">
@@ -436,17 +406,14 @@ Aspose.Html.Converters.Converter.ConvertMarkdown("document.md", "output.html");
      <h3>
       Convert EPUB to PDF - C#
      </h3>
-     <pre><code class="cs">//  Convert EPUB to PDF.
-
-Aspose.Html.Converters.Converter.ConvertEPUB("document.epub", new Aspose.Html.Saving.PdfSaveOptions(), "output.pdf");</code></pre>
+     {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-epub-to-pdf.cs" >}}
     </div>
     <div class="codeblock" id="code">
      <h3>
       Convert MHTML to PDF - C#
      </h3>
-     <pre><code class="cs">//  Convert MHTML to PDF.
-
-Aspose.Html.Converters.Converter.ConvertMHTML("document.mht", new Aspose.Html.Saving.PdfSaveOptions(), "output.pdf");</code></pre>
+     <pre><code class="cs">
+ {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-mhtml-to-pdf.cs" >}}
     </div>
    </div>
    <div class="col-lg-12">
@@ -460,31 +427,7 @@ Aspose.Html.Converters.Converter.ConvertMHTML("document.mht", new Aspose.Html.Sa
      <h3>
       Simple Web Data Extraction - C#
      </h3>
-     <pre><code class="cs">// Create an instance of the HTML document with a website as a parameter.
-
-using (var document = new Aspose.Html.HTMLDocument("https://en.wikipedia.org/wiki/Aspose_API"))
-
-{
-
-    // Get all anchor-elements
-
-    var elements = document.QuerySelectorAll("a");
-
-
-
-    // Dump the anchor-element data to the console.
-
-    elements.Cast&lt;HTMLAnchorElement&gt;().ToList().ForEach(x =&gt;
-
-    {
-
-        System.Console.WriteLine("[Href]: " + x.Href);
-
-        System.Console.WriteLine("[Content]: " + x.TextContent);
-
-    });
-
-}</code></pre>
+     {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "web-data-scrapping.cs" >}}
     </div>
    </div>
    <!--
