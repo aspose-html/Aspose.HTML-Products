@@ -92,7 +92,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java HTML Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg"/>
+  <img width="70" height="75" alt="Java HTML Processing API" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg"/>
   <header>
    Aspose.HTML
   </header>
@@ -135,7 +135,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="Java HTML Parser" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg"/>
+  <img width="70" height="75" alt="Java HTML Parser" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg"/>
   <header>
    Aspose.HTML
   </header>
@@ -222,7 +222,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
  </div>
  <!--/row-->
  <div class="d1-logo">
-  <img alt="HTML Manipulation java library" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg"/>
+  <img width="70" height="75" alt="HTML Manipulation java library" src="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg"/>
   <header>
    Aspose.HTML
   </header>
