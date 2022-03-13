@@ -60,13 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows EPUB to MD C# Conversion" offSpacer="" %}}
 
-```cs
-// load the EPUB file to be converted 
-var document = new HTMLDocument("template.epub"); 
-// save EPUB as a MD
-document.Save("output.md", Aspose.Html.Saving.MarkdownSaveOptions.Git); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-epub-to-md.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

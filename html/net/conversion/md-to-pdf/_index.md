@@ -66,11 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MD to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// save MD as a PDF 
-Aspose.Html.Converters.Converter.ConvertMarkdown("template.md","output.pdf"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-md-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

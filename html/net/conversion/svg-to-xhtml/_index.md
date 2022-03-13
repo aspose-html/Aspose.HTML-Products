@@ -60,15 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows SVG to XHTML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the SVG file to be converted 
-var document = new HTMLDocument("template.svg"); 
-// Create Instance of XHTML Options 
-var options = new XhtmlSaveOptions(); 
-// save SVG as a XHTML 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.xhtml"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-svg-to-xhtml.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

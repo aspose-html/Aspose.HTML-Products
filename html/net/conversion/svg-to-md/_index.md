@@ -60,13 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows SVG to MD C# Conversion" offSpacer="" %}}
 
-```cs
-// load the SVG file to be converted 
-var document = new HTMLDocument("template.svg"); 
-// save SVG as a MD
-document.Save("output.md", Aspose.Html.Saving.MarkdownSaveOptions.Git); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-svg-to-md.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

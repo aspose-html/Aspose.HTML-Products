@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows EPUB to PNG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the EPUB file to be converted 
-var document = new HTMLDocument("template.epub"); 
-// create an instance of PNG Options
-var options = new ImageSaveOptions(ImageFormat.Png); 
-// save EPUB as a PNG 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.png"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-epub-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

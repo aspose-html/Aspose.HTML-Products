@@ -60,13 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MHTML to MD C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MHTML file to be converted 
-var document = new HTMLDocument("template.mhtml"); 
-// save MHTML as a MD
-document.Save("output.md", Aspose.Html.Saving.MarkdownSaveOptions.Git); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-mhtml-to-md.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

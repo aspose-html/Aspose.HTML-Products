@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows SVG to BMP C# Conversion" offSpacer="" %}}
 
-```cs
-// load the SVG file to be converted 
-var document = new HTMLDocument("template.svg"); 
-// create an instance of BMP Options
-var options = new ImageSaveOptions(ImageFormat.Bmp); 
-// save SVG as a BMP 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.bmp"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-svg-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

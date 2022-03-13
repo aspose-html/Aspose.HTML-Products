@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows XHTML to JPEG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the XHTML file to be converted 
-var document = new HTMLDocument("template.xhtml"); 
-// create an instance of JPEG Options
-var options = new ImageSaveOptions(ImageFormat.Jpeg); 
-// save XHTML as a JPEG 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.jpeg"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-xhtml-to-jpg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

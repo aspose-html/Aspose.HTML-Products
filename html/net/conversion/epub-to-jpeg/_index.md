@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows EPUB to JPEG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the EPUB file to be converted 
-var document = new HTMLDocument("template.epub"); 
-// create an instance of JPEG Options
-var options = new ImageSaveOptions(ImageFormat.Jpeg); 
-// save EPUB as a JPEG 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.jpeg"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-epub-to-jpg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

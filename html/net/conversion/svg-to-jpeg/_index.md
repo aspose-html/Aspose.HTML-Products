@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows SVG to JPEG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the SVG file to be converted 
-var document = new HTMLDocument("template.svg"); 
-// create an instance of JPEG Options
-var options = new ImageSaveOptions(ImageFormat.Jpeg); 
-// save SVG as a JPEG 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.jpeg"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-svg-to-jpg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -66,16 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This source code shows HTML to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the HTML file to be converted 
-var document = new HTMLDocument("template.html"); 
-// Create Instance of PDF Options 
-var options = new Aspose.Html.Saving.PdfSaveOptions();
-// In case to generate the encrypted PDF set Encryption details 
-// Save HTML as a PDF 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.pdf"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "html-to-pdf-conversion.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

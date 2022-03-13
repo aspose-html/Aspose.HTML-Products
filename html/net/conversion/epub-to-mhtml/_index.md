@@ -60,15 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows EPUB to MHTML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the EPUB file to be converted 
-var document = new HTMLDocument("template.epub"); 
-// Create Instance of MHTML Options 
-var options = new MhtmlSaveOptions(); 
-// save EPUB as a MHTML 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.mhtml"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-epub-to-mhtml.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

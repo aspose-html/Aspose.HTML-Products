@@ -66,11 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MD to GIF C# Conversion" offSpacer="" %}}
 
-```cs
-// save MD as a GIF 
-Aspose.Html.Converters.Converter.ConvertMarkdown("template.md","output.gif"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-md-to-gif.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

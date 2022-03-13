@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MHTML to BMP C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MHTML file to be converted 
-var document = new HTMLDocument("template.mhtml"); 
-// create an instance of BMP Options
-var options = new ImageSaveOptions(ImageFormat.Bmp); 
-// save MHTML as a BMP 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.bmp"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-mhtml-to-bmp.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows EPUB to TIFF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the EPUB file to be converted 
-var document = new HTMLDocument("template.epub"); 
-// create an instance of TIFF Options
-var options = new ImageSaveOptions(ImageFormat.Tiff); 
-// save EPUB as a TIFF 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.tiff"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-epub-to-tiff.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

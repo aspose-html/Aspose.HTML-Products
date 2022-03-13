@@ -60,15 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows EPUB to XHTML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the EPUB file to be converted 
-var document = new HTMLDocument("template.epub"); 
-// Create Instance of XHTML Options 
-var options = new XhtmlSaveOptions(); 
-// save EPUB as a XHTML 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.xhtml"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-epub-to-xhtml.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

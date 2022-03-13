@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows SVG to PNG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the SVG file to be converted 
-var document = new HTMLDocument("template.svg"); 
-// create an instance of PNG Options
-var options = new ImageSaveOptions(ImageFormat.Png); 
-// save SVG as a PNG 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.png"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-svg-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

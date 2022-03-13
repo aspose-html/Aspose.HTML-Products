@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows SVG to XPS C# Conversion" offSpacer="" %}}
 
-```cs
-// load the SVG file to be converted 
-var document = new HTMLDocument("template.svg"); 
-// Create Instance of XPS Options 
-var options = new XpsSaveOptions(); 
-// save SVG as a XPS 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.xps"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-svg-to-xps.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

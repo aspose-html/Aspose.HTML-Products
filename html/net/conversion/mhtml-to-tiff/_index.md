@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MHTML to TIFF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MHTML file to be converted 
-var document = new HTMLDocument("template.mhtml"); 
-// create an instance of TIFF Options
-var options = new ImageSaveOptions(ImageFormat.Tiff); 
-// save MHTML as a TIFF 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.tiff"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-mhtml-to-tiff.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

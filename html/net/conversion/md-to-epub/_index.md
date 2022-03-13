@@ -60,11 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MD to EPUB C# Conversion" offSpacer="" %}}
 
-```cs
-// save MD as a EPUB 
-Aspose.Html.Converters.Converter.ConvertMarkdown("template.md","output.epub"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-md-to-epub.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows SVG to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the SVG file to be converted 
-var document = new HTMLDocument("template.svg"); 
-// Create Instance of PDF Options 
-var options = new PdfSaveOptions(); 
-// save SVG as a PDF 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.pdf"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-svg-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

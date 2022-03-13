@@ -60,15 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MHTML to HTML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MHTML file to be converted 
-var document = new HTMLDocument("template.mhtml"); 
-// Create Instance of HTML Options 
-var options = new HtmlSaveOptions(); 
-// save MHTML as a HTML 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.html"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-mhtml-to-html.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

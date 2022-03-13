@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows HTML to PNG C# Conversion" offSpacer="" %}}
 
-```cs
-// load the HTML file to be converted 
-var document = new HTMLDocument("template.html"); 
-// create an instance of PNG Options
-var options = new ImageSaveOptions(ImageFormat.Png); 
-// save HTML as a PNG 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.png"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-html-to-png.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

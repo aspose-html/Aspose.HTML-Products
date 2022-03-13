@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MHTML to PDF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the MHTML file to be converted 
-var document = new HTMLDocument("template.mhtml"); 
-// Create Instance of PDF Options 
-var options = new PdfSaveOptions(); 
-// save MHTML as a PDF 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.pdf"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-mhtml-to-pdf.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

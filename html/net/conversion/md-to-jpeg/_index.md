@@ -66,11 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows MD to JPEG C# Conversion" offSpacer="" %}}
 
-```cs
-// save MD as a JPEG 
-Aspose.Html.Converters.Converter.ConvertMarkdown("template.md","output.jpeg"); 
-
-```
+{{< gist "aspose-com-gists" "b62cd1064becc04f190bc3c47278b932" "convert-md-to-jpg.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

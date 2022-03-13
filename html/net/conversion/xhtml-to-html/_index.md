@@ -60,15 +60,7 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows XHTML to HTML C# Conversion" offSpacer="" %}}
 
-```cs
-// load the XHTML file to be converted 
-var document = new HTMLDocument("template.xhtml"); 
-// Create Instance of HTML Options 
-var options = new HtmlSaveOptions(); 
-// save XHTML as a HTML 
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.html"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-xhtml-to-html.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

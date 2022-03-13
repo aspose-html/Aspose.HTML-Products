@@ -66,15 +66,7 @@ PM> Install-Package Aspose.Html
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows XHTML to TIFF C# Conversion" offSpacer="" %}}
 
-```cs
-// load the XHTML file to be converted 
-var document = new HTMLDocument("template.xhtml"); 
-// create an instance of TIFF Options
-var options = new ImageSaveOptions(ImageFormat.Tiff); 
-// save XHTML as a TIFF 
-Aspose.Html.Converters.Converter.ConvertHTML(document, options,"output.tiff"); 
-
-```
+{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-xhtml-to-tiff.cs" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
