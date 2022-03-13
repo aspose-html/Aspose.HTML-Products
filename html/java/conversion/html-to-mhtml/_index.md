@@ -78,19 +78,7 @@ In order to render HTML to MHTML, we’ll use <a href="https://products.aspose.c
 
 {{% blocks/products/pf/agp/code-block title="HTML to MHTML Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load HTML document
-HTMLDocument document = new HTMLDocument("template.html");
-// convert HTML to MHTML
-Converter.convertHTML(
-    document,
-    new MHTMLSaveOptions(),
-    "output.mhtml"
-);   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7f312c01ed7ae38aa545cfd17da3dab7" "convert-html-to-mhtml.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -81,15 +81,7 @@ description: Sample Java conversion code for HTML format to TIFF file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="HTML to TIFF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize an HTMLDocument from a HTML file
-HTMLDocument document = new HTMLDocument("document.html");
-// initialize ImageSaveOptions with TIFF format
-ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Tiff);
-// convert HTML to TIFF
-Converter.convertHTML(document, options, "output.tiff");   
-
-```
+{{< gist "aspose-com-gists" "7f312c01ed7ae38aa545cfd17da3dab7" "convert-html-to-tiff.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

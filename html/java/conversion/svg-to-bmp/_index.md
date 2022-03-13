@@ -81,15 +81,7 @@ description: Sample Java conversion code for SVG format to BMP file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="SVG to BMP Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize an HTMLDocument from a HTML file
-HTMLDocument document = new HTMLDocument("document.html");
-// initialize ImageSaveOptions with BMP format
-ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Bmp);
-// convert HTML to BMP
-Converter.convertHTML(document, options, "output.bmp");   
-
-```
+{{< gist "aspose-com-gists" "8d711d4cae753eba7c26a5dd621752f6" "convert-svg-to-bmp.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -78,17 +78,7 @@ In order to render XHTML to GIF, we’ll use <a href="https://products.aspose.co
 
 {{% blocks/products/pf/agp/code-block title="XHTML to GIF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize an HTMLDocument from a HTML file
-HTMLDocument document = new HTMLDocument("document.html");
-// initialize ImageSaveOptions with GIF format
-ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Gif);
-// convert HTML to GIF
-Converter.convertHTML(document, options, "output.gif");   
-  
-  
-
-```
+{{< gist "aspose-com-gists" "7f312c01ed7ae38aa545cfd17da3dab7" "convert-xhtml-to-gif.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

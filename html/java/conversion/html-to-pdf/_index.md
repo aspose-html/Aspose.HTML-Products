@@ -81,17 +81,7 @@ description: Sample Java conversion code for HTML format to PDF file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="HTML to PDF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load HTML document
-HTMLDocument document = new HTMLDocument("template.html");
-// convert HTML to PDF
-Converter.convertHTML(
-    document,
-    new PdfSaveOptions(),
-    "output.pdf"
-);   
-
-```
+{{< gist "aspose-com-gists" "7f312c01ed7ae38aa545cfd17da3dab7" "convert-html-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

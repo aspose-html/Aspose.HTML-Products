@@ -81,15 +81,7 @@ description: Sample Java conversion code for EPUB format to PNG file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="EPUB to PNG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize an HTMLDocument from a HTML file
-HTMLDocument document = new HTMLDocument("document.html");
-// initialize ImageSaveOptions with PNG format
-ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Png);
-// convert HTML to PNG
-Converter.convertHTML(document, options, "output.png");   
-
-```
+{{< gist "aspose-com-gists" "8d711d4cae753eba7c26a5dd621752f6" "convert-epub-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

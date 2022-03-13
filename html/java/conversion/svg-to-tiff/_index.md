@@ -81,15 +81,7 @@ description: Sample Java conversion code for SVG format to TIFF file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="SVG to TIFF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize an HTMLDocument from a HTML file
-HTMLDocument document = new HTMLDocument("document.html");
-// initialize ImageSaveOptions with TIFF format
-ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Tiff);
-// convert HTML to TIFF
-Converter.convertHTML(document, options, "output.tiff");   
-
-```
+{{< gist "aspose-com-gists" "8d711d4cae753eba7c26a5dd621752f6" "convert-svg-to-tiff.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

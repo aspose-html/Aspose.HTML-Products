@@ -328,17 +328,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
      <h3>
       Render HTML as fixed-layout formats - Java
      </h3>
-     <pre><code class="java">// load the file to be rendered
-
-HTMLDocument htmdoc = new HTMLDocument(dir + "template.html");
-
-// render to PDF &amp; XPS
-
-HtmlRenderer renderer = new HtmlRenderer();
-
-renderer.render(new PdfDevice(new PdfRenderingOptions(), dir + "output.pdf"), htmdoc);
-
-renderer.render(new XpsDevice(new XpsRenderingOptions(), dir + "output.xps"), htmdoc);</code></pre>
+     {{< gist "aspose-com-gists" "a9c2d19a003bde6511ccbf59b192dcfb" "render-html-as-fixed-layout-formats.java" >}}
     </div>
    </div>
    <!--<div class="col-lg-12">
@@ -367,25 +357,7 @@ renderer.render(new XpsDevice(new XpsRenderingOptions(), dir + "output.xps"), ht
      <h3>
       Extract all nodes of type anchor - Java
      </h3>
-     <pre><code class="java">// instance creation of HTMLDocument and loading HTML from URL
-
-HTMLDocument dct = new HTMLDocument("https://www.aspose.com");
-
-// get all anchor type nodes 
-
-NodeList nodelist = dct.getDocumentElement().querySelectorAll("a");
-
-// display anchor text &amp; href values for all nodes
-
-for (Node node : nodelist)
-
-{
-
-    HTMLAnchorElement anchor = (HTMLAnchorElement)node;
-
-    System.out.println("Text: " + node.getTextContent() + " Href: " + anchor.getHref());
-
-}</code></pre>
+     {{< gist "aspose-com-gists" "a9c2d19a003bde6511ccbf59b192dcfb" "extract-all-anchor-type-nodes.java" >}}
     </div>
    </div>
    <!--<div class="col-lg-12">

@@ -81,17 +81,7 @@ description: Sample Java conversion code for EPUB format to XPS file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="EPUB to XPS Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load HTML document
-HTMLDocument document = new HTMLDocument("template.html");
-// convert HTML to XPS
-Converter.convertHTML(
-    document,
-    new XpsSaveOptions(),
-    "output.xps"
-);   
-
-```
+{{< gist "aspose-com-gists" "8d711d4cae753eba7c26a5dd621752f6" "convert-epub-to-xps.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

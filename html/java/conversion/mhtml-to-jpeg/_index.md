@@ -81,15 +81,7 @@ description: Sample Java conversion code for MHTML format to JPEG file. Use this
 
 {{% blocks/products/pf/agp/code-block title="MHTML to JPEG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize an HTMLDocument from a HTML file
-HTMLDocument document = new HTMLDocument("document.html");
-// initialize ImageSaveOptions with JPEG format
-ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Jpeg);
-// convert HTML to JPEG
-Converter.convertHTML(document, options, "output.jpeg");   
-
-```
+{{< gist "aspose-com-gists" "7f312c01ed7ae38aa545cfd17da3dab7" "convert-mhtml-to-jpg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -81,17 +81,7 @@ description: Sample Java conversion code for SVG format to PDF file. Use this ex
 
 {{% blocks/products/pf/agp/code-block title="SVG to PDF Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load HTML document
-HTMLDocument document = new HTMLDocument("template.html");
-// convert HTML to PDF
-Converter.convertHTML(
-    document,
-    new PdfSaveOptions(),
-    "output.pdf"
-);   
-
-```
+{{< gist "aspose-com-gists" "8d711d4cae753eba7c26a5dd621752f6" "convert-svg-to-pdf.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

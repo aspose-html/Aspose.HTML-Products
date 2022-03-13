@@ -81,15 +81,7 @@ description: Sample Java conversion code for SVG format to JPEG file. Use this e
 
 {{% blocks/products/pf/agp/code-block title="SVG to JPEG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize an HTMLDocument from a HTML file
-HTMLDocument document = new HTMLDocument("document.html");
-// initialize ImageSaveOptions with JPEG format
-ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Jpeg);
-// convert HTML to JPEG
-Converter.convertHTML(document, options, "output.jpeg");   
-
-```
+{{< gist "aspose-com-gists" "8d711d4cae753eba7c26a5dd621752f6" "convert-svg-to-jpg.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

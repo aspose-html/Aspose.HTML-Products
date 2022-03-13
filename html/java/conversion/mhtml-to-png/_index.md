@@ -81,15 +81,7 @@ description: Sample Java conversion code for MHTML format to PNG file. Use this 
 
 {{% blocks/products/pf/agp/code-block title="MHTML to PNG Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// initialize an HTMLDocument from a HTML file
-HTMLDocument document = new HTMLDocument("document.html");
-// initialize ImageSaveOptions with PNG format
-ImageSaveOptions options = new ImageSaveOptions(ImageFormat.Png);
-// convert HTML to PNG
-Converter.convertHTML(document, options, "output.png");   
-
-```
+{{< gist "aspose-com-gists" "7f312c01ed7ae38aa545cfd17da3dab7" "convert-mhtml-to-png.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 

@@ -81,17 +81,7 @@ description: Sample Java conversion code for MHTML format to HTML file. Use this
 
 {{% blocks/products/pf/agp/code-block title="MHTML to HTML Java Conversion Source Code" offSpacer="" %}}
 
-```cs
-// load HTML document
-HTMLDocument document = new HTMLDocument("template.html");
-// convert HTML to HTML
-Converter.convertHTML(
-    document,
-    new HTMLSaveOptions(),
-    "output.html"
-);   
-
-```
+{{< gist "aspose-com-gists" "7f312c01ed7ae38aa545cfd17da3dab7" "convert-mhtml-to-html.java" >}}
 
 {{% /blocks/products/pf/agp/code-block %}}
 
