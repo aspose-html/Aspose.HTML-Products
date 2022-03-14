@@ -411,8 +411,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
     <div class="codeblock" id="code">
      <h3>
       Convert MHTML to PDF - C#
-     </h3>
-     <pre><code class="cs">
+     </h3>     
  {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-mhtml-to-pdf.cs" >}}
     </div>
    </div>
