@@ -1,12 +1,12 @@
 ---
-title: C# .NET API for HTML XHTML MHTML EPUB Markdown and SVG 
+title: C# .NET API for HTML and HTML-based files Processing 
 weight: 230
 url: /net/ 
-description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB Markdown and SVG
+description: C# .NET API to read, write, modify, edit, merge and convert HTML, XHTML, MHTML, EPUB, Markdown, and SVG.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data & convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-net.svg" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data, merge and convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-net.svg" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for .NET" >}}
 
@@ -212,7 +212,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
      <b>
       Images:
      </b>
-     TIFF, JPEG, PNG, BMP
+     TIFF, JPEG, PNG, BMP, GIF
     </li>
    </ul>
   </div>
