@@ -1,21 +1,32 @@
 ---
-title: C# .NET API for HTML XHTML MHTML EPUB Markdown and SVG 
+title: C# .NET API for HTML and HTML-based files Processing
 weight: 230
 url: /net/ 
-description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB Markdown and SVG
+description: C# .NET API to read, write, modify, edit, merge and convert HTML, XHTML, MHTML, EPUB, Markdown, and SVG.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data & convert HTML pages to PDF, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-net.svg" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
+{{< blocks/products/pf/upper-banner h1=".NET API for working with real-world HTML" h2="Class library to create, edit, extract data, merge and convert HTML pages to PDF, DOCX, XPS, Images and other formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-net.svg" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for .NET" >}}
 
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.HTML for .NET is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API supports to generate, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, SVG, and Markdown and rendering to PDF, XPS and Image file formats.</p>
+<p>Aspose.HTML for .NET is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API supports to generate, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, XML, SVG, and Markdown and rendering to PDF, DOCX, XPS and Image file formats.</p>
 
-<p>Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality.</p>
+<p>Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality. You can see the full list of Aspose.HTML features in our <a href="https://docs.aspose.com/html/net/getting-started/" target="_blank">documentation</a>.</p>
+
+<p>Using Aspose.HTML for .NET in your project allows you to perform the following tasks:</p>
+
+<p><a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">create or load HTML-based documents</a> from a file, URL, string, or stream;</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">convert documents</a> between popular formats;</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">create custom message handlers</a> to do a specific task;</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">navigate HTML documents</a> using XPath Query or CSS Selector;</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">edit HTML files</a> by inserting new nodes, removing, or editing the content of existing nodes;</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">render documents</a> with high quality;</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">extract data from the web</a>, download a video or audio by its URL;</br>
+and more</p>
 
 {{< /blocks/products/pf/tab-content >}}
 
@@ -58,7 +69,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
    </header>
    <ul>
     <li>
-     PNG, JPEG, BMP, GIF
+     PNG, JPEG, BMP, GIF, TIFF
     </li>
     <li>
      TIFF
@@ -93,6 +104,7 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
  </div>
  <!--/logo-->
 </div>
+
 
 {{< /blocks/products/pf/carousel-item >}}
 
@@ -209,10 +221,13 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
      XPS
     </li>
     <li>
+     DOCX
+    </li>
+    <li>
      <b>
       Images:
      </b>
-     TIFF, JPEG, PNG, BMP
+     JPEG, PNG, BMP, TIFF, GIF
     </li>
    </ul>
   </div>
@@ -236,12 +251,14 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
  <!--/logo-->
 </div>
 
+
 {{< /blocks/products/pf/carousel-item >}}
 
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
 
 <!--Feature-section Start-->
+
 <div class="container-fluid features-section bg-gray singleproduct">
  <a class="anchor" id="features" name="features">
  </a>
@@ -342,53 +359,85 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
     <p class="col-lg-10">
      Apply header and footer during HTML to PDF
     </p>
-   </div>
+   </div>   
+
    <div class="col-lg-12">
     <h2 class="h2title">
-     Convert HTML to PDF, Image and Other Formats
+Convert HTML to PDF, Image and Other Formats
     </h2>
     <p>
-     API allows with just a few lines of code implement HTML to PDF, HTML to Image or any other conversion for your .NET applications.
+API allows with just a few lines of code to implement HTML to PDF, HTML to Image or any other conversion for your .NET applications. The conversion process is simple and reliable, thus making Aspose.HTML for .NET API a perfect choice.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Convert HTML to PDF and PNG - C#
+      Convert HTML to PDF  - C#
      </h3>
-     {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-html-to-pdf-and-png.cs" >}}
-    </div>
-    You can check the quality of conversion
-    <a href="https://products.aspose.app/html/conversion/html-to-pdf" rel="noopener noreferrer" target="_blank">
-     here
+     <pre><code class="cs">
+// Load an HTML file to be converted
+using var document = new Aspose.Html.HTMLDocument("document.html");
+
+// Convert HTML to PDF
+Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "output.pdf");</code></pre></br>
+    <h4 >You can also convert HTML into many other file formats including few listed below: 
+    </h4>    
+    {{< blocks/products/pf/feature-page-options pairs="html-to-pdf html-to-xps html-to-md html-to-xhtml html-to-mhtml html-to-bmp html-to-png html-to-jpeg html-to-tiff html-to-gif" >}}
+    <h4 >
+You can try online HTML Converter 
+    <a href="https://products.aspose.app/html/conversion/html" rel="opener noopener noreferrer" target="_blank"> 
+     here.
     </a>
-    .
-   </div>
-   <div class="col-lg-12">
+    </h4>
+    </div>
+
+<div class="col-lg-12">
     <h2 class="h2title">
-     Markdown Support
+Editing HTML Documents
     </h2>
     <p>
-     Markdown is a markup language with a plain-text-formatting syntax. Markdown is often used as a format for documentation and readme files since it allows writing in an easy-to-read and easy-to-write style. Aspose.HTML provides a powerful and flexible Markdown Converter that can convert in both directions from Markdown to HTML and from HTML to Markdown. Moreover, the converter API has a set of predefined rules, so you can convert HTML to Markdown using the authentic Markdown syntax, GitLab Flavored Markdown modification or even configure the rules for your needs.
+Aspose.HTML for .NET allows you to create and edit HTML documents using a Document Object Model (DOM). The DOM is a programming interface for HTML documents that represents the document (as nodes and objects) as a node tree, where each node represents part of the document. Aspose.HTML for .NET API lets you connect to the page and can change the document structure, style, and content. You can modify the document by inserting new nodes and removing or editing existing nodes' content.
+    </p>
+    <p>The .NET HTML API assists developers to read, modify, navigate and edit (X)HTML documents. Some file editing functions that the Aspose.HTML for .NET API can perform are the following:</br>
+ - navigate HTML documents by using various methods, such as, element traversal, document traversal, XPath queries, and CSS selector queries,</br>
+ - remove and replace HTML nodes,</br>
+ - extract and edit CSS from HTML, </br>
+ - configure a document sandbox and more. 
+    </p>
+    </div>
+
+<div class="col-lg-12">
+    <h2 class="h2title">
+Markdown Support
+    </h2>
+    <p>
+Markdown is a markup language with a plain-text-formatting syntax. Markdown is often used as a format for documentation and readme files since it allows writing in an easy-to-read and easy-to-write style. Aspose.HTML provides a powerful and flexible Markdown Converter that can convert in both directions from Markdown to HTML and from HTML to Markdown. Moreover, the converter API has a set of predefined rules, so you can convert HTML to Markdown using the authentic Markdown syntax, GitLab Flavored Markdown modification or even configure the rules for your needs.
     </p>
     <div class="codeblock" id="code">
      <h3>
-      Convert HTML to Markdown - C#
+Convert HTML to Markdown - C#
      </h3>
-      {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-html-to-md.cs" >}}
-    </div>
+     <pre><code class="cs">
+// Load an HTML file
+using var document = new Aspose.Html.HTMLDocument("document.html");
+
+// Convert HTML to Markdown using a set of features supported by GitLab Flavored Markdown
+document.Save("output.md", Aspose.Html.Saving.MarkdownSaveOptions.Git);</code></pre>
+    </div></br>
     The reverse conversion is that simple!
     <div class="codeblock" id="code">
      <h3>
       Convert Markdown to HTML - C#
      </h3>
-      {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-md-to-html.cs" >}}
+<pre><code class="cs">
+// Convert Markdown to HTML
+Aspose.Html.Converters.Converter.ConvertMarkdown("document.md", "output.html");</code></pre>
+    </div></br>    
+<h4>You can try online Markdown Converter
+    <a href="https://products.aspose.app/html/conversion/md" rel="opener noopener noreferrer" target="_blank">
+     here.
+    </a></h4>
     </div>
-    You can try Markdown Converter
-    <a href="https://products.aspose.app/html/markdown" rel="opener noopener noreferrer" target="_blank">
-     here
-    </a>
-    .
-   </div>
    <!--<div class="col-lg-12">
+
 
 <h2 class="h2title">Load & Manipulate ePub and MHTML Files</h2>
 
@@ -406,13 +455,30 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
      <h3>
       Convert EPUB to PDF - C#
      </h3>
-     {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-epub-to-pdf.cs" >}}
+<pre><code class="cs">
+//  Convert EPUB to PDF
+Aspose.Html.Converters.Converter.ConvertEPUB("document.epub", new Aspose.Html.Saving.PdfSaveOptions(), "output.pdf");</code></pre></br>
+<h4 >
+You can try online EPUB Converter 
+    <a href="https://products.aspose.app/html/conversion/epub" rel="opener noopener noreferrer" target="_blank"> 
+     here.
+    </a>
+    </h4></br>
+
     </div>
     <div class="codeblock" id="code">
      <h3>
       Convert MHTML to PDF - C#
-     </h3>     
- {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-mhtml-to-pdf.cs" >}}
+     </h3> 
+<pre><code class="cs">
+//  Convert MHTML to PDF
+Aspose.Html.Converters.Converter.ConvertMHTML("document.mht", new Aspose.Html.Saving.PdfSaveOptions(), "output.pdf");</code></pre></br>
+<h4 >
+You can try online MHTML Converter 
+    <a href="https://products.aspose.app/html/conversion/mhtml" rel="opener noopener noreferrer" target="_blank"> 
+     here.
+    </a>
+    </h4>
     </div>
    </div>
    <div class="col-lg-12">
@@ -426,7 +492,25 @@ description: C# .NET API to read write modify and convert HTML XHTML MHTML EPUB 
      <h3>
       Simple Web Data Extraction - C#
      </h3>
-     {{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "web-data-scrapping.cs" >}}
+<pre><code class="cs">
+// Create an instance of the HTML document with a website as a parameter
+using var document = new Aspose.Html.HTMLDocument("https://en.wikipedia.org/wiki/Aspose_API");
+
+// Get all anchor-elements
+var elements = document.QuerySelectorAll("a");
+
+// Dump the anchor-element data to the console
+elements.Cast&lt;HTMLAnchorElement&gt;().ToList().ForEach(x =&gt;
+    {
+        System.Console.WriteLine("[Href]: " + x.Href);
+        System.Console.WriteLine("[Content]: " + x.TextContent);
+    });</code></pre></br>
+    <h4 >
+You can try online Data Scrapers Apps 
+    <a href="https://products.aspose.app/html/data-scrapers" rel="opener noopener noreferrer" target="_blank"> 
+     here.
+    </a></h4>
+    Aspose.HTML offers free online Data Scrapers Apps that are a way to get data from websites. Our Apps are safe, work on any platform and do not require any software installation. Data Scrapers can be used for image extracting, getting keywords from a webpage, video downloading, etc. They are easy and clear to use, yet forceful and reliable. 
     </div>
    </div>
    <!--

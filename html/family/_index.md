@@ -2,7 +2,7 @@
 title: .NET & Java HTML File Manipulation API | Parse HTML and CSS 
 weight: 10
 url: /family
-description: Create edit parse translate and convert HTML documents in .NET & Java applications with relevant library without any additional software or tools
+description: Create, read, edit, parse, and convert HTML documents in .NET & Java applications with relevant library without any additional software or tools.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}

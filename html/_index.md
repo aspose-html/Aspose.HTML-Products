@@ -1,12 +1,12 @@
 ---
-title: On Premise, Cloud APIs & Free Apps for HTML files manipulation 
+title: On Premise API, Cloud APIs & Free Apps for HTML files manipulation 
 weight: 590
 url: /
-description: Read HTML EPUB or MHTML. Edit or render to PDF Image Markdown MHTML. Merge HTML EPUB or extract text & images from HTML XHTML MHTML EPUB SVG files.
+description: Read, create, edit, convert HTML, XHTML, EPUB or MHTML files from .NET or Java using the relevant On-Premise or Cloud library. Use HTML cross-platform apps to generate, inspect, extract data, merge or convert HTML files.
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Hyper Text Markup Language Solution" h2="A set of advanced manipulation APIs & cross-platform apps for HTML, XHTML, MHTML formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-brand.svg" imageAlt="" >}}
+{{< blocks/products/pf/upper-banner h1="Hyper Text Markup Language Solution" h2="A set of advanced manipulation APIs & cross-platform apps for HTML, XHTML, MHTML Markdown, and EPUB formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-brand.svg" imageAlt="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.HTML High Code APIs Include" >}}
@@ -44,15 +44,15 @@ Easy to use Java SDK to communicate with Aspose.HTML Cloud APIs for HTML file cr
 {{< blocks/products/pf/product-card-row title="Aspose.HTML No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.HTML" title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/html/conversion" >}}
-Easily convert HTML files to PDF, Markdown, MHTML and many other popular file formats without leaving your favorite browser.
+Easily convert HTML to PDF, HTML to Markdown, HTML to MHTML and many other popular file formats without leaving your favorite browser.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Viewer" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_viewer-app.png" productLink="https://products.aspose.app/html/viewer" >}}
-View HTML files as an image representation from any device.
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Mergers" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_merger-app.png" productLink="https://products.aspose.app/html/merger" >}}
+An easy way to merge files online quickly and with high quality.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Parser" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_parser-app.png" productLink="https://products.aspose.app/html/parser" >}}
-Free online App to extract text and images from HTML, XHTML, MHTML, EPUB, SVG files.
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Data Scrapers" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_metadata-app.png" productLink="https://products.aspose.app/html/data-scrapers" >}}
+Free online Apps to extract data from web pages automatically in seconds. Make a few clicks to extract images, keywords, videos and more. 
 {{< /blocks/products/pf/product >}}
 
 {{< blocks/products/pf/center-button href="https://products.aspose.app/html/family" innerText="View All No Code Apps" >}}
