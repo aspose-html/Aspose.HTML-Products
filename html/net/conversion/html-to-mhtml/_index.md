@@ -1,7 +1,7 @@
 ---
 title: Convert HTML to MHTML via C# 
 url: /net/conversion/html-to-mhtml/ 
-description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
+description: Convert HTML to MHTML using C# or VB.NET. Easily use HTML to MHTML converter API within ASP.NET or any .NET application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,18 +12,15 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to MHTML Using C#" %}}
 
-In order to convert HTML to MHTML, we’ll use <a href="https://products.aspose.com/html/net">Aspose.Html for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.html">NuGet</a> package manager, search for <b>Aspose.Html</b> and install. You may also use the following command from the Package Manager Console.
+In order to convert HTML to MHTML, we’ll use <a href="https://products.aspose.com/html/net">Aspose.Html for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.html">NuGet</a> package manager, search for <b>Aspose.Html</b> and install. You may also use the following command from the Package Manager Console. Try our On-Premise APIs with your document on .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.HTML" offSpacer="true" %}}
-
 ```cs
 
 PM> Install-Package Aspose.HTML
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
@@ -32,14 +29,14 @@ PM> Install-Package Aspose.HTML
 
 {{% blocks/products/pf/agp/text %}}
 
- Aspose.HTML makes it easy for the developers to load & convert HTML files to MHTML in just a few lines of code.
+Aspose.HTML makes it easy for the developers to load & convert HTML files to MHTML in just a few lines of code.
 
 {{% /blocks/products/pf/agp/text %}}
 
-1. Load HTML file with HTMLDocument
-1. Call the Save method.
-1. Pass the output file path with MHTML file extension.
-1. MHTML file will be saved at the specified path.
+1. Load the HTML file using the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class.
+1. Create an instance of the [MHTMLSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions) class.
+1. Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/5) method of [Converter](https://apireference.aspose.com/html/net/aspose.html.converters/converter) class to save HTML as an MHTML file. You need to pass the HTMLDocument, MHTMLSaveOptions, and output file path to the ConvertHTML() method.
+1. The MHTML file will be saved to the specified path.
 
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
@@ -54,20 +51,31 @@ PM> Install-Package Aspose.HTML
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
 -  Development environment like Microsoft Visual Studio.
--  Aspose.HTML for .NET DLL referenced in your project.
+-  Aspose.HTML for .NET DLL referenced in your project.</br>
+
+For more information, visit the [Aspose.HTML documentation](https://docs.aspose.com/html/net/getting-started/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/code-block title="This sample code shows HTML to MHTML C# Conversion" offSpacer="" %}}
 
-{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-html-to-mhtml.cs" >}}
+```cs
+// Initialize an HTML document from the file
+var document = new HTMLDocument("template.html"); 
+
+// Initialize MHTMLSaveOptions
+var options = new Aspose.Html.Saving.MHTMLSaveOptions();
+    
+// Convert HTML to MHTML
+Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.mht");
+```
 
 {{% /blocks/products/pf/agp/code-block %}}
 
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -75,35 +83,33 @@ PM> Install-Package Aspose.HTML
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your HTML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant MHTML file." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant." >}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
-
-An advanced HTML Processing Library capable of performing wide range of manipulation tasks from within cross-platform applications. The HTML API supports to generate, modify, extract data, convert HTML files to ePUB, MHTML, SVG, Markdown, PDF, XPS and Image file formats.
-
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
+    {{% blocks/products/pf/agp/content h2="Try other free online Converters!" %}}
+An advanced HTML Processing Library capable of performing a wide range of manipulation tasks from within cross-platform applications. The Aspose.HTML API supports to generate, modify, extract data, convert [HTML](https://products.aspose.app/html/conversion/html), [XHTML](https://products.aspose.app/html/conversion/xhtml), [MHTML](https://products.aspose.app/html/conversion/mhtml), [EPUB](https://products.aspose.app/html/conversion/epub), [XML](https://products.aspose.app/html/conversion/xml) or [Markdown](https://products.aspose.app/html/conversion/md) documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIFF, Markdown and other formats.
+    {{% /blocks/products/pf/agp/content %}} 
+    
+    
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
 HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="mhtml" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
+    
+        {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
 Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications. The actual specifications of the format are as detailed by RFC 2557.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert HTML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported HTML Conversions">}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-gif/" name="HTML TO GIF" description="Graphical Interchange Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-jpeg/" name="HTML TO JPEG" description="JPEG Image" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-md/" name="HTML TO MD" description="Markdown Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-pdf/" name="HTML TO PDF" description="Portable Document Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-png/" name="HTML TO PNG" description="Portable Network Graphics" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-tiff/" name="HTML TO TIFF" description="Tagged Image Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xps/" name="HTML TO XPS" description="XML Paper Specifications" >}}
 

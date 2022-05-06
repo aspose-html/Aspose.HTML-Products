@@ -5,7 +5,7 @@ description: Convert hypertext markup language HTML to XHTML, PDF, DOCX, XPS, Ma
 ---
 
 {{< blocks/products/pf/feature-page-wrap >}}
-{{< blocks/products/pf/feature-page-header h1="HTML Conversion Via C#" h2="Convert hypertext markup language HTML to XHTML, MHTML, Markdown, PDF, XPS, DOC, DOCX and Images including BMP, JPG, PNG, TIFF to build cross-platform .NET applications." >}}
+{{< blocks/products/pf/feature-page-header h1="HTML Conversion Via C#" h2="Convert hypertext markup language HTML to XHTML, MHTML, Markdown, PDF, XPS, DOCX and Images including BMP, JPG, PNG, TIFF to build cross-platform .NET applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
 
@@ -104,5 +104,20 @@ You can try online HTML Converter
      here.
     </a>
     </h4>
+{{% /blocks/products/pf/feature-page-section %}}
+
+{{% blocks/products/pf/feature-page-section  h2="Installing Aspose.HTML for .NET library" %}}
+
+This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a Document Object Model (DOM) based on the WHATWG DOM Standard. You can use several ways to install the Aspose.HTML library for .NET on your system:</br></br>
+
+1. Using the NuGet Package Manager GUI.
+
+2. Using the Package Manager Console.
+
+3. Installing Aspose.HTML for .NET through MSI.</br>
+
+  
+
+  For more details about C# library installation, please refer to [Aspose.HTML Documentation](https://docs.aspose.com/html/net/getting-started/installation/).
 
 {{% /blocks/products/pf/feature-page-section %}}

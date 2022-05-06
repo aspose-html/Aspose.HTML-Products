@@ -378,9 +378,9 @@ using var document = new Aspose.Html.HTMLDocument("document.html");
 
 // Convert HTML to PDF
 Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "output.pdf");</code></pre></br>
-    <h4 >You can also convert HTML into many other file formats including few listed below: 
+    <h4 >You can also convert HTML, XHTML, MHTML, Markdown, EPUB, SVG into many other file formats including few listed below: 
     </h4>    
-    {{< blocks/products/pf/feature-page-options pairs="html-to-pdf html-to-xps html-to-md html-to-xhtml html-to-mhtml html-to-bmp html-to-png html-to-jpeg html-to-tiff html-to-gif" >}}
+    {{< blocks/products/pf/feature-page-options pairs="html-to-pdf html-to-xps html-to-md html-to-xhtml html-to-mhtml html-to-bmp html-to-png html-to-jpeg html-to-tiff html-to-gif mhtml-to-pdf mhtml-to-xps mhtml-to-bmp mhtml-to-png mhtml-to-jpeg mhtml-to-tiff mhtml-to-gif xhtml-to-pdf xhtml-to-md xhtml-to-mhtml xhtml-to-png xhtml-to-jpeg xhtml-to-tiff xhtml-to-gif md-to-pdf md-to-bmp md-to-png md-to-jpeg md-to-tiff md-to-gif epub-to-pdf epub-to-bmp epub-to-png epub-to-jpeg epub-to-tiff epub-to-gif" >}}
     <h4 >
 You can try online HTML Converter 
     <a href="https://products.aspose.app/html/conversion/html" rel="opener noopener noreferrer" target="_blank"> 
