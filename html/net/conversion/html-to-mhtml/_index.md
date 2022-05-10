@@ -83,7 +83,7 @@ Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.mht");
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your HTML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for the resultant." >}}
 
     {{% blocks/products/pf/agp/content h2="Try other free online Converters!" %}}
 An advanced HTML Processing Library capable of performing a wide range of manipulation tasks from within cross-platform applications. The Aspose.HTML API supports to generate, modify, extract data, convert [HTML](https://products.aspose.app/html/conversion/html), [XHTML](https://products.aspose.app/html/conversion/xhtml), [MHTML](https://products.aspose.app/html/conversion/mhtml), [EPUB](https://products.aspose.app/html/conversion/epub), [XML](https://products.aspose.app/html/conversion/xml) or [Markdown](https://products.aspose.app/html/conversion/md) documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIFF, Markdown and other formats.
@@ -111,10 +111,31 @@ Files with MHTML extension represent a web page archive format that can be creat
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported HTML Conversions">}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-gif/" name="HTML TO GIF" description="Graphical Interchange Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-jpeg/" name="HTML TO JPEG" description="JPEG Image" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-md/" name="HTML TO MD" description="Markdown Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-pdf/" name="HTML TO PDF" description="Portable Document Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-png/" name="HTML TO PNG" description="Portable Network Graphics" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-tiff/" name="HTML TO TIFF" description="Tagged Image Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xps/" name="HTML TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-image/" name="HTML TO Image" description="Image formats" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-gif/" name="HTML TO GIF" description="Graphical Interchange Format" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-jpeg/" name="HTML TO JPEG" description="JPEG Image" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-docx/" name="HTML TO DOCX" description="Microsoft Word" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-pdf/" name="HTML TO PDF" description="Portable Document Format" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-png/" name="HTML TO PNG" description="Portable Network Graphics" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-tiff/" name="HTML TO TIFF" description="Tagged Image Format" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xps/" name="HTML TO XPS" description="XML Paper Specifications" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-md/" name="HTML TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xhtml/" name="HTML TO XHTML" description="Extensible HyperText Markup Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
     
 {{< /blocks/products/pf/main-wrap-class >}}
+
+{{< blocks/products/pf/feature-page-options pairs="mhtml-to-pdf mhtml-to-xps mhtml-to-bmp mhtml-to-png mhtml-to-jpeg mhtml-to-tiff mhtml-to-gif xhtml-to-pdf xhtml-to-md xhtml-to-mhtml xhtml-to-png xhtml-to-jpeg xhtml-to-tiff xhtml-to-gif md-to-pdf md-to-bmp md-to-png md-to-jpeg md-to-tiff md-to-gif epub-to-pdf epub-to-bmp epub-to-png epub-to-jpeg epub-to-tiff epub-to-gif svg-to-pdf svg-to-xps svg-to-bmp svg-to-png svg-to-jpeg svg-to-tiff svg-to-gif" >}} 

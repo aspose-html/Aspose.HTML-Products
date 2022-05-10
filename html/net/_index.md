@@ -375,19 +375,58 @@ API allows with just a few lines of code to implement HTML to PDF, HTML to Image
      <pre><code class="cs">
 // Load an HTML file to be converted
 using var document = new Aspose.Html.HTMLDocument("document.html");
-
 // Convert HTML to PDF
 Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "output.pdf");</code></pre></br>
+
     <h4 >You can also convert HTML, XHTML, MHTML, Markdown, EPUB, SVG into many other file formats including few listed below: 
-    </h4>    
-    {{< blocks/products/pf/feature-page-options pairs="html-to-pdf html-to-xps html-to-md html-to-xhtml html-to-mhtml html-to-bmp html-to-png html-to-jpeg html-to-tiff html-to-gif mhtml-to-pdf mhtml-to-xps mhtml-to-bmp mhtml-to-png mhtml-to-jpeg mhtml-to-tiff mhtml-to-gif xhtml-to-pdf xhtml-to-md xhtml-to-mhtml xhtml-to-png xhtml-to-jpeg xhtml-to-tiff xhtml-to-gif md-to-pdf md-to-bmp md-to-png md-to-jpeg md-to-tiff md-to-gif epub-to-pdf epub-to-bmp epub-to-png epub-to-jpeg epub-to-tiff epub-to-gif" >}}
+    </h4>
+
+<div class="row">
+	<div class="col-md-3">
+		<ul>
+			<li><a href="/html/net/conversion/html-to-pdf/"> HTML to PDF</a></li>
+			<li><a href="/html/net/conversion/html-to-xhtml">HTML to XHTML </a></li>
+			<li><a href="/html/net/conversion/html-to-mhtml">HTML to MHTML</a></li>
+			<li><a href="/html/net/conversion/html-to-md">HTML to MD</a></li>
+            <li><a href="/html/net/conversion/html-to-jpg">HTML to JPG</a></li>
+		</ul>
+	</div>
+	<div class="col-md-3">		
+		<ul>
+			<li><a href="/html/net/conversion/xhtml-to-pdf/"> XHTML to PDF</a></li>
+			<li><a href="/html/net/conversion/xhtml-to-mhtml">XHTML to MHTML </a></li>
+			<li><a href="/html/net/conversion/xhtml-to-md">XHTML to MD</a></li>
+			<li><a href="/html/net/conversion/xhtml-to-docx">XHTML to DOCX</a></li>
+            <li><a href="/html/net/conversion/xhtml-to-jpg">XHTML to JPG</a></li>
+	</ul>
+	</div>
+	<div class="col-md-3">		
+		
+		<ul>
+			<li><a href="/html/net/conversion/mhtml-to-pdf/"> MHTML to PDF</a></li>
+			<li><a href="/html/net/conversion/mhtml-to-gif">MHTML to GIF </a></li>
+			<li><a href="/html/net/conversion/mhtml-to-jpg">MHTML to JPG</a></li>
+			<li><a href="/html/net/conversion/epub-to-jpg">EPUB to JPG</a></li>
+            <li><a href="/html/net/conversion/epub-to-pdf">EPUB to PDF</a></li>					
+		</ul>
+	</div>
+	<div class="col-md-3">
+		<ul>
+			<li><a href="/html/net/conversion/svg-to-pdf/"> SVG to PDF</a></li>
+			<li><a href="/html/net/conversion/svg-to-png">SVG to PNG </a></li>
+			<li><a href="/html/net/conversion/md-to-pdf">MD to PDF</a></li>
+			<li><a href="/html/net/conversion/md-to-docx">MD to DOCX</a></li>
+            <li><a href="/html/net/conversion/md-to-jpg">MD to JPG</a></li>		
+		</ul>
+	</div>	
+</div>
     <h4 >
 You can try online HTML Converter 
     <a href="https://products.aspose.app/html/conversion/html" rel="opener noopener noreferrer" target="_blank"> 
      here.
     </a>
     </h4>
-    </div>
+​    </div>
 
 <div class="col-lg-12">
     <h2 class="h2title">

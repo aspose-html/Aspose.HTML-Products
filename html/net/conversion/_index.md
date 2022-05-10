@@ -51,49 +51,57 @@ pdfOptions.PageSetup.AnyPage = new Page(new Aspose.Html.Drawing.Size(600, 300), 
 // Convert HTML to PDF
 Converter.ConvertHTML(htmltopdf, pdfOptions, "outputfilewithpath.pdf");
 ```
-You can also convert HTML into many other file formats including few listed below:
+You can also convert HTML, XHTML, MHTML, EPUB, Markdown files into many other file formats including few listed below:
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< blocks/products/pf/feature-page-options pairs="html-to-pdf html-to-xps html-to-md html-to-xhtml html-to-mhtml html-to-bmp html-to-png html-to-jpeg html-to-tiff html-to-gif" >}}
+{{< blocks/products/pf/feature-page-options pairs="html-to-pdf html-to-docx html-to-xps html-to-md html-to-xhtml html-to-mhtml html-to-bmp html-to-png html-to-jpeg html-to-tiff html-to-gif html-to-image" >}}
+
+{{< blocks/products/pf/feature-page-options pairs="xhtml-to-pdf xhtml-to-docx xhtml-to-xps xhtml-to-html xhtml-to-md xhtml-to-mhtml xhtml-to-bmp xhtml-to-png xhtml-to-jpeg xhtml-to-tiff xhtml-to-gif" >}}
+
+{{< blocks/products/pf/feature-page-options pairs="mhtml-to-pdf mhtml-to-docx mhtml-to-xps mhtml-to-bmp mhtml-to-png mhtml-to-jpeg mhtml-to-tiff mhtml-to-gif" >}}
+
+{{< blocks/products/pf/feature-page-options pairs="epub-to-pdf epub-to-docx epub-to-xps epub-to-bmp epub-to-png epub-to-jpeg epub-to-tiff epub-to-gif" >}}
+
+{{< blocks/products/pf/feature-page-options pairs="md-to-html md-to-pdf md-to-docx md-to-xps md-to-bmp md-to-png md-to-jpeg md-to-tiff md-to-gif" >}}
 
 
 {{% blocks/products/pf/feature-page-section  h2="Popular HTML Conversions" %}}
 
-The [Aspose.Html.Converters](https://apireference.aspose.com/html/net/aspose.html.converters) namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, MHTML, and MD. Please visit the documentation chapter [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) to learn more about Aspose.HTML for .NET API conversion features.
+The [Aspose.Html.Converters](https://apireference.aspose.com/html/net/aspose.html.converters) namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, MHTML, and MD. Please visit the **documentation** chapter [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) to learn more about Aspose.HTML for .NET API conversion features.
 
 <div class="row">
 	<div class="col-md-3">
 		<h4>Convert HTML to PDF, XPS</h4>				
 		<ul>
-			<li><a href="/html/net/converting-between-formats/html-to-pdf/">Convert HTML to PDF</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions">Convert HTML to PDF using PdfSaveOptions</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-pdf/#output-stream-providers">Convert HTML to PDF using MemoryStreamProvider</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-xps/">Convert HTML to XPS</a></li>					
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/" target="_blank">Convert HTML to PDF</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-using-pdfsaveoptions" target="_blank">Convert HTML to PDF using PdfSaveOptions</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#output-stream-providers" target="_blank">Convert HTML to PDF using MemoryStreamProvider</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/" target="_blank">Convert HTML to XPS</a></li>					
 		</ul>
 	</div>
 	<div class="col-md-3">
 		<h4>Convert HTML to Word</h4>	
 		<ul>
-			<li><a href="/html/net/converting-between-formats/html-to-docx/">Convert HTML to DOCX</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions">Convert HTML to DOCX using DocSaveOptions</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-docx/#output-stream-providers">Convert HTML to DOCX using MemoryStreamProvider</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/" target="_blank">Convert HTML to DOCX</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-using-docsaveoptions" target="_blank">Convert HTML to DOCX using DocSaveOptions</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#output-stream-providers" target="_blank">Convert HTML to DOCX using MemoryStreamProvider</a></li>
 	</div>
 	<div class="col-md-3">
 		<h4>Convert HTML to Image</h4>	
 		</ul>
 		<ul>
-			<li><a href="/html/net/converting-between-formats/html-to-jpg/">Convert HTML to JPG</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-png/">Convert HTML to PNG</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-bmp/">Convert HTML to BMP</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-gif/">Convert HTML to GIF</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-tiff/">Convert HTML to TIFF</a></li>						
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/" target="_blank">Convert HTML to JPG</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/" target="_blank">Convert HTML to PNG</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/" target="_blank">Convert HTML to BMP</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/" target="_blank">Convert HTML to GIF</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/" target="_blank">Convert HTML to TIFF</a></li>						
 		</ul>
 	</div>
 	<div class="col-md-3">
 		<h4>Convert HTML to Web Formats</h4>
 		<ul>
-			<li><a href="/html/net/converting-between-formats/html-to-markdown/">Convert HTML to Markdown</a></li>
-			<li><a href="/html/net/converting-between-formats/html-to-mhtml/">Convert HTML to MHTML</a></li>			
+			<li><a href="https://docs.aspose.com/html//net/converting-between-formats/html-to-markdown/" target="_blank">Convert HTML to Markdown</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/" target="_blank">Convert HTML to MHTML</a></li>			
 		</ul>
 	</div>	
 </div>
@@ -114,9 +122,7 @@ This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a
 
 2. Using the Package Manager Console.
 
-3. Installing Aspose.HTML for .NET through MSI.</br>
-
-  
+3. Installing Aspose.HTML for .NET through MSI.</br>  
 
   For more details about C# library installation, please refer to [Aspose.HTML Documentation](https://docs.aspose.com/html/net/getting-started/installation/).
 
