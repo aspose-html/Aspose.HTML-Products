@@ -2,7 +2,7 @@
 title: Convert HTML to BMP via C# 
 weight: 280
 url: /net/conversion/html-to-bmp/ 
-description: Sample code for HTML to BMP C# conversion. Use API example code for batch HTML files to BMP conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert HTML to BMP using C#. Use API example code for batch HTML to BMP conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -26,7 +26,6 @@ description: Sample code for HTML to BMP C# conversion. Use API example code for
 ```cs
 
 PM> Install-Package Aspose.Html
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
@@ -43,10 +42,10 @@ PM> Install-Package Aspose.Html
 
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load HTML file with HTMLDocument
-1.  Call the Save method.
-1.  Pass the output file path with BMP file extension.
-1.  BMP file will be saved at the specified path.
+1.  Load an HTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class.
+1.  Create a new [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with BMP ImageFormat. By default, the Format property is [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/3) method of the Converter class to save HTML as a BMP image. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method to convert HTML to BMP.
+1.  The BMP file will be saved to the specified path.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
@@ -60,20 +59,23 @@ PM> Install-Package Aspose.Html
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Standard.
 -  Development environment like Microsoft Visual Studio.
--  Aspose.Html for .NET DLL referenced in your project.
+-  Aspose.Html for .NET DLL referenced in your project.</br></br>
+For more information, visit the [Aspose.HTML documentation](https://docs.aspose.com/html/net/getting-started/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title="This sample code shows HTML to BMP C# Conversion" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-html-to-bmp.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
+<p></p> 
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+{{< html-converter HTML BMP >}}
+using Aspose.Html;
+using Aspose.Html.Converters;
+using Aspose.Html.Saving;
+using Aspose.Html.Rendering.Image;
+
+	var document = new HTMLDocument("template.html"); 	
+	var options = new ImageSaveOptions(ImageFormat.Bmp);	
+	ConvertHTML(document, options, "output.bmp");  
+{{< /html-converter >}}  
 
 <!-- aboutfile Starts -->
 
@@ -81,28 +83,24 @@ PM> Install-Package Aspose.Html
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your HTML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant BMP file." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant." >}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
-
- An advanced HTML Processing Library capable of performing wide range of manipulation tasks from within cross-platform applications. The HTML API supports to generate, modify, extract data, convert HTML files to ePUB, MHTML, SVG, Markdown, PDF, XPS and Image file formats.
-
-
-
+    {{% blocks/products/pf/agp/content h2="Try other free online Converters!" %}}
+ An advanced HTML Processing Library capable of performing a wide range of manipulation tasks from within cross-platform applications. The Aspose.HTML API supports to generate, modify, extract data, convert [HTML](https://products.aspose.app/html/conversion/html), [XHTML](https://products.aspose.app/html/conversion/xhtml), [MHTML](https://products.aspose.app/html/conversion/mhtml), [EPUB](https://products.aspose.app/html/conversion/epub), [XML](https://products.aspose.app/html/conversion/xml) or [Markdown](https://products.aspose.app/html/conversion/md) documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIFF, Markdown and other formats.
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
+HTML (HyperText Markup Language) is the standard markup language for documents created for display in browsers. The latest variant, known as HTML 5, gives a lot of flexibility for working with the language. HTML pages are either received from a server where these are hosted or can be loaded from a local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others, where each tag has a start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="bmp" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
+    
+        {{< blocks/products/pf/agp/about-file-text fileFormat="BMP" readMoreLink="https://docs.fileformat.com/image/bmp/" >}}
 Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}
@@ -111,16 +109,22 @@ Files having extension .BMP represent Bitmap Image files that are used to store 
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert HTML into many other file formats including few listed below." >}}
 
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-image/" name="HTML TO Image" description="Image formats" >}}
+
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-gif/" name="HTML TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-jpeg/" name="HTML TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-md/" name="HTML TO MD" description="Markdown Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-pdf/" name="HTML TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-png/" name="HTML TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-tiff/" name="HTML TO TIFF" description="Tagged Image Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xps/" name="HTML TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-docx/" name="HTML TO DOCX" description="Microsoft Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-md/" name="HTML TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-mhtml/" name="HTML TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xhtml/" name="HTML TO XHTML" description="Extensible HyperText Markup Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< /blocks/products/pf/main-container >}}
-    
+{{< blocks/products/pf/feature-page-options pairs="mhtml-to-pdf mhtml-to-xps mhtml-to-bmp mhtml-to-png mhtml-to-jpeg mhtml-to-tiff mhtml-to-gif xhtml-to-pdf xhtml-to-md xhtml-to-mhtml xhtml-to-png xhtml-to-jpeg xhtml-to-tiff xhtml-to-gif md-to-pdf md-to-bmp md-to-png md-to-jpeg md-to-tiff md-to-gif epub-to-pdf epub-to-bmp epub-to-png epub-to-jpeg epub-to-tiff epub-to-gif svg-to-pdf svg-to-xps svg-to-bmp svg-to-png svg-to-jpeg svg-to-tiff svg-to-gif" >}} 
+
+{{< /blocks/products/pf/main-container >}}    
 {{< /blocks/products/pf/main-wrap-class >}}

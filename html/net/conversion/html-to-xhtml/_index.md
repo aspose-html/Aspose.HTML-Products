@@ -98,10 +98,32 @@ The XHTML is a text based file format with markup in the XML, using a reformulat
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported HTML Conversions">}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-gif/" name="HTML TO GIF" description="Graphical Interchange Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-jpeg/" name="HTML TO JPEG" description="JPEG Image" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-md/" name="HTML TO MD" description="Markdown Language" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-pdf/" name="HTML TO PDF" description="Portable Document Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-png/" name="HTML TO PNG" description="Portable Network Graphics" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-tiff/" name="HTML TO TIFF" description="Tagged Image Format" >}}{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xps/" name="HTML TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-image/" name="HTML TO Image" description="Image formats" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-pdf/" name="HTML TO PDF" description="Portable Document Format" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xps/" name="HTML TO XPS" description="XML Paper Specifications" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-docx/" name="HTML TO DOCX" description="Microsoft Word" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-md/" name="HTML TO MD" description="Markdown Language" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-mhtml/" name="HTML TO MHTML" description="Web Page Archive Format" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-gif/" name="HTML TO GIF" description="Graphical Interchange Format" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-jpeg/" name="HTML TO JPEG" description="JPEG Image" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-png/" name="HTML TO PNG" description="Portable Network Graphics" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-tiff/" name="HTML TO TIFF" description="Tagged Image Format" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 
-{{< /blocks/products/pf/main-container >}}
-    
+{{< blocks/products/pf/feature-page-options pairs="mhtml-to-pdf mhtml-to-xps mhtml-to-bmp mhtml-to-png mhtml-to-jpeg mhtml-to-tiff mhtml-to-gif xhtml-to-pdf xhtml-to-md xhtml-to-mhtml xhtml-to-png xhtml-to-jpeg xhtml-to-tiff xhtml-to-gif md-to-pdf md-to-bmp md-to-png md-to-jpeg md-to-tiff md-to-gif epub-to-pdf epub-to-bmp epub-to-png epub-to-jpeg epub-to-tiff epub-to-gif svg-to-pdf svg-to-xps svg-to-bmp svg-to-png svg-to-jpeg svg-to-tiff svg-to-gif" >}} 
+
+{{< /blocks/products/pf/main-container >}}    
 {{< /blocks/products/pf/main-wrap-class >}}
+
