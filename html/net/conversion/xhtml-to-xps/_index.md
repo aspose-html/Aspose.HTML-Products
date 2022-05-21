@@ -2,7 +2,7 @@
 title: Convert XHTML to XPS via C# 
 weight: 630
 url: /net/conversion/xhtml-to-xps/ 
-description: Sample code for XHTML to XPS C# conversion. Use API example code for batch XHTML files to XPS conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XHTML to XPS using C# or VB.NET. Easily use XHTML to XPS converter API within ASP.NET or any .NET application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -13,45 +13,33 @@ description: Sample code for XHTML to XPS C# conversion. Use API example code fo
 
 {{% blocks/products/pf/agp/content h2="How to Convert XHTML to XPS Using C#" %}}
 
- In order to convert XHTML to XPS, we’ll use
- [Aspose.Html for .NET](https://products.aspose.com/html/net) 
- API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
- [NuGet](https://www.nuget.org/packages/aspose.html) 
- package manager, search for
- Aspose.Html 
- and install. You may also use the following command from the Package Manager Console.
+ In order to convert XHTML to XPS, we’ll use [Aspose.Html for .NET](https://products.aspose.com/html/net) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open
+ [NuGet](https://www.nuget.org/packages/aspose.html) package manager, search for Aspose.Html and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Package Manager Console Command" offSpacer="true" %}}
 
 ```cs
 
 PM> Install-Package Aspose.Html
-
 ```
 
 {{% /blocks/products/pf/agp/code-block %}}
-
 {{% /blocks/products/pf/agp/content %}}
 
 {{< blocks/products/pf/agp/feature-section isGrey="true" >}}
-
 {{% blocks/products/pf/agp/feature-section-col title="Steps to Convert XHTML to XPS via C#" %}}
-
 {{% blocks/products/pf/agp/text %}}
-
  .NET developers can easily load & convert XHTML files to XPS in just a few lines of code.
-
 {{% /blocks/products/pf/agp/text %}}
 
-1.  Load XHTML file with HTMLDocument
-1.  Call the Save method.
-1.  Pass the output file path with XPS file extension.
-1.  XPS file will be saved at the specified path.
+1.  Load an XHTML file using the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class.
+1.  Create a new [XpsSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/xpssaveoptions) object.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/9) method of the Converter class to save XHTML as an XPS file. You need to pass the HTMLDocument, XpsSaveOptions, and output file path to the ConvertHTML() method.
+1.  The XPS file will be saved to the specified path.
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
 
 {{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
 {{% blocks/products/pf/agp/text %}}
 
  Before running the .NET conversion example code, make sure that you have the following prerequisites.
@@ -60,20 +48,22 @@ PM> Install-Package Aspose.Html
 
 -  Microsoft Windows or a compatible OS with .NET Framework, .NET Standard.
 -  Development environment like Microsoft Visual Studio.
--  Aspose.Html for .NET DLL referenced in your project.
+-  Aspose.Html for .NET DLL referenced in your project.</br></br>
+For more information, visit the [Aspose.HTML documentation](https://docs.aspose.com/html/net/getting-started/system-requirements/).
 
 {{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title="This sample code shows XHTML to XPS C# Conversion" offSpacer="" %}}
-
-{{< gist "aspose-com-gists" "9534bd8bfc93d54e18432b1ea0f2acc8" "convert-xhtml-to-xps.cs" >}}
-
-{{% /blocks/products/pf/agp/code-block %}}
-
 {{< /blocks/products/pf/agp/feature-section >}}
+<p></p> 
 
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+{{< html-converter XHTML XPS >}}
+using Aspose.Html;
+using Aspose.Html.Converters;
+using Aspose.Html.Saving;
+
+	var document = new HTMLDocument("input.xhtml"); 	
+	var options = new XpsSaveOptions();	
+	ConvertHTML(document, options, "output.xps");  
+{{< /html-converter >}} 
 
 <!-- aboutfile Starts -->
 
@@ -81,46 +71,43 @@ PM> Install-Package Aspose.Html
         {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
         {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
         {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your XHTML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for resultant XPS file." >}}
+        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for the XPS file." >}}
 
-    {{% blocks/products/pf/agp/content h2="" %}}
-
- An advanced HTML Processing Library capable of performing wide range of manipulation tasks from within cross-platform applications. The HTML API supports to generate, modify, extract data, convert HTML files to ePUB, MHTML, SVG, Markdown, PDF, XPS and Image file formats.
-
-
-
-    {{% /blocks/products/pf/agp/content %}}
-
+    {{% blocks/products/pf/agp/content h2="Try other free online Converters!" %}}
+An advanced HTML Processing Library capable of performing a wide range of manipulation tasks from within cross-platform applications. The Aspose.HTML API supports to generate, modify, extract data, convert [HTML](https://products.aspose.app/html/conversion/html), [XHTML](https://products.aspose.app/html/conversion/xhtml), [MHTML](https://products.aspose.app/html/conversion/mhtml), [EPUB](https://products.aspose.app/html/conversion/epub), [XML](https://products.aspose.app/html/conversion/xml) or [Markdown](https://products.aspose.app/html/conversion/md) documents to Image, XPS, DOCX, JPG, PNG, BMP, TIFF, GIFF, Markdown and other formats.
+    {{% /blocks/products/pf/agp/content %}} 
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="XHTML" readMoreLink="https://docs.fileformat.com/web/xhtml/" >}}
-The XHTML is a text based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be open or viewed in a web browser. XHTML was designed to be more structured, less scripting, generic; using all the existing facilities of XML and more device independent. XHTML provides a generally worthwhile set of elements and attributes, with extension options in combination with style sheets. The attributes are used from the metadata attributes collection. XHTML provides flexibility and accessibility by subordinating all HTML presentation elements to style sheets. Style sheets are more versatile than these presentational elements.  Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
+XHTML (eXtensible HyperText Markup Language) is a text-based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be opened or viewed in a web browser. The XHTML was designed to be more structured, less scripting, generic and device-independent. It uses all the existing XML facilities and more. The XHTML provides a generally worthwhile set of elements and attributes, with extension options combined with style sheets. Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
-        {{< blocks/products/pf/agp/about-file-text fileFormat="xps" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
+    
+        {{< blocks/products/pf/agp/about-file-text fileFormat="XPS" readMoreLink="https://docs.fileformat.com/page-description-language/xps/" >}}
 An XPS file represents page layout files that are based on XML Paper Specifications created by Microsoft. This format was developed by Microsoft as a replacement of EMF file format and is similar to PDF file format, but uses XML in layout, appearance, and printing information of a document. It is, in fact, more justified to say that XPS is an attempt on PDF, but couldn't get enough popularity as owned by PDF for a number of reasons. Microsoft provides XPS Document Writer by default from Windows 7 onwards for the creation of XPS files. XPS files can be generated by selecting the "Microsoft XPS Document Writer" as printer while printing the document.
 
-        {{< /blocks/products/pf/agp/about-file-text >}}
-
+        {{< /blocks/products/pf/agp/about-file-text >}}    
     {{< /blocks/products/pf/agp/about-file-section >}}
-
 {{< /blocks/products/pf/agp/demobox >}}
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported Conversions" subTitle="You can also convert XHTML into many other file formats including few listed below." >}}
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported XHTML Conversions" subTitle="You can also convert XHTML into many other file formats including few listed below." >}}
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-bmp/" name="XHTML TO BMP" description="Bitmap Image" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-gif/" name="XHTML TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-jpeg/" name="XHTML TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-md/" name="XHTML TO MD" description="Markdown Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-pdf/" name="XHTML TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-png/" name="XHTML TO PNG" description="Portable Network Graphics" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-tiff/" name="XHTML TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-docx/" name="XHTML TO DOCX" description="Microsoft Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-image/" name="XHTML TO Image" description="Image Formats" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-mhtml/" name="XHTML TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-html/" name="XHTML TO HTML" description="HyperText Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-md/" name="XHTML TO MD" description="Markdown Language" >}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-    
+{{< blocks/products/pf/feature-page-options pairs="html-to-pdf html-to-md html-to-mhtml html-to-png html-to-jpeg html-to-tiff html-to-gif html-to-image html-to-docx html-to-xps mhtml-to-pdf mhtml-to-xps mhtml-to-bmp mhtml-to-png mhtml-to-jpeg mhtml-to-tiff mhtml-to-gif md-to-pdf md-to-bmp md-to-png md-to-jpeg md-to-tiff md-to-gif epub-to-pdf epub-to-bmp epub-to-png epub-to-jpeg epub-to-tiff epub-to-gif svg-to-pdf svg-to-xps svg-to-bmp svg-to-png svg-to-jpeg svg-to-tiff svg-to-gif" >}} 
+{{< /blocks/products/pf/main-container >}}    
 {{< /blocks/products/pf/main-wrap-class >}}

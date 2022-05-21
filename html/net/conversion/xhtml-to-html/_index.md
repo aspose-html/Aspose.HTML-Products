@@ -1,7 +1,7 @@
 ---
 title: Convert XHTML to HTML via C# 
 url: /net/conversion/xhtml-to-html/ 
-description: Try our On-Premise APIs with your document on .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
+description: Convert XHTML to HTML using C# or VB.NET. Easily use XHTML to HTML converter API within ASP.NET or any .NET application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -12,7 +12,7 @@ description: Try our On-Premise APIs with your document on .NET Framework, .NET 
 
 {{% blocks/products/pf/agp/content h2="How to Convert XHTML to HTML Using C#" %}}
 
-In order to convert XHTML to HTML, we’ll use <a href="https://products.aspose.com/html/net">Aspose.Html for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.html">NuGet</a> package manager, search for <b>Aspose.Html</b> and install. You may also use the following command from the Package Manager Console.
+In order to convert XHTML to HTML, we’ll use <a href="https://products.aspose.com/html/net">Aspose.Html for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Try our On-Premise APIs with your document on .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop. Open <a href="https://www.nuget.org/packages/aspose.html">NuGet</a> package manager, search for <b>Aspose.Html</b> and install. You may also use the following command from the Package Manager Console.
 
 {{% blocks/products/pf/agp/code-block title="Aspose.HTML" offSpacer="true" %}}
 
@@ -67,7 +67,7 @@ PM> Install-Package Aspose.HTML
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -84,19 +84,19 @@ An advanced HTML Processing Library capable of performing wide range of manipula
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="XHTML" readMoreLink="https://docs.fileformat.com/web/xhtml/" >}}
-The XHTML is a text based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be open or viewed in a web browser. XHTML was designed to be more structured, less scripting, generic; using all the existing facilities of XML and more device independent. XHTML provides a generally worthwhile set of elements and attributes, with extension options in combination with style sheets. The attributes are used from the metadata attributes collection. XHTML provides flexibility and accessibility by subordinating all HTML presentation elements to style sheets. Style sheets are more versatile than these presentational elements.  Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
+XHTML (eXtensible HyperText Markup Language) is a text-based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be opened or viewed in a web browser. The XHTML was designed to be more structured, less scripting, generic and device-independent. It uses all the existing XML facilities and more. The XHTML provides a generally worthwhile set of elements and attributes, with extension options combined with style sheets. Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="html" readMoreLink="https://docs.fileformat.com/web/html/" >}}
 HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}

@@ -19,13 +19,13 @@ description: C# .NET API to read, write, modify, edit, merge and convert HTML, X
 
 <p>Using Aspose.HTML for .NET in your project allows you to perform the following tasks:</p>
 
-<p><a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">create or load HTML-based documents</a> from a file, URL, string, or stream;</br>
-<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">convert documents</a> between popular formats;</br>
-<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">create custom message handlers</a> to do a specific task;</br>
-<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">navigate HTML documents</a> using XPath Query or CSS Selector;</br>
-<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">edit HTML files</a> by inserting new nodes, removing, or editing the content of existing nodes;</br>
-<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">render documents</a> with high quality;</br>
-<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">extract data from the web</a>, download a video or audio by its URL;</br>
+<p><a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Create or load HTML-based documents</a> from a file, URL, string, or stream.</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Convert documents</a> between popular formats.</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Create custom message handlers</a> to do a specific task.</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Navigate HTML documents</a> using XPath Query or CSS Selector.</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Edit HTML files</a> by inserting new nodes, removing, or editing the content of existing nodes.</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Render documents</a> with high quality.</br>
+<a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Extract data from the web</a>, download a video or audio by its URL.</br>
 and more</p>
 
 {{< /blocks/products/pf/tab-content >}}
@@ -359,6 +359,20 @@ and more</p>
     <p class="col-lg-10">
      Apply header and footer during HTML to PDF
     </p>
+   </div>  
+	<div class="col-lg-4">
+    <em class="fa fa-check ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Navigate HTML using XPath Query or CSS Selector
+    </p>
+   </div> 
+	<div class="col-lg-4">
+    <em class="fa fa-cogs ico-blue fa-2x col-lg-2">
+    </em>
+    <p class="col-lg-10">
+     Wide range of conversions between formats
+    </p>
    </div>   
 
    <div class="col-lg-12">
@@ -378,8 +392,8 @@ using var document = new Aspose.Html.HTMLDocument("document.html");
 // Convert HTML to PDF
 Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "output.pdf");</code></pre></br>
 
-    <h4 >You can also convert HTML, XHTML, MHTML, Markdown, EPUB, SVG into many other file formats including few listed below: 
-    </h4>
+    <p >You can also convert HTML, XHTML, MHTML, Markdown, EPUB, or SVG into many other file formats including few listed below: 
+    </p>
 
 <div class="row">
 	<div class="col-md-3">
@@ -388,7 +402,7 @@ Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "ou
 			<li><a href="/html/net/conversion/html-to-xhtml">HTML to XHTML </a></li>
 			<li><a href="/html/net/conversion/html-to-mhtml">HTML to MHTML</a></li>
 			<li><a href="/html/net/conversion/html-to-md">HTML to MD</a></li>
-            <li><a href="/html/net/conversion/html-to-jpg">HTML to JPG</a></li>
+            <li><a href="/html/net/conversion/html-to-jpeg">HTML to JPEG</a></li>
 		</ul>
 	</div>
 	<div class="col-md-3">		
@@ -397,7 +411,7 @@ Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "ou
 			<li><a href="/html/net/conversion/xhtml-to-mhtml">XHTML to MHTML </a></li>
 			<li><a href="/html/net/conversion/xhtml-to-md">XHTML to MD</a></li>
 			<li><a href="/html/net/conversion/xhtml-to-docx">XHTML to DOCX</a></li>
-            <li><a href="/html/net/conversion/xhtml-to-jpg">XHTML to JPG</a></li>
+            <li><a href="/html/net/conversion/xhtml-to-jpeg">XHTML to JPEG</a></li>
 	</ul>
 	</div>
 	<div class="col-md-3">		
@@ -406,7 +420,7 @@ Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "ou
 			<li><a href="/html/net/conversion/mhtml-to-pdf/"> MHTML to PDF</a></li>
 			<li><a href="/html/net/conversion/mhtml-to-gif">MHTML to GIF </a></li>
 			<li><a href="/html/net/conversion/mhtml-to-jpg">MHTML to JPG</a></li>
-			<li><a href="/html/net/conversion/epub-to-jpg">EPUB to JPG</a></li>
+			<li><a href="/html/net/conversion/epub-to-jpeg">EPUB to JPEG</a></li>
             <li><a href="/html/net/conversion/epub-to-pdf">EPUB to PDF</a></li>					
 		</ul>
 	</div>
@@ -416,16 +430,16 @@ Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "ou
 			<li><a href="/html/net/conversion/svg-to-png">SVG to PNG </a></li>
 			<li><a href="/html/net/conversion/md-to-pdf">MD to PDF</a></li>
 			<li><a href="/html/net/conversion/md-to-docx">MD to DOCX</a></li>
-            <li><a href="/html/net/conversion/md-to-jpg">MD to JPG</a></li>		
+            <li><a href="/html/net/conversion/md-to-jpeg">MD to JPEG</a></li>		
 		</ul>
 	</div>	
 </div>
-    <h4 >
+    <p>
 You can try online HTML Converter 
     <a href="https://products.aspose.app/html/conversion/html" rel="opener noopener noreferrer" target="_blank"> 
      here.
     </a>
-    </h4>
+    </p>
 ​    </div>
 
 <div class="col-lg-12">
@@ -461,7 +475,7 @@ using var document = new Aspose.Html.HTMLDocument("document.html");
 // Convert HTML to Markdown using a set of features supported by GitLab Flavored Markdown
 document.Save("output.md", Aspose.Html.Saving.MarkdownSaveOptions.Git);</code></pre>
     </div></br>
-    The reverse conversion is that simple!
+    <p>The reverse conversion is that simple!</p>
     <div class="codeblock" id="code">
      <h3>
       Convert Markdown to HTML - C#
@@ -470,10 +484,10 @@ document.Save("output.md", Aspose.Html.Saving.MarkdownSaveOptions.Git);</code></
 // Convert Markdown to HTML
 Aspose.Html.Converters.Converter.ConvertMarkdown("document.md", "output.html");</code></pre>
     </div></br>    
-<h4>You can try online Markdown Converter
+<p>You can try online Markdown Converter
     <a href="https://products.aspose.app/html/conversion/md" rel="opener noopener noreferrer" target="_blank">
      here.
-    </a></h4>
+    </a></p>
     </div>
    <!--<div class="col-lg-12">
 
@@ -497,12 +511,12 @@ Aspose.Html.Converters.Converter.ConvertMarkdown("document.md", "output.html");<
 <pre><code class="cs">
 //  Convert EPUB to PDF
 Aspose.Html.Converters.Converter.ConvertEPUB("document.epub", new Aspose.Html.Saving.PdfSaveOptions(), "output.pdf");</code></pre></br>
-<h4 >
+<p>
 You can try online EPUB Converter 
     <a href="https://products.aspose.app/html/conversion/epub" rel="opener noopener noreferrer" target="_blank"> 
      here.
     </a>
-    </h4></br>
+    <p>
 
     </div>
     <div class="codeblock" id="code">
@@ -512,12 +526,12 @@ You can try online EPUB Converter
 <pre><code class="cs">
 //  Convert MHTML to PDF
 Aspose.Html.Converters.Converter.ConvertMHTML("document.mht", new Aspose.Html.Saving.PdfSaveOptions(), "output.pdf");</code></pre></br>
-<h4 >
+<p>
 You can try online MHTML Converter 
     <a href="https://products.aspose.app/html/conversion/mhtml" rel="opener noopener noreferrer" target="_blank"> 
      here.
     </a>
-    </h4>
+    <p>
     </div>
    </div>
    <div class="col-lg-12">
@@ -544,12 +558,12 @@ elements.Cast&lt;HTMLAnchorElement&gt;().ToList().ForEach(x =&gt;
         System.Console.WriteLine("[Href]: " + x.Href);
         System.Console.WriteLine("[Content]: " + x.TextContent);
     });</code></pre></br>
-    <h4 >
+    <p>
 You can try online Data Scrapers Apps 
     <a href="https://products.aspose.app/html/data-scrapers" rel="opener noopener noreferrer" target="_blank"> 
      here.
-    </a></h4>
-    Aspose.HTML offers free online Data Scrapers Apps that are a way to get data from websites. Our Apps are safe, work on any platform and do not require any software installation. Data Scrapers can be used for image extracting, getting keywords from a webpage, video downloading, etc. They are easy and clear to use, yet forceful and reliable. 
+    </a><p>
+    <p>Aspose.HTML offers free online Data Scrapers Apps that are a way to get data from websites. Our Apps are safe, work on any platform and do not require any software installation. Data Scrapers can be used for image extracting, getting keywords from a webpage, video downloading, etc. They are easy and clear to use, yet forceful and reliable.</p>
     </div>
    </div>
    <!--
@@ -600,5 +614,4 @@ You can try online Data Scrapers Apps
     {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" sdkName="Java" >}}
 
 {{< /blocks/products/pf/offers-section >}}
-
 {{< /blocks/products/pf/main-wrap-class >}}

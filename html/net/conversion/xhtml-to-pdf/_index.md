@@ -2,7 +2,7 @@
 title: Convert XHTML to PDF via C# 
 weight: 130
 url: /net/conversion/xhtml-to-pdf/ 
-description: Sample code for XHTML to PDF C# conversion. Use API example code for batch XHTML files to PDF conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert XHTML to PDF using C# or VB.NET. Easily use XHTML to PDF converter API within ASP.NET or any .NET application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
@@ -73,7 +73,7 @@ PM> Install-Package Aspose.Html
 {{< /blocks/products/pf/agp/feature-section >}}
 
     {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
- 
+
 
 <!-- aboutfile Starts -->
 
@@ -90,19 +90,19 @@ PM> Install-Package Aspose.Html
 
 
     {{% /blocks/products/pf/agp/content %}}
-
+    
     {{< blocks/products/pf/agp/about-file-section >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="XHTML" readMoreLink="https://docs.fileformat.com/web/xhtml/" >}}
-The XHTML is a text based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be open or viewed in a web browser. XHTML was designed to be more structured, less scripting, generic; using all the existing facilities of XML and more device independent. XHTML provides a generally worthwhile set of elements and attributes, with extension options in combination with style sheets. The attributes are used from the metadata attributes collection. XHTML provides flexibility and accessibility by subordinating all HTML presentation elements to style sheets. Style sheets are more versatile than these presentational elements.  Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
+XHTML (eXtensible HyperText Markup Language) is a text-based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be opened or viewed in a web browser. The XHTML was designed to be more structured, less scripting, generic and device-independent. It uses all the existing XML facilities and more. The XHTML provides a generally worthwhile set of elements and attributes, with extension options combined with style sheets. Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
         {{< blocks/products/pf/agp/about-file-text fileFormat="pdf" readMoreLink="https://docs.fileformat.com/view/pdf/" >}}
 Portable Document Format (PDF) is a type of document created by Adobe back in 1990s. The purpose of this file format was to introduce a standard for representation of documents and other reference material in a format that is independent of application software, hardware as well as Operating System. PDF files can be opened in Adobe Acrobat Reader/Writer as well in most modern browsers like Chrome, Safari, Firefox via extensions/plug-ins. Most of the commercially available software suites also offer conversion of their documents to PDF file format without the requirement of any additional software component. Thus, PDF file format has full capability to contain information like text, images, hyperlinks, form-fields, rich media, digital signatures, attachments, metadata, Geospatial features and 3D objects in it that can become as part of source document.
 
         {{< /blocks/products/pf/agp/about-file-text >}}
-
+    
     {{< /blocks/products/pf/agp/about-file-section >}}
 
 {{< /blocks/products/pf/agp/demobox >}}

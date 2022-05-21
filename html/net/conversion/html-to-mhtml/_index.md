@@ -12,130 +12,125 @@ description: Convert HTML to MHTML using C# or VB.NET. Easily use HTML to MHTML 
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to MHTML Using C#" %}}
 
-In order to convert HTML to MHTML, we’ll use <a href="https://products.aspose.com/html/net">Aspose.Html for .NET</a> API which is a feature-rich, powerful and easy to use document manipulation and conversion API for C# platform. Open <a href="https://www.nuget.org/packages/aspose.html">NuGet</a> package manager, search for <b>Aspose.Html</b> and install. You may also use the following command from the Package Manager Console. Try our On-Premise APIs with your document on .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
+HTML files are frequently used to create, edit, or communicate a lot of information. The advantage of saving HTML as MHTML is that all of the web page elements are kept intact in a single file. MHTML contains an underlying HTML document and its embedded images, media, and other resources. There are various cases for HTML to MHTML conversion like reading from a URL / Web Page, WYSISYG Editor generated HTML or from a saved file. In all cases, any conversion requires some mandatory steps:</br></br>
 
-{{% blocks/products/pf/agp/code-block title="Aspose.HTML" offSpacer="true" %}}
-```cs
+<h2> Steps to Convert HTML to MHTML via C# </h2>
 
-PM> Install-Package Aspose.HTML
-```
+1.  Load an HTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class.
+1.  Create a new [MHTMLSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions) object.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/7) method of the Converter class to save HTML as a MHTML file. You need to pass the HTMLDocument, MHTMLSaveOptions, and output file path to the ConvertHTML() method.
+1.  The MHTML file will be saved to the specified path.</br></br>
 
-{{% /blocks/products/pf/agp/code-block %}}
+<h2> Free Online Converter Live Demos </h2>
+<p>Test the quality of HTML to MHTML conversion right in your browser! The following C# example demonstrates how to convert an HTML document. We describe the source code for reading HTML from a file and then converting HTML to MHTML with default saving options. Please load HTML from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< blocks/products/pf/agp/feature-section isGrey="true" >}}
+{{< html-converter MHTML DOCX XPS MD PDF JPG PNG BMP TIFF GIF >}}
 
-{{% blocks/products/pf/agp/feature-section-col title="Steps to Convert HTML to MHTML via C#" %}}
+	// Load an HTML document from a file
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 
+	
+	// Initialize a Save Options object
+	var options = new Aspose.Html.Saving.MHTMLSaveOptions();	
+	
+	// Convert HTML to MHTML 
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.DocSaveOptions();	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.XpsSaveOptions();	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.MarkdownSaveOptions();	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.PdfSaveOptions();	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Jpeg);	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.ImageSaveOptions();	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Bmp);	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Tiff);	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
+===
+	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
+	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Gif);	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");	
+	
+{{< /html-converter >}} 
 
-{{% blocks/products/pf/agp/text %}}
+{{% blocks/products/pf/agp/content  %}}
+<p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/epub" target="_blank">EPUB</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/md" target="_blank">Markdown</a> documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIF, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting HTML to popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>
+{{% /blocks/products/pf/agp/content  %}}
 
-Aspose.HTML makes it easy for the developers to load & convert HTML files to MHTML in just a few lines of code.
+{{% blocks/products/pf/agp/content h2="HTML to MHTML Conversion in Documentation" %}}
 
-{{% /blocks/products/pf/agp/text %}}
+MHTML combines normal HTML with external resources like images, animations, audio, etc., into one file with the .mht file extension. Aspose.HTML for .NET API allows you to convert HTML to MHTML format quickly and with high quality. Please visit the documentation article [Convert HTML to MHTML](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/) to learn more about API conversion features and to consider C# examples for the most common HTML to MHTML conversion scenarios. In the article, you find information on how to convert HTML to MHTML using ConvertHTML() methods, and how to apply MHTMLSaveOptions.
+<div class="row">
+	<div>
+		<ul>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#html-to-mhtml-by-a-single-line-of-code" target="_blank">Convert HTML to MHTML by a single line of code</a></li>
+			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-using-mhtmlsaveoptions" target="_blank">Convert HTML to MHTML using MHTMLSaveOptions</a></li>		
+		</ul>		
+	</div>	
+</div> 
 
-1. Load the HTML file using the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class.
-1. Create an instance of the [MHTMLSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions) class.
-1. Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/5) method of [Converter](https://apireference.aspose.com/html/net/aspose.html.converters/converter) class to save HTML as an MHTML file. You need to pass the HTMLDocument, MHTMLSaveOptions, and output file path to the ConvertHTML() method.
-1. The MHTML file will be saved to the specified path.
-
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/feature-section-col title="System Requirements" %}}
-
-{{% blocks/products/pf/agp/text %}}
-
- Aspose.HTML for .NET is supported on all major operating systems. Just make sure that you have the following prerequisites.
-
-{{% /blocks/products/pf/agp/text %}}
-
--  Microsoft Windows or a compatible OS with .NET Framework, .NET Core, and PHP, VBScript, Delphi, C++ via COM Interop.
--  Development environment like Microsoft Visual Studio.
--  Aspose.HTML for .NET DLL referenced in your project.</br>
-
-For more information, visit the [Aspose.HTML documentation](https://docs.aspose.com/html/net/getting-started/system-requirements/).
-
-{{% /blocks/products/pf/agp/feature-section-col %}}
-
-{{% blocks/products/pf/agp/code-block title="This sample code shows HTML to MHTML C# Conversion" offSpacer="" %}}
-
-```cs
-// Initialize an HTML document from the file
-var document = new HTMLDocument("template.html"); 
-
-// Initialize MHTMLSaveOptions
-var options = new Aspose.Html.Saving.MHTMLSaveOptions();
-    
-// Convert HTML to MHTML
-Aspose.Html.Converters.Converter.ConvertHTML(document,options,"output.mht");
-```
-
-{{% /blocks/products/pf/agp/code-block %}}
-
-{{< /blocks/products/pf/agp/feature-section >}}
-
-    {{< blocks/products/pf/agp/faq-item question="" answer="" >}}
-
-
+{{% /blocks/products/pf/agp/content %}}   
+	
 <!-- aboutfile Starts -->
-
-{{< blocks/products/pf/agp/demobox sectionTitle="Free App to Convert HTML to MHTML" sectionDescription="Check our live demos for [HTML to MHTML conversion](https://products.aspose.app/html/conversion/html-to-mhtml) with following benefits." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-cogs" text=" No need to download or setup anything." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-edit" text=" No need to write any code." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-file-text" text=" Just upload your HTML file and hit the \"Convert\" button." >}}
-        {{< blocks/products/pf/agp/democard icon="fa-download" text=" You will instantly get the download link for the resultant." >}}
-
-    {{% blocks/products/pf/agp/content h2="Try other free online Converters!" %}}
-An advanced HTML Processing Library capable of performing a wide range of manipulation tasks from within cross-platform applications. The Aspose.HTML API supports to generate, modify, extract data, convert [HTML](https://products.aspose.app/html/conversion/html), [XHTML](https://products.aspose.app/html/conversion/xhtml), [MHTML](https://products.aspose.app/html/conversion/mhtml), [EPUB](https://products.aspose.app/html/conversion/epub), [XML](https://products.aspose.app/html/conversion/xml) or [Markdown](https://products.aspose.app/html/conversion/md) documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIFF, Markdown and other formats.
-    {{% /blocks/products/pf/agp/content %}} 
-    
-    
-    
-    {{< blocks/products/pf/agp/about-file-section >}}
-    
-        {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
-HTML (Hyper Text Markup Language) is the extension for web pages created for display in browsers. Known as language of the web, HTML has evolved with requirements of new information requirements to be displayed as part of web pages. The latest variant is known as HTML 5 that gives a lot of flexibility for working with the language. HTML pages are either received from server, where these are hosted, or can be loaded from local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others where each tag has start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
+	
+    {{< blocks/products/pf/agp/about-file-section >}}     
+    {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/html/" >}}
+HTML (HyperText Markup Language) is the standard markup language for documents created for display in browsers. The latest variant, known as HTML 5, gives a lot of flexibility for working with the language. HTML pages are either received from a server where these are hosted or can be loaded from a local system as well. Each HTML page is made up of HTML elements such as forms, text, images, animations, links, etc. These elements are represented by tags such as img, a, p and several others, where each tag has a start and end. It can also embed applications written in scripting languages such as JavaScript and Style Sheets (CSS) for overall layout representation.
+    {{< /blocks/products/pf/agp/about-file-text >}}
     
         {{< blocks/products/pf/agp/about-file-text fileFormat="MHTML" readMoreLink="https://docs.fileformat.com/web/mhtml/" >}}
-Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. Microsoft Windows uses MHTML file format for recording scenarios of problems observed during the usage of any application on Windows that raises issues. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which is plain text email related specifications. The actual specifications of the format are as detailed by RFC 2557.
-
-        {{< /blocks/products/pf/agp/about-file-text >}}
-    
-    {{< /blocks/products/pf/agp/about-file-section >}}
-
-{{< /blocks/products/pf/agp/demobox >}}
+Files with MHTML extension represent a web page archive format that can be created by a number of different applications. The format is known as archive format because it saves the web HTML code and associated resources in a single file. These resources include anything linked to the webpage such as images, applets, animations, audio files and so on. MHTML files can be opened in a variety of applications such as Internet Explorer and Microsoft Word. The MHTML file format encodes the page contents similar to specifications defined in message/rfc822 which are plain text email related specifications. The actual specifications of the format are as detailed by RFC 2557.
+    {{< /blocks/products/pf/agp/about-file-text >}} 
+	{{< /blocks/products/pf/agp/about-file-section >}}		
 
 <!-- aboutfile Ends -->
 
-{{< blocks/products/pf/agp/other-supported-section title="Other Supported HTML Conversions">}}
+{{% blocks/products/pf/agp/content h2="How to Install Aspose.HTML for .NET library" %}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-image/" name="HTML TO Image" description="Image formats" >}}
+You can use several ways to install the Aspose.HTML library for .NET on your system:
+1. Install a <a href="https://www.nuget.org/packages/aspose.html" target="_blank">NuGet Package</a> using the NuGet Package Manager GUI.
+1. Install a NuGet Package using the Package Manager Console.
+1. Install Aspose.HTML for .NET through MSI.</br>  
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}
+This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a Document Object Model (DOM) based on the WHATWG DOM Standard. Aspose.HTML for .NET is written completely in C# and can be used to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms & .NET Core. Before running the .NET conversion example code, make sure that you have OS like Microsoft Windows or a compatible with .NET Framework or .NET Standard, and the development environment like Microsoft Visual Studio.
+  For more details about C# library installation and system requirements, please refer to [Aspose.HTML Documentation](https://docs.aspose.com/html/net/getting-started/).
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-gif/" name="HTML TO GIF" description="Graphical Interchange Format" >}}
+{{% /blocks/products/pf/agp/content  %}}
 
+{{< blocks/products/pf/agp/other-supported-section title="Other Supported HTML Conversions" subTitle="You can convert HTML to many other file formats:" >}}
+
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-image/" name="HTML TO IMAGE" description="Image formats" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-jpeg/" name="HTML TO JPEG" description="JPEG Image" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-docx/" name="HTML TO DOCX" description="Microsoft Word" >}}
-
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-pdf/" name="HTML TO PDF" description="Portable Document Format" >}}
-
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-bmp/" name="HTML TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-gif/" name="HTML TO GIF" description="Graphical Interchange Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-png/" name="HTML TO PNG" description="Portable Network Graphics" >}}
-
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-tiff/" name="HTML TO TIFF" description="Tagged Image Format" >}}
-
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-pdf/" name="HTML TO PDF" description="Portable Document Format" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xps/" name="HTML TO XPS" description="XML Paper Specifications" >}}
-
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-docx/" name="HTML TO DOCX" description="Microsoft Word" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-md/" name="HTML TO MD" description="Markdown Language" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/html-to-xhtml/" name="HTML TO XHTML" description="Extensible HyperText Markup Language" >}}
-
 {{< /blocks/products/pf/agp/other-supported-section >}}
-
-{{< /blocks/products/pf/main-container >}}
-    
+{{< /blocks/products/pf/main-container >}}    
 {{< /blocks/products/pf/main-wrap-class >}}
-
-{{< blocks/products/pf/feature-page-options pairs="mhtml-to-pdf mhtml-to-xps mhtml-to-bmp mhtml-to-png mhtml-to-jpeg mhtml-to-tiff mhtml-to-gif xhtml-to-pdf xhtml-to-md xhtml-to-mhtml xhtml-to-png xhtml-to-jpeg xhtml-to-tiff xhtml-to-gif md-to-pdf md-to-bmp md-to-png md-to-jpeg md-to-tiff md-to-gif epub-to-pdf epub-to-bmp epub-to-png epub-to-jpeg epub-to-tiff epub-to-gif svg-to-pdf svg-to-xps svg-to-bmp svg-to-png svg-to-jpeg svg-to-tiff svg-to-gif" >}} 
