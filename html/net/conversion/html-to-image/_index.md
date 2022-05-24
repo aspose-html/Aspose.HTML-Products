@@ -85,19 +85,18 @@ HTML files are frequently used to create, edit, or communicate a lot of informat
 {{% blocks/products/pf/agp/content h2="HTML to Image Conversion in Documentation" %}}
 
 Please visit the documentation chapter [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to Image conversion scenarios. In the articles, you find information on how to convert HTML to Image using ConvertHTML() methods, and how to apply ImageSaveOptions or [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#html-to-jpg-by-a-single-line-of-code" target="_blank">HTML to JPG by a single line of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#convert-html-to-jpg-using-imagesaveoptions" target="_blank">Convert HTML to JPG using ImageSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers" target="_blank">Convert HTML to JPG using MemoryStreamProvider</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/" target="_blank">Convert HTML to PNG</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/" target="_blank">Convert HTML to BMP</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/" target="_blank">Convert HTML to TIFF</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/" target="_blank">Convert HTML to GIF</a></li>
-		</ul>		
-	</div>	
-</div> 
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#html-to-jpg-by-a-single-line-of-code" target="_blank">HTML to JPG by a single line of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#convert-html-to-jpg-using-imagesaveoptions" target="_blank">Convert HTML to JPG using ImageSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers" target="_blank">Convert HTML to JPG using MemoryStreamProvider</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/" target="_blank">Convert HTML to PNG</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/" target="_blank">Convert HTML to BMP</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/" target="_blank">Convert HTML to TIFF</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/" target="_blank">Convert HTML to GIF</a></li>
+	</ul>		
+</div>	
+
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

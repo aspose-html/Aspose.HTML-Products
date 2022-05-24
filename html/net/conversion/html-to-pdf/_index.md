@@ -84,16 +84,13 @@ HTML files are frequently used to create, edit, or communicate a lot of informat
 {{% blocks/products/pf/agp/content h2="HTML to PDF Conversion in Documentation" %}}
 
 HTML to PDF conversion is often required to establish limited access to document editing or copying, to produce official documentation or send some information, for example, by email. Please visit the documentation article [Convert HTML to PDF](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to PDF conversion scenarios. In the article, you find information on how to convert HTML to PDF using ConvertHTML() methods, and how to apply PdfSaveOptions and ICreateStreamProvider parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#html-to-pdf-by-a-single-line-of-code" target="_blank">Convert HTML to PDF by a single line of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-in-c-using-pdfsaveoptions" target="_blank">Convert HTML to PDF using PdfSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#output-stream-providers" target="_blank">Convert HTML to PDF using MemoryStreamProvider</a></li>			
-		</ul>		
-	</div>	
-</div> 
-
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#html-to-pdf-by-a-single-line-of-code" target="_blank">Convert HTML to PDF by a single line of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-in-c-using-pdfsaveoptions" target="_blank">Convert HTML to PDF using PdfSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#output-stream-providers" target="_blank">Convert HTML to PDF using MemoryStreamProvider</a></li>			
+	</ul>		
+</div>	
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

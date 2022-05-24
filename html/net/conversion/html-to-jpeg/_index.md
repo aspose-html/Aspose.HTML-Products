@@ -85,15 +85,15 @@ HTML files are frequently used to create, edit, or communicate a lot of informat
 {{% blocks/products/pf/agp/content h2="HTML to JPG Conversion in Documentation" %}}
 
 JPEG is one of the most commonly used image formats. Its uniqueness is the controlled loss of quality during compression. This compression feature allows you to quickly and efficiently share JPG images and use them widely on the Web, computers, and mobile devices. Converting HTML files to the JPG image may be required, for example, if you want to add a web page in a PowerPoint presentation or send it by e-mail. Please visit the documentation article [Convert HTML to JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to JPG conversion scenarios. In the articles, you find information on how to convert HTML to JPG using ConvertHTML() methods, and how to apply ImageSaveOptions or [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#html-to-jpg-by-a-single-line-of-code" target="_blank">HTML to JPG by a single line of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#convert-html-to-jpg-using-imagesaveoptions" target="_blank">Convert HTML to JPG using ImageSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers" target="_blank">Convert HTML to JPG using MemoryStreamProvider</a></li>			
-		</ul>		
-	</div>	
-</div> 
+
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#html-to-jpg-by-a-single-line-of-code" target="_blank">HTML to JPG by a single line of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#convert-html-to-jpg-using-imagesaveoptions" target="_blank">Convert HTML to JPG using ImageSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers" target="_blank">Convert HTML to JPG using MemoryStreamProvider</a></li>			
+	</ul>		
+</div>	
+
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

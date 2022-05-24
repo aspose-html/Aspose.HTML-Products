@@ -37,43 +37,7 @@ In order to convert EPUB to Image, we’ll use [Aspose.HTML for .NET](https://pr
 	
 	// Convert HTML to Image 
 	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.PdfSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.DocSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.XpsSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MarkdownSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MHTMLSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Gif);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===	
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Tiff);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Gif);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");	
-	
+
 {{< /html-converter >}} 
 
 {{% blocks/products/pf/agp/content  %}}
@@ -85,21 +49,17 @@ In order to convert EPUB to Image, we’ll use [Aspose.HTML for .NET](https://pr
 {{% blocks/products/pf/agp/content h2="EPUB to Image Conversion in Documentation" %}}
 
 The EPUB format has gained popularity as an XML-based e-book format and is designed to adapt the content’s presentation to the reader device. Sometimes, it is required to get an image instead of EPUB documents, such as making them portable and easily shared on various devices, creating a picture gallery from eBooks, etc. Please visit the documentation chapter [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common EPUB to Image conversion scenarios. In the articles, you find information on how to convert EPUB to Image using ConvertEPUB() methods, and how to apply ImageSaveOptions or [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#epub-to-jpg-by-two-lines-of-code" target="_blank">EPUB to JPG by two lines of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#convert-epub-to-jpg-using-imagesaveoptions" target="_blank">Convert EPUB to JPG using ImageSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers" target="_blank">Convert EPUB to JPG using MemoryStreamProvider</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/" target="_blank">Convert EPUB to PNG</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/" target="_blank">Convert EPUB to BMP</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/" target="_blank">Convert EPUB to TIFF</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/" target="_blank">Convert EPUB to GIF</a></li>
-		</ul>		
-	</div>	
-</div> 
-
-
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#epub-to-jpg-by-two-lines-of-code" target="_blank">EPUB to JPG by two lines of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#convert-epub-to-jpg-using-imagesaveoptions" target="_blank">Convert EPUB to JPG using ImageSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers" target="_blank">Convert EPUB to JPG using MemoryStreamProvider</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/" target="_blank">Convert EPUB to PNG</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/" target="_blank">Convert EPUB to BMP</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/" target="_blank">Convert EPUB to TIFF</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/" target="_blank">Convert EPUB to GIF</a></li>
+	</ul>		
+</div>	
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

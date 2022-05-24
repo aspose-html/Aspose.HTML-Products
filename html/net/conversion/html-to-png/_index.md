@@ -85,15 +85,13 @@ HTML files are frequently used to create, edit, or communicate a lot of informat
 {{% blocks/products/pf/agp/content h2="HTML to PNG Conversion in Documentation" %}}
 
 PNG is one of the most used image file formats. It supports lossless image compression which makes it popular among its users. Converting HTML files to the PNG image may be required, for example, if you want to add a web page in a PowerPoint presentation, insert it on a blog for your readers, or send it by e-mail. Please visit the documentation article [Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to PNG conversion scenarios. In the articles, you find information on how to convert HTML to PNG using ConvertHTML() methods, and how to apply ImageSaveOptions or [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#html-to-png-by-a-single-line-of-code" target="_blank">HTML to PNG by a single line of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#convert-html-to-png-using-imagesaveoptions" target="_blank">Convert HTML to PNG using ImageSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#output-stream-providers" target="_blank">Convert HTML to PNG using MemoryStreamProvider</a></li>			
-		</ul>		
-	</div>	
-</div> 
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#html-to-png-by-a-single-line-of-code" target="_blank">HTML to PNG by a single line of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#convert-html-to-png-using-imagesaveoptions" target="_blank">Convert HTML to PNG using ImageSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#output-stream-providers" target="_blank">Convert HTML to PNG using MemoryStreamProvider</a></li>			
+	</ul>		
+</div>
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

@@ -82,16 +82,13 @@ description: Convert HTML to XPS using C# or VB.NET. Easily use HTML to XPS conv
 {{% blocks/products/pf/agp/content h2="HTML to XPS Conversion in Documentation" %}}
 
 XPS is a document storage and viewing format developed by Microsoft. It has a set of advantages that support security features, such as digital signatures to provide greater document security and more. Please visit the documentation article [Convert HTML to XPS](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to XPS conversion scenarios. In the article, you find information on how to convert HTML to XPS using ConvertHTML() methods, and how to apply XpsSaveOptions and ICreateStreamProvider parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#html-to-xps-by-a-single-line-of-code" target="_blank">Convert HTML to XPS by a single line of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions" target="_blank">Convert HTML to XPS using XpsSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#output-stream-providers" target="_blank">Convert HTML to XPS using MemoryStreamProvider</a></li>			
-		</ul>		
-	</div>	
-</div> 
-
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#html-to-xps-by-a-single-line-of-code" target="_blank">Convert HTML to XPS by a single line of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-using-xpssaveoptions" target="_blank">Convert HTML to XPS using XpsSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#output-stream-providers" target="_blank">Convert HTML to XPS using MemoryStreamProvider</a></li>			
+	</ul>		
+</div>	
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

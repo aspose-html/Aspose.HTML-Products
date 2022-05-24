@@ -85,16 +85,13 @@ To convert MHTML to XPS, we will use [Aspose.HTML for .NET](https://products.asp
 {{% blocks/products/pf/agp/content h2="MHTML to XPS Conversion in Documentation" %}}
 
 XPS is a document storage and viewing format developed by Microsoft. It has a set of advantages that support security features, such as digital signatures to provide greater document security and more. Please visit the documentation article [Convert MHTML to XPS](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common MHTML to XPS conversion scenarios. In the article, you will find information on how to convert MHTML to XPS using ConvertMHTML() methods and how to apply XpsSaveOptions or ICreateStreamProvider parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#mhtml-to-xps-by-two-lines-of-code" target="_blank">MHTML to XPS by two lines of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#convert-mhtml-to-xps-using-xpssaveoptions" target="_blank">Convert MHTML to XPS using XpsSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#output-stream-providers" target="_blank">Convert MHTML to XPS using MemoryStreamProvider</a></li>			
-		</ul>		
-	</div>	
-</div> 
-
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#mhtml-to-xps-by-two-lines-of-code" target="_blank">MHTML to XPS by two lines of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#convert-mhtml-to-xps-using-xpssaveoptions" target="_blank">Convert MHTML to XPS using XpsSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#output-stream-providers" target="_blank">Convert MHTML to XPS using MemoryStreamProvider</a></li>			
+	</ul>		
+</div>
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

@@ -94,7 +94,6 @@ BMP files are bitmap image files that are used to store high-quality bitmap digi
 	</div>	
 </div> 
 
-
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

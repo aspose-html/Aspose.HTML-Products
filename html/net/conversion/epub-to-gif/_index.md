@@ -36,44 +36,7 @@ In order to convert EPUB to GIF, we’ll use [Aspose.HTML for .NET](https://prod
 	Aspose.Html.Saving.ImageSaveOptions(ImageFormat.GIF);		
 	
 	// Convert HTML to GIF 
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.PdfSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.DocSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.XpsSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MarkdownSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MHTMLSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Jpeg);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===	
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Tiff);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Gif);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");	
-	
+	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 	
 {{< /html-converter >}} 
 
 {{% blocks/products/pf/agp/content  %}}
@@ -85,16 +48,12 @@ In order to convert EPUB to GIF, we’ll use [Aspose.HTML for .NET](https://prod
 {{% blocks/products/pf/agp/content h2="EPUB to GIF Conversion in Documentation" %}}
 
 GIF is a popular image format that is frequently used in web publishing. EPUB to GIF conversion allows you to save an EPUB document as a GIF image. Please visit the documentation article [Convert EPUB to GIF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common EPUB to GIF conversion scenarios. In the article, you find information on how to convert EPUB to GIF using ConvertEPUB() methods, and how to apply ImageSaveOptions.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/#convert-epub-to-gif" target="_blank">Convert EPUB to GIF</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/#convert-epub-to-gif-using-imagesaveoptions" target="_blank">Convert EPUB to GIF using ImageSaveOptions</a></li>						
-		</ul>		
-	</div>	
-</div> 
-
-
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/#convert-epub-to-gif" target="_blank">Convert EPUB to GIF</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/#convert-epub-to-gif-using-imagesaveoptions" target="_blank">Convert EPUB to GIF using ImageSaveOptions</a></li>						
+	</ul>		
+</div>	
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

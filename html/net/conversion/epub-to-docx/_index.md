@@ -85,17 +85,13 @@ In order to convert EPUB to DOCX, we’ll use [Aspose.HTML for .NET](https://pro
 {{% blocks/products/pf/agp/content h2="EPUB to DOCX Conversion in Documentation" %}}
 
 The EPUB format has gained popularity as an XML-based e-book format and is designed to adapt the content’s presentation to the reader device. EPUB to DOCX conversion is often required to take advantage of DOCX format for specific user tasks. Please visit the documentation article [Convert EPUB to DOCX](https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common EPUB to DOCX conversion scenarios. In the article, you find information on how to convert EPUB to DOCX using ConvertEPUB() methods, and how to apply DocSaveOptions and ICreateStreamProvider parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#epub-to-docx-by-two-lines-of-code" target="_blank">EPUB to DOCX by two lines of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#convert-epub-to-docx-using-docsaveoptions" target="_blank">Convert EPUB to DOCX using DocSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers" target="_blank">Convert EPUB to DOCX using MemoryStreamProvider</a></li>
-		</ul>		
-	</div>	
-</div> 
-
-
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#epub-to-docx-by-two-lines-of-code" target="_blank">EPUB to DOCX by two lines of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#convert-epub-to-docx-using-docsaveoptions" target="_blank">Convert EPUB to DOCX using DocSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers" target="_blank">Convert EPUB to DOCX using MemoryStreamProvider</a></li>
+	</ul>		
+</div>
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

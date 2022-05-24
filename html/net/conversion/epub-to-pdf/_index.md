@@ -37,43 +37,7 @@ In order to convert EPUB to PDF, we’ll use [Aspose.HTML for .NET](https://prod
 	
 	// Convert HTML to PDF 
 	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.PdfSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.DocSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.XpsSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MarkdownSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MHTMLSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Gif);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===	
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Tiff);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Gif);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");	
-	
+
 {{< /html-converter >}} 
 
 {{% blocks/products/pf/agp/content  %}}
@@ -85,17 +49,13 @@ In order to convert EPUB to PDF, we’ll use [Aspose.HTML for .NET](https://prod
 {{% blocks/products/pf/agp/content h2="EPUB to PDF Conversion in Documentation" %}}
 
 The EPUB format has gained popularity as an XML-based e-book format and is designed to adapt the content’s presentation to the reader device. Sometimes you need to get PDF documents instead of EPUB, such as making them print-optimized, safe and secure, making copies of EPUB documents, etc. Please visit the documentation article [Convert EPUB to PDF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common EPUB to PDF conversion scenarios. In the article, you find information on how to convert EPUB to PDF using ConvertEPUB() methods, and how to apply PdfSaveOptions and ICreateStreamProvider parameters.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#epub-to-pdf-by-two-lines-of-code" target="_blank">EPUB to PDF by two lines of code</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#convert-epub-to-pdf-using-pdfsaveoptions" target="_blank">Convert EPUB to PDF using PdfSaveOptions</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers" target="_blank">Convert EPUB to PDF using MemoryStreamProvider</a></li>
-		</ul>		
-	</div>	
-</div> 
-
-
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#epub-to-pdf-by-two-lines-of-code" target="_blank">EPUB to PDF by two lines of code</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#convert-epub-to-pdf-using-pdfsaveoptions" target="_blank">Convert EPUB to PDF using PdfSaveOptions</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers" target="_blank">Convert EPUB to PDF using MemoryStreamProvider</a></li>
+	</ul>		
+</div>
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

@@ -85,16 +85,12 @@ In order to convert EPUB to TIFF, we’ll use [Aspose.HTML for .NET](https://pro
 {{% blocks/products/pf/agp/content h2="EPUB to TIFF Conversion in Documentation" %}}
 
 The EPUB format has gained popularity as an XML-based e-book format and is designed to adapt the content’s presentation to the reader device. Sometimes, it is required to get an image instead of EPUB documents, such as making them portable and easily shared on various devices, saving e-books as pictures in TIFF, etc. Please visit the documentation article [Convert EPUB to TIFF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common EPUB to TIFF conversion scenarios. In the article, you find information on how to convert EPUB to TIFF using ConvertEPUB() methods, and how to apply ImageSaveOptions.
-<div class="row">
-	<div>
-		<ul>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/#convert-epub-to-tiff" target="_blank">Convert EPUB to TIFF</a></li>
-			<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/#convert-epub-to-tiff-using-imagesaveoptions" target="_blank">Convert EPUB to TIFF using ImageSaveOptions</a></li>			
-		</ul>		
-	</div>	
-</div> 
-
-
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/#convert-epub-to-tiff" target="_blank">Convert EPUB to TIFF</a></li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-tiff/#convert-epub-to-tiff-using-imagesaveoptions" target="_blank">Convert EPUB to TIFF using ImageSaveOptions</a></li>			
+	</ul>		
+</div>
 {{% /blocks/products/pf/agp/content %}}   
 	
 <!-- aboutfile Starts -->

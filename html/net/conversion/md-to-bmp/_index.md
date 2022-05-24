@@ -2,7 +2,7 @@
 title: Convert MD to BMP via C# 
 weight: 820
 url: /net/conversion/md-to-bmp/ 
-description: Sample code for MD to BMP C# conversion. Use API example code for batch MD files to BMP conversion within VB.NET, Asp.NET or any .NET based application.
+description: Convert MD to BMP format in C# code. Use API for batch MD files to BMP conversion within VB.NET, Asp.NET or any .NET based application.
 ---
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true">}}
