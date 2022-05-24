@@ -19,7 +19,7 @@ description: Convert HTML to Markdown using C#. Easily use HTML to Markdown conv
 
 1.  Load an HTML document using one of [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
 1.  Create a new [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object.
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/7) method of the Converter class to save HTML as a Markdown file. You need to pass the HTMLDocument, MarkdownSaveOptions, and output file path to the ConvertHTML() method.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a Markdown file. You need to pass the HTMLDocument, MarkdownSaveOptions, and output file path to the ConvertHTML() method.
 1.  The MD file will be saved to the specified path.</br></br>
 
 <a id=lviv.app />

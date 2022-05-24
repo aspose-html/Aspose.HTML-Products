@@ -13,7 +13,7 @@ description: Sample code for EPUB to PDF C# conversion. Use API example code for
 
 {{% blocks/products/pf/agp/content h2="How to Convert EPUB to PDF Using C#" %}}
 
-In order to convert EPUB to PDF, we’ll use Aspose.HTML for .NET API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. EPUB is an open XML-based format for digital books and publications that can be viewed and read on a variety of devices. EPUB to PDF conversion is often required to take advantage of PDF format. .NET developers can easily load & convert EPUB to PDF in just a few lines of code.</br></br>
+In order to convert EPUB to PDF, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. EPUB is an open XML-based format for digital books and publications that can be viewed and read on a variety of devices. EPUB to PDF conversion is often required to take advantage of PDF format. .NET developers can easily load & convert EPUB to PDF in just a few lines of code.</br></br>
 
 <h2> Steps to Convert EPUB to PDF via C# </h2>
 

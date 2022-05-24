@@ -13,7 +13,7 @@ description: Sample code for MD to HTML C# conversion. Use API example code for 
 
 {{% blocks/products/pf/agp/content h2="How to Convert MD to HTML Using C#" %}}
 
-Markdown is a markup language with a plain-text-formatting syntax that allows you to write simple, readable text easily converted into HTML. To convert MD to HTML, we will use Aspose.HTML for .NET API, which is a feature-rich, powerful and easy to use document manipulation and conversion library. .NET developers can quickly load & convert MD to HTML in just a few lines of C# code.</br></br> 
+Markdown is a markup language with a plain-text-formatting syntax that allows you to write simple, readable text easily converted into HTML. To convert MD to HTML, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, which is a feature-rich, powerful and easy to use document manipulation and conversion library. .NET developers can quickly load & convert MD to HTML in just a few lines of C# code.</br></br> 
 
 <h2> Steps to Convert MD to HTML via C# </h2>
 
@@ -77,7 +77,7 @@ Markdown is a markup language with a plain-text-formatting syntax that allows yo
 {{< /html-converter >}} 
 
 {{% blocks/products/pf/agp/content  %}}
-<p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/MD" target="_blank">MD</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/md" target="_blank">Markdown</a> documents to PDF, HTML, DOCX, JPG, PNG, BMP, TIFF, GIF, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting MD to popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>
+<p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/epub" target="_blank">EPUB</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/md" target="_blank">Markdown</a> documents to PDF, HTML, DOCX, JPG, PNG, BMP, TIFF, GIF, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting MD to popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>
 
 {{% /blocks/products/pf/agp/content  %}}
 

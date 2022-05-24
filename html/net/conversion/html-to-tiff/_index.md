@@ -13,13 +13,13 @@ description: Sample code for HTML to TIFF C# conversion. Use API example code fo
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to TIFF Using C#" %}}
 
-HTML files are frequently used to create, edit, or communicate a lot of information. If you need to include HTML files in a PowerPoint presentation or send by email, please transform them to the appropriate image format and use them as you want! With Aspose.HTML, you can convert HTML to TIFF programmatically with full control over a wide range of conversion parameters. Any conversion requires some mandatory steps:</br></br>
+HTML files are frequently used to create, edit, or communicate a lot of information. If you need to include HTML files in a PowerPoint presentation or send by email, please transform them to the appropriate image format and use them as you want! With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can convert HTML to TIFF programmatically with full control over a wide range of conversion parameters. Any conversion requires some mandatory steps:</br></br>
 
 <h2> Steps to Convert HTML to TIFF via C# </h2>
 
 1.  Load an HTML document using one of [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
 1.  Create a new [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with TIFF ImageFormat. By default, the Format property is [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/7) method of the Converter class to save HTML as a TIFF file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a TIFF file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
 1.  The TIFF file will be saved to the specified path.</br></br>
 
 <a id=lviv.app />

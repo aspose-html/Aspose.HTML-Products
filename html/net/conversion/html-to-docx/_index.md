@@ -13,13 +13,13 @@ description: Convert HTML to DOCX using C# or VB.NET. Easily use HTML to DOCX co
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to DOCX Using C#" %}}
 
- DOCX file format is one of the most widely used and is available through numerous programs. The DOCX file is highly editable, easy to use and manageable in size. It can be viewed, edited, searched and printed with MS Word or other Word Viewer & Editor. With Aspose.HTML for .NET API, you can convert HTML to DOCX programmatically with full control over conversion parameters. To convert HTML to DOCX, you should take some mandatory steps:</br></br>
+ DOCX file format is one of the most widely used and is available through numerous programs. The DOCX file is highly editable, easy to use and manageable in size. It can be viewed, edited, searched and printed with MS Word or other Word Viewer & Editor. With [Aspose.HTML for .NET API](https://products.aspose.com/html/net/), you can convert HTML to DOCX programmatically with full control over conversion parameters. To convert HTML to DOCX, you should take some mandatory steps:</br></br>
 
 <h2> Steps to Convert HTML to DOCX via C# </h2>
 
 1.  Load an HTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class. You can load HTML from a file, HTML code, stream, or URL.
 1.  Create a new [DocSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/docsaveoptions) object.
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/7) method of the Converter class to save HTML as a DOCX file. You need to pass the HTMLDocument, DocSaveOptions, and output file path to the ConvertHTML() method.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a DOCX file. You need to pass the HTMLDocument, DocSaveOptions, and output file path to the ConvertHTML() method.
 1.  The DOCX file will be saved to the specified path.</br></br>
 
 <a id=lviv.app />
@@ -83,7 +83,7 @@ description: Convert HTML to DOCX using C# or VB.NET. Easily use HTML to DOCX co
 <a id=lviv.doc />
 {{% blocks/products/pf/agp/content h2="HTML to DOCX Conversion in Documentation" %}}
 
-HTML to DOCX conversion is often required to take advantage of DOCX format for specific tasks. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. Please visit the documentation article [Convert HTML to DOCX](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to DOCX conversion scenarios. In the article, you find information on how to convert HTML to DOCX using ConvertHTML() methods, and how to apply DocSaveOptions and ICreateStreamProvider parameters.
+HTML to DOCX conversion is often required to take advantage of DOCX format for specific tasks. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. Please visit the documentation article [Convert HTML to DOCX](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to DOCX conversion scenarios. In the article, you find information on how to convert HTML to DOCX using ConvertHTML() methods and how to apply DocSaveOptions or ICreateStreamProvider parameters.
 <div class="row">
 	<div>
 		<ul>

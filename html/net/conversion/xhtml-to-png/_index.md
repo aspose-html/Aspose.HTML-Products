@@ -13,13 +13,13 @@ description: Convert XHTML to PNG using C# or VB.NET. Easily use XHTML to PNG co
 
 {{% blocks/products/pf/agp/content h2="How to Convert XHTML to PNG Using C#" %}}
 
-The main highlight of Aspose.HTML .NET API is a conversion feature. Using our powerful library, you can convert XHTML to PNG format programmatically with full control over various conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in the supported format. It can be different scenarios, but it can be made with a few required steps:</br></br>
+The main highlight of [Aspose.HTML .NET](https://products.aspose.com/html/net/) API is a conversion feature. Using our powerful library, you can convert XHTML to PNG format programmatically with full control over various conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in the supported format. It can be different scenarios, but it can be made with a few required steps:</br></br>
 
 <h2> Steps to Convert XHTML to PNG via C# </h2> 
 
 1.  Load an XHTML document using one of [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument) constructors. 
 1. Create a new [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object. By default, the Format property is [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat). 
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/7) method to save XHTML as a PNG file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method to save XHTML as a PNG file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
 1.  The PNG file will be saved to the specified path.</br></br>
 
 <a id=lviv.app />
@@ -27,7 +27,7 @@ The main highlight of Aspose.HTML .NET API is a conversion feature. Using our po
 <p>Test the quality of XHTML to PNG conversion right in your browser! The following C# example demonstrates how to convert an XHTML document. We describe the source code for reading XHTML from a file and then converting XHTML to PNG with default saving options. Please load XHTML from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< html-converter PNG PDF DOCX XPS MD MHTML JPG PNG TIFF PNG >}}
+{{< html-converter PNG PDF DOCX XPS MD MHTML JPG PNG PNG PNG >}}
 
 	// Load an HTML document from a file
 	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 
@@ -67,7 +67,7 @@ The main highlight of Aspose.HTML .NET API is a conversion feature. Using our po
 	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
 ===	
 	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Tiff);	
+	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.PNG);	
 	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
 ===
 	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
@@ -77,12 +77,12 @@ The main highlight of Aspose.HTML .NET API is a conversion feature. Using our po
 {{< /html-converter >}} 
 
 {{% blocks/products/pf/agp/content  %}}
-<p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/epub" target="_blank">EPUB</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/md" target="_blank">Markdown</a> documents to PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting XHTML to popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>
+<p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/epub" target="_blank">EPUB</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/md" target="_blank">Markdown</a> documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIF, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting between popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>
 
 {{% /blocks/products/pf/agp/content  %}}
 
 <a id=lviv.doc />
-{{% blocks/products/pf/agp/content h2="(X)HTML to PNG Conversion in Documentation" %}}
+{{% blocks/products/pf/agp/content h2="XHTML to PNG Conversion in Documentation" %}}
 
 Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. Aspose.HTML for .NET API allows you to convert (X)HTML to other popular formats quickly and with high quality. Please visit the documentation chapter <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Converting Between Formats</a> to learn more about Aspose.HTML for .NET API conversion features. The chapter describes popular converters, as well as C# examples for the most common conversion scenarios.
 
@@ -92,11 +92,11 @@ Converting between formats is required for various reasons: to work in a familia
 	
     {{< blocks/products/pf/agp/about-file-section >}}     
     {{< blocks/products/pf/agp/about-file-text fileFormat="XHTML" readMoreLink="hhttps://docs.fileformat.com/web/xhtml/" >}}
-XHTML (eXtensible HyperText Markup Language) is a text-based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be opened or viewed in a web browser. The XHTML was designed to be more structured, less scripting, generic and device-independent. It uses all the existing XML facilities and more. The XHTML provides a generally worthwhile set of elements and attributes, with extension options combined with style sheets. XHTML provides flexibility and accessibility by subordinating all HTML presentation elements to style sheets. Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
+XHTML (eXtensible HyperText Markup Language) is a text-based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be opened or viewed in a web browser. The XHTML was designed to be more structured, less scripting, generic and device-independent. It uses all the existing XML facilities and more. The XHTML provides a generally worthwhile set of elements and attributes, with extension options combined with style sheets. Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
     {{< /blocks/products/pf/agp/about-file-text >}}
     
         {{< blocks/products/pf/agp/about-file-text fileFormat="PNG" readMoreLink="https://docs.fileformat.com/image/png/" >}}
-PNG, Portable Network Graphics, refers to a type of raster image file format that uses lossless compression. This file format was created as a replacement for Graphics Interchange Format (GIF) and has no copyright limitations. However, the PNG file format does not support animations. PNG file format supports lossless image compression that makes it popular among its users. With the passage of time, PNG has evolved into one of the most used image file formats. Almost all Operating Systems have support for opening PNG files. For example, Microsoft Windows viewer has the capability to open PNG files as the OS has by default the support available as part of the installation.
+PNG, Portable Network Graphics, refers to a type of raster image file format that uses lossless compression. This file format was created as a replacement for Graphics Interchange Format (GIF) and has no copyright limitations. However, the PNG file format does not support animations. PNG file format supports lossless image compression that makes it popular among its users. With the passage of time, PNG has evolved into one of the most used image file formats. Almost all Operating Systems have support for opening PNG files.
     {{< /blocks/products/pf/agp/about-file-text >}} 
 	{{< /blocks/products/pf/agp/about-file-section >}}		
 
@@ -116,18 +116,18 @@ This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a
 
 {{< blocks/products/pf/agp/other-supported-section title="Other Supported XHTML Conversions" subTitle="You can convert XHTML to many other file formats:">}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-image/" name="XHTML TO IMAGE" description="Image formats" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-jpeg/" name="XHTML TO JPEG" description="JPEG Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-bmp/" name="XHTML TO BMP" description="Bitmap Image" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-png/" name="XHTML TO PNG" description="Portable Network Graphics" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-tiff/" name="XHTML TO TIFF" description="Tagged Image Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-gif/" name="XHTML TO GIF" description="Graphical Interchange Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-pdf/" name="XHTML TO PDF" description="Portable Document Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-xps/" name="XHTML TO XPS" description="XML Paper Specifications" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-docx/" name="XHTML TO DOCX" description="Microsoft Word" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-md/" name="XHTML TO MD" description="Markdown Language" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-mhtml/" name="XHTML TO MHTML" description="Web Page Archive Format" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/xhtml/net/conversion/html-to-xhtml/" name="XHTML TO HTML" description="HyperText Markup Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-image/" name="XHTML TO IMAGE" description="Image formats" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-jpeg/" name="XHTML TO JPEG" description="JPEG Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-bmp/" name="XHTML TO BMP" description="Bitmap Image" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-png/" name="XHTML TO PNG" description="Portable Network Graphics" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-tiff/" name="XHTML TO TIFF" description="Tagged Image Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-gif/" name="XHTML TO GIF" description="Graphical Interchange Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-pdf/" name="XHTML TO PDF" description="Portable Document Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-xps/" name="XHTML TO XPS" description="XML Paper Specifications" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-docx/" name="XHTML TO DOCX" description="Microsoft Word" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-md/" name="XHTML TO MD" description="Markdown Language" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-mhtml/" name="XHTML TO MHTML" description="Web Page Archive Format" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/net/conversion/xhtml-to-html/" name="XHTML TO HTML" description="HyperText Markup Language" >}}
 {{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-container >}}    
 {{< /blocks/products/pf/main-wrap-class >}}

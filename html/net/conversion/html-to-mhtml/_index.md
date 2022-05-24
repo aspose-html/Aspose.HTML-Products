@@ -18,7 +18,7 @@ HTML files are frequently used to create, edit, or communicate a lot of informat
 
 1.  Load an HTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class.
 1.  Create a new [MHTMLSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions) object.
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/7) method of the Converter class to save HTML as a MHTML file. You need to pass the HTMLDocument, MHTMLSaveOptions, and output file path to the ConvertHTML() method.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a MHTML file. You need to pass the HTMLDocument, MHTMLSaveOptions, and output file path to the ConvertHTML() method.
 1.  The MHTML file will be saved to the specified path.</br></br>
 
 <h2> Free Online Converter Live Demos </h2>

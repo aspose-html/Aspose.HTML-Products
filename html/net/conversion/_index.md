@@ -14,7 +14,7 @@ The main highlight of Aspose.HTML .NET API is a conversion feature. Converting b
 Any conversion you want to perform involves loading an HTML document and saving it in the supported format. It can be different scenarios, but it can be made with a few required steps:</br>
 1. Load an HTML document into a Document object using one of [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.</br>
 2. Create a Save Options object.</br>
-3. Invoke one of the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/methods/converthtml/index) methods and pass the required parameters to it.
+3. Invoke one of the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) methods and pass the required parameters to it.
 {{% /blocks/products/pf/feature-page-section %}}
 
 {{% blocks/products/pf/feature-page-section  h2="C# code example" %}}

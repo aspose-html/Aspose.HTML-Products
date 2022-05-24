@@ -19,7 +19,7 @@ description: Convert HTML to XPS using C# or VB.NET. Easily use HTML to XPS conv
 
 1.  Load an HTML document using one of [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
 1.  Create a new [XpsSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/xpssaveoptions) object.
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/7) method of the Converter class to save HTML as an XPS file. You need to pass the HTMLDocument, XpsSaveOptions, and output file path to the ConvertHTML() method.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as an XPS file. You need to pass the HTMLDocument, XpsSaveOptions, and output file path to the ConvertHTML() method.
 1.  The XPS file will be saved to the specified path.</br></br>
 
 <h2> Free Online Converter Live Demos </h2>

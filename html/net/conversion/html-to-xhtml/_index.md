@@ -12,12 +12,12 @@ description: Convert HTML to XHTML using C# or VB.NET. Easily use HTML to XHTML 
 
 {{% blocks/products/pf/agp/content h2="How to Convert HTML to XHTML Using C#" %}}
 
-XHTML was designed to be more structured, less scripting, and generic, using all the existing facilities of XML and more device-independent. To convert HTML to XHTML, we’ll use Aspose.HTML for .NET API, which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. Please take the following mandatory steps:</br></br>
+XHTML was designed to be more structured, less scripting, and generic, using all the existing facilities of XML and more device-independent. To convert HTML to XHTML, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. Please take the following mandatory steps:</br></br>
 
 <h2> Steps to Convert HTML to XHTML via C# </h2>
 
-1.  Load an HTML document into a Document object using the [HTMLDocument(`string`)](https://apireference.aspose.com/html/net/aspose.html/htmldocument/constructors/10) constructor. You can load HTML from a file, HTML code, stream, or URL.
-1.  Call the [Save(`string`, `HTMLSaveOptions`)](https://apireference.aspose.com/html/net/aspose.html.htmldocument/save/methods/12) method.
+1.  Load an HTML document into a Document object using the [HTMLDocument(`string`)](https://apireference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/) constructor. You can load HTML from a file, HTML code, stream, or URL.
+1.  Call the [Save(`string`, `HTMLSaveOptions`)](https://apireference.aspose.com/html/net/aspose.html/htmldocument/save/) method.
 1.  Pass the output file path with XHTML file extension.
 1.  The XHTML file will be saved to the specified path.
 

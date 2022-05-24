@@ -13,7 +13,7 @@ description: Sample code for EPUB to BMP C# conversion. Use API example code for
 
 {{% blocks/products/pf/agp/content h2="How to Convert EPUB to BMP Using C#" %}}
 
-In order to convert EPUB to BMP, we’ll use Aspose.HTML for .NET API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. EPUB is an open XML-based format for digital books and publications that can be viewed and read on a variety of devices. EPUB conversions are often required to take advantage of other formats. It can be different scenarios, but any EPUB conversion can be made with a few required steps:</br></br>
+In order to convert EPUB to BMP, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. EPUB is an open XML-based format for digital books and publications that can be viewed and read on a variety of devices. EPUB conversions are often required to take advantage of other formats. It can be different scenarios, but any EPUB conversion can be made with a few required steps:</br></br>
 
 <h2> Steps to Convert EPUB to BMP via C# </h2>
 

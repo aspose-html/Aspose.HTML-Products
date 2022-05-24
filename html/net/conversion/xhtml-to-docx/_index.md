@@ -13,13 +13,13 @@ description: Convert XHTML to DOCX using C# or VB.NET. Easily use XHTML to DOCX 
 
 {{% blocks/products/pf/agp/content h2="How to Convert XHTML to DOCX Using C#" %}}
 
- DOCX file format is one of the most widely used and is available through numerous programs. The DOCX file is highly editable, easy to use and manageable in size. It can be viewed, edited, searched and printed with MS Word or other Word Viewer & Editor. With Aspose.HTML for .NET API, you can convert XHTML to DOCX programmatically with full control over conversion parameters. To convert XHTML to DOCX, you should take some mandatory steps:</br></br>
+ DOCX file format is one of the most widely used and is available through numerous programs. The DOCX file is highly editable, easy to use and manageable in size. It can be viewed, edited, searched and printed with MS Word or other Word Viewer & Editor. With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can convert XHTML to DOCX programmatically with full control over conversion parameters. To convert XHTML to DOCX, you should take some mandatory steps:</br></br>
 
 <h2> Steps to Convert XHTML to DOCX via C# </h2>
 
 1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class.
 1.  Create a new [DocSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/docsaveoptions) object.
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/converthtml/methods/7) method of the Converter class to save XHTML as a DOCX file.
+1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save XHTML as a DOCX file.
 1.  The DOCX file will be saved to the specified path.</br></br>
 
 <a id=lviv.app />

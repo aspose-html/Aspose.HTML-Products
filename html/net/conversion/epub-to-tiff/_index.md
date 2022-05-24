@@ -13,7 +13,7 @@ description: Sample code for EPUB to TIFF C# conversion. Use API example code fo
 
 {{% blocks/products/pf/agp/content h2="How to Convert EPUB to TIFF Using C#" %}}
 
-In order to convert EPUB to TIFF, we’ll use Aspose.HTML for .NET API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. EPUB is an open XML-based format for digital books and publications that can be viewed and read on a variety of devices. EPUB conversions are often required to take advantage of other formats. With Aspose.HTML, you can convert EPUB to TIFF programmatically with full control over a wide range of conversion parameters. It can be different scenarios, but any EPUB conversion can be made with a few required steps:</br></br>
+In order to convert EPUB to TIFF, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. EPUB is an open XML-based format for digital books and publications that can be viewed and read on a variety of devices. EPUB conversions are often required to take advantage of other formats. With Aspose.HTML, you can convert EPUB to TIFF programmatically with full control over a wide range of conversion parameters. It can be different scenarios, but any EPUB conversion can be made with a few required steps:</br></br>
 
 <h2> Steps to Convert EPUB to TIFF via C# </h2>
 
