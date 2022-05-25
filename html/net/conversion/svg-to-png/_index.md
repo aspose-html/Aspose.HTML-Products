@@ -26,17 +26,17 @@ In order to convert SVG to PNG, we will use [Aspose.HTML for .NET](https://produ
 <p> Test the quality of SVG to PNG conversion right in your browser! The following C# example demonstrates how to convert an SVG document. We describe the source code for reading SVG from a file and then converting SVG to PNG with default saving options. Please load SVG from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< html-converter PNG PDF DOCX XPS SVG MHTML JPG PNG TIFF PNG >}}
+{{< app/html/converter SVG PNG>}}
+using Aspose.Html;
+using Aspose.Html.Dom.Svg;
+using Aspose.Html.Converters;
+using Aspose.Html.Saving;
 
-	// Load an HTML document from a file
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 
-	
-	// Initialize a Save Options object
-	Aspose.Html.Saving.ImageSaveOptions(ImageFormat.PNG);		
-	
-	// Convert HTML to PNG 
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 	
-{{< /html-converter >}} 
+    using var document = new SVGDocument("image.svg");
+    var options = new ImageSaveOptions(ImageFormat.{{output camel}});
+    Converter.ConvertSVG(document, options, "output.{{output lower}}");   
+{{< /app/html/converter>}} 
+
 
 {{% blocks/products/pf/agp/content  %}}
 <p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/epub" target="_blank">EPUB</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/SVG" target="_blank">Markdown</a> documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIF, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting between popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>
@@ -74,8 +74,8 @@ PNG, Portable Network Graphics, refers to a type of raster image file format tha
 
 You can use several ways to install the Aspose.HTML library for .NET on your system:
 1. Install a <a href="https://www.nuget.org/packages/aspose.html" target="_blank">NuGet Package</a> using the NuGet Package Manager GUI.
-1. Install a NuGet Package using the Package Manager Console.
-1. Install Aspose.HTML for .NET through MSI.</br>  
+2. Install a NuGet Package using the Package Manager Console.
+3. Install Aspose.HTML for .NET through MSI.</br>  
 
 This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a Document Object Model (DOM) based on the WHATWG DOM Standard. Aspose.HTML for .NET is written completely in C# and can be used to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms & .NET Core. Before running the .NET conversion example code, make sure that you have OS like Microsoft Windows or a compatible with .NET Framework or .NET Standard, and the development environment like Microsoft Visual Studio.
   For more details about C# library installation and system requirements, please refer to [Aspose.HTML Documentation](https://docs.aspose.com/html/net/getting-started/).

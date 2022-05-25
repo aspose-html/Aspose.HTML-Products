@@ -27,54 +27,15 @@ HTML files are frequently used to create, edit, or communicate a lot of informat
 <p>Test the quality of HTML to TIFF conversion right in your browser! The following C# example demonstrates how to convert an HTML document. We describe the source code for reading HTML from a file and then converting HTML to TIFF with default saving options. Please load HTML from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< html-converter TIFF PDF DOCX XPS MD MHTML JPG PNG GIF BMP >}}
+{{< app/html/converter HTML TIFF>}}
+using Aspose.Html;
+using Aspose.Html.Converters;
+using Aspose.Html.Saving;
 
-	// Load an HTML document from a file
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 
-	
-	// Initialize a Save Options object
-	Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Tiff);		
-	
-	// Convert HTML to TIFF 
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.PdfSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.DocSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.XpsSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MarkdownSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MHTMLSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Jpeg);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===	
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Gif);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Bmp);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");	
-	
-{{< /html-converter >}} 
+    using var document = new HTMLDocument("document.{{input lower}}");
+    var options = new ImageSaveOptions(ImageFormat.{{output camel}});
+    Converter.ConvertHTML(document, options, "output.{{output lower}}");   
+{{< /app/html/converter>}}
 
 {{% blocks/products/pf/agp/content  %}}
 <p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/epub" target="_blank">EPUB</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/md" target="_blank">Markdown</a> documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIF, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting HTML to popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>

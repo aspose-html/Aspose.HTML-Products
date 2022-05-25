@@ -100,16 +100,32 @@ You can try online HTML Converter
 	<p>You can convert HTML with Aspose.HTML for .NET API in real-time.  The following C# example demonstrates how to convert an HTML document. Please load a file from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/feature-page-section %}}
 
-{{< html-converter HTML PDF DOCX XPS MD XHTML MHTML JPG PNG GIF TIFF BMP >}}
+
+{{< app/html/converter HTML PDF DOCX MD BMP JPG PNG GIF TIFF XPS>}}
 using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 using Aspose.Html.Rendering.Image;
 
-	var document = new HTMLDocument("template.html"); 	
-	var options = new ImageSaveOptions(ImageFormat.Bmp);	
-	ConvertHTML(document, options, "output.bmp");  
-{{< /html-converter >}}
+    using var document = new HTMLDocument("input.{{input lower}}");    
+{{#if_output 'PDF'}}
+    var options = new PdfSaveOptions();
+{{/if_output}}
+{{#if_output 'DOCX'}}
+    var options = new DocSaveOptions();
+{{/if_output}}
+{{#if_output 'XPS'}}
+    var options = new XpsSaveOptions();
+{{/if_output}}
+{{#if_output 'MD'}}
+    var options = new MarkdownSaveOptions();
+{{/if_output}}
+{{#if_output 'JPG' 'PNG' 'GIF' 'TIFF' 'BMP'}}
+    var options = new ImageSaveOptions(ImageFormat.{{output camel}});
+{{/if_output}}
+    Converter.ConvertHTML(document, options, "output.{{output lower}}");   
+{{< /app/html/converter>}}
+
 
 {{% blocks/products/pf/feature-page-section  h2="Installing Aspose.HTML for .NET library" %}}
 

@@ -27,54 +27,15 @@ HTML files are frequently used to create, edit, or communicate a lot of informat
 <p>The following C# example demonstrates how to convert an HTML document. We describe the source code for reading HTML from a file and then converting HTML to JPEG with default saving options. Please load HTML from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< html-converter JPG PDF DOCX XPS MD MHTML GIF PNG TIFF BMP >}}
+{{< app/html/converter HTML "JPG|JPEG">}}
+using Aspose.Html;
+using Aspose.Html.Converters;
+using Aspose.Html.Saving;
 
-	// Load an HTML document from a file
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 
-	
-	// Initialize a Save Options object
-	Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Jpeg);		
-	
-	// Convert HTML to JPEG 
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.PdfSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.DocSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.XpsSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MarkdownSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.MHTMLSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}"); 
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Gif);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions();	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===	
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Tiff);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");
-===
-	using var document = new Aspose.Html.HTMLDocument("${inputFile}"); 	
-	var options = new Aspose.Html.Saving.ImageSaveOptions(ImageFormat.Bmp);	
-	Aspose.Html.Converters.Converter.ConvertHTML(document, options, "${outputFile}");	
-	
-{{< /html-converter >}} 
+    using var document = new HTMLDocument("document.{{input lower}}");
+    var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
+    Converter.ConvertHTML(document, options, "output.{{output lower}}");   
+{{< /app/html/converter>}}
 
 {{% blocks/products/pf/agp/content  %}}
 <p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/epub" target="_blank">EPUB</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/md" target="_blank">Markdown</a> documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, GIF, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting HTML to popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>
@@ -115,8 +76,8 @@ A JPEG is a type of image format that is saved using the method of lossy compres
 
 You can use several ways to install the Aspose.HTML library for .NET on your system:
 1. Install a <a href="https://www.nuget.org/packages/aspose.html" target="_blank">NuGet Package</a> using the NuGet Package Manager GUI.
-1. Install a NuGet Package using the Package Manager Console.
-1. Install Aspose.HTML for .NET through MSI.</br> 
+2. Install a NuGet Package using the Package Manager Console.
+3. Install Aspose.HTML for .NET through MSI.</br> 
 
 This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a Document Object Model (DOM) based on the WHATWG DOM Standard. Aspose.HTML for .NET is written completely in C# and can be used to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms & .NET Core. Before running the .NET conversion example code, make sure that you have OS like Microsoft Windows or a compatible with .NET Framework or .NET Standard, and the development environment like Microsoft Visual Studio.
   For more details about C# library installation and system requirements, please refer to [Aspose.HTML Documentation](https://docs.aspose.com/html/net/getting-started/).
