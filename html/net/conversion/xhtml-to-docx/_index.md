@@ -27,13 +27,28 @@ description: Convert XHTML to DOCX using C# or VB.NET. Easily use XHTML to DOCX 
 <p>Test the quality of XHTML to DOCX conversion right in your browser! The following C# example demonstrates how to convert an XHTML document. We describe the source code for reading XHTML from a file and then converting XHTML to DOCX with default saving options. Please load XHTML from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< app/html/converter XHTML DOCX>}}
+{{< app/html/converter XHTML DOCX BMP XPS TIFF PNG PDF "JPG|JPEG" GIF >}}
 using Aspose.Html;
+using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
     using var document = new HTMLDocument("document.{{input lower}}");
+{{#if_output 'PDF'}}
+    var options = new PdfSaveOptions();
+{{/if_output}}
+{{#if_output 'DOCX'}}
     var options = new DocSaveOptions();
+{{/if_output}}
+{{#if_output 'XPS'}}
+    var options = new XpsSaveOptions();
+{{/if_output}}
+{{#if_output 'MD'}}
+    var options = new MarkdownSaveOptions();
+{{/if_output}}
+{{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
+    var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
+{{/if_output}}
     Converter.ConvertHTML(document, options, "output.{{output lower}}");   
 {{< /app/html/converter>}} 
 

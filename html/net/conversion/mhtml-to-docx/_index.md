@@ -26,13 +26,27 @@ To convert MHTML to DOCX, we will use [Aspose.HTML for .NET](https://products.as
 <p> Test the quality of MHTML to DOCX conversion right in your browser! The following C# example demonstrates how to convert an MHTML document. We describe the source code for reading MHTML from a file and then converting MHTML to DOCX with default saving options. Please load MHTML from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< app/html/converter MHTML DOCX>}}
+{{< app/html/converter MHTML DOCX BMP XPS TIFF PNG PDF "JPG|JPEG" GIF >}}
 using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
     using var stream = File.OpenRead("sample.mht");
+{{#if_output 'PDF'}}
+    var options = new PdfSaveOptions();
+{{/if_output}}
+{{#if_output 'DOCX'}}
     var options = new DocSaveOptions();
+{{/if_output}}
+{{#if_output 'XPS'}}
+    var options = new XpsSaveOptions();
+{{/if_output}}
+{{#if_output 'MD'}}
+    var options = new MarkdownSaveOptions();
+{{/if_output}}
+{{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
+    var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
+{{/if_output}}
     Converter.ConvertMHTML(stream, options, "output.{{output lower}}");   
 {{< /app/html/converter>}} 
 
@@ -75,8 +89,8 @@ DOCX is a text-based file format with markup in the XML, using a reformulation o
 
 You can use several ways to install the Aspose.HTML library for .NET on your system:
 1. Install a <a href="https://www.nuget.org/packages/aspose.html" target="_blank">NuGet Package</a> using the NuGet Package Manager GUI.
-1. Install a NuGet Package using the Package Manager Console.
-1. Install Aspose.HTML for .NET through MSI.</br>  
+2. Install a NuGet Package using the Package Manager Console.
+3. Install Aspose.HTML for .NET through MSI.</br>  
 
 This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a Document Object Model (DOM) based on the WHATWG DOM Standard. Aspose.HTML for .NET is written completely in C# and can be used to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms & .NET Core. Before running the .NET conversion example code, make sure that you have OS like Microsoft Windows or a compatible with .NET Framework or .NET Standard, and the development environment like Microsoft Visual Studio.
   For more details about C# library installation and system requirements, please refer to [Aspose.HTML Documentation](https://docs.aspose.com/html/net/getting-started/).

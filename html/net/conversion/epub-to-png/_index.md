@@ -26,13 +26,27 @@ In order to convert EPUB to PNG, we’ll use [Aspose.HTML for .NET](https://prod
 <p> Test the quality of EPUB to PNG conversion right in your browser! The following C# example demonstrates how to convert an EPUB document. We describe the source code for reading EPUB from a file and then converting EPUB to PNG with default saving options. Please load EPUB from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< app/html/converter EPUB PNG >}}
+{{< app/html/converter EPUB PNG PDF "JPG|JPEG" DOCX BMP MD TIFF XPS>}}
 using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
     using var stream = File.OpenRead(DataDir + "input.epub");
-    var options = new ImageSaveOptions(ImageFormat.{{output camel}});
+{{#if_output 'PDF'}}
+    var options = new PdfSaveOptions();
+{{/if_output}}
+{{#if_output 'DOCX'}}
+    var options = new DocSaveOptions();
+{{/if_output}}
+{{#if_output 'XPS'}}
+    var options = new XpsSaveOptions();
+{{/if_output}}
+{{#if_output 'MD'}}
+    var options = new MarkdownSaveOptions();
+{{/if_output}}
+{{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
+    var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
+{{/if_output}}
     Converter.ConvertEPUB(stream, options, "output.{{output lower}}");   
 {{< /app/html/converter>}}
 

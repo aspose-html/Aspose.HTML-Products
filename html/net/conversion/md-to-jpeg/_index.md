@@ -27,12 +27,26 @@ In order to convert MD to JPEG, we’ll use [Aspose.HTML for .NET](https://produ
 <p> Test the quality of MD to JPEG conversion right in your browser! The following C# example demonstrates how to convert an MD document. We describe the source code for reading MD from a file and then converting MD to JPEG with default saving options. Please load MD from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< app/html/converter MD "JPG|JPEG">}}
+{{< app/html/converter MD "JPG|JPEG" GIF DOCX BMP XPS TIFF PNG PDF >}}
 using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
-    var options = new ImageSaveOptions(ImageFormat.{{output camel}});
+{{#if_output 'PDF'}}
+    var options = new PdfSaveOptions();
+{{/if_output}}
+{{#if_output 'DOCX'}}
+    var options = new DocSaveOptions();
+{{/if_output}}
+{{#if_output 'XPS'}}
+    var options = new XpsSaveOptions();
+{{/if_output}}
+{{#if_output 'MD'}}
+    var options = new MarkdownSaveOptions();
+{{/if_output}}
+{{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
+    var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
+{{/if_output}}
     Converter.ConvertMarkdown("document.{{input lower}}", options, "output.{{output lower}}");   
 {{< /app/html/converter>}} 
 

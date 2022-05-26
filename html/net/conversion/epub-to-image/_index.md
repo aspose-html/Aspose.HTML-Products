@@ -33,7 +33,7 @@ using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
     using var stream = File.OpenRead(DataDir + "input.epub");
-    var options = new ImageSaveOptions(ImageFormat.{{output param 2camel}});
+    var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
     Converter.ConvertEPUB(stream, options, "output.{{output lower}}");   
 {{< /app/html/converter>}}
 

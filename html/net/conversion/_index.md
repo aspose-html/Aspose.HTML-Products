@@ -101,13 +101,13 @@ You can try online HTML Converter
 {{% /blocks/products/pf/feature-page-section %}}
 
 
-{{< app/html/converter HTML PDF DOCX MD BMP JPG PNG GIF TIFF XPS>}}
+{{< app/html/converter HTML PDF DOCX MD BMP "JPG|JPEG" PNG GIF TIFF XPS>}}
 using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 using Aspose.Html.Rendering.Image;
 
-    using var document = new HTMLDocument("input.{{input lower}}");    
+    using var document = new HTMLDocument("input.{{input lower}}");
 {{#if_output 'PDF'}}
     var options = new PdfSaveOptions();
 {{/if_output}}
@@ -120,10 +120,10 @@ using Aspose.Html.Rendering.Image;
 {{#if_output 'MD'}}
     var options = new MarkdownSaveOptions();
 {{/if_output}}
-{{#if_output 'JPG' 'PNG' 'GIF' 'TIFF' 'BMP'}}
+{{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
     var options = new ImageSaveOptions(ImageFormat.{{output camel}});
 {{/if_output}}
-    Converter.ConvertHTML(document, options, "output.{{output lower}}");   
+    Converter.ConvertHTML(document, options, "output.{{output lower}}");
 {{< /app/html/converter>}}
 
 

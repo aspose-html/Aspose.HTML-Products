@@ -27,12 +27,26 @@ In order to convert MD to XPS, we’ll use [Aspose.HTML for .NET](https://produc
 <p> Test the quality of MD to XPS conversion right in your browser! The following C# example demonstrates how to convert an MD document. We describe the source code for reading MD from a file and then converting MD to XPS with default saving options. Please load MD from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< app/html/converter MD XPS>}}
+{{< app/html/converter MD XPS TIFF PNG PDF "JPG|JPEG" GIF DOCX BMP>}}
 using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
+{{#if_output 'PDF'}}
+    var options = new PdfSaveOptions();
+{{/if_output}}
+{{#if_output 'DOCX'}}
+    var options = new DocSaveOptions();
+{{/if_output}}
+{{#if_output 'XPS'}}
     var options = new XpsSaveOptions();
+{{/if_output}}
+{{#if_output 'MD'}}
+    var options = new MarkdownSaveOptions();
+{{/if_output}}
+{{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
+    var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
+{{/if_output}}
     Converter.ConvertMarkdown("document.{{input lower}}", options, "output.{{output lower}}");   
 {{< /app/html/converter>}} 
 
@@ -74,8 +88,8 @@ An XPS file represents page layout files that are based on XML Paper Specificati
 
 You can use several ways to install the Aspose.HTML library for .NET on your system:
 1. Install a <a href="https://www.nuget.org/packages/aspose.html" target="_blank">NuGet Package</a> using the NuGet Package Manager GUI.
-1. Install a NuGet Package using the Package Manager Console.
-1. Install Aspose.HTML for .NET through MSI.</br>  
+2. Install a NuGet Package using the Package Manager Console.
+3. Install Aspose.HTML for .NET through MSI.</br>  
 
 This library supports parsing of HTML5, CSS3, SVG and HTML Canvas to construct a Document Object Model (DOM) based on the WHATWG DOM Standard. Aspose.HTML for .NET is written completely in C# and can be used to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms & .NET Core. Before running the .NET conversion example code, make sure that you have OS like Microsoft Windows or a compatible with .NET Framework or .NET Standard, and the development environment like Microsoft Visual Studio.
   For more details about C# library installation and system requirements, please refer to [Aspose.HTML Documentation](https://docs.aspose.com/html/net/getting-started/).

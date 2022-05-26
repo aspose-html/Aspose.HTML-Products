@@ -27,15 +27,33 @@ description: Convert XHTML to PDF using C# or VB.NET. Easily use XHTML to PDF co
 <p>Test the quality of XHTML to PDF conversion right in your browser! The following C# example demonstrates how to convert an XHTML document. We describe the source code for reading XHTML from a file and then converting XHTML to PDF with default saving options. Please load XHTML from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< app/html/converter XHTML PDF>}}
+{{< app/html/converter XHTML PDF MHTML MD "JPG|JPEG" GIF BMP XPS TIFF PNG DOCX>}}
 using Aspose.Html;
+using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
     using var document = new HTMLDocument("document.{{input lower}}");
+{{#if_output 'MHTML'}}
+    var options = new MHTMLSaveOptions();
+{{/if_output}}
+{{#if_output 'PDF'}}
     var options = new PdfSaveOptions();
+{{/if_output}}
+{{#if_output 'DOCX'}}
+    var options = new DocSaveOptions();
+{{/if_output}}
+{{#if_output 'XPS'}}
+    var options = new XpsSaveOptions();
+{{/if_output}}
+{{#if_output 'MD'}}
+    var options = new MarkdownSaveOptions();
+{{/if_output}}
+{{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
+    var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
+{{/if_output}}
     Converter.ConvertHTML(document, options, "output.{{output lower}}");   
-{{< /app/html/converter>}}
+{{< /app/html/converter>}} 
 
 
 {{% blocks/products/pf/agp/content  %}}
