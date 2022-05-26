@@ -32,7 +32,7 @@ using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
     var doc = new HTMLDocument("input.xhtml");
-    doc.Save("output.htm", new HTMLSaveOptions() { DocumentType = OutputDocumentType.HTML});
+    doc.Save("output.htm", new HTMLSaveOptions() { DocumentType = HTMLSaveOptions.HTML});
 
 {{< /app/html/converter >}}
 

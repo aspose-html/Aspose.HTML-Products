@@ -105,7 +105,6 @@ You can try online HTML Converter
 using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
-using Aspose.Html.Rendering.Image;
 
     using var document = new HTMLDocument("input.{{input lower}}");
 {{#if_output 'PDF'}}

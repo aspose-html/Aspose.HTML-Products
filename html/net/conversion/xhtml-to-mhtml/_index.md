@@ -28,7 +28,6 @@ description: Convert XHTML to MHTML using C# or VB.NET. Easily use XHTML to MHTM
 
 {{< app/html/converter XHTML MHTML MD "JPG|JPEG" GIF BMP XPS TIFF PNG PDF DOCX>}}
 using Aspose.Html;
-using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 

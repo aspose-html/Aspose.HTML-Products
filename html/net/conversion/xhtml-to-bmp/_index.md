@@ -29,7 +29,6 @@ The main highlight of [Aspose.HTML .NET](https://products.aspose.com/html/net/) 
 
 {{< app/html/converter XHTML BMP XPS TIFF PNG PDF "JPG|JPEG" GIF DOCX>}}
 using Aspose.Html;
-using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 

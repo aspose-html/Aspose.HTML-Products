@@ -29,7 +29,6 @@ description: Convert XHTML to DOCX using C# or VB.NET. Easily use XHTML to DOCX 
 
 {{< app/html/converter XHTML DOCX BMP XPS TIFF PNG PDF "JPG|JPEG" GIF >}}
 using Aspose.Html;
-using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 

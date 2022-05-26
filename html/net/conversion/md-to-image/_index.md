@@ -27,11 +27,13 @@ In order to convert MD to Image, we’ll use [Aspose.HTML for .NET](https://prod
 <p> Test the quality of MD to Image conversion right in your browser! The following C# example demonstrates how to convert an MD document. We describe the source code for reading MD from a file and then converting MD to Image with default saving options. Please load MD from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< app/html/converter MD BMP "JPG|JPEG" GIF PNG TIFF>}}
+{{< app/html/converter MD BMP TIFF PNG "JPG|JPEG" GIF >}}
 using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
+using Aspose.Html.Rendering.Image;
 
+    using var document = Converter.ConvertMarkdown("input.md");
 {{#if_output 'PDF'}}
     var options = new PdfSaveOptions();
 {{/if_output}}
@@ -41,14 +43,11 @@ using Aspose.Html.Saving;
 {{#if_output 'XPS'}}
     var options = new XpsSaveOptions();
 {{/if_output}}
-{{#if_output 'MD'}}
-    var options = new MarkdownSaveOptions();
-{{/if_output}}
 {{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
     var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
 {{/if_output}}
-    Converter.ConvertMarkdown("document.{{input lower}}", options, "output.{{output lower}}");   
-{{< /app/html/converter>}} 
+    Converter.ConvertHTML(document, options, "output.{{output lower}}");   
+{{< /app/html/converter>}}
 
 {{% blocks/products/pf/agp/content  %}}
 <p>Aspose.HTML offers free online <a href="https://products.aspose.app/html/conversion" target="_blank">Converters</a> for converting <a href="https://products.aspose.app/html/conversion/html" target="_blank">HTML</a>, <a href="https://products.aspose.app/html/conversion/xhtml" target="_blank">XHTML</a>, <a href="https://products.aspose.app/html/conversion/mhtml" target="_blank">MHTML</a>, <a href="https://products.aspose.app/html/conversion/epub" target="_blank">EPUB</a>, <a href="https://products.aspose.app/html/conversion/xml" target="_blank">XML</a> or <a href="https://products.aspose.app/html/conversion/md" target="_blank">Markdown</a> documents to PDF, XPS, DOCX, JPG, PNG, BMP, TIFF, Image, Markdown and other formats. Just upload, convert your documents and get results in a few seconds. You don't need any additional software. Powerful C# API allows converting MD to popular formats with high speed and high quality. Try our forceful online Converters for free now!</p>

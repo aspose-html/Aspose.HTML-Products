@@ -29,7 +29,6 @@ description: Convert XHTML to PDF using C# or VB.NET. Easily use XHTML to PDF co
 
 {{< app/html/converter XHTML PDF MHTML MD "JPG|JPEG" GIF BMP XPS TIFF PNG DOCX>}}
 using Aspose.Html;
-using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 

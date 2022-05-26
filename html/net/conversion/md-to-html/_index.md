@@ -28,9 +28,7 @@ Markdown is a markup language with a plain-text-formatting syntax that allows yo
 {{% /blocks/products/pf/agp/content %}}
 
 {{< app/html/converter MD HTML>}}
-using Aspose.Html;
 using Aspose.Html.Converters;
-using Aspose.Html.Saving;
 
     Converter.ConvertMarkdown("document.{{input lower}}", "output.{{output lower}}");   
 {{< /app/html/converter>}} 

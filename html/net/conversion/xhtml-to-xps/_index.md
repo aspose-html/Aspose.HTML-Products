@@ -29,7 +29,6 @@ description: Convert XHTML to XPS using C# or VB.NET. Easily use XHTML to XPS co
 
 {{< app/html/converter XHTML XPS TIFF PNG PDF MHTML MD "JPG|JPEG" GIF BMP DOCX>}}
 using Aspose.Html;
-using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 

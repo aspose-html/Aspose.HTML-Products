@@ -32,6 +32,7 @@ using Aspose.Html;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
+    using var document = Converter.ConvertMarkdown("input.md");
 {{#if_output 'PDF'}}
     var options = new PdfSaveOptions();
 {{/if_output}}
@@ -41,13 +42,10 @@ using Aspose.Html.Saving;
 {{#if_output 'XPS'}}
     var options = new XpsSaveOptions();
 {{/if_output}}
-{{#if_output 'MD'}}
-    var options = new MarkdownSaveOptions();
-{{/if_output}}
 {{#if_output 'BMP' 'JPG' 'GIF' 'PNG' 'TIFF'}}
     var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
 {{/if_output}}
-    Converter.ConvertMarkdown("document.{{input lower}}", options, "output.{{output lower}}");   
+    Converter.ConvertHTML(document, options, "output.{{output lower}}");    
 {{< /app/html/converter>}} 
 
 {{% blocks/products/pf/agp/content  %}}

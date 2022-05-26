@@ -31,7 +31,6 @@ description: Convert XHTML to MD using C# or VB.NET. Easily use XHTML to Markdow
 
 {{< app/html/converter XHTML MD "JPG|JPEG" GIF BMP XPS TIFF PNG PDF DOCX>}}
 using Aspose.Html;
-using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
 using Aspose.Html.Saving;
 
