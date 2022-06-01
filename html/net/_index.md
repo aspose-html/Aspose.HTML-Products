@@ -419,7 +419,7 @@ Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "ou
 		<ul>
 			<li><a href="/html/net/conversion/mhtml-to-pdf/"> MHTML to PDF</a></li>
 			<li><a href="/html/net/conversion/mhtml-to-gif">MHTML to GIF </a></li>
-			<li><a href="/html/net/conversion/mhtml-to-jpg">MHTML to JPG</a></li>
+			<li><a href="/html/net/conversion/mhtml-to-jpeg">MHTML to JPEG</a></li>
 			<li><a href="/html/net/conversion/epub-to-jpeg">EPUB to JPEG</a></li>
             <li><a href="/html/net/conversion/epub-to-pdf">EPUB to PDF</a></li>					
 		</ul>

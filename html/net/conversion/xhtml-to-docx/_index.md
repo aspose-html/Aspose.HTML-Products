@@ -56,7 +56,7 @@ using Aspose.Html.Saving;
 {{% /blocks/products/pf/agp/content  %}}
 
 <a id=lviv.doc />
-{{% blocks/products/pf/agp/content h2="HTML to DOCX Conversion in Documentation" %}}
+{{% blocks/products/pf/agp/content h2="XHTML to DOCX Conversion in Documentation" %}}
 
 XHTML to DOCX conversion is often required to take advantage of DOCX format for specific tasks. DOCX format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. Aspose.HTML for .NET API allows you to convert (X)HTML to other popular formats quickly and with high quality. Please visit the documentation chapter <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Converting Between Formats</a> to learn more about the API conversion features. The chapter describes popular converters, as well as C# examples for the most common conversion scenarios.
 
@@ -65,7 +65,7 @@ XHTML to DOCX conversion is often required to take advantage of DOCX format for 
 <!-- aboutfile Starts -->
 	
     {{< blocks/products/pf/agp/about-file-section >}}     
-    {{< blocks/products/pf/agp/about-file-text fileFormat="HTML" readMoreLink="https://docs.fileformat.com/web/xhtml/" >}}
+    {{< blocks/products/pf/agp/about-file-text fileFormat="XHTML" readMoreLink="https://docs.fileformat.com/web/xhtml/" >}}
 XHTML (eXtensible HyperText Markup Language) is a text-based file format with markup in the XML, using a reformulation of HTML 4.0. These files are well suited to be opened or viewed in a web browser. The XHTML was designed to be more structured, less scripting, generic and device-independent. It uses all the existing XML facilities and more. The XHTML provides a generally worthwhile set of elements and attributes, with extension options combined with style sheets. Specifications for HTML 4.01, HTML5 and XHTML are being dynamically developed by the World Wide Web Consortium (W3C).
     {{< /blocks/products/pf/agp/about-file-text >}}
     
