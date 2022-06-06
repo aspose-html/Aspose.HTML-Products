@@ -18,15 +18,18 @@ description: C# .NET API to read, write, modify, edit, merge and convert HTML, X
 <p>Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality. You can see the full list of Aspose.HTML features in our <a href="https://docs.aspose.com/html/net/getting-started/" target="_blank">documentation</a>.</p>
 
 <p>Using Aspose.HTML for .NET in your project allows you to perform the following tasks:</p>
+<div>
+	<ul>
+		<li><a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Create or load HTML-based documents</a> from a file, URL, string, or stream.</li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Convert documents</a> between popular formats.</li>
+		<li><a href="https://docs.aspose.com/html/net/message-handlers/" target="_blank">Create custom message handlers</a> to do a specific task.</li>
+		<li><a href="https://docs.aspose.com/html/net/how-to-articles/how-to-use-xpath/" target="_blank">Navigate HTML documents</a> using XPath Query or CSS Selector.</li>
+        <li><a href="https://docs.aspose.com/html/net/working-with-documents/editing-a-document/" target="_blank">Edit HTML files</a> by inserting new nodes, removing, or editing the content of existing nodes.</li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/" target="_blank">Render documents</a> with high quality.</li>
+		<li><a href="https://docs.aspose.com/html/net/web-scraping/" target="_blank">Extract data from the web</a>, download a video or audio by its URL, and more.</li>
+	</ul>
+</div>
 
-<p><a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Create or load HTML-based documents</a> from a file, URL, string, or stream.</br>
-<a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Convert documents</a> between popular formats.</br>
-<a href="https://docs.aspose.com/html/net/message-handlers/" target="_blank">Create custom message handlers</a> to do a specific task.</br>
-<a href="https://docs.aspose.com/html/net/how-to-articles/how-to-use-xpath/" target="_blank">Navigate HTML documents</a> using XPath Query or CSS Selector.</br>
-<a href="https://docs.aspose.com/html/net/working-with-documents/editing-a-document/" target="_blank">Edit HTML files</a> by inserting new nodes, removing, or editing the content of existing nodes.</br>
-<a href="https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/" target="_blank">Render documents</a> with high quality.</br>
-<a href="https://docs.aspose.com/html/net/web-scraping/" target="_blank">Extract data from the web</a>, download a video or audio by its URL.</br>
-and more</p>
 
 {{< /blocks/products/pf/tab-content >}}
 

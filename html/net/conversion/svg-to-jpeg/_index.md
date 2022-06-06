@@ -26,7 +26,7 @@ In order to convert SVG to JPEG, we will use [Aspose.HTML for .NET](https://prod
 <p> Test the quality of SVG to JPEG conversion right in your browser! The following C# example demonstrates how to convert an SVG document. We describe the source code for reading SVG from a file and then converting SVG to JPEG with default saving options. Please load SVG from the local file system, select the output format and run the example. You will immediately get the result as a separate file.</p>
 {{% /blocks/products/pf/agp/content %}}
 
-{{< app/html/converter SVG "JPG|JPEG" GIF BMP XPS TIFF PNG PDF DOCX>}}
+{{< app/svg/converter SVG "JPG|JPEG" GIF BMP XPS TIFF PNG PDF DOCX>}}
 using Aspose.Html;
 using Aspose.Html.Dom.Svg;
 using Aspose.Html.Converters;
@@ -49,7 +49,7 @@ using Aspose.Html.Saving;
     var options = new ImageSaveOptions(ImageFormat.{{output param2 camel}});
 {{/if_output}}
     Converter.ConvertSVG(document, options, "output.{{output lower}}");
-{{< /app/html/converter>}} 
+{{< /app/svg/converter>}} 
 
 
 {{% blocks/products/pf/agp/content  %}}
