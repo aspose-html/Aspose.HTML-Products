@@ -1,5 +1,5 @@
 ---
-title: Convert HTML to XPS via C# 
+title: Convert HTML to XPS in C# .NET
 weight: 580
 url: /net/conversion/html-to-xps/ 
 description: Convert HTML to XPS using C# or VB.NET. Easily use HTML to XPS converter API within ASP.NET or any .NET application.

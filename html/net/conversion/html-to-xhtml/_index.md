@@ -1,5 +1,5 @@
 ---
-title: Convert HTML to XHTML via C# 
+title: Convert HTML to XHTML in C# 
 url: /net/conversion/html-to-xhtml/ 
 description: Convert HTML to XHTML using C# or VB.NET. Easily use HTML to XHTML converter API within ASP.NET or any .NET application. 
 ---

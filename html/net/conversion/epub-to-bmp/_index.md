@@ -1,5 +1,5 @@
 ---
-title: Convert EPUB to BMP via C# 
+title: Convert EPUB to BMP in C#
 weight: 660
 url: /net/conversion/epub-to-bmp/ 
 description: Sample code for EPUB to BMP C# conversion. Use API example code for batch EPUB files to BMP conversion within VB.NET, Asp.NET or any .NET based application.
