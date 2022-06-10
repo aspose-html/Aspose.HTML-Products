@@ -1,5 +1,5 @@
 ---
-title: Convert HTML to DOCX via C# 
+title: Convert HTML to DOCX in C# 
 weight: 112
 url: /net/conversion/html-to-docx/ 
 description: Convert HTML to DOCX using C# or VB.NET. Easily use HTML to DOCX converter API within ASP.NET or any .NET application. 

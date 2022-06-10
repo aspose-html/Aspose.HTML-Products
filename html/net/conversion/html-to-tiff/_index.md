@@ -1,5 +1,5 @@
 ---
-title: Convert HTML to TIFF via C# 
+title: Convert HTML to TIFF in C# .NET 
 weight: 840
 url: /net/conversion/html-to-tiff/ 
 description: Sample code for HTML to TIFF C# conversion. Use API example code for batch HTML files to TIFF conversion within VB.NET, Asp.NET or any .NET based application.

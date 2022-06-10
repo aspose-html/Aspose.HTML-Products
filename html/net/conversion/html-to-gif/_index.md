@@ -1,5 +1,5 @@
 ---
-title: Convert HTML to GIF using C#
+title: Convert HTML to GIF in C#
 weight: 20
 url: /net/conversion/html-to-gif/ 
 description: Convert HTML to GIF using C# or VB.NET. Easily use HTML to GIF converter API within ASP.NET or any .NET application.

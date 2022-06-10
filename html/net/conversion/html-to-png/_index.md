@@ -1,5 +1,5 @@
 ---
-title: Convert HTML to PNG via C# 
+title: Convert HTML to PNG in C# .NET 
 weight: 850
 url: /net/conversion/html-to-png/ 
 description: Sample code for HTML to PNG C# conversion. Use API example code for batch HTML files to PNG conversion within VB.NET, Asp.NET or any .NET based application.

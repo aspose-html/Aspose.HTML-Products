@@ -13,11 +13,11 @@ description: C# .NET API to read, write, modify, edit, merge and convert HTML, X
 {{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/html/net" >}}
 
 {{< blocks/products/pf/tab-content >}}
-<p>Aspose.HTML for .NET is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API supports to generate, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, XML, SVG, and Markdown and rendering to PDF, DOCX, XPS and Image file formats.</p>
+<p>Aspose.HTML for .NET is an advanced HTML processing API to perform a wide range of management and manipulation tasks within cross-platform applications. API supports to generate, modify, extract data, convert and render HTML documents without any external software. Also, it supports popular file formats such as EPUB, MHTML, XML, SVG, and Markdown and rendering to PDF, DOCX, XPS and Image file formats. Aspose.HTML for .NET is written completely in C# and can be used to build any type of 32-bit or 64-bit .NET application including ASP.NET, WCF, WinForms & .NET Core. </p>
 
 <p>Moreover, the HTML Document Object Model is integrated with embedded formats and specifications such as CSS, HTML Canvas, SVG, XPath and JavaScript out-of-the-box that extend the manipulation functional and rendering quality. You can see the full list of Aspose.HTML features in our <a href="https://docs.aspose.com/html/net/getting-started/" target="_blank">documentation</a>.</p>
 
-<p>Using Aspose.HTML for .NET in your project allows you to perform the following tasks:</p>
+<p>Using Aspose.HTML C# library in your project allows you to perform the following tasks:</p>
 <div>
 	<ul>
 		<li><a href="https://docs.aspose.com/html/net/working-with-documents/creating-a-document/" target="_blank">Create or load HTML-based documents</a> from a file, URL, string, or stream.</li>
@@ -26,9 +26,11 @@ description: C# .NET API to read, write, modify, edit, merge and convert HTML, X
 		<li><a href="https://docs.aspose.com/html/net/how-to-articles/how-to-use-xpath/" target="_blank">Navigate HTML documents</a> using XPath Query or CSS Selector.</li>
         <li><a href="https://docs.aspose.com/html/net/working-with-documents/editing-a-document/" target="_blank">Edit HTML files</a> by inserting new nodes, removing, or editing the content of existing nodes.</li>
 		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/" target="_blank">Render documents</a> with high quality.</li>
-		<li><a href="https://docs.aspose.com/html/net/web-scraping/" target="_blank">Extract data from the web</a>, download a video or audio by its URL, and more.</li>
+		<li><a href="https://docs.aspose.com/html/net/web-scraping/" target="_blank">Extract data from the web</a>, download a video or audio by its URL,</li>
+        <li>and more.</li>
 	</ul>
 </div>
+
 
 
 {{< /blocks/products/pf/tab-content >}}
@@ -268,7 +270,7 @@ description: C# .NET API to read, write, modify, edit, merge and convert HTML, X
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">
-    Advanced .NET HTML Manipulation API Features
+    Advanced C# HTML API Features
    </h2>
    <p>
    </p>
@@ -378,9 +380,10 @@ description: C# .NET API to read, write, modify, edit, merge and convert HTML, X
     </p>
    </div>   
 
+
    <div class="col-lg-12">
     <h2 class="h2title">
-Convert HTML to PDF, Image and Other Formats
+Convert HTML to PDF, Image and Other Formats in C#
     </h2>
     <p>
 API allows with just a few lines of code to implement HTML to PDF, HTML to Image or any other conversion for your .NET applications. The conversion process is simple and reliable, thus making Aspose.HTML for .NET API a perfect choice.
@@ -418,13 +421,13 @@ Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "ou
 	</ul>
 	</div>
 	<div class="col-md-3">		
-		
+
 		<ul>
 			<li><a href="/html/net/conversion/mhtml-to-pdf/"> MHTML to PDF</a></li>
 			<li><a href="/html/net/conversion/mhtml-to-gif">MHTML to GIF </a></li>
 			<li><a href="/html/net/conversion/mhtml-to-jpeg">MHTML to JPEG</a></li>
 			<li><a href="/html/net/conversion/epub-to-jpeg">EPUB to JPEG</a></li>
-            <li><a href="/html/net/conversion/epub-to-pdf">EPUB to PDF</a></li>					
+	        <li><a href="/html/net/conversion/epub-to-pdf">EPUB to PDF</a></li>					
 		</ul>
 	</div>
 	<div class="col-md-3">
@@ -433,7 +436,7 @@ Aspose.Html.Converters.Converter.ConvertHTML(document, new PdfSaveOptions(), "ou
 			<li><a href="/html/net/conversion/svg-to-png">SVG to PNG </a></li>
 			<li><a href="/html/net/conversion/md-to-pdf">MD to PDF</a></li>
 			<li><a href="/html/net/conversion/md-to-docx">MD to DOCX</a></li>
-            <li><a href="/html/net/conversion/md-to-jpeg">MD to JPEG</a></li>		
+	        <li><a href="/html/net/conversion/md-to-jpeg">MD to JPEG</a></li>		
 		</ul>
 	</div>	
 </div>

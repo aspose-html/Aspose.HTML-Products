@@ -1,5 +1,5 @@
 ---
-title: Convert HTML to JPEG via C# 
+title: Convert HTML to JPEG in C# 
 weight: 710
 url: /net/conversion/html-to-jpeg/ 
 description: Convert HTML to JPEG using C#. Easily use HTML to JPEG converter API within ASP.NET or any .NET application.

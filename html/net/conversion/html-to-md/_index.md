@@ -1,5 +1,5 @@
 ---
-title: Convert HTML to Markdown via C# 
+title: Convert HTML to Markdown in C# 
 weight: 870
 url: /net/conversion/html-to-md/ 
 description: Convert HTML to Markdown using C#. Easily use HTML to Markdown converter API within ASP.NET or any .NET application.
