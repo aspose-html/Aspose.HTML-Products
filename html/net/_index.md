@@ -25,8 +25,7 @@ description: C# .NET API to read, write, modify, edit, merge and convert HTML, X
 		<li><a href="https://docs.aspose.com/html/net/message-handlers/" target="_blank">Create custom message handlers</a> to do a specific task.</li>
 		<li><a href="https://docs.aspose.com/html/net/how-to-articles/how-to-use-xpath/" target="_blank">Navigate HTML documents</a> using XPath Query or CSS Selector.</li>
         <li><a href="https://docs.aspose.com/html/net/working-with-documents/editing-a-document/" target="_blank">Edit HTML files</a> by inserting new nodes, removing, or editing the content of existing nodes.</li>
-		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/" target="_blank">Render documents</a> with high quality.</li>
-		<li><a href="https://docs.aspose.com/html/net/web-scraping/" target="_blank">Extract data from the web</a>, download a video or audio by its URL,</li>
+		<li><a href="https://docs.aspose.com/html/net/converting-between-formats/fine-tuning-converters/" target="_blank">Render documents</a> with high quality,</li>		
         <li>and more.</li>
 	</ul>
 </div>
@@ -569,7 +568,7 @@ You can try online Data Scrapers Apps
     <a href="https://products.aspose.app/html/data-scrapers" rel="opener noopener noreferrer" target="_blank"> 
      here.
     </a><p>
-    <p>Aspose.HTML offers free online Data Scrapers Apps that are a way to get data from websites. Our Apps are safe, work on any platform and do not require any software installation. Data Scrapers can be used for image extracting, getting keywords from a webpage, video downloading, etc. They are easy and clear to use, yet forceful and reliable.</p>
+    <p>Aspose.HTML offers free online Data Scrapers Apps that are a way to get data from websites. Our Apps are safe, work on any platform and do not require any software installation. Data Scrapers can be used for image extracting, getting keywords from a webpage, etc. They are easy and clear to use, yet forceful and reliable.</p>
     </div>
    </div>
    <!--
