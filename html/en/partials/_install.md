@@ -3,7 +3,7 @@ translation: true
 deploy: false
 ---
 
-{{<section HTML>}}
+{{<section net>}}
 
 You can use several ways to install the Aspose.HTML library for .NET on your system:
 1. Install a <a href="https://www.nuget.org/packages/aspose.html" target="_blank">NuGet Package</a> using the NuGet Package Manager GUI.

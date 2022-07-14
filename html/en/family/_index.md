@@ -1,48 +1,51 @@
 ---
+translation: true
+template: _template.md
 title: .NET & Java HTML File Manipulation API | Parse HTML and CSS 
 weight: 10
 url: /family
 description: Create, read, edit, parse, and convert HTML documents in .NET & Java applications with relevant library without any additional software or tools.
 ---
 
-{{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate HTML Documents on Any Platform" h2="Native APIs to Generate, Read and Edit HTML pages including CSS styles as well as Convert to PDF and multiple image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html.svg" pfName="Aspose.HTML" downloadUrl="https://downloads.aspose.com/html" tryOnlineUrl="https://products.aspose.app/html/family" >}}
+{{<section banner>}}
+---
+h1: Manipulate HTML Documents on Any Platform
+h2: Native APIs to Generate, Read and Edit HTML pages including CSS styles as well as Convert to PDF and multiple image formats.
+---
 
-{{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.HTML High Code APIs Include" >}}
+{{<section include>}}
+---
+title: Aspose.HTML High Code APIs Include
+---
 
-{{< blocks/products/pf/product pfName="Aspose.HTML for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" productLink="/html/net/" >}}
-Target Windows Forms, ASP.NET, WPF, WCF or any type of application based on .NET Framework 2.0 or later.
-{{< /blocks/products/pf/product >}}
+{{<section net>}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" productLink="/html/java/" >}}
+Target Windows Forms, ASP.NET or any type of application based on .NET Framework 4.0 or later.
+
+{{<section java>}}
+
 Native Java APIs for the desktop, web or any kind of application based on Java SE or EE.
-{{< /blocks/products/pf/product >}}
 
-{{< /blocks/products/pf/product-card-row >}}
-{{< /blocks/products/pf/main-container >}}
+{{<section learning>}}
+---
+tabTitle: Learning Resources
+name1: Documentation
+name2: Source Code
+name3: API References
+name4: Tutorial Videos
+---
 
-{{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/html/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="http://aspose.github.io/" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
-{{< /blocks/products/pf/slr-tab >}}
+{{<section support>}}
+---
+tabTitle: Product Support
+name1: Free Support
+name2: Paid Support
+name3: Blog
+---
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/html" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/html/" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.HTML Product Family?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
-{{< /blocks/products/pf/slr-tab >}}
-
-{{< /blocks/products/pf/support-learning-resources >}}
-
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/html" pricingInformationLink="https://purchase.aspose.com/pricing/html/family" >}}
-
-{{< /blocks/products/pf/main-wrap-class >}}
+{{<section why>}}
+---
+tabTitle: Why Aspose.HTML for .NET?
+name1: Customers List
+name2: Success Stories
+---

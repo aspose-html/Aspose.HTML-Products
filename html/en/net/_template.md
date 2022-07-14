@@ -179,13 +179,10 @@ weight: 20
   </footer>
  </div> 
 </div>
-
 {{< /blocks/products/pf/carousel-item >}}
 {{< /blocks/products/pf/carousel >}}
-
-<div class="container-fluid features-section bg-gray singleproduct">
- <a class="anchor" id="features" name="features">
- </a>
+<div class="container-fluid features-section bg-gray ">
+ <a class="anchor" id="features" name="features"> </a>
  <div class="row">
   <div class="container">
    <h2 class="pr-ft">{{i18n.feature.title}}</h2>
@@ -249,11 +246,8 @@ weight: 20
 	<div class="col-lg-4">
     <em class="fa fa-cogs ico-blue fa-2x col-lg-2"></em>
     <p class="col-lg-10">{{i18n.feature.feature15}}</p>
-   </div>   
-
-
+   </div>
 <div class="col-lg-12">
-
 <h2 class="h2title">{{i18n.converter.h2}}</h2>
 
 <p>{{i18n.converter}}</p>
@@ -333,7 +327,7 @@ weight: 20
 <pre><code class="cs">
 {{i18n.code-markdown2}}
 </code></pre>
-</div>
+</div><br>
 
 <p>{{i18n.markdown-online}}</p>
 
@@ -355,7 +349,9 @@ weight: 20
 <pre><code class="cs">
 {{i18n.code-mhtml}}
 </code></pre>
-</div>
+</div><br>
+
+<p>{{i18n.epub-mhtml-online}}</p>
 
 <h2 class="h2title">{{i18n.web-scraping.h2}}</h2>
 
@@ -378,29 +374,33 @@ weight: 20
 
 {{< /blocks/products/pf/main-container >}}
 
-
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/svg/net/" >}}
-{{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-svg/Aspose.SVG-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/net/svg" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{i18n.learning.tabTitle}}" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.learning.name1}}" href="https://docs.aspose.com/html/net/" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.learning.name2}}" href="https://github.com/aspose-html/Aspose.Html-for-.NET" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.learning.name3}}" href="https://apireference.aspose.com/net/html" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.learning.name4}}" href="https://www.youtube.com/user/asposevideo" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/svg" >}}
-{{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
-{{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/svg/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{i18n.support.tabTitle}}" tabId="support" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.support.name1}}" href="https://forum.aspose.com/c/html" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.support.name2}}" href="https://helpdesk.aspose.com/" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.support.name3}}" href="https://blog.aspose.com/category/html/" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.support.name4}}" href="https://docs.aspose.com/html/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
-{{< blocks/products/pf/slr-tab tabTitle="Why Aspose.SVG for .NET?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{i18n.why.tabTitle}}" tabId="success-stories" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.why.name1}}" href="https://company.aspose.com/customers" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.why.name2}}" href="https://company.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/svg/net" pricingInformationLink="https://purchase.aspose.com/pricing/svg/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/html/net" pricingInformationLink="https://purchase.aspose.com/pricing/html/net" >}}
 
+{{< blocks/products/pf/offers-section pfName="Aspose.HTML" description="{{i18n.why.description}}" >}}
 
+    {{< blocks/products/pf/offers-section-item link="/html/java/" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" sdkName="Java" >}}
+
+{{< /blocks/products/pf/offers-section >}}
 {{< /blocks/products/pf/main-wrap-class >}}

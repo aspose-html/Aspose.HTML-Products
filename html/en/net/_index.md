@@ -204,19 +204,48 @@ Web scraping, also well known as web harvesting, web data extraction or web craw
 
 {{<section "code-web-scraping" i18n-exclude>}}
      
-// Create an instance of the HTML document with a website as a parameter
-using var document = new Aspose.Html.HTMLDocument("https://en.wikipedia.org/wiki/Aspose_API");
+using Aspose.Html;
+...
 
-// Get all anchor-elements
-var elements = document.QuerySelectorAll("a");
+    // Create an instance of the HTML document with a website as a parameter
+    using var document = new Aspose.Html.HTMLDocument("https://en.wikipedia.org/wiki/Aspose_API");
 
-// Dump the anchor-element data to the console
-elements.Cast&lt;HTMLAnchorElement&gt;().ToList().ForEach(x =&gt;
-    {
-        System.Console.WriteLine("[Href]: " + x.Href);
-        System.Console.WriteLine("[Content]: " + x.TextContent);
-    });
+    // Get all anchor-elements
+    var elements = document.QuerySelectorAll("a");
+
+    // Dump the anchor-element data to the console
+    elements.Cast&lt;HTMLAnchorElement&gt;().ToList().ForEach(x =&gt;
+        {
+            System.Console.WriteLine("[Href]: " + x.Href);
+            System.Console.WriteLine("[Content]: " + x.TextContent);
+        });
 
 {{<section online-web-scraping>}}
 
 Aspose.HTML offers free online <a href="https://products.aspose.app/html/data-scrapers" rel="opener noopener noreferrer" target="_blank">Data Scrapers Apps</a> that are a way to get data from websites. Our Apps are safe, work on any platform and do not require any software installation. Data Scrapers can be used for image extracting, getting keywords from a webpage, etc. They are easy and clear to use, yet forceful and reliable.
+
+{{<section learning>}}
+---
+tabTitle: Learning Resources
+name1: Documentation
+name2: Source Code
+name3: API References
+name4: Tutorial Videos
+---
+
+{{<section support>}}
+---
+tabTitle: Product Support
+name1: Free Support
+name2: Paid Support
+name3: Blog
+name4: Release Notes
+---
+
+{{<section why>}}
+---
+tabTitle: Why Aspose.HTML for .NET?
+name1: Customers List
+name2: Success Stories
+description: "Aspose.HTML offers individual HTML processing APIs for other popular development environments as listed below:"
+---
