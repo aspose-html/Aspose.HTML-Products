@@ -1,6 +1,6 @@
 ---
 translation: true
-template: _template.md
+template: ./../../templates/_template-family.md
 title: .NET & Java HTML File Manipulation API | Parse HTML and CSS 
 weight: 10
 url: /family
