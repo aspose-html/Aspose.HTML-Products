@@ -22,7 +22,7 @@ Markdown is a lightweight markup language designed to indicate formatting in pla
 
 {{<section EPUB>}}
 
-EPUB is an e-book file format that provides a standard digital publication format for publishers and consumers. The format has been so common by now that it is supported by many e-readers and software applications. For example, on Mac OS, the pre-installed Books software provides support for opening such files. In addition, there is a lot of compatible software available for smartphones, tablets and computers. EPUB file standards are maintained by the International Digital Publishing Forum (IDPF).
+EPUB is an e-book file format that provides a standard digital publication format for publishers and consumers. EPUB files can store words, images, stylesheets, fonts, metadata details, and tables of content. The format has been so common by now that it is supported by many e-readers and software applications. For example, on Mac OS, the pre-installed Books software provides support for opening such files. In addition, there is a lot of compatible software available for smartphones, tablets and computers. EPUB file standards are maintained by the International Digital Publishing Forum (IDPF).
 
 {{<section SVG>}}
 
