@@ -44,7 +44,7 @@ otherformats: {{i18n.otherformats}}
 
 <h2>{{i18n.online-converters.h2}}</h2>
 
-{{<import path="./../en/partials/_content.md" section="{{i18n.feature}}">}}
+{{<import path="/{{lang}}/partials/_content.md" section="{{i18n.feature}}">}}
 
 {{% /blocks/products/pf/agp/content %}}
 
@@ -52,23 +52,23 @@ otherformats: {{i18n.otherformats}}
 
 {{i18n.get-started}}
 
-{{<import path="./../en/partials/_install.md" section="{{i18n.platformtag}}">}}
+{{<import path="/{{lang}}/partials/_install.md" section="{{i18n.platformtag}}">}}
 
 {{% /blocks/products/pf/agp/content %}}
 	
 {{< blocks/products/pf/agp/about-file-section >}}     
-{{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.informat}}" readMoreLink="{{<import path="./../en/partials/_urlfileformat.md" section="{{i18n.informat}}">}}" >}}
-{{<import path="./../en/partials/_fileformats.md" section="{{i18n.informat}}">}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.informat}}" readMoreLink="{{<import path="/{{lang}}/partials/_urlfileformat.md" section="{{i18n.informat}}">}}" >}}
+{{<import path="/{{lang}}/partials/_fileformats.md" section="{{i18n.informat}}">}}
 {{< /blocks/products/pf/agp/about-file-text >}}
     
-{{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.outformat}}" readMoreLink="{{<import path="./../en/partials/_urlfileformat.md" section="{{i18n.outformat}}">}}" >}}
-{{<import path="./../en/partials/_fileformats.md" section="{{i18n.outformat}}">}}
+{{< blocks/products/pf/agp/about-file-text fileFormat="{{i18n.outformat}}" readMoreLink="{{<import path="/{{lang}}/partials/_urlfileformat.md" section="{{i18n.outformat}}">}}" >}}
+{{<import path="/{{lang}}/partials/_fileformats.md" section="{{i18n.outformat}}">}}
 {{< /blocks/products/pf/agp/about-file-text >}} 
 {{< /blocks/products/pf/agp/about-file-section >}}	
 
 {{< blocks/products/pf/agp/other-supported-section title="{{i18n.other-conversions.title}}" subTitle="{{i18n.other-conversions.subTitle}}" >}}
 
-{{<import path="./../en/partials/_othersupported.md" section="{{i18n.informat}}">}}
+{{<import path="/{{lang}}/partials/_othersupported.md" section="{{i18n.informat}}">}}
 
 {{< /blocks/products/pf/agp/other-supported-section >}}
 {{< /blocks/products/pf/main-container >}}
