@@ -59,3 +59,7 @@ TIFF or TIF represents raster images that are meant for usage on various devices
 {{<section BMP>}}
 
 Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images in both monochrome as well as color format with various colour depths.
+
+{{<section Image>}}
+
+There are two main types of digital image files — raster and vector. Popular types of raster images include JPEG, PNG, BMP, TIFF, and GIF file formats. A bitmap is a two-dimensional array that maps colors to pixels at a particular location. A raster image is a much larger file than a vector one. Raster formats are suitable for photographs or pictures with color gradients. But one of their main disadvantages is losing quality when scaling. Because the pixel number is fixed, raster images can become distorted or blurry when resized to fill a bigger or smaller space. Increasing the size of an image with too few pixels can cause pixelation, which isn’t usually desirable.

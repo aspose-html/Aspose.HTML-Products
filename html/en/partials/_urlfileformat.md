@@ -53,6 +53,11 @@ https://docs.fileformat.com/word-processing/docx/
 https://docs.fileformat.com/image/jpeg/
 
 
+{{<section Image>}}
+
+https://docs.fileformat.com/image/jpeg/
+
+
 {{<section PNG>}}
 
 https://docs.fileformat.com/image/png/

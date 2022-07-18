@@ -1,6 +1,6 @@
 ﻿---
 translation: true
-template: _template.md
+template: /templates/_template-family.md
 title: .NET- und Java-HTML-Dateibearbeitungs-API | Analysieren Sie HTML und CSS
 weight: 10
 url: /family

@@ -1,6 +1,6 @@
 ---
 translation: true
-template: ./../../../../templates/_template-conversion-child.md
+template: /templates/_template-conversion-child.md
 title: Convert HTML to Image in C# - Online HTML to Image Converter
 description: Convert HTML to Image in C#. Easily use converter API within ASP.NET or any .NET application. Try online HTML to Image Converter for free!
 url: /net/conversion/html-to-image/
@@ -8,7 +8,7 @@ family: html
 platformtag: net
 feature: conversion
 informat: HTML
-outformat: JPEG 
+outformat: Image 
 otherformats: PDF DOCX XPS JPEG GIF PNG TIFF BMP XHTML MHTML MD 
 ---
 

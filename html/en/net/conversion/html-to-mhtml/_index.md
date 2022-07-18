@@ -1,6 +1,6 @@
 ---
 translation: true
-template: ./../../../../templates/_template-conversion-child.md
+template: /templates/_template-conversion-child.md
 title: Convert HTML to MHTML in C# .NET - Online HTML to MHTML Converter
 description: Convert HTML to MHTML in C#. Easily use converter API within ASP.NET or any .NET application. Try online HTML to MHTML Converter for free!
 url: /net/conversion/html-to-mhtml/

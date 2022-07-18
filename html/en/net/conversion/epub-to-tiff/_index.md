@@ -1,6 +1,6 @@
 ---
 translation: true
-template: ./../../../../templates/_template-conversion-child.md
+template: /templates/_template-conversion-child.md
 title: Convert EPUB to TIFF in C# - Online EPUB to TIFF Converter
 description: Sample code for EPUB to TIFF C# conversion. Easily use converter API within ASP.NET or any .NET application. Try online EPUB to TIFF Converter for free!
 url: /net/conversion/epub-to-tiff/

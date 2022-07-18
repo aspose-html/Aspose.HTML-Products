@@ -22,7 +22,7 @@ Markdown ist eine leichte Auszeichnungssprache, die entwickelt wurde, um die For
 
 {{<section EPUB>}}
 
-EPUB ist ein E-Book-Dateiformat, das Verlegern und Verbrauchern ein digitales Standardveröffentlichungsformat bietet. Das Format ist inzwischen so weit verbreitet, dass es von vielen E-Readern und Softwareanwendungen unterstützt wird. Unter Mac OS bietet beispielsweise die vorinstallierte Books-Software Unterstützung für das Öffnen solcher Dateien. Darüber hinaus gibt es eine Menge kompatibler Software für Smartphones, Tablets und Computer. EPUB-Dateistandards werden vom International Digital Publishing Forum (IDPF) verwaltet.
+EPUB ist ein E-Book-Dateiformat, das Verlegern und Verbrauchern ein digitales Standardveröffentlichungsformat bietet. EPUB-Dateien können Wörter, Bilder, Stylesheets, Schriftarten, Metadatendetails und Inhaltsverzeichnisse speichern. Das Format ist inzwischen so weit verbreitet, dass es von vielen E-Readern und Softwareanwendungen unterstützt wird. Unter Mac OS bietet beispielsweise die vorinstallierte Books-Software Unterstützung für das Öffnen solcher Dateien. Darüber hinaus gibt es eine Menge kompatibler Software für Smartphones, Tablets und Computer. EPUB-Dateistandards werden vom International Digital Publishing Forum (IDPF) verwaltet.
 
 {{<section SVG>}}
 
@@ -59,3 +59,7 @@ TIFF oder TIF stellt Rasterbilder dar, die für die Verwendung auf verschiedenen
 {{<section BMP>}}
 
 Dateien mit der Erweiterung .BMP stellen Bitmap-Bilddateien dar, die zum Speichern digitaler Bitmap-Bilder verwendet werden. Diese Bilder sind grafikadapterunabhängig und werden auch als DIB-Dateiformat (Device Independent Bitmap) bezeichnet. Diese Unabhängigkeit dient dem Zweck, die Datei auf mehreren Plattformen wie Microsoft Windows und Mac zu öffnen. Das BMP-Dateiformat kann Daten als zweidimensionale digitale Bilder sowohl im Monochrom- als auch im Farbformat mit verschiedenen Farbtiefen speichern.
+
+{{<section Image>}}
+
+Es gibt zwei Haupttypen von digitalen Bilddateien – Raster und Vektor. Beliebte Arten von Rasterbildern sind die Dateiformate JPEG, PNG, BMP, TIFF und GIF. Eine Bitmap ist ein zweidimensionales Array, das Farben Pixeln an einer bestimmten Position zuordnet. Ein Rasterbild ist eine viel größere Datei als ein Vektorbild. Rasterformate eignen sich für Fotos oder Bilder mit Farbverläufen. Aber einer ihrer Hauptnachteile ist der Qualitätsverlust beim Skalieren. Da die Pixelzahl fest ist, können Rasterbilder verzerrt oder verschwommen werden, wenn sie in der Größe geändert werden, um einen größeren oder kleineren Raum auszufüllen. Das Erhöhen der Größe eines Bildes mit zu wenigen Pixeln kann zu Pixelbildung führen, was normalerweise nicht erwünscht ist.

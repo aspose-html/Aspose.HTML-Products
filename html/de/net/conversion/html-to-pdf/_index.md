@@ -15,7 +15,7 @@ otherformats: DOCX XPS GIF JPEG PNG TIFF BMP XHTML MHTML MD
 {{<section banner>}}
 ---
 h1: Konvertieren Sie HTML in PDF über C#
-h2: Generieren Sie PDF aus einer HTML-Quellseite mit der .NET-API. Konvertieren Sie mit unserem kostenlosen Online-Konverter HTML sofort in das PDF-Format.
+h2: Generieren Sie PDF aus einer HTML-Quellseite mit der .NET-API. Konvertieren Sie mit unserem kostenlosen Online-Konverter sofort HTML in das PDF-Format.
 ---
 
 {{<section overview>}}

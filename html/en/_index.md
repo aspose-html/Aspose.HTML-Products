@@ -1,6 +1,6 @@
 ---
 translation: true
-template: ./../templates/_template-html.md
+template: /templates/_template-html.md
 title: On Premise API, Cloud APIs & Free Apps for HTML files manipulation
 weight: 30
 url: /
