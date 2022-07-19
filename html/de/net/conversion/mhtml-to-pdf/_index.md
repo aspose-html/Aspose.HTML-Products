@@ -1,8 +1,8 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie MHTML in PDF in C# .NET - Online MHTML to PDF Converter
-description: Konvertieren Sie MHTML in C# in PDF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online MHTML to PDF Converter kostenlos aus!
+title: Konvertieren Sie MHTML in PDF
+description: Konvertieren Sie MHTML in C# in PDF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online MHTML to PDF Converter aus!
 url: /net/conversion/mhtml-to-pdf/
 family: html
 platformtag: net
@@ -64,7 +64,7 @@ h2: Schritte zum Konvertieren von MHTML in PDF in C#
 Wenn Sie MHTML programmgesteuert in PDF konvertieren möchten, befolgen Sie bitte einige erforderliche Schritte:
 1. Öffnen Sie eine vorhandene MHTML-Datei.
 1. Erstellen Sie eine Instanz der Klasse [PdfSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions).
-1. Verwenden Sie die Methode [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) des [Converter](https://apireference .aspose.com/html/net/aspose.html.converters/converter) zum Speichern von MHTML als PDF-Datei. Sie müssen den MHTML-Dateistream, PdfSaveOptions und den Ausgabedateipfad an die Methode ConvertMHTML() übergeben.
+1. Verwenden Sie die Methode [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) des [Converter](https://apireference.aspose.com/html/net/aspose.html.converters/converter) zum Speichern von MHTML als PDF-Datei. Sie müssen den MHTML-Dateistream, PdfSaveOptions und den Ausgabedateipfad an die Methode ConvertMHTML() übergeben.
 1. Die PDF-Datei wird im angegebenen Pfad gespeichert.
 
 
@@ -75,7 +75,7 @@ Wenn Sie MHTML programmgesteuert in PDF konvertieren möchten, befolgen Sie bitt
 h2: MHTML-zu-PDF-Konvertierung in der Dokumentation
 ---
 
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#mhtml-to-pdf-by-two-lines-of-code". ="_blank">MHTML zu PDF durch zwei Codezeilen</a>
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#mhtml-to-pdf-by-two-lines-of-code" target="_blank">MHTML zu PDF durch zwei Codezeilen</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#convert-mhtml-to-pdf-using-pdfsaveoptions" target="_blank" >Konvertieren Sie MHTML in PDF mit PdfSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-pdf/#output-stream-providers" target="_blank">Konvertieren Sie MHTML in PDF mit MemoryStreamProvider</a>
 

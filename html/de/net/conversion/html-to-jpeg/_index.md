@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie HTML in JPEG in C# - Online-HTML-zu-JPEG-Konverter
+title: Konvertieren Sie HTML in JPEG
 description: Konvertieren Sie HTML in C# in JPEG. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos den Online-HTML-zu-JPEG-Konverter aus!
 url: /net/conversion/html-to-jpeg/
 family: html

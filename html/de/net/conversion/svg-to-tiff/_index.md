@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie SVG in TIFF in C# - Online-Konverter von SVG in TIFF
+title: Konvertieren Sie SVG in TIFF
 description: Konvertieren Sie SVG in C# in TIFF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-SVG-zu-TIFF-Konverter kostenlos aus!
 url: /net/conversion/svg-to-tiff/
 family: html

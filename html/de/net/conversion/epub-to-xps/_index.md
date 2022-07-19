@@ -75,11 +75,11 @@ Wenn Sie die Konvertierungsfunktion in Ihrem Produkt in Betracht ziehen oder EPU
 h2: EPUB-zu-XPS-Konvertierung in der Dokumentation
 ---
 
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#epub-to-xps-by-two-lines-of-code". ="_blank">EPUB zu XPS durch zwei Codezeilen</a>
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#epub-to-xps-by-two-lines-of-code" target="_blank">EPUB zu XPS durch zwei Codezeilen</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#convert-epub-to-xps-using-xpssaveoptions" target="_blank" >Konvertieren Sie EPUB in XPS mit XpsSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/#output-stream-providers" target="_blank">Konvertieren Sie EPUB in XPS mit MemoryStreamProvider</a>
 
-Das EPUB-Format hat als XML-basiertes E-Book-Format an Popularität gewonnen und wurde entwickelt, um die Darstellung der Inhalte an das Lesegerät anzupassen. Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf von Microsoft erstellten XML-Papierspezifikationen basieren. Manchmal müssen Sie XPS-Dokumente anstelle von EPUB erhalten, um sie beispielsweise druckoptimiert, sicher und geschützt zu machen usw. Bitte besuchen Sie den Dokumentationsartikel [EPUB in XPS konvertieren](https://docs.aspose.com/html/net /converting-between-formats/epub-to-xps/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele für die gängigsten EPUB-zu-XPS-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von EPUB in XPS mithilfe von ConvertEPUB()-Methoden und zum Anwenden von XpsSaveOptions- und ICreateStreamProvider-Parametern.
+Das EPUB-Format hat als XML-basiertes E-Book-Format an Popularität gewonnen und wurde entwickelt, um die Darstellung der Inhalte an das Lesegerät anzupassen. Eine XPS-Datei stellt Seitenlayoutdateien dar, die auf von Microsoft erstellten XML-Papierspezifikationen basieren. Manchmal müssen Sie XPS-Dokumente anstelle von EPUB erhalten, um sie beispielsweise druckoptimiert, sicher und geschützt zu machen usw. Bitte besuchen Sie den Dokumentationsartikel [EPUB in XPS konvertieren](https://docs.aspose.com/html/net/converting-between-formats/epub-to-xps/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele für die gängigsten EPUB-zu-XPS-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von EPUB in XPS mithilfe von ConvertEPUB()-Methoden und zum Anwenden von XpsSaveOptions- und ICreateStreamProvider-Parametern.
 
 {{<section online-converters>}}
 ---

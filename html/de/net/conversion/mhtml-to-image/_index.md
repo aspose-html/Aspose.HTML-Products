@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie MHTML in ein Bild in C# .NET - Online MHTML to Image Converter
+title: Konvertieren Sie MHTML in Bild
 description: Konvertieren Sie MHTML in C# in Bild. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den MHTML to Image Converter kostenlos online aus!
 url: /net/conversion/mhtml-to-image/
 family: html
@@ -75,7 +75,7 @@ Wenn Sie MHTML programmgesteuert in Bild konvertieren möchten, befolgen Sie bit
 h2: MHTML-zu-Bild-Konvertierung in der Dokumentation
 ---
 
-Die MHTML-zu-Bild-Konvertierung ermöglicht Ihnen, ein MHTML-Dokument als Bilddatei zu speichern. Bitte besuchen Sie den Dokumentationsartikel [MHTML in Bild konvertieren](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von MHTML in Bilder mithilfe der ConvertMHTML()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io /icreatestreamprovider) Parameter.
+Die MHTML-zu-Bild-Konvertierung ermöglicht Ihnen, ein MHTML-Dokument als Bilddatei zu speichern. Bitte besuchen Sie den Dokumentationsartikel [MHTML in Bild konvertieren](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von MHTML in Bilder mithilfe der ConvertMHTML()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) Parameter.
 
 {{<section online-converters>}}
 ---

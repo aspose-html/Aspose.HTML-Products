@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie MHTML in BMP in C# .NET - Online MHTML to BMP Converter
+title: Konvertieren Sie MHTML in BMP
 description: Konvertieren Sie MHTML in BMP in C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online MHTML to BMP Converter aus!
 url: /net/conversion/mhtml-to-bmp/
 family: html
@@ -23,7 +23,7 @@ h2: High-Fidelity-MHTML-zu-BMP-Konvertierung mit .NET-API. Konvertieren Sie mit 
 h2: Konvertieren Sie MHTML in BMP mit C#
 ---
 
-Um MHTML in BMP zu konvertieren, verwenden wir die API [Aspose.HTML for .NET](https://products.aspose.com/html/net/), die eine funktionsreiche, leistungsstarke und einfach zu verwendende Dokumentbearbeitung ist Konvertierungs-API für die C#-Plattform. MHTML-Konvertierungen sind oft erforderlich, um andere Formate nutzen zu können. Mit unserer Hochgeschwindigkeitsbibliothek können Sie MHTML programmgesteuert in BMP konvertieren, wobei Sie die volle Kontrolle über verschiedene Konvertierungsparameter haben. Mit der leistungsstarken C#-API können Sie MHTML schnell und in hoher Qualität in gängige Formate konvertieren!
+Um MHTML in BMP umzuwandeln, verwenden wir die API [Aspose.HTML for .NET](https://products.aspose.com/html/net/), die eine funktionsreiche, leistungsstarke und einfach zu verwendende Dokumentbearbeitung ist Konvertierungs-API für die C#-Plattform. MHTML-Konvertierungen sind oft erforderlich, um andere Formate nutzen zu können. Mit unserer Hochgeschwindigkeitsbibliothek können Sie MHTML programmgesteuert in BMP konvertieren, wobei Sie die volle Kontrolle über verschiedene Konvertierungsparameter haben. Mit der leistungsstarken C#-API können Sie MHTML schnell und in hoher Qualität in gängige Formate konvertieren!
 
 {{<section demos>}}
 ---

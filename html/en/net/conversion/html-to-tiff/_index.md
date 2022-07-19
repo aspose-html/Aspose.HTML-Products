@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert HTML to TIFF in C# - Online HTML to TIFF Converter
+title: Convert HTML to TIFF
 description: Convert HTML to TIFF in C#. Easily use converter API within ASP.NET or any .NET application. Try online HTML to TIFF Converter for free!
 url: /net/conversion/html-to-tiff/
 family: html

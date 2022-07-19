@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie HTML in DOCX in C# .NET - Online-HTML-zu-DOCX-Konverter
+title: Konvertieren Sie HTML in DOCX in C# .NET
 description: Konvertieren Sie HTML in C# in DOCX. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-HTML-zu-DOCX-Konverter kostenlos aus!
 url: /net/conversion/html-to-docx/
 family: html
@@ -82,7 +82,7 @@ h2: HTML-zu-DOCX-Konvertierung in der Dokumentation
 ---
 
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#html-to-docx-durch-eine-einzelne-codezeile " target="_blank">Konvertieren Sie HTML in DOCX mit einer einzigen Codezeile</a>
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-in-c-using-docsaveoptions". ="_blank">HTML mit DocSaveOptions in DOCX konvertieren</a>
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-in-c-using-docsaveoptions" target="_blank">HTML mit DocSaveOptions in DOCX konvertieren</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#output-stream-providers" target="_blank">Konvertieren Sie HTML in DOCX mit MemoryStreamProvider</a>
 
 Die Konvertierung von HTML in DOCX ist häufig erforderlich, um das DOCX-Format für bestimmte Aufgaben zu nutzen. Dieses Format ist beliebt, weil es eine Vielzahl von Formatierungsfunktionen unterstützt und Benutzern eine Vielzahl von Optionen bietet, um jede Art von Dokument zu schreiben. Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to DOCX](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und zur Betrachtung von C#-Beispielen für die häufigsten Konvertierungsszenarien von HTML in DOCX. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in DOCX mithilfe von ConvertHTML()-Methoden und zum Anwenden von DocSaveOptions- und ICreateStreamProvider-Parametern.

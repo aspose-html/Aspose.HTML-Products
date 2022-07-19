@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert XHTML to MD in C# - Online XHTML to MD Converter
+title: Convert XHTML to MD
 description: Convert XHTML to MD in C#. Easily use converter API within ASP.NET or any .NET application. Try online XHTML to MD Converter for free!
 url: /net/conversion/xhtml-to-md/
 family: html

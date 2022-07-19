@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert SVG to XPS in C# - Online SVG to XPS Converter
+title: Convert SVG to XPS
 description: Convert SVG to XPS in C#. Easily use converter API within ASP.NET or any .NET application. Try online SVG to XPS Converter for free!
 url: /net/conversion/svg-to-xps/
 family: html

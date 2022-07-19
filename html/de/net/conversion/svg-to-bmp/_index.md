@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie SVG in C# in BMP - Online-Konverter von SVG in BMP
+title: Konvertieren Sie SVG in BMP
 description: Konvertieren Sie SVG in C# in BMP. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-SVG-zu-BMP-Konverter kostenlos aus!
 url: /net/conversion/svg-to-bmp/
 family: html

@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert EPUB to BMP in C# - Online EPUB to BMP Converter
+title: Convert EPUB to BMP
 description: Sample code for EPUB to BMP C# conversion. Easily use converter API within ASP.NET or any .NET application. Try online EPUB to BMP Converter for free!
 url: /net/conversion/epub-to-bmp/
 family: html

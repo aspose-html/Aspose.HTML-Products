@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert XHTML to Image in C# - Online XHTML to Image Converter
+title: Convert XHTML to Image
 description: Convert XHTML to Image in C#. Easily use converter API within ASP.NET or any .NET application. Try online XHTML to Image Converter for free!
 url: /net/conversion/xhtml-to-image/
 family: html

@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie EPUB in DOCX in C# - Online-EPUB-zu-DOCX-Konverter
+title: Konvertieren Sie EPUB in DOCX
 description: Beispielcode für die Umwandlung von EPUB in DOCX C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-EPUB-zu-DOCX-Konverter kostenlos aus!
 url: /net/conversion/epub-to-docx/
 family: html
@@ -75,7 +75,7 @@ Wenn Sie die Konvertierungsfunktion in Ihrem Produkt in Betracht ziehen oder EPU
 h2: EPUB-zu-DOCX-Konvertierung in der Dokumentation
 ---
 
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#epub-to-docx-by-two-lines-of-code". ="_blank">EPUB zu DOCX durch zwei Codezeilen</a>
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#epub-to-docx-by-two-lines-of-code" target="_blank">EPUB zu DOCX durch zwei Codezeilen</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#convert-epub-to-docx-using-docsaveoptions" target="_blank" >Konvertieren Sie EPUB in DOCX mit DocSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-docx/#output-stream-providers" target="_blank">Konvertieren Sie EPUB in DOCX mit MemoryStreamProvider</a>
 

@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie EPUB in BMP in C# - Online-Konverter von EPUB in BMP
+title: Konvertieren Sie EPUB in BMP
 description: Beispielcode für die Umwandlung von EPUB in BMP C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-EPUB-zu-BMP-Konverter kostenlos aus!
 url: /net/conversion/epub-to-bmp/
 family: html
@@ -30,7 +30,7 @@ Um EPUB in BMP zu konvertieren, verwenden wir die API [Aspose.HTML for .NET](htt
 h2: Kostenlose Online-Konverter-Live-Demos
 ---
 
-Testen Sie die Qualität der EPUB-zu-BMP-Konvertierung direkt in Ihrem Browser! Es ist schnell, einfach, sicher und völlig kostenlos! Das folgende C#-Beispiel zeigt, wie ein EPUB-Dokument konvertiert wird. Wir beschreiben den Quellcode zum Lesen von EPUB aus einer Datei und zum anschließenden Konvertieren von EPUB in BMP mit Standardspeicheroptionen. Bitte laden Sie EPUB aus dem lokalen Dateisystem, wählen Sie das Ausgabeformat und führen Sie das Beispiel aus. Das Ergebnis erhalten Sie sofort als separate Datei.
+Testen Sie die Qualität der EPUB-zu-BMP-Konvertierung direkt in Ihrem Browser! Es ist schnell, einfach, sicher und völlig kostenlos! Das folgende C#-Beispiel zeigt, wie ein EPUB-Dokument konvertiert wird. Wir beschreiben den Quellcode für das Lesen von EPUB aus einer Datei und das anschließende Konvertieren von EPUB in BMP mit Standardspeicheroptionen. Bitte laden Sie EPUB aus dem lokalen Dateisystem, wählen Sie das Ausgabeformat und führen Sie das Beispiel aus. Das Ergebnis erhalten Sie sofort als separate Datei.
 
 {{<section "app-pluging" i18n-exclude>}}
 

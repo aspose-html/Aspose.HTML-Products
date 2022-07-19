@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert XHTML to PDF in C# - Online XHTML to PDF Converter
+title: Convert XHTML to PDF
 description: Convert XHTML to PDF in C#. Easily use converter API within ASP.NET or any .NET application. Try online XHTML to PDF Converter for free!
 url: /net/conversion/xhtml-to-pdf/
 family: html

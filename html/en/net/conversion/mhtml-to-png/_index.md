@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert MHTML to PNG in C# .NET - Online MHTML to PNG Converter
+title: Convert MHTML to PNG
 description: Convert MHTML to PNG in C#. Easily use converter API within ASP.NET or any .NET application. Try online MHTML to PNG Converter for free!
 url: /net/conversion/mhtml-to-png/
 family: html

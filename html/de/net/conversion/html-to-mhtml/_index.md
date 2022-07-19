@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie HTML in MHTML in C# .NET - Online-HTML-zu-MHTML-Konverter
+title: Konvertieren Sie HTML in MHTML
 description: Konvertieren Sie HTML in C# in MHTML. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos den Online-HTML-zu-MHTML-Konverter aus!
 url: /net/conversion/html-to-mhtml/
 family: html
@@ -82,7 +82,7 @@ h2: HTML-zu-MHTML-Konvertierung in der Dokumentation
 ---
 
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#html-to-mhtml-by-a-single-line-of-code " target="_blank">Konvertieren Sie HTML in MHTML mit einer einzigen Codezeile</a>
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-in-c-using-mhtmlsaveoptions". ="_blank">Konvertieren Sie HTML in MHTML mit MHTMLSaveOptions</a>
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-in-c-using-mhtmlsaveoptions" target="_blank">Konvertieren Sie HTML in MHTML mit MHTMLSaveOptions</a>
 
 MHTML kombiniert normales HTML mit externen Ressourcen wie Bildern, Animationen, Audio usw. in einer Datei mit der Dateierweiterung .mht. Aspose.HTML für .NET API ermöglicht Ihnen, HTML schnell und mit hoher Qualität in das MHTML-Format zu konvertieren. Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to MHTML](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und C#-Beispiele für die gängigsten HTML-zu-MHTML-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in MHTML mithilfe von ConvertHTML()-Methoden und zum Anwenden von MHTMLSaveOptions- und ICreateStreamProvider-Parametern.
 

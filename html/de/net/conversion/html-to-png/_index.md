@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie HTML in PNG in C# - Online-HTML-zu-PNG-Konverter
+title: Konvertieren Sie HTML in PNG
 description: Konvertieren Sie HTML in C# in PNG. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos den Online-HTML-zu-PNG-Konverter aus!
 url: /net/conversion/html-to-png/
 family: html
@@ -81,7 +81,7 @@ Wenn Sie die Konvertierungsfunktionalität in Ihrem Produkt in Betracht ziehen o
 h2: HTML-zu-PNG-Konvertierung in der Dokumentation
 ---
 
-  - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#html-to-png-durch-eine-einzelne-codezeile " target="_blank">HTML zu PNG durch eine einzige Codezeile</a>
+  - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#html-to-png-durch-eine-einzelne-codezeile " target="_blank">HTML in PNG durch eine einzige Codezeile</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#convert-html-to-png-using-imagesaveoptions" target="_blank" >Konvertieren Sie HTML in PNG mit ImageSaveOptions</a>
    - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#output-stream-providers" target="_blank">HTML in PNG konvertieren mit MemoryStreamProvider</a>
 

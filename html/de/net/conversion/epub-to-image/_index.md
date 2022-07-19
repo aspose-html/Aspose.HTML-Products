@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: EPUB in Bild in C# konvertieren - Online-EPUB-zu-Bild-Konverter
+title: EPUB in Bild umwandeln - C# - Online-EPUB-zu-Bild-Konverter
 description: C#-Beispielcode für die Umwandlung von EPUB in Bild. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-EPUB-zu-Bild-Konverter kostenlos aus!
 url: /net/conversion/epub-to-image/
 family: html
@@ -15,7 +15,7 @@ otherformats: PDF DOCX XPS JPEG BMP GIF PNG TIFF
 {{<section banner>}}
 ---
 h1: Konvertieren Sie EPUB über C# in ein Bild
-h2: Generieren Sie Bilder aus der EPUB-Quelldatei mit der .NET-API. Wandeln Sie EPUB mit unserem kostenlosen Online-Konverter sofort in das Bildformat um!
+h2: Generieren Sie Bilder aus der EPUB-Quelldatei mit der .NET-API. Konvertieren Sie EPUB mit unserem kostenlosen Online-Konverter sofort in das Bildformat!
 ---
 
 {{<section overview>}}
@@ -75,8 +75,8 @@ Wenn Sie die Konvertierungsfunktion in Ihrem Produkt in Betracht ziehen oder EPU
 h2: EPUB-zu-Bild-Konvertierung in der Dokumentation
 ---
 
-Das EPUB-Format hat als XML-basiertes E-Book-Format an Popularität gewonnen und wurde entwickelt, um die Darstellung der Inhalte an das Lesegerät anzupassen. Manchmal ist es erforderlich, ein Bild anstelle von EPUB-Dokumenten zu erhalten, z. B. um sie portabel zu machen und einfach auf verschiedenen Geräten zu teilen, eine Bildergalerie aus eBooks zu erstellen usw. Bitte besuchen Sie das Dokumentationskapitel [Konvertieren zwischen Formaten](https:// docs.aspose.com/html/net/converting-between-formats/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele für die gängigsten EPUB-zu-Bild-Konvertierungsszenarien zu betrachten. In den Artikeln finden Sie Informationen zum Konvertieren von EPUB in ein Bild mithilfe von ConvertEPUB()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/ icreatestreamprovider)-Parameter.
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#epub-to-jpg-by-two-lines-of-code". ="_blank">EPUB zu JPG durch zwei Codezeilen</a>
+Das EPUB-Format hat als XML-basiertes E-Book-Format an Popularität gewonnen und wurde entwickelt, um die Darstellung der Inhalte an das Lesegerät anzupassen. Manchmal ist es erforderlich, ein Bild anstelle von EPUB-Dokumenten zu erhalten, z. B. um sie portabel zu machen und einfach auf verschiedenen Geräten zu teilen, eine Bildergalerie aus eBooks zu erstellen usw. Bitte besuchen Sie das Dokumentationskapitel [Konvertieren zwischen Formaten](https:// docs.aspose.com/html/net/converting-between-formats/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele für die gängigsten EPUB-zu-Bild-Konvertierungsszenarien zu betrachten. In den Artikeln finden Sie Informationen zum Konvertieren von EPUB in ein Bild mithilfe von ConvertEPUB()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider)-Parameter.
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#epub-to-jpg-by-two-lines-of-code" target="_blank">EPUB zu JPG durch zwei Codezeilen</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#convert-epub-to-jpg-using-imagesaveoptions" target="_blank" >Konvertieren Sie EPUB in JPG mit ImageSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers" target="_blank">Konvertieren Sie EPUB in JPG mit MemoryStreamProvider</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-png/" target="_blank">EPUB in PNG konvertieren</a>

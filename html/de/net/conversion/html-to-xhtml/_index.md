@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie HTML in XHTML in C# .NET - Online-HTML-zu-XHTML-Konverter
+title: Konvertieren Sie HTML in XHTML
 description: Konvertieren Sie HTML in C# in XHTML. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos den Online-HTML-zu-XHTML-Konverter aus!
 url: /net/conversion/html-to-xhtml/
 family: html

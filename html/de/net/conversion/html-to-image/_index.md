@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie HTML in C# in ein Bild - Online-Konvertierer für HTML in Bilder
+title: Konvertieren Sie HTML in Bild
 description: Konvertieren Sie HTML in C# in ein Bild. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos den Online-HTML-zu-Bild-Konverter aus!
 url: /net/conversion/html-to-image/
 family: html
@@ -89,7 +89,7 @@ h2: HTML-zu-Bild-Konvertierung in der Dokumentation
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/" target="_blank">HTML in TIFF konvertieren</a>
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/" target="_blank">HTML in GIF konvertieren</a>
 
-Bitte besuchen Sie das Dokumentationskapitel [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele zu betrachten für die gängigsten HTML-zu-Bild-Konvertierungsszenarien. In den Artikeln finden Sie Informationen zum Konvertieren von HTML in Bilder mithilfe von ConvertHTML()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/ icreatestreamprovider)-Parameter.
+Bitte besuchen Sie das Dokumentationskapitel [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele zu betrachten für die gängigsten HTML-zu-Bild-Konvertierungsszenarien. In den Artikeln finden Sie Informationen zum Konvertieren von HTML in Bilder mithilfe von ConvertHTML()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider)-Parameter.
 
 {{<section online-converters>}}
 ---

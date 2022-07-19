@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie XHTML in C# in PDF - Online XHTML to PDF Converter
+title: Konvertieren Sie XHTML in PDF
 description: Konvertieren Sie XHTML in C# in PDF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online XHTML to PDF Converter aus!
 url: /net/conversion/xhtml-to-pdf/
 family: html
@@ -23,7 +23,7 @@ h2: Generieren Sie PDF aus einer XHTML-Quellseite mit der .NET-API. Konvertieren
 h2: Konvertieren Sie XHTML in PDF mit C#
 ---
 
-Das Konvertieren von XHTML in PDF ist häufig erforderlich, um Dokumente vor ungewollter Bearbeitung und Kopieren zu schützen, um Dokumente zum Drucken oder Versenden per E-Mail vorzubereiten usw. Mit [Aspose.HTML for .NET](https://products.aspose.com/ html/net/) API können Sie XHTML programmgesteuert in PDF konvertieren, mit voller Kontrolle über die Konvertierungsparameter. Jede Konvertierung, die Sie durchführen möchten, beinhaltet das Laden eines XHTML-Dokuments und das Speichern im PDF-Format. Mit der leistungsstarken C#-API können Sie XHTML schnell und in hoher Qualität in PDF konvertieren!
+Das Konvertieren von XHTML in PDF ist häufig erforderlich, um Dokumente vor ungewollter Bearbeitung und Kopieren zu schützen, um Dokumente zum Drucken oder Versenden per E-Mail vorzubereiten usw. Mit [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API können Sie XHTML programmgesteuert in PDF konvertieren, mit voller Kontrolle über die Konvertierungsparameter. Jede Konvertierung, die Sie durchführen möchten, beinhaltet das Laden eines XHTML-Dokuments und das Speichern im PDF-Format. Mit der leistungsstarken C#-API können Sie XHTML schnell und in hoher Qualität in PDF konvertieren!
 
 {{<section demos>}}
 ---
@@ -81,7 +81,7 @@ Wenn Sie XHTML programmgesteuert in PDF konvertieren möchten, sehen Sie sich bi
 h2: (X)HTML-Konvertierung in der Dokumentation
 ---
 
-Die Konvertierung von XHTML in PDF ist häufig erforderlich, um einen eingeschränkten Zugriff auf die Bearbeitung oder das Kopieren von Dokumenten einzurichten, offizielle Dokumente zu erstellen oder bestimmte Informationen zu versenden, beispielsweise per E-Mail. Mit Aspose.HTML für .NET API können Sie (X)HTML schnell und in hoher Qualität in andere gängige Formate konvertieren. Bitte besuchen Sie das Dokumentationskapitel <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Converting between Formats</a>, um mehr über die API zu erfahren Konvertierungsfunktionen. Das Kapitel beschreibt beliebte Konverter sowie C#-Beispiele für die gängigsten Konvertierungsszenarien.
+Die Konvertierung von XHTML in PDF ist häufig erforderlich, um einen eingeschränkten Zugriff auf die Bearbeitung oder das Kopieren von Dokumenten einzurichten, offizielle Dokumente zu erstellen oder bestimmte Informationen zu versenden, beispielsweise per E-Mail. Mit Aspose.HTML für .NET API können Sie (X)HTML schnell und mit hoher Qualität in andere gängige Formate konvertieren. Bitte besuchen Sie das Dokumentationskapitel <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Converting between Formats</a>, um mehr über die API zu erfahren Konvertierungsfunktionen. Das Kapitel beschreibt beliebte Konverter sowie C#-Beispiele für die gängigsten Konvertierungsszenarien.
 
 {{<section online-converters>}}
 ---

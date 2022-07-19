@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie HTML in GIF in C# - Online-HTML-zu-GIF-Konverter
+title: Konvertieren Sie HTML in GIF
 description: Konvertieren Sie HTML in C# in GIF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-HTML-zu-GIF-Konverter kostenlos aus!
 url: /net/conversion/html-to-gif/
 family: html
@@ -82,7 +82,7 @@ h2: HTML-zu-GIF-Konvertierung in der Dokumentation
 ---
 
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/#convert-html-to-gif" target="_blank">HTML konvertieren in GIF</a>
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/#convert-html-to-gif-in-c-using-imagesaveoptions". ="_blank">Konvertiere HTML in GIF mit ImageSaveOptions</a>
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/#convert-html-to-gif-in-c-using-imagesaveoptions" target="_blank">HTML in GIF konvertieren mit ImageSaveOptions</a>
 
 GIF ist ein beliebtes Bildformat, das animierte Bilder unterstützt und häufig beim Web-Publishing verwendet wird. Die HTML-zu-GIF-Konvertierung ermöglicht Ihnen, ein HTML-Dokument als GIF-Bild zu speichern. Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to GIF](https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten HTML-zu-GIF-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in GIF mithilfe von ConvertHTML()-Methoden und zum Anwenden von ImageSaveOptions- und ICreateStreamProvider-Parametern.
 

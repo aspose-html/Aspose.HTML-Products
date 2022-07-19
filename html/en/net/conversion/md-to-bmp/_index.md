@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert MD to BMP in C# - Online MD to BMP Converter
+title: Convert Markdown to BMP
 description: Sample C# code for MD to BMP conversion. Easily use converter API within ASP.NET or any .NET application. Try online MD to BMP Converter for free!
 url: /net/conversion/md-to-bmp/
 family: html

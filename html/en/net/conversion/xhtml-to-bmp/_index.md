@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert XHTML to BMP in C# - Online XHTML to BMP Converter
+title: Convert XHTML to BMP
 description: Convert XHTML to BMP in C#. Easily use converter API within ASP.NET or any .NET application. Try online XHTML to BMP Converter for free!
 url: /net/conversion/xhtml-to-bmp/
 family: html

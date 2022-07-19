@@ -1,6 +1,6 @@
 ---
 translation: true
-template: ./../../../templates/_template-conversion.md
+template: /templates/_template-conversion.md
 title: Convert HTML, XHTML, Markdown, MHTML, EPUB and SVG Using C#
 url: /net/conversion/
 description: Convert HTML to XHTML, PDF, DOCX, XPS, Markdown, MHTML and Images with few lines of C# code via .NET library. Check online HTML Converter for free!

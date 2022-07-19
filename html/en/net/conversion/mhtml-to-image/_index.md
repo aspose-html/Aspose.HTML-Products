@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert MHTML to Image in C# .NET - Online MHTML to Image Converter
+title: Convert MHTML to Image
 description: Convert MHTML to Image in C#. Easily use converter API within ASP.NET or any .NET application. Try online MHTML to Image Converter for free!
 url: /net/conversion/mhtml-to-image/
 family: html

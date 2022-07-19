@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie MD in ein Bild in C# - Online-MD-zu-Bild-Konverter
+title: Konvertieren Sie MD in Image
 description: C#-Beispielcode für die Umwandlung von MD in Bild. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-MD-zu-Bild-Konverter kostenlos aus!
 url: /net/conversion/md-to-image/
 family: html

@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert EPUB to JPEG in C# - Online EPUB to JPEG Converter
+title: Convert EPUB to JPEG - C#
 description: Sample C# code for EPUB to JPEG conversion. Easily use converter API within ASP.NET or any .NET application. Try online EPUB to JPEG Converter for free!
 url: /net/conversion/epub-to-jpeg/
 family: html

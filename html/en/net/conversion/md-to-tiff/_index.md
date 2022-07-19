@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert MD to TIFF in C# - Online MD to TIFF Converter
+title: Convert MD to TIFF
 description: Sample C# code for MD to TIFF conversion. Easily use converter API within ASP.NET or any .NET application. Try online MD to TIFF Converter for free!
 url: /net/conversion/md-to-tiff/
 family: html

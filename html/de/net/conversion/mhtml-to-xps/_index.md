@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie MHTML in XPS in C# .NET - Online MHTML in XPS Konverter
+title: Konvertieren Sie MHTML in XPS
 description: Konvertieren Sie MHTML in XPS in C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online MHTML to XPS Converter kostenlos aus!
 url: /net/conversion/mhtml-to-xps/
 family: html
@@ -64,7 +64,7 @@ h2: Schritte zum Konvertieren von MHTML in XPS in C#
 Wenn Sie MHTML programmgesteuert in XPS konvertieren möchten, befolgen Sie bitte einige erforderliche Schritte:
 1. Öffnen Sie eine vorhandene MHTML-Datei.
 1. Erstellen Sie eine Instanz der Klasse [XpsSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/xpssaveoptions).
-1. Verwenden Sie die Methode [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) des [Converter](https://apireference .aspose.com/html/net/aspose.html.converters/converter), um MHTML als XPS-Datei zu speichern. Sie müssen den MHTML-Dateistream, XpsSaveOptions und den Ausgabedateipfad an die Methode ConvertMHTML() übergeben.
+1. Verwenden Sie die Methode [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) des [Converter](https://apireference.aspose.com/html/net/aspose.html.converters/converter), um MHTML als XPS-Datei zu speichern. Sie müssen den MHTML-Dateistream, XpsSaveOptions und den Ausgabedateipfad an die Methode ConvertMHTML() übergeben.
 1. Die XPS-Datei wird im angegebenen Pfad gespeichert.
 
 
@@ -75,7 +75,7 @@ Wenn Sie MHTML programmgesteuert in XPS konvertieren möchten, befolgen Sie bitt
 h2: MHTML-zu-XPS-Konvertierung in der Dokumentation
 ---
 
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#mhtml-to-xps-by-two-lines-of-code". ="_blank">MHTML zu XPS durch zwei Codezeilen</a>
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#mhtml-to-xps-by-two-lines-of-code" target="_blank">MHTML zu XPS durch zwei Codezeilen</a>
   -<a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#convert-mhtml-to-xps-using-xpssaveoptions" target="_blank" >Konvertieren Sie MHTML in XPS mit XpsSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#output-stream-providers" target="_blank">MHTML in XPS konvertieren mit MemoryStreamProvider</a>
 

@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie MD in XPS in C# - Online-Konvertierung von MD in XPS
+title: Konvertieren Sie MD in XPS
 description: C#-Beispielcode für die Konvertierung von MD in XPS. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-MD-zu-XPS-Konverter kostenlos aus!
 url: /net/conversion/md-to-xps/
 family: html

@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert XHTML to JPEG in C# - Online XHTML to JPEG Converter
+title: Convert XHTML to JPEG
 description: Convert XHTML to JPEG in C#. Easily use converter API within ASP.NET or any .NET application. Try online XHTML to JPEG Converter for free!
 url: /net/conversion/xhtml-to-jpeg/
 family: html

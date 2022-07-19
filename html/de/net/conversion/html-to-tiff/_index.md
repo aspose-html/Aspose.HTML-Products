@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie HTML in TIFF in C# - Online-HTML-zu-TIFF-Konverter
+title: Konvertieren Sie HTML in TIFF
 description: Konvertieren Sie HTML in C# in TIFF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-HTML-zu-TIFF-Konverter kostenlos aus!
 url: /net/conversion/html-to-tiff/
 family: html
@@ -82,7 +82,7 @@ h2: HTML-zu-TIFF-Konvertierung in der Dokumentation
 ---
 
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/#convert-html-to-tiff" target="_blank">HTML konvertieren in TIFF</a>
-  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/#convert-html-to-tiff-in-c-using-imagesaveoptions". ="_blank">HTML in TIFF konvertieren mit ImageSaveOptions</a>
+  - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/#convert-html-to-tiff-in-c-using-imagesaveoptions" target="_blank">HTML in TIFF konvertieren mit ImageSaveOptions</a>
 
 Das Konvertieren von HTML-Dateien in TIFF-Bilder kann beispielsweise erforderlich sein, wenn Sie eine Webseite in eine PowerPoint-Präsentation einfügen oder per E-Mail versenden möchten. Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to TIFF](https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und C#-Beispiele für die gängigsten HTML-zu-TIFF-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in TIFF mithilfe von ConvertHTML()-Methoden und zum Anwenden von ImageSaveOptions- und ICreateStreamProvider-Parametern.
 

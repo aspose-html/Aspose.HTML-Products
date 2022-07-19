@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert HTML to MD in C# .NET - Online HTML to MD Converter
+title: Convert HTML to MD
 description: Convert HTML to MD in C#. Easily use converter API within ASP.NET or any .NET application. Try online HTML to MD Converter for free!
 url: /net/conversion/html-to-md/
 family: html

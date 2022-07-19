@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie XHTML in MHTML in C# - Online-Konverter von XHTML in MHTML
+title: Konvertieren Sie XHTML in MHTML
 description: Konvertieren Sie XHTML in C# in MHTML. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online XHTML to MHTML Converter aus!
 url: /net/conversion/xhtml-to-mhtml/
 family: html
@@ -81,7 +81,7 @@ Wenn Sie XHTML programmgesteuert in MHTML konvertieren möchten, sehen Sie sich 
 h2: (X)HTML-Konvertierung in der Dokumentation
 ---
 
-MHTML kombiniert normales (X)HTML mit externen Ressourcen wie Bildern, Animationen, Audio usw. in einer Datei mit der Dateierweiterung .mht. Mit Aspose.HTML für .NET API können Sie (X)HTML schnell und in hoher Qualität in andere gängige Formate konvertieren. Bitte besuchen Sie das Dokumentationskapitel <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Converting between Formats</a>, um mehr über die API zu erfahren Konvertierungsfunktionen. Das Kapitel beschreibt beliebte Konverter sowie C#-Beispiele für die gängigsten Konvertierungsszenarien.
+MHTML kombiniert normales (X)HTML mit externen Ressourcen wie Bildern, Animationen, Audio usw. in einer Datei mit der Dateierweiterung .mht. Mit Aspose.HTML für .NET API können Sie (X)HTML schnell und mit hoher Qualität in andere gängige Formate konvertieren. Bitte besuchen Sie das Dokumentationskapitel <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Converting between Formats</a>, um mehr über die API zu erfahren Konvertierungsfunktionen. Das Kapitel beschreibt beliebte Konverter sowie C#-Beispiele für die gängigsten Konvertierungsszenarien.
 
 {{<section online-converters>}}
 ---

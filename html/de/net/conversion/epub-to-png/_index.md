@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie EPUB in PNG in C# - Online-EPUB-zu-PNG-Konverter
+title: Konvertieren Sie EPUB in PNG - C#
 description: Beispielcode für die Umwandlung von EPUB in PNG C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-EPUB-zu-PNG-Konverter kostenlos aus!
 url: /net/conversion/epub-to-png/
 family: html

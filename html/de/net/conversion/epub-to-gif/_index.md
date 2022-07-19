@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie EPUB in GIF in C# - Online-EPUB-zu-GIF-Konverter
+title: Konvertieren Sie EPUB in GIF - C# - Online-Konverter von EPUB in GIF
 description: Beispielcode für die C#-Konvertierung von EPUB in GIF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-EPUB-zu-GIF-Konverter kostenlos aus!
 url: /net/conversion/epub-to-gif/
 family: html
@@ -78,7 +78,7 @@ h2: EPUB-zu-GIF-Konvertierung in der Dokumentation
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/#convert-epub-to-gif" target="_blank">Konvertiere EPUB in GIF</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-gif/#convert-epub-to-gif-using-imagesaveoptions" target="_blank" >Konvertieren Sie EPUB in GIF mit ImageSaveOptions</a>
 
-GIF ist ein beliebtes Bildformat, das häufig beim Web-Publishing verwendet wird. Die EPUB-zu-GIF-Konvertierung ermöglicht es Ihnen, ein EPUB-Dokument als GIF-Bild zu speichern. Bitte besuchen Sie den Dokumentationsartikel [EPUB in GIF konvertieren](https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten EPUB-zu-GIF-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von EPUB in GIF mithilfe von ConvertEPUB()-Methoden und zum Anwenden von ImageSaveOptions- und ICreateStreamProvider-Parametern.
+GIF ist ein beliebtes Bildformat, das häufig beim Web-Publishing verwendet wird. Die EPUB-zu-GIF-Konvertierung ermöglicht Ihnen, ein EPUB-Dokument als GIF-Bild zu speichern. Bitte besuchen Sie den Dokumentationsartikel [EPUB in GIF konvertieren](https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten EPUB-zu-GIF-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von EPUB in GIF mithilfe von ConvertEPUB()-Methoden und zum Anwenden von ImageSaveOptions- und ICreateStreamProvider-Parametern.
 
 {{<section online-converters>}}
 ---

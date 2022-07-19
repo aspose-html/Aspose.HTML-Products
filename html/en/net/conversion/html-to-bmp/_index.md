@@ -1,7 +1,7 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert HTML to BMP in C# - Online HTML to BMP Converter
+title: Convert HTML to BMP
 description: Convert HTML to BMP in C#. Easily use converter API within ASP.NET or any .NET application. Try online HTML to BMP Converter for free!
 url: /net/conversion/html-to-bmp/
 family: html
@@ -64,7 +64,7 @@ using Aspose.Html.Saving;
 
 {{<section steps>}}
 ---
-h2: Steps to Convert HTML to BMP in C#
+h2: How to Convert HTML to BMP in C#
 ---
 
 If you would like to consider conversion functionality in your product or you want to convert HTML to BMP programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any conversion requires some mandatory steps:
@@ -74,6 +74,7 @@ If you would like to consider conversion functionality in your product or you wa
 1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a BMP file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
 1.  The BMP file will be saved to the specified path.
 
+<script class="ld-howto" type="application/ld+json">{"@context":"http://schema.org/","@type":"HowTo","name":"How to create color palette","image":"https://products.aspose.app/img/howto.png","totalTime":"PT1M","estimatedCost":{"@type":"MonetaryAmount","currency":"USD","value":"0"},"supply":[{"@type":"HowToSupply","name":"Create color combinations and save palettes with HEX color codes."}],"tool":[{"@type":"HowToTool","name":"Color Wheel"}],"step":[{"@type":"HowToStep","name":"Drag and click your cursor inside the Color Wheel area to highlight the color. Click the Color Wheel area again to generate a new one. Create paints as many as you need.","text":"Drag and click your cursor inside the Color Wheel area to highlight the color. Click the Color Wheel area again to generate a new one. Create paints as many as you need.","image":"https://products.aspose.app/html/assets/howto/color-wheel/step0.png","url":"html/color-wheel#howto"},{"@type":"HowToStep","name":"You can set the contrast and brightness for the selected color to achieve the desired result.","text":"You can set the contrast and brightness for the selected color to achieve the desired result.","image":"https://products.aspose.app/html/assets/howto/color-wheel/step1.png","url":"html/color-wheel#howto"},{"@type":"HowToStep","name":"To create a palette, click on the “Add to palette“ button: the chosen color will appear in the palette area. If you want to delete a paint, click the “Remove“ button.","text":"To create a palette, click on the “Add to palette“ button: the chosen color will appear in the palette area. If you want to delete a paint, click the “Remove“ button.","image":"https://products.aspose.app/html/assets/howto/color-wheel/step2.png","url":"html/color-wheel#howto"},{"@type":"HowToStep","name":"Color Wheel app generates a set of paints in HEX color codes. You can save HEX codes of the palette as HTML, CSS or JSON files.","text":"Color Wheel app generates a set of paints in HEX color codes. You can save HEX codes of the palette as HTML, CSS or JSON files.","image":"https://products.aspose.app/html/assets/howto/color-wheel/step3.png","url":"html/color-wheel#howto"}]}</script>
 
 {{<section documentation>}}
 ---
