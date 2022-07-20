@@ -16,6 +16,7 @@ otherformats: PDF DOCX XPS GIF JPEG PNG TIFF
 ---
 h1: Convert EPUB to BMP via C#
 h2: Generate BMP from EPUB source file using .NET API. Instantly convert EPUB to BMP format with our free online converter!
+p: Instantly convert EPUB to BMP format with our free online converter!
 ---
 
 {{<section overview>}}
@@ -75,6 +76,7 @@ h2: EPUB to BMP Conversion in Documentation
 ---
 
 BMP files are bitmap image files that are used to store high-quality bitmap digital images. Thus, it may sometimes be necessary to convert EPUB to BMP. Please visit the documentation article [Convert EPUB to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common EPUB to BMP conversion scenarios. In the article, you find information on how to convert EPUB to BMP using ConvertEPUB() methods, and how to apply ImageSaveOptions and ICreateStreamProvider parameters.
+
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/#convert-epub-to-bmp" target="_blank">Convert EPUB to BMP</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-bmp/#convert-epub-to-bmp-using-imagesaveoptions" target="_blank">Convert EPUB to BMP using ImageSaveOptions</a>  
 

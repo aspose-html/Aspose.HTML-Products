@@ -375,7 +375,7 @@ weight: 20
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="{{i18n.learning.tabTitle}}" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="learning">}}" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.learning.name1}}" href="https://docs.aspose.com/html/net/" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.learning.name2}}" href="https://github.com/aspose-html/Aspose.Html-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.learning.name3}}" href="https://apireference.aspose.com/net/html" >}}

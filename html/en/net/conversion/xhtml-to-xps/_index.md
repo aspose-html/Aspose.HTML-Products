@@ -74,7 +74,6 @@ Any conversion you want to perform involves loading an XHTML document and saving
 1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method to save XHTML as an XPS file. You need to pass the HTMLDocument, XpsSaveOptions, and output file path to the ConvertHTML() method.
 1.  The XPS file will be saved to the specified path.
 
-
 {{<section documentation>}}
 ---
 h2: (X)HTML Conversion in Documentation
