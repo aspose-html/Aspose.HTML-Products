@@ -11,7 +11,7 @@ weight: 20
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML" mavenRepoLink="" directDownloadLink="https://downloads.aspose.com/html/net" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/buy" directDownloadLink="https://downloads.aspose.com/html/net" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -375,7 +375,7 @@ weight: 20
 {{< /blocks/products/pf/main-container >}}
 
 {{< blocks/products/pf/support-learning-resources >}}
-{{< blocks/products/pf/slr-tab tabTitle="{{<import path="/{{lang}}/partials/_content.md" section="learning">}}" >}}
+{{< blocks/products/pf/slr-tab tabTitle="{{i18n.learning.tabTitle}}" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.learning.name1}}" href="https://docs.aspose.com/html/net/" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.learning.name2}}" href="https://github.com/aspose-html/Aspose.Html-for-.NET" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.learning.name3}}" href="https://apireference.aspose.com/net/html" >}}

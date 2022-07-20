@@ -78,7 +78,7 @@ Erstellen Sie HTML-Tabellen, Iframes, generieren Sie zufällige Farben und Farbp
 title: Datenkratzer
 ---
 
-Kostenlose Online-Apps zum automatischen Extrahieren von Daten aus Webseiten in Sekunden. Machen Sie ein paar Klicks, um Bilder, Schlüsselwörter, Videos und mehr zu extrahieren.
+Kostenlose Online-Apps zum automatischen Extrahieren von Daten aus Webseiten in Sekunden. Machen Sie ein paar Klicks, um Bilder, Schlüsselwörter, und mehr zu extrahieren.
 
 {{<section button3>}}
 ---

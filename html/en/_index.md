@@ -78,7 +78,7 @@ Create HTML tables, iframes, generate random colors and color palettes for your 
 title: Data Scrapers
 ---
 
-Free online Apps to extract data from web pages automatically in seconds. Make a few clicks to extract images, keywords, videos and more.
+Free online Apps to extract data from web pages automatically in seconds. Make a few clicks to extract images, keywords, and more.
 
 {{<section button3>}}
 ---

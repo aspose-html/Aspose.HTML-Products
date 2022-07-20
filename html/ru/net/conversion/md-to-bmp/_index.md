@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Конвертировать Markdown в BMP
-description: Пример кода C# для преобразования MD в BMP. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн Конвертер MD в BMP бесплатно!
+description: Пример кода C# для преобразования MD в BMP. Легко используйте API в любом приложении .NET. Попробуйте онлайн Конвертер MD в BMP бесплатно!
 url: /net/conversion/md-to-bmp/
 family: html
 platformtag: net
@@ -14,8 +14,8 @@ otherformats: PDF DOCX XPS GIF JPEG PNG TIFF HTML
 
 {{<section banner>}}
 ---
-h1: Преобразование MD в BMP через C#
-h2: Высокоточное преобразование MD в BMP с использованием серверных .NET API. Мгновенно конвертируйте формат MD в BMP с помощью нашего бесплатного онлайн-конвертера!
+h1: Конвертировать MD в BMP на C#
+h2: Преобразование MD в BMP с использованием серверных .NET API. Мгновенно конвертируйте формат MD в BMP с помощью нашего бесплатного онлайн-конвертера!
 ---
 
 {{<section overview>}}
@@ -27,7 +27,7 @@ h2: Преобразование MD в BMP с помощью C#
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации MD
 ---
 
 Проверьте качество преобразования MD в BMP прямо в браузере! Это быстро, просто, безопасно и совершенно бесплатно! В следующем примере C# показано, как преобразовать документ MD. Мы описываем исходный код для чтения MD из файла и последующего преобразования MD в BMP с параметрами сохранения по умолчанию. Пожалуйста, загрузите MD из локальной файловой системы, выберите выходной формат и запустите пример. Вы сразу получите результат в виде отдельного файла.
@@ -66,14 +66,12 @@ h2: Шаги по преобразованию MD в BMP на C#
 1. Используйте метод [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) для преобразования промежуточного документа HTML в изображение BMP. Вам необходимо передать HTMLDocument, ImageSaveOptions и путь к выходному файлу методу ConvertHTML().
 
 
-
-
 {{<section documentation>}}
 ---
 h2: Преобразование MD в BMP в документации
 ---
 
-Файлы BMP представляют собой файлы растровых изображений, которые используются для хранения высококачественных растровых цифровых изображений. Таким образом, иногда может возникнуть необходимость преобразовать изображение MD в BMP. Пожалуйста, посетите статью документации [Преобразование Markdown в изображение](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/), чтобы узнать больше об Aspose.HTML для .NET API. функции преобразования и рассмотреть примеры C# для наиболее распространенных сценариев преобразования MD в BMP. В статье вы найдете информацию о том, как <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/#convert-markdown-to-bmp " target="_blank">Преобразование Markdown в BMP</a> с помощью методов ConvertMarkdown() и способов применения ImageSaveOptions.
+Файлы BMP представляют собой файлы растровых изображений, которые используются для хранения высококачественных растровых цифровых изображений. Таким образом, иногда может возникнуть необходимость преобразовать изображение MD в BMP. Пожалуйста, посетите статью документации [Конвертировать Markdown в изображение](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/), чтобы узнать больше о функциях преобразования Aspose.HTML for .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования MD в BMP. В статье вы найдете информацию о том, как <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/#convert-markdown-to-bmp " target="_blank">Конвертировать Markdown в BMP</a> с помощью методов ConvertMarkdown() и способов применения ImageSaveOptions.
 
 {{<section online-converters>}}
 ---

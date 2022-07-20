@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Конвертировать MHTML в JPEG
-description: Преобразование MHTML в JPEG на C#. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн-конвертер MHTML в JPEG бесплатно!
+description: Конвертировать MHTML в JPEG на C#. Легко используйте API в любом приложении .NET. Попробуйте онлайн-конвертер MHTML в JPEG бесплатно!
 url: /net/conversion/mhtml-to-jpeg/
 family: html
 platformtag: net
@@ -14,8 +14,8 @@ otherformats: DOCX PDF XPS BMP GIF PNG TIFF
 
 {{<section banner>}}
 ---
-h1: Преобразование MHTML в JPEG через C#
-h2: Высокоточное преобразование MHTML в JPEG с использованием .NET API. Мгновенно конвертируйте формат MHTML в JPEG с помощью нашего бесплатного онлайн-конвертера.
+h1: Конвертировать MHTML в JPEG на C#
+h2: Преобразование MHTML в JPEG с использованием .NET API. Мгновенно конвертируйте формат MHTML в JPEG онлайн!
 ---
 
 {{<section overview>}}
@@ -27,7 +27,7 @@ h2: Преобразование MHTML в JPEG с помощью C#
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации MHTML
 ---
 
 Проверьте качество преобразования MHTML в JPEG прямо в браузере! Пожалуйста, загрузите файл MHTML из локальной файловой системы, выберите требуемый формат вывода из списка и запустите пример. Это быстро, просто, безопасно и совершенно бесплатно! Преобразование MHTML в JPEG будет выполнено с параметрами сохранения по умолчанию. Вы сразу получите результат в виде отдельного файла. Итак, быстро конвертируйте любую веб-страницу или MHTML в формат JPEG онлайн!
@@ -67,15 +67,12 @@ h2: Действия по преобразованию MHTML в JPEG в C#
 1. Используйте метод [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) класса Converter, чтобы сохранить MHTML как изображение JPEG.
 1. Файл JPEG будет сохранен по указанному пути.
 
-
-
-
 {{<section documentation>}}
 ---
 h2: Преобразование MHTML в JPEG в документации
 ---
 
-JPEG является одним из наиболее часто используемых форматов изображений. Его уникальность заключается в контролируемой потере качества при сжатии. Эта функция сжатия позволяет быстро и эффективно обмениваться изображениями JPG и широко использовать их в Интернете, на компьютерах и мобильных устройствах. Преобразование MHTML в JPEG позволяет сохранить документ MHTML как изображение JPEG. Пожалуйста, посетите статью документации [Преобразование MHTML в изображение](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/), чтобы узнать больше об Aspose.HTML для .NET API. функции преобразования и рассмотреть примеры C# для наиболее распространенных сценариев преобразования MHTML в JPEG. В статье вы найдете информацию о том, как <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/#convert-mhtml-to-jpg -using-imagesaveoptions" target="_blank">Преобразование MHTML в JPG</a> с помощью методов ConvertMHTML() и способов применения ImageSaveOptions или [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider).
+JPEG является одним из наиболее часто используемых форматов изображений. Его уникальность заключается в контролируемой потере качества при сжатии. Эта функция сжатия позволяет быстро и эффективно обмениваться изображениями JPG и широко использовать их в Интернете, на компьютерах и мобильных устройствах. Преобразование MHTML в JPEG позволяет сохранить документ MHTML как изображение JPEG. Пожалуйста, посетите статью документации [Преобразование MHTML в изображение,](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) чтобы узнать больше о функции преобразования Aspose.HTML для .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования MHTML в JPEG. В статье вы найдете информацию о том, как <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/#convert-mhtml-to-jpg -using-imagesaveoptions" target="_blank">Преобразование MHTML в JPG</a> с помощью методов ConvertMHTML() и способов применения ImageSaveOptions или [ICreateStreamProvider.](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider)
 
 {{<section online-converters>}}
 ---

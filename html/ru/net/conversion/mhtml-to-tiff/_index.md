@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Конвертировать MHTML в TIFF
-description: Преобразование MHTML в TIFF на C#. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн-конвертер MHTML в TIFF бесплатно!
+description: Конвертировать MHTML в TIFF на C#. Легко используйте API в любом приложении .NET. Попробуйте онлайн-конвертер MHTML в TIFF бесплатно!
 url: /net/conversion/mhtml-to-tiff/
 family: html
 platformtag: net
@@ -14,8 +14,8 @@ otherformats: DOCX PDF XPS BMP GIF JPEG PNG
 
 {{<section banner>}}
 ---
-h1: Преобразование MHTML в TIFF с помощью C#
-h2: Высокоточное преобразование MHTML в TIFF с использованием .NET API. Мгновенно конвертируйте MHTML в формат TIFF с помощью нашего бесплатного онлайн-конвертера.
+h1: Конвертировать MHTML в TIFF на C#
+h2: Преобразование MHTML в TIFF с использованием .NET API. Мгновенно конвертируйте MHTML в формат TIFF онлайн!
 ---
 
 {{<section overview>}}
@@ -27,7 +27,7 @@ h2: Преобразование MHTML в TIFF с помощью C#
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации MHTML
 ---
 
 Проверьте качество преобразования MHTML в TIFF прямо в браузере! Пожалуйста, загрузите файл MHTML из локальной файловой системы, выберите требуемый формат вывода из списка и запустите пример. Это быстро, просто, безопасно и совершенно бесплатно! Преобразование MHTML в TIFF будет выполнено с параметрами сохранения по умолчанию. Вы сразу получите результат в виде отдельного файла. Итак, быстро конвертируйте любую веб-страницу или MHTML в формат TIFF онлайн!
@@ -67,15 +67,12 @@ h2: Действия по преобразованию MHTML в TIFF на C#
 1. Используйте метод [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) класса Converter, чтобы сохранить MHTML как изображение TIFF.
 1. Файл TIFF будет сохранен по указанному пути.
 
-
-
-
 {{<section documentation>}}
 ---
 h2: Преобразование MHTML в TIFF в документации
 ---
 
-Преобразование MHTML в TIFF позволяет сохранить документ MHTML в виде изображения TIFF. Пожалуйста, посетите статью документации [Преобразование MHTML в изображение](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/), чтобы узнать больше об Aspose.HTML для .NET API. функции преобразования и рассмотреть примеры C# для наиболее распространенных сценариев преобразования MHTML в TIFF. В статье вы найдете информацию о том, как <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/#convert-mhtml-to-tiff " target="_blank">Преобразование MHTML в TIFF</a> с помощью методов ConvertMHTML() и способов применения ImageSaveOptions.
+Преобразование MHTML в TIFF позволяет сохранить документ MHTML в виде изображения TIFF. Пожалуйста, посетите статью документации [Преобразование MHTML в изображение,](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) чтобы узнать больше о функции преобразования Aspose.HTML для .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования MHTML в TIFF. В статье вы найдете информацию о том, как <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/#convert-mhtml-to-tiff " target="_blank">Преобразование MHTML в TIFF</a> с помощью методов ConvertMHTML() и способов применения ImageSaveOptions.
 
 {{<section online-converters>}}
 ---

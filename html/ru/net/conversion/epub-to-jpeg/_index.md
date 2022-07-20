@@ -1,8 +1,8 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Преобразование EPUB в JPEG — C#
-description: Пример кода C# для преобразования EPUB в JPEG. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн-конвертер EPUB в JPEG бесплатно!
+title: Конвертировать EPUB в JPEG — C#
+description: Пример кода C# для преобразования EPUB в JPEG. Попробуйте онлайн-конвертер EPUB в JPEG бесплатно!
 url: /net/conversion/epub-to-jpeg/
 family: html
 platformtag: net
@@ -15,19 +15,19 @@ otherformats: PDF DOCX XPS BMP GIF PNG TIFF
 {{<section banner>}}
 ---
 h1: Конвертировать EPUB в JPEG через C#
-h2: Сгенерируйте JPEG из исходного файла EPUB, используя .NET API. Мгновенно конвертируйте формат EPUB в JPEG с помощью нашего бесплатного онлайн-конвертера!
+h2: Сгенерируйте JPEG из исходного файла EPUB, используя .NET API. Мгновенно конвертируйте формат EPUB в JPEG онлайн!
 ---
 
 {{<section overview>}}
 ---
-h2: Преобразование EPUB в JPEG с помощью C#
+h2: Конвертировать EPUB в JPEG с помощью C#
 ---
 
 Чтобы преобразовать EPUB в JPEG, мы будем использовать API [Aspose.HTML для .NET](https://products.aspose.com/html/net/), который представляет собой многофункциональный, мощный и простой в использовании документ. API манипуляции и преобразования для платформы C#. EPUB — это открытый формат цифровых книг и публикаций на основе XML, который можно просматривать и читать на различных устройствах. Преобразование EPUB часто требуется для использования преимуществ других форматов. Вы можете программно преобразовать EPUB в JPEG с полным контролем над широким диапазоном параметров преобразования. Мощный C# API позволяет быстро и качественно конвертировать EPUB в популярные форматы!
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации EPUB
 ---
 
 Проверьте качество преобразования EPUB в JPEG прямо в браузере! Это быстро, просто, безопасно и совершенно бесплатно! В следующем примере C# показано, как преобразовать документ EPUB. Мы описываем исходный код для чтения EPUB из файла и последующего преобразования EPUB в JPEG с параметрами сохранения по умолчанию. Пожалуйста, загрузите EPUB из локальной файловой системы, выберите выходной формат и запустите пример. Вы сразу получите результат в виде отдельного файла.
@@ -64,7 +64,7 @@ h2: Шаги по преобразованию EPUB в JPEG на C#
 Если вы хотите использовать функции преобразования в своем продукте или хотите программно преобразовать EPUB в JPEG, см. приведенный выше пример кода C# или изучите главу «Документация». Это могут быть разные сценарии, но любое преобразование EPUB можно выполнить, выполнив несколько обязательных шагов:
 1. Откройте существующий файл EPUB.
 1. Создайте новый объект [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) с JPEG ImageFormat. По умолчанию свойство Format имеет значение [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Используйте метод [ConvertEPUB()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) класса Converter для сохранения EPUB в виде изображения JPEG. . Вам необходимо передать файловый поток EPUB, ImageSaveOptions и путь к выходному файлу в метод ConvertEPUB() для преобразования EPUB в JPEG.
+1. Используйте метод [ConvertEPUB()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) класса Converter для сохранения EPUB в виде изображения JPEG. Вам необходимо передать файловый поток EPUB, ImageSaveOptions и путь к выходному файлу в метод ConvertEPUB() для преобразования EPUB в JPEG.
 1. Файл JPEG будет сохранен по указанному пути.
 
 
@@ -75,7 +75,7 @@ h2: Шаги по преобразованию EPUB в JPEG на C#
 h2: Преобразование EPUB в JPEG в документации
 ---
 
-  - цель <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#epub-to-jpg-by-two-lines-of-code" ="_blank">EPUB в JPG двумя строками кода</a>
+  - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#epub-to-jpg-by-two-lines-of-code" target="_blank">EPUB в JPG двумя строками кода</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#convert-epub-to-jpg-using-imagesaveoptions" target="_blank" >Конвертировать EPUB в JPG с помощью ImageSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#output-stream-providers" target="_blank">Конвертировать EPUB в JPG, используя MemoryStreamProvider</a>
 

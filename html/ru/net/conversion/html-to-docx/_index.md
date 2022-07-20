@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Преобразование HTML в DOCX в C# .NET
-description: Преобразование HTML в DOCX на C#. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн-конвертер HTML в DOCX бесплатно!
+description: Конвертировать HTML в DOCX на C#. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн-конвертер HTML в DOCX бесплатно!
 url: /net/conversion/html-to-docx/
 family: html
 platformtag: net
@@ -14,8 +14,8 @@ otherformats: PDF XPS GIF JPEG PNG TIFF BMP XHTML MHTML MD
 
 {{<section banner>}}
 ---
-h1: Преобразование HTML в DOCX через C#
-h2: Создайте DOCX из исходной HTML-страницы с помощью .NET API. Мгновенно конвертируйте HTML в формат DOCX с помощью нашего бесплатного онлайн-конвертера.
+h1: Конвертировать HTML в DOCX на C#
+h2: Создайте DOCX из исходной HTML-страницы с помощью .NET API. Мгновенно конвертируйте HTML в формат DOCX онлайн!
 ---
 
 {{<section overview>}}
@@ -27,7 +27,7 @@ h2: Преобразование HTML в DOCX с помощью C#
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации HTML
 ---
 
 Проверьте качество преобразования HTML в DOCX прямо в браузере! Пожалуйста, загрузите файл HTML из локальной файловой системы, выберите требуемый формат вывода из списка и запустите пример. Это быстро, просто, безопасно и совершенно бесплатно! Преобразование HTML в DOCX будет выполнено с параметрами сохранения по умолчанию. Вы сразу получите результат в виде отдельного файла. Итак, быстро конвертируйте любую веб-страницу или HTML в формат DOCX онлайн!
@@ -68,12 +68,11 @@ h2: Шаги по преобразованию HTML в DOCX на C#
 ---
 
 Если вы хотели бы использовать функции преобразования в своем продукте или хотите программно преобразовать HTML в DOCX, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование требует некоторых обязательных шагов:
+
 1. Загрузите HTML-документ с помощью одного из конструкторов [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
 1. Создайте новый объект [DocSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/docsaveoptions).
 1. Используйте метод [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) класса Converter для сохранения HTML в виде файла DOCX. Вам необходимо передать HTMLDocument, DocSaveOptions и путь к выходному файлу методу ConvertHTML().
 1. Файл DOCX будет сохранен по указанному пути.
-
-
 
 
 {{<section documentation>}}
@@ -82,10 +81,10 @@ h2: Преобразование HTML в DOCX в документации
 ---
 
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#html-to-docx-by-a-single-line-of-code " target="_blank">Конвертировать HTML в DOCX одной строкой кода</a>
-  - Цель <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-in-c-using-docsaveoptions" ="_blank">Преобразование HTML в DOCX с помощью DocSaveOptions</a>
+  - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#convert-html-to-docx-in-c-using-docsaveoptions" target="_blank">Преобразование HTML в DOCX с помощью DocSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/#output-stream-providers" target="_blank">Конвертировать HTML в DOCX с помощью MemoryStreamProvider</a>
 
-Преобразование HTML в DOCX часто требуется, чтобы использовать формат DOCX для конкретных задач. Этот формат популярен, потому что он поддерживает широкий спектр функций форматирования и предлагает пользователям множество вариантов для написания любого типа документа. Пожалуйста, посетите статью документации [Преобразование HTML в DOCX](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/), чтобы узнать больше об Aspose.HTML для .NET API. функции преобразования и рассмотреть примеры C# для наиболее распространенных сценариев преобразования HTML в DOCX. В статье вы найдете информацию о том, как преобразовать HTML в DOCX с помощью методов ConvertHTML() и как применить параметры DocSaveOptions и ICreateStreamProvider.
+Преобразование HTML в DOCX часто требуется, чтобы использовать формат DOCX для конкретных задач. Этот формат популярен, потому что он поддерживает широкий спектр функций форматирования и предлагает пользователям множество вариантов для написания любого типа документа. Пожалуйста, посетите статью документации [Преобразование HTML в DOCX](https://docs.aspose.com/html/net/converting-between-formats/html-to-docx/), чтобы узнать больше о функциях преобразования Aspose.HTML for .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования HTML в DOCX. В статье вы найдете информацию о том, как преобразовать HTML в DOCX с помощью методов ConvertHTML() и как применить параметры DocSaveOptions и ICreateStreamProvider.
 
 {{<section online-converters>}}
 ---

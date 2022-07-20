@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Конвертировать EPUB в PDF
-description: Пример кода для преобразования EPUB в PDF C#. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн-конвертер EPUB в PDF бесплатно!
+description: Пример C# кода для преобразования EPUB в PDF. Попробуйте онлайн-конвертер EPUB в PDF бесплатно!
 url: /net/conversion/epub-to-pdf/
 family: html
 platformtag: net
@@ -14,7 +14,7 @@ otherformats: DOCX XPS GIF JPEG PNG TIFF BMP
 
 {{<section banner>}}
 ---
-h1: Преобразование EPUB в PDF через C#
+h1: Конвертировать EPUB в PDF на C#
 h2: Создавайте PDF из исходного файла EPUB с помощью .NET API. Мгновенно конвертируйте формат EPUB в PDF с помощью нашего бесплатного онлайн-конвертера!
 ---
 
@@ -27,7 +27,7 @@ h2: Преобразование EPUB в PDF с помощью C#
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации EPUB
 ---
 
 Проверьте качество преобразования EPUB в PDF прямо в браузере! Это быстро, просто, безопасно и совершенно бесплатно! В следующем примере C# показано, как преобразовать документ EPUB. Мы описываем исходный код для чтения EPUB из файла и последующего преобразования EPUB в PDF с параметрами сохранения по умолчанию. Пожалуйста, загрузите EPUB из локальной файловой системы, выберите выходной формат и запустите пример. Вы сразу получите результат в виде отдельного файла.
@@ -62,12 +62,11 @@ h2: Шаги по преобразованию EPUB в PDF на C#
 ---
 
 Если вы хотите использовать функции преобразования в своем продукте или хотите программно преобразовать EPUB в PDF, см. приведенный выше пример кода C# или изучите главу «Документация». API, вы можете преобразовать EPUB в PDF с полным контролем над широким диапазоном параметров преобразования. Это могут быть разные сценарии, но любое преобразование EPUB можно выполнить, выполнив несколько обязательных шагов:
+
 1. Откройте существующий файл EPUB.
 1. Создайте новый объект [PdfSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions).
-1. Используйте метод [ConvertEPUB()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) класса Converter, чтобы сохранить EPUB в виде файла PDF. . Вам необходимо передать файловый поток EPUB, PdfSaveOptions и путь к выходному файлу методу ConvertEPUB() для преобразования EPUB в PDF.
+1. Используйте метод [ConvertEPUB()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) класса Converter, чтобы сохранить EPUB в виде файла PDF. Вам необходимо передать файловый поток EPUB, PdfSaveOptions и путь к выходному файлу методу ConvertEPUB() для преобразования EPUB в PDF.
 1. Файл PDF будет сохранен по указанному пути.
-
-
 
 
 {{<section documentation>}}
@@ -75,11 +74,11 @@ h2: Шаги по преобразованию EPUB в PDF на C#
 h2: Преобразование EPUB в PDF в документации
 ---
 
-  - цель <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#epub-to-pdf-by-two-lines-of-code" ="_blank">из EPUB в PDF двумя строками кода</a>
+  - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#epub-to-pdf-by-two-lines-of-code" target="_blank">EPUB в PDF двумя строками кода</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#convert-epub-to-pdf-using-pdfsaveoptions" target="_blank" >Конвертировать EPUB в PDF с помощью PdfSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/#output-stream-providers" target="_blank">преобразование EPUB в PDF с помощью MemoryStreamProvider</a>
 
-Формат EPUB приобрел популярность как формат электронных книг на основе XML и предназначен для адаптации представления контента к устройству чтения. Иногда вам нужно получить PDF-документы вместо EPUB, например, сделать их оптимизированными для печати, безопасными и надежными, сделать копии документов EPUB и т. д. Пожалуйста, посетите статью документации [Преобразование EPUB в PDF](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/), чтобы узнать больше о функциях преобразования Aspose.HTML для .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования EPUB в PDF. В статье вы найдете информацию о том, как преобразовать EPUB в PDF с помощью методов ConvertEPUB() и как применить параметры PdfSaveOptions и ICreateStreamProvider.
+Формат EPUB приобрел популярность как формат электронных книг на основе XML и предназначен для адаптации представления контента к устройству чтения. Иногда вам нужно получить PDF-документы вместо EPUB, например, сделать их оптимизированными для печати, безопасными и надежными, сделать копии документов EPUB и т. д. Пожалуйста, посетите статью документации [Преобразование EPUB в PDF,](https://docs.aspose.com/html/net/converting-between-formats/epub-to-pdf/) чтобы узнать больше о функциях преобразования Aspose.HTML для .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования EPUB в PDF. В статье вы найдете информацию о том, как преобразовать EPUB в PDF с помощью методов ConvertEPUB() и как применить параметры PdfSaveOptions и ICreateStreamProvider.
 
 {{<section online-converters>}}
 ---

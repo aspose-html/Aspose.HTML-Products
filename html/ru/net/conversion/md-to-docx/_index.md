@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Конвертировать MD в DOCX
-description: Пример кода C# для преобразования MD в DOCX. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн конвертер MD в DOCX бесплатно!
+description: Пример кода C# для преобразования MD в DOCX. Легко используйте API в любом приложении .NET. Попробуйте онлайн конвертер MD в DOCX бесплатно!
 url: /net/conversion/md-to-docx/
 family: html
 platformtag: net
@@ -14,8 +14,8 @@ otherformats: PDF XPS JPEG BMP GIF PNG TIFF HTML
 
 {{<section banner>}}
 ---
-h1: Преобразование MD в DOCX через C#
-h2: Высокоточное преобразование MD в DOCX с использованием серверных .NET API. Мгновенно конвертируйте формат MD в DOCX с помощью нашего бесплатного онлайн-конвертера!
+h1: Конвертировать MD в DOCX на C#
+h2: Преобразование MD в DOCX с использованием серверных .NET API. Мгновенно конвертируйте формат MD в DOCX онлайн!
 ---
 
 {{<section overview>}}
@@ -27,7 +27,7 @@ h2: Преобразование MD в DOCX с помощью C#
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации MD
 ---
 
 Проверьте качество преобразования MD в DOCX прямо в браузере! Это быстро, просто, безопасно и совершенно бесплатно! В следующем примере C# показано, как преобразовать документ MD. Мы описываем исходный код для чтения MD из файла и последующего преобразования MD в DOCX с параметрами сохранения по умолчанию. Пожалуйста, загрузите MD из локальной файловой системы, выберите выходной формат и запустите пример. Вы сразу получите результат в виде отдельного файла.
@@ -66,17 +66,15 @@ h2: Шаги по преобразованию MD в DOCX на C#
 1. Используйте метод [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) для преобразования промежуточного документа HTML в файл DOCX. Вам необходимо передать HTMLDocument, DocSaveOptions и путь к выходному файлу методу ConvertHTML().
 
 
-
-
 {{<section documentation>}}
 ---
 h2: Преобразование MD в DOCX в документации
 ---
 
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-docx/#convert-markdown-to-docx" target="_blank">Преобразовать Markdown в DOCX</a>
- - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-docx/#convert-markdown-to-docx-using-docsaveoptions" target="_blank" >Преобразование Markdown в DOCX с помощью DocSaveOptions</a>
+ - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-docx/#convert-markdown-to-docx-using-docsaveoptions" target="_blank" >Конвертировать Markdown в DOCX с помощью DocSaveOptions</a>
 
-Markdown часто используется в качестве формата для документации и файлов readme, поскольку он позволяет писать в удобном для чтения и написания стиле. Преобразование MD в DOCX часто требуется, чтобы использовать преимущества формата DOCX для конкретных задач. Пожалуйста, посетите статью документации [Конвертировать Markdown в DOCX](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-docx/), чтобы узнать больше об Aspose.HTML для .NET API. функции преобразования и рассмотреть примеры C# для наиболее распространенных сценариев преобразования MD в DOCX. В статье вы найдете информацию о том, как преобразовать Markdown в DOCX с помощью методов ConvertMarkdown() и как применить DocSaveOptions.
+Markdown часто используется в качестве формата для документации и файлов readme, поскольку он позволяет писать в удобном для чтения и написания стиле. Преобразование MD в DOCX часто требуется, чтобы использовать преимущества формата DOCX для конкретных задач. Пожалуйста, посетите статью документации [Конвертировать Markdown в DOCX](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-docx/), чтобы узнать больше о функциях преобразования Aspose.HTML for .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования MD в DOCX. В статье вы найдете информацию о том, как преобразовать Markdown в DOCX с помощью методов ConvertMarkdown() и как применить DocSaveOptions.
 
 {{<section online-converters>}}
 ---

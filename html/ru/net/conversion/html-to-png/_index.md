@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Конвертировать HTML в PNG
-description: Преобразование HTML в PNG на C#. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн-конвертер HTML в PNG бесплатно!
+description: Преобразование HTML в PNG на C#. Легко используйте API в любом приложении .NET. Попробуйте онлайн-конвертер HTML в PNG бесплатно!
 url: /net/conversion/html-to-png/
 family: html
 platformtag: net
@@ -14,8 +14,8 @@ otherformats: PDF DOCX XPS JPEG GIF PNG TIFF BMP XHTML MHTML MD
 
 {{<section banner>}}
 ---
-h1: Преобразование HTML в PNG через C#
-h2: Создание PNG из исходной HTML-страницы с помощью .NET API. Мгновенно конвертируйте HTML в формат PNG с помощью нашего бесплатного онлайн-конвертера!
+h1: Конвертировать HTML в PNG на C#
+h2: Создание PNG из исходной HTML-страницы с помощью .NET API. Мгновенно конвертируйте HTML в формат PNG онлайн!
 ---
 
 {{<section overview>}}
@@ -27,7 +27,7 @@ h2: Преобразование HTML в PNG с помощью C#
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации HTML
 ---
 
 Проверьте качество преобразования HTML в PNG прямо в браузере! Пожалуйста, загрузите файл HTML из локальной файловой системы, выберите требуемый формат вывода из списка и запустите пример. Это быстро, просто, безопасно и совершенно бесплатно! Преобразование HTML в PNG будет выполнено с параметрами сохранения по умолчанию. Вы сразу получите результат в виде отдельного файла. Итак, быстро конвертируйте любую веб-страницу или HTML в формат PNG онлайн!
@@ -68,6 +68,7 @@ h2: Шаги по преобразованию HTML в PNG в C#
 ---
 
 Если вы хотели бы использовать функции преобразования в своем продукте или хотите программно преобразовать HTML в PNG, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование требует некоторых обязательных шагов:
+
 1. Загрузите HTML-документ с помощью одного из конструкторов [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
 1. Создайте новый объект [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions).
 1. Используйте метод [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) класса Converter для сохранения HTML в виде файла PNG. Вам необходимо передать HTMLDocument, ImageSaveOptions и путь к выходному файлу методу ConvertHTML().
@@ -85,7 +86,7 @@ h2: Преобразование HTML в PNG в документации
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#convert-html-to-png-using-imagesaveoptions" target="_blank" >Конвертировать HTML в PNG с помощью ImageSaveOptions</a>
    - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#output-stream-providers" target="_blank">преобразование HTML в PNG с помощью MemoryStreamProvider</a>
 
-PNG — один из наиболее часто используемых форматов файлов изображений. Он поддерживает сжатие изображений без потерь, что делает его популярным среди пользователей. Преобразование файлов HTML в изображения PNG может потребоваться, например, если вы хотите добавить веб-страницу в презентацию PowerPoint, вставить ее в блог для своих читателей или отправить по электронной почте. Пожалуйста, посетите статью документации [Преобразование HTML в PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/), чтобы узнать больше об Aspose.HTML для .NET API. функции преобразования и рассмотреть примеры C# для наиболее распространенных сценариев преобразования HTML в PNG. В статье вы найдете информацию о том, как преобразовать HTML в PNG с помощью методов ConvertHTML() и как применить параметры ImageSaveOptions и ICreateStreamProvider.
+PNG — один из наиболее часто используемых форматов файлов изображений. Он поддерживает сжатие изображений без потерь, что делает его популярным среди пользователей. Преобразование файлов HTML в изображения PNG может потребоваться, например, если вы хотите добавить веб-страницу в презентацию PowerPoint, вставить ее в блог для своих читателей или отправить по электронной почте. Пожалуйста, посетите статью документации [Преобразование HTML в PNG,](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) чтобы узнать больше об Aspose.HTML для .NET API. функции преобразования и рассмотреть примеры C# для наиболее распространенных сценариев преобразования HTML в PNG. В статье вы найдете информацию о том, как преобразовать HTML в PNG с помощью методов ConvertHTML() и как применить параметры ImageSaveOptions и ICreateStreamProvider.
 
 {{<section online-converters>}}
 ---
@@ -100,5 +101,5 @@ h2: Как установить библиотеку Aspose.HTML для .NET
 {{<section other-conversions>}}
 ---
 title: Другие поддерживаемые преобразования HTML
-subTitle: "Вы также можете конвертировать HTML во многие другие форматы файлов:"
+subTitle: "Вы также можете конвертировать HTML в другие форматы файлов:"
 ---

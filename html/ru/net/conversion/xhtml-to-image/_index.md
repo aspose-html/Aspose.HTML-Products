@@ -1,8 +1,8 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Преобразование XHTML в изображение
-description: Преобразование XHTML в изображение на C#. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн XHTML to Image Converter бесплатно!
+title: Конвертировать XHTML в изображение
+description: Преобразование XHTML в изображение на C#. Легко используйте API в любом приложении .NET. Попробуйте онлайн XHTML to Image Converter бесплатно!
 url: /net/conversion/xhtml-to-image/
 family: html
 platformtag: net
@@ -14,20 +14,20 @@ otherformats: PDF DOCX XPS GIF JPEG PNG TIFF BMP HTML MHTML MD
 
 {{<section banner>}}
 ---
-h1: Преобразование XHTML в изображение с помощью C#
-h2: Сгенерируйте изображение из исходной страницы XHTML с помощью .NET API. Мгновенно конвертируйте XHTML в форматы изображений с помощью нашего бесплатного онлайн-конвертера!
+h1: Конвертировать XHTML в изображение с помощью C#
+h2: Сгенерируйте изображение из исходной страницы XHTML с помощью .NET API. Мгновенно конвертируйте XHTML в форматы изображений онлайн!
 ---
 
 {{<section overview>}}
 ---
-h2: Преобразование XHTML в изображение с помощью C#
+h2: Конвертировать XHTML в изображение с помощью C#
 ---
 
 Главной изюминкой [Aspose.HTML .NET](https://products.aspose.com/html/net/) API является функция преобразования. Используя нашу мощную библиотеку, вы можете программно конвертировать XHTML в изображения с полным контролем над различными параметрами преобразования. Любое преобразование, которое вы хотите выполнить, включает в себя загрузку документа XHTML и его сохранение в поддерживаемом формате. Мощный C# API позволяет быстро и качественно конвертировать XHTML в популярные форматы!
 
 {{<section demos>}}
 ---
-h2: Бесплатные онлайн-демонстрации конвертера
+h2: Бесплатное приложение для конвертации XHTML
 ---
 
 Проверьте качество преобразования XHTML в изображение прямо в браузере! Пожалуйста, загрузите файл XHTML из локальной файловой системы, выберите требуемый выходной формат из списка и запустите пример. Это быстро, просто, безопасно и совершенно бесплатно! Преобразование XHTML в изображение будет выполнено с параметрами сохранения по умолчанию. Вы сразу получите результат в виде отдельного файла. Итак, быстро конвертируйте любую веб-страницу или XHTML в формат изображения онлайн!
@@ -68,20 +68,17 @@ h2: Действия по преобразованию XHTML в изображе
 ---
 
 Если вы хотите программно преобразовать XHTML в изображение, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование XHTML требует некоторых обязательных шагов:
-1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument).
-1. Создайте новый объект [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) и укажите ImageFormat. По умолчанию свойство Format имеет значение [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Используйте метод [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), чтобы сохранить XHTML как растровое изображение. Вам необходимо передать HTMLDocument, ImageSaveOptions и путь к выходному файлу методу ConvertHTML().
+1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument().](https://apireference.aspose.com/html/net/aspose.html/htmldocument)
+1. Создайте новый объект [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) и укажите ImageFormat. По умолчанию свойство Format имеет значение [PNG.](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat)
+1. Используйте метод [ConvertHTML(),](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) чтобы сохранить XHTML как растровое изображение. Вам необходимо передать HTMLDocument, ImageSaveOptions и путь к выходному файлу методу ConvertHTML().
 1. Файл изображения будет сохранен по указанному пути.
-
-
-
 
 {{<section documentation>}}
 ---
-h2: (X) Преобразование HTML в документации
+h2: Конвертация (X)HTML в документации
 ---
 
-Преобразование между форматами требуется по разным причинам: для работы в привычном, удобном формате или для использования преимуществ разных форматов для конкретных задач. Aspose.HTML for .NET API позволяет быстро и качественно конвертировать (X)HTML в другие популярные форматы. Пожалуйста, посетите главу документации <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Преобразование между форматами</a>, чтобы узнать больше об Aspose. Функции преобразования HTML для .NET API. В главе описываются популярные преобразователи, а также примеры C# для наиболее распространенных сценариев преобразования.
+Преобразование между форматами требуется по разным причинам: для работы в привычном, удобном формате или для использования преимуществ разных форматов для конкретных задач. Aspose.HTML for .NET API позволяет быстро и качественно конвертировать (X)HTML в другие популярные форматы. Пожалуйста, посетите главу документации <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Преобразование между форматами</a>, чтобы узнать больше об Aspose.HTML for .NET API. В главе описываются популярные преобразования, а также примеры C# для наиболее распространенных сценариев преобразования.
 
 {{<section online-converters>}}
 ---
