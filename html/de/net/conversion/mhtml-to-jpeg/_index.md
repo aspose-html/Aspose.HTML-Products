@@ -63,8 +63,8 @@ h2: Schritte zum Konvertieren von MHTML in JPEG in C#
 
 Wenn Sie MHTML programmgesteuert in JPEG konvertieren möchten, befolgen Sie bitte einige erforderliche Schritte:
 1. Öffnen Sie eine vorhandene MHTML-Datei.
-1. Erstellen Sie ein neues [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt mit JPEG ImageFormat. Standardmäßig ist die Format-Eigenschaft [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Verwenden Sie die Methode [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) der Converter-Klasse, um MHTML als JPEG-Bild zu speichern.
+1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt mit JPEG ImageFormat. Standardmäßig ist die Format-Eigenschaft [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1. Verwenden Sie die Methode [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) der Converter-Klasse, um MHTML als JPEG-Bild zu speichern.
 1. Die JPEG-Datei wird im angegebenen Pfad gespeichert.
 
 

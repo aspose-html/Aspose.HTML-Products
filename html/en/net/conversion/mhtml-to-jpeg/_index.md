@@ -64,8 +64,8 @@ h2: Steps to Convert MHTML to JPEG in C#
 If you want to programmatically convert MHTML to JPEG,  please follow a few required steps:
 
 1.  Open an existing MHTML file.
-1.  Create a new [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with JPEG ImageFormat. By default, the Format property is [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1.  Use the [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) method of the Converter class to save MHTML as a JPEG image.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with JPEG ImageFormat. By default, the Format property is [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1.  Use the [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) method of the Converter class to save MHTML as a JPEG image.
 1.  The JPEG file will be saved to the specified path.
 
 
@@ -74,7 +74,7 @@ If you want to programmatically convert MHTML to JPEG,  please follow a few requ
 h2: MHTML to JPEG Conversion in Documentation
 ---
 
-JPEG is one of the most commonly used image formats. Its uniqueness is the controlled loss of quality during compression. This compression feature allows you to quickly and efficiently share JPG images and use them widely on the Web, computers, and mobile devices. MHTML to JPEG conversion allows you to save an MHTML document as a JPEG image. Please visit the documentation article [Convert MHTML to Image](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common MHTML to JPEG conversion scenarios. In the article, you will find information on how to <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/#convert-mhtml-to-jpg-using-imagesaveoptions" target="_blank">Convert MHTML to JPG</a> using ConvertMHTML() methods and how to apply ImageSaveOptions or [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
+JPEG is one of the most commonly used image formats. Its uniqueness is the controlled loss of quality during compression. This compression feature allows you to quickly and efficiently share JPG images and use them widely on the Web, computers, and mobile devices. MHTML to JPEG conversion allows you to save an MHTML document as a JPEG image. Please visit the documentation article [Convert MHTML to Image](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common MHTML to JPEG conversion scenarios. In the article, you will find information on how to <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/#convert-mhtml-to-jpg-using-imagesaveoptions" target="_blank">Convert MHTML to JPG</a> using ConvertMHTML() methods and how to apply ImageSaveOptions or [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
 
 {{<section online-converters>}}
 ---

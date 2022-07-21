@@ -68,9 +68,9 @@ h2: Schritte zum Konvertieren von HTML in Bilder in C#
 ---
 
 Wenn Sie die Konvertierungsfunktionalität in Ihrem Produkt in Betracht ziehen oder HTML programmgesteuert in Bild konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. In allen Fällen erfordert jede Konvertierung einige obligatorische Schritte:
-1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
-1. Erstellen Sie ein neues [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt und geben Sie ImageFormat an. Standardmäßig ist die Format-Eigenschaft PNG.
-1. Verwenden Sie die Methode [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um HTML als Bilddatei zu speichern. Sie müssen HTMLDocument, ImageSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
+1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
+1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt und geben Sie ImageFormat an. Standardmäßig ist die Format-Eigenschaft PNG.
+1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um HTML als Bilddatei zu speichern. Sie müssen HTMLDocument, ImageSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
 1. Die Bilddatei wird im angegebenen Pfad gespeichert.
 
 
@@ -89,7 +89,7 @@ h2: HTML-zu-Bild-Konvertierung in der Dokumentation
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-tiff/" target="_blank">HTML in TIFF konvertieren</a>
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-gif/" target="_blank">HTML in GIF konvertieren</a>
 
-Bitte besuchen Sie das Dokumentationskapitel [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele zu betrachten für die gängigsten HTML-zu-Bild-Konvertierungsszenarien. In den Artikeln finden Sie Informationen zum Konvertieren von HTML in Bilder mithilfe von ConvertHTML()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider)-Parameter.
+Bitte besuchen Sie das Dokumentationskapitel [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele zu betrachten für die gängigsten HTML-zu-Bild-Konvertierungsszenarien. In den Artikeln finden Sie Informationen zum Konvertieren von HTML in Bilder mithilfe von ConvertHTML()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io/icreatestreamprovider)-Parameter.
 
 {{<section online-converters>}}
 ---

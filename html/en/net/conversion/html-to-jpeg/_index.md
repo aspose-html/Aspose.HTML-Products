@@ -69,9 +69,9 @@ h2: Steps to Convert HTML to JPEG in C#
 
 If you would like to consider conversion functionality in your product or you want to convert HTML to JPEG programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any conversion requires some mandatory steps:
 
-1.  Load an HTML document using one of [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
-1.  Create a new [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with JPEG ImageFormat. By default, the Format property is PNG.
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a JPEG file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
+1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with JPEG ImageFormat. By default, the Format property is PNG.
+1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a JPEG file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
 1.  The JPEG file will be saved to the specified path.
 
 

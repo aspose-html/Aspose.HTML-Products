@@ -68,9 +68,9 @@ h2: Schritte zum Konvertieren von XHTML in MD in C#
 ---
 
 Wenn Sie XHTML programmgesteuert in MD konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. In allen Fällen erfordert jede Konvertierung von XHTML in MD einige obligatorische Schritte:
-1. Laden Sie eine XHTML-Datei mit einem der HTMLDocument()-Konstruktoren der Klasse [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument).
-1. Erstellen Sie ein neues [MarkdownSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions)-Objekt.
-1. Verwenden Sie die Methode [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um XHTML als Markdown-Datei zu speichern.
+1. Laden Sie eine XHTML-Datei mit einem der HTMLDocument()-Konstruktoren der Klasse [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument).
+1. Erstellen Sie ein neues [MarkdownSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions)-Objekt.
+1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um XHTML als Markdown-Datei zu speichern.
 1. Die MD-Datei wird im angegebenen Pfad gespeichert.
 
 

@@ -64,8 +64,8 @@ h2: Steps to Convert EPUB to PDF in C#
 If you would like to consider conversion functionality in your product or you want to convert EPUB to PDF programmatically, please see the C# code example above or learn the Documentation chapter. API, you can transform EPUB to PDF with full control over a wide range of conversion parameters. It can be different scenarios, but any EPUB conversion can be made with a few required steps:
 
 1.  Open an existing EPUB file.
-1.  Create a new [PdfSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) object.
-1.  Use the [ConvertEPUB()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) method of the Converter class to save EPUB as a PDF file. You need to pass the EPUB file stream, PdfSaveOptions, and output file path to the ConvertEPUB() method for EPUB to PDF conversion.
+1.  Create a new [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) object.
+1.  Use the [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) method of the Converter class to save EPUB as a PDF file. You need to pass the EPUB file stream, PdfSaveOptions, and output file path to the ConvertEPUB() method for EPUB to PDF conversion.
 1.  The PDF file will be saved to the specified path.
 
 

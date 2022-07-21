@@ -64,8 +64,8 @@ h2: Steps to Convert EPUB to Image in C#
 If you would like to consider conversion functionality in your product or you want to convert EPUB to Image programmatically, please see the C# code example above or learn the Documentation chapter. It can be different scenarios, but any EPUB conversion can be made with a few required steps:
 
 1.  Open an existing EPUB file.
-1.  Create a new [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object and specify ImageFormat. By default, the Format property is [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1.  Use the [ConvertEPUB()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) method of the Converter class to save EPUB as an Image. You need to pass the EPUB file stream, ImageSaveOptions, and output file path to the ConvertEPUB() method for EPUB to Image conversion.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object and specify ImageFormat. By default, the Format property is [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1.  Use the [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) method of the Converter class to save EPUB as an Image. You need to pass the EPUB file stream, ImageSaveOptions, and output file path to the ConvertEPUB() method for EPUB to Image conversion.
 1.  The Image file will be saved to the specified path.
 
 
@@ -74,7 +74,7 @@ If you would like to consider conversion functionality in your product or you wa
 h2: EPUB to Image Conversion in Documentation
 ---
 
-The EPUB format has gained popularity as an XML-based e-book format and is designed to adapt the content’s presentation to the reader device. Sometimes, it is required to get an image instead of EPUB documents, such as making them portable and easily shared on various devices, creating a picture gallery from eBooks, etc. Please visit the documentation chapter [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common EPUB to Image conversion scenarios. In the articles, you find information on how to convert EPUB to Image using ConvertEPUB() methods, and how to apply ImageSaveOptions or [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
+The EPUB format has gained popularity as an XML-based e-book format and is designed to adapt the content’s presentation to the reader device. Sometimes, it is required to get an image instead of EPUB documents, such as making them portable and easily shared on various devices, creating a picture gallery from eBooks, etc. Please visit the documentation chapter [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common EPUB to Image conversion scenarios. In the articles, you find information on how to convert EPUB to Image using ConvertEPUB() methods, and how to apply ImageSaveOptions or [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
 
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#epub-to-jpg-by-two-lines-of-code" target="_blank">EPUB to JPG by two lines of code</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/epub-to-jpg/#convert-epub-to-jpg-using-imagesaveoptions" target="_blank">Convert EPUB to JPG using ImageSaveOptions</a>

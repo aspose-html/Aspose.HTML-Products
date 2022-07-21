@@ -69,9 +69,9 @@ h2: Steps to Convert XHTML to PDF in C#
 
 If you want to convert XHTML to PDF programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any XHTML to PDF conversion requires some mandatory steps:
 
-1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://apireference.aspose.com/html/net/aspose.html/htmldocument) class.
-1.  Create a new [PdfSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) object. 
-1.  Use the [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save XHTML as a PDF file.
+1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument) class.
+1.  Create a new [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) object. 
+1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save XHTML as a PDF file.
 1.  The PDF file will be saved to the specified path.
 
 

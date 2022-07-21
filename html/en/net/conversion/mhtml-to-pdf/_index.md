@@ -64,8 +64,8 @@ h2: Steps to Convert MHTML to PDF in C#
 If you want to programmatically convert MHTML to PDF,  please follow a few required steps:
 
 1.  Open an existing MHTML file.
-1.  Create an instance of the [PdfSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) class.
-1.  Use the [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) method of the [Converter](https://apireference.aspose.com/html/net/aspose.html.converters/converter) class to save MHTML as a PDF file. You need to pass the MHTML file stream, PdfSaveOptions, and output file path to the ConvertMHTML() method.
+1.  Create an instance of the [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) class.
+1.  Use the [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) method of the [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter) class to save MHTML as a PDF file. You need to pass the MHTML file stream, PdfSaveOptions, and output file path to the ConvertMHTML() method.
 1.  The PDF file will be saved to the specified path.
 
 

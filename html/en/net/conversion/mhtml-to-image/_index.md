@@ -64,8 +64,8 @@ h2: Steps to Convert MHTML to Image in C#
 If you want to programmatically convert MHTML to Image,  please follow a few required steps:
 
 1.  Open an existing MHTML file.
-1.  Create a new [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object and specify ImageFormat. By default, the Format property is [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1.  Use the [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) method of the Converter class to save MHTML as an Image.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object and specify ImageFormat. By default, the Format property is [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1.  Use the [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) method of the Converter class to save MHTML as an Image.
 1.  The raster Image file will be saved to the specified path.
 
 
@@ -74,7 +74,7 @@ If you want to programmatically convert MHTML to Image,  please follow a few req
 h2: MHTML to Image Conversion in Documentation
 ---
 
-MHTML to Image conversion allows you to save an MHTML document as an Image file. Please visit the documentation article [Convert MHTML to Image](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common conversion scenarios. In the article, you will find information on how to convert MHTML to Image using ConvertMHTML() methods and nd how to apply ImageSaveOptions or [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
+MHTML to Image conversion allows you to save an MHTML document as an Image file. Please visit the documentation article [Convert MHTML to Image](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common conversion scenarios. In the article, you will find information on how to convert MHTML to Image using ConvertMHTML() methods and nd how to apply ImageSaveOptions or [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) parameters.
 
 {{<section online-converters>}}
 ---

@@ -63,8 +63,8 @@ h2: Schritte zum Konvertieren von MHTML in Bild in C#
 
 Wenn Sie MHTML programmgesteuert in Bild konvertieren möchten, befolgen Sie bitte einige erforderliche Schritte:
 1. Öffnen Sie eine vorhandene MHTML-Datei.
-1. Erstellen Sie ein neues [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt und geben Sie ImageFormat an. Standardmäßig ist die Format-Eigenschaft [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Verwenden Sie die Methode [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) der Converter-Klasse, um MHTML als Bild zu speichern.
+1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt und geben Sie ImageFormat an. Standardmäßig ist die Format-Eigenschaft [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1. Verwenden Sie die Methode [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) der Converter-Klasse, um MHTML als Bild zu speichern.
 1. Die Rasterbilddatei wird im angegebenen Pfad gespeichert.
 
 
@@ -75,7 +75,7 @@ Wenn Sie MHTML programmgesteuert in Bild konvertieren möchten, befolgen Sie bit
 h2: MHTML-zu-Bild-Konvertierung in der Dokumentation
 ---
 
-Die MHTML-zu-Bild-Konvertierung ermöglicht Ihnen, ein MHTML-Dokument als Bilddatei zu speichern. Bitte besuchen Sie den Dokumentationsartikel [MHTML in Bild konvertieren](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von MHTML in Bilder mithilfe der ConvertMHTML()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) Parameter.
+Die MHTML-zu-Bild-Konvertierung ermöglicht Ihnen, ein MHTML-Dokument als Bilddatei zu speichern. Bitte besuchen Sie den Dokumentationsartikel [MHTML in Bild konvertieren](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von MHTML in Bilder mithilfe der ConvertMHTML()-Methoden und zum Anwenden von ImageSaveOptions oder [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) Parameter.
 
 {{<section online-converters>}}
 ---
