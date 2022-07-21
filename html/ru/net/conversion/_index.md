@@ -20,9 +20,9 @@ h2: Как конвертировать HTML с помощью C#
  Язык гипертекстовой разметки HTML — это язык Интернета. В настоящее время большая часть информации представлена ​​на веб-сайтах в виде веб-страниц. Таким образом, преобразование этой информации на основе HTML в другие форматы, такие как PDF, XPS, Microsoft® Word, Markdown и форматы изображений, является распространенным сценарием. [.NET HTML API](https://products.aspose.com/html/net/) упрощает процесс преобразования для разработчиков.<br><br>
 Любое преобразование, которое вы хотите выполнить, включает в себя загрузку HTML-документа и его сохранение в поддерживаемом формате. Это могут быть разные сценарии, но это можно сделать с помощью нескольких обязательных шагов:
 
- - Загрузите документ HTML в объект Document с помощью одного из конструкторов [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
+ - Загрузите документ HTML в объект Document с помощью одного из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
  - Создайте объект «Параметры сохранения».
- - Вызовите один из методов [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) и передайте ему необходимые параметры.
+ - Вызовите один из методов [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) и передайте ему необходимые параметры.
 
 
 {{<section demos>}}
@@ -72,7 +72,7 @@ article8: Конвертировать HTML в JPG
 article9: Преобразование HTML в TIFF
 ---
 
-Главной изюминкой Aspose.HTML .NET API является функция преобразования. Преобразование между форматами требуется по разным причинам: для работы в привычном, удобном формате или для использования преимуществ разных форматов для конкретных задач. Пространство имен [Aspose.Html.Converters](https://apireference.aspose.com/html/net/aspose.html.converters) реализует простой доступ к методам преобразования. Он обеспечивает широкий спектр преобразований HTML в популярные форматы, такие как PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, MHTML и MD. Пожалуйста, посетите главу документации [Преобразование между форматами,](https://docs.aspose.com/html/net/converting-between-formats/) чтобы узнать больше о функциях преобразования Aspose.HTML для .NET API.
+Главной изюминкой Aspose.HTML .NET API является функция преобразования. Преобразование между форматами требуется по разным причинам: для работы в привычном, удобном формате или для использования преимуществ разных форматов для конкретных задач. Пространство имен [Aspose.Html.Converters](https://reference.aspose.com/html/net/aspose.html.converters) реализует простой доступ к методам преобразования. Он обеспечивает широкий спектр преобразований HTML в популярные форматы, такие как PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, MHTML и MD. Пожалуйста, посетите главу документации [Преобразование между форматами,](https://docs.aspose.com/html/net/converting-between-formats/) чтобы узнать больше о функциях преобразования Aspose.HTML для .NET API.
 
 {{<section installing>}}
 ---

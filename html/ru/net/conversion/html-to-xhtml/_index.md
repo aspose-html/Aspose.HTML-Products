@@ -72,8 +72,8 @@ h2: Шаги по преобразованию HTML в XHTML в C#
 
 Если вы хотели бы использовать функции преобразования в своем продукте или хотите программно преобразовать HTML в XHTML, см. приведенный выше пример кода C# или изучите главу «Документация». Пожалуйста, выполните следующие обязательные действия:
 
-1. Загрузите HTML-документ в объект Document с помощью конструктора [HTMLDocument(`string`)](https://apireference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
-1. Вызовите метод [Сохранить(`string`, `HTMLSaveOptions`)](https://apireference.aspose.com/html/net/aspose.html/htmldocument/save/).
+1. Загрузите HTML-документ в объект Document с помощью конструктора [HTMLDocument(`string`)](https://reference.aspose.com/html/net/aspose.html/htmldocument/htmldocument/). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
+1. Вызовите метод [Сохранить(`string`, `HTMLSaveOptions`)](https://reference.aspose.com/html/net/aspose.html/htmldocument/save/).
 1. Передайте путь к выходному файлу с расширением XHTML.
 1. Файл XHTML будет сохранен по указанному пути.
 

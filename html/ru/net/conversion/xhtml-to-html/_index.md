@@ -49,9 +49,9 @@ using Aspose.Html.Saving;
 h2: Шаги по преобразованию XHTML в HTML на C#
 ---
 
-1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument().](https://apireference.aspose.com/html/net/aspose.html/htmldocument)
-1. Создайте новый объект [HTMLSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/htmlsaveoptions).
-1. Используйте метод [Save()](https://apireference.aspose.com/html/net/aspose.html/htmldocument/save/) для преобразования XHTML в HTML.
+1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument().](https://reference.aspose.com/html/net/aspose.html/htmldocument)
+1. Создайте новый объект [HTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/htmlsaveoptions).
+1. Используйте метод [Save()](https://reference.aspose.com/html/net/aspose.html/htmldocument/save/) для преобразования XHTML в HTML.
 1. HTML-файл будет сохранен по указанному пути.
 
 {{<section documentation>}}

@@ -63,8 +63,8 @@ h2: Действия по преобразованию MHTML в изображе
 
 Если вы хотите программно преобразовать MHTML в изображение, выполните несколько обязательных шагов:
 1. Откройте существующий файл MHTML.
-1. Создайте новый объект [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) и укажите ImageFormat. По умолчанию свойство Format имеет значение [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Используйте метод [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) класса Converter, чтобы сохранить MHTML как изображение.
+1. Создайте новый объект [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) и укажите ImageFormat. По умолчанию свойство Format имеет значение [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1. Используйте метод [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) класса Converter, чтобы сохранить MHTML как изображение.
 1. Файл растрового изображения будет сохранен по указанному пути.
 
 {{<section documentation>}}
@@ -72,7 +72,7 @@ h2: Действия по преобразованию MHTML в изображе
 h2: Преобразование MHTML в изображение в документации
 ---
 
-Преобразование MHTML в изображение позволяет сохранить документ MHTML в виде файла изображения. Пожалуйста, посетите статью документации [Преобразование MHTML в изображение](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/), чтобы узнать больше о функции преобразования Aspose.HTML для .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования. В статье вы найдете информацию о том, как преобразовать MHTML в изображение с помощью методов ConvertMHTML(), а также о том, как применить ImageSaveOptions или [ICreateStreamProvider](https://apireference.aspose.com/html/net/aspose.html.io/icreatestreamprovider).
+Преобразование MHTML в изображение позволяет сохранить документ MHTML в виде файла изображения. Пожалуйста, посетите статью документации [Преобразование MHTML в изображение](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/), чтобы узнать больше о функции преобразования Aspose.HTML для .NET API и рассмотреть примеры C# для наиболее распространенных сценариев преобразования. В статье вы найдете информацию о том, как преобразовать MHTML в изображение с помощью методов ConvertMHTML(), а также о том, как применить ImageSaveOptions или [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io/icreatestreamprovider).
 
 {{<section online-converters>}}
 ---

@@ -47,7 +47,7 @@ h2: Шаги по преобразованию MD в HTML на C#
 ---
 1. Укажите путь к исходному файлу Markdown.
 1. Подготовьте путь для сохранения сконвертированного файла.
-1. Используйте метод [ConvertMarkdown()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/7) класса Converter, чтобы сохранить Markdown в виде HTML-файла. Вам нужно передать `sourcePath` и `savePath` методу ConvertMarkdown() для преобразования Markdown в HTML.
+1. Используйте метод [ConvertMarkdown()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/7) класса Converter, чтобы сохранить Markdown в виде HTML-файла. Вам нужно передать `sourcePath` и `savePath` методу ConvertMarkdown() для преобразования Markdown в HTML.
 1. HTML-файл будет сохранен по указанному пути.
 
 {{<section documentation>}}

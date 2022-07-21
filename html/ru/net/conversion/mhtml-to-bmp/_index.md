@@ -63,8 +63,8 @@ h2: Действия по преобразованию MHTML в BMP на C#
 
 Если вы хотите программно преобразовать MHTML в BMP, выполните несколько обязательных шагов:
 1. Откройте существующий файл MHTML.
-1. Создайте новый объект [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) с форматом изображения BMP. По умолчанию свойство Format имеет значение [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Используйте метод [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) класса Converter, чтобы сохранить MHTML как изображение BMP.
+1. Создайте новый объект [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) с форматом изображения BMP. По умолчанию свойство Format имеет значение [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1. Используйте метод [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) класса Converter, чтобы сохранить MHTML как изображение BMP.
 1. Файл BMP будет сохранен по указанному пути.
 
 {{<section documentation>}}

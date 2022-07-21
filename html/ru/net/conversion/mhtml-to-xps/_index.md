@@ -63,8 +63,8 @@ h2: Действия по преобразованию MHTML в XPS в C#
 
 Если вы хотите программно преобразовать MHTML в XPS, выполните несколько обязательных шагов:
 1. Откройте существующий файл MHTML.
-1. Создайте экземпляр класса [XpsSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/xpssaveoptions).
-1. Используйте метод [ConvertMHTML()](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) в [Converter](https://apireference.aspose.com/html/net/aspose.html.converters/converter) для сохранения MHTML в виде XPS-файла. Вам необходимо передать файловый поток MHTML, XpsSaveOptions и путь к выходному файлу методу ConvertMHTML().
+1. Создайте экземпляр класса [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions).
+1. Используйте метод [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) в [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter) для сохранения MHTML в виде XPS-файла. Вам необходимо передать файловый поток MHTML, XpsSaveOptions и путь к выходному файлу методу ConvertMHTML().
 1. Файл XPS будет сохранен по указанному пути.
 
 {{<section documentation>}}

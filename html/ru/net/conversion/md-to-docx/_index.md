@@ -61,9 +61,9 @@ using Aspose.Html.Saving;
 h2: Шаги по преобразованию MD в DOCX на C#
 ---
 1. Укажите путь к исходному файлу Markdown.
-1. Конвертируйте Markdown в HTML. Используйте метод [ConvertMarkdown(`sourcePath`)](https://apireference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/4), чтобы сохранить Markdown как документ HTML.
-1. Создайте новый объект [DocSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/docsaveoptions).
-1. Используйте метод [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) для преобразования промежуточного документа HTML в файл DOCX. Вам необходимо передать HTMLDocument, DocSaveOptions и путь к выходному файлу методу ConvertHTML().
+1. Конвертируйте Markdown в HTML. Используйте метод [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/4), чтобы сохранить Markdown как документ HTML.
+1. Создайте новый объект [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions).
+1. Используйте метод [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) для преобразования промежуточного документа HTML в файл DOCX. Вам необходимо передать HTMLDocument, DocSaveOptions и путь к выходному файлу методу ConvertHTML().
 
 
 {{<section documentation>}}

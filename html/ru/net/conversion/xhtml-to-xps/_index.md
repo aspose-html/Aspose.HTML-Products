@@ -68,9 +68,9 @@ h2: Действия по преобразованию XHTML в XPS в C#
 ---
 
 Любое преобразование, которое вы хотите выполнить, включает загрузку документа XHTML и его сохранение в формате XPS. Чтобы преобразовать XHTML в XPS, необходимо выполнить несколько обязательных шагов:
-1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument).
-1. Создайте новый объект [XpsSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/xpssaveoptions).
-1. Используйте метод [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), чтобы сохранить XHTML в виде файла XPS. Вам необходимо передать HTMLDocument, XpsSaveOptions и путь к выходному файлу методу ConvertHTML().
+1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument).
+1. Создайте новый объект [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions).
+1. Используйте метод [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), чтобы сохранить XHTML в виде файла XPS. Вам необходимо передать HTMLDocument, XpsSaveOptions и путь к выходному файлу методу ConvertHTML().
 1. Файл XPS будет сохранен по указанному пути.
 
 {{<section documentation>}}

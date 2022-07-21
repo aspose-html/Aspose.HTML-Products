@@ -67,9 +67,6 @@ Wenn Sie MHTML programmgesteuert in JPEG konvertieren möchten, befolgen Sie bit
 1. Verwenden Sie die Methode [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) der Converter-Klasse, um MHTML als JPEG-Bild zu speichern.
 1. Die JPEG-Datei wird im angegebenen Pfad gespeichert.
 
-
-
-
 {{<section documentation>}}
 ---
 h2: MHTML-zu-JPEG-Konvertierung in der Dokumentation

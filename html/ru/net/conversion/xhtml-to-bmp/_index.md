@@ -68,9 +68,9 @@ h2: Шаги по преобразованию XHTML в BMP на C#
 ---
 
 Если вы хотите программно преобразовать XHTML в BMP, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование XHTML требует некоторых обязательных шагов:
-1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument()](https://apireference.aspose.com/html/net/aspose.html/htmldocument).
-1. Создайте новый объект [ImageSaveOptions](https://apireference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) с форматом изображения BMP. По умолчанию свойство Format имеет значение [PNG](https://apireference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Используйте метод [ConvertHTML()](https://apireference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), чтобы сохранить XHTML в виде файла BMP. Вам необходимо передать HTMLDocument, ImageSaveOptions и путь к выходному файлу методу ConvertHTML().
+1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument).
+1. Создайте новый объект [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) с форматом изображения BMP. По умолчанию свойство Format имеет значение [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1. Используйте метод [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), чтобы сохранить XHTML в виде файла BMP. Вам необходимо передать HTMLDocument, ImageSaveOptions и путь к выходному файлу методу ConvertHTML().
 1. Файл BMP будет сохранен по указанному пути.
 
 {{<section documentation>}}
