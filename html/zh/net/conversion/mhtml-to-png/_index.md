@@ -64,7 +64,7 @@ h2: 在 C# 中将 MHTML 转换为 PNG 的步骤
 如果您想以编程方式将 MHTML 转换为 PNG，请执行几个必需的步骤：
 
 1. 打开现有的 MHTML 文件。
-1. 创建一个新的 [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) 对象。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat)。
+1. 创建一个新的 [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) 对象。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)。
 1. 使用Converter类的[ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/)方法将MHTML保存为PNG图片。
 1. PNG文件将被保存到指定路径。
 
@@ -73,7 +73,7 @@ h2: 在 C# 中将 MHTML 转换为 PNG 的步骤
 h2: 文档中的 MHTML 到 PNG 转换
 ---
 
-PNG是最常用的图像文件格式之一。它支持无损图像压缩，使其在用户中很受欢迎。 MHTML 到 PNG 的转换允许您将 MHTML 文档另存为 PNG 图像。请访问文档文章 [Convert MHTML to Image](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) 了解更多关于 Aspose.HTML for .NET API转换功能，并考虑最常见的 MHTML 到 PNG 转换方案的 C# 示例。在本文中，您将找到有关如何 <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/#convert-mhtml-to-png " target="_blank">使用 ConvertMHTML() 方法将 MHTML 转换为 PNG</a> 以及如何应用 ImageSaveOptions 或 [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io/icreatestreamprovider) 参数。
+PNG是最常用的图像文件格式之一。它支持无损图像压缩，使其在用户中很受欢迎。 MHTML 到 PNG 的转换允许您将 MHTML 文档另存为 PNG 图像。请访问文档文章 [Convert MHTML to Image](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) 了解更多关于 Aspose.HTML for .NET API转换功能，并考虑最常见的 MHTML 到 PNG 转换方案的 C# 示例。在本文中，您将找到有关如何 <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/#convert-mhtml-to-png " target="_blank">使用 ConvertMHTML() 方法将 MHTML 转换为 PNG</a> 以及如何应用 ImageSaveOptions 或 [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io/icreatestreamprovider/) 参数。
 
 {{<section online-converters>}}
 ---

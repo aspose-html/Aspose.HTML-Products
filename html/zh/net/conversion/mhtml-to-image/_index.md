@@ -64,7 +64,7 @@ h2: 在 C# 中将 MHTML 转换为图像的步骤
 如果您想以编程方式将 MHTML 转换为图像，请执行几个必要的步骤：
 
 1. 打开现有的 MHTML 文件。
-1. 新建一个[ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)对象并指定ImageFormat。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat)。
+1. 新建一个[ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)对象并指定ImageFormat。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)。
 1. 使用Converter类的[ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/)方法将MHTML保存为Image。
 1. 光栅图像文件将保存到指定路径。
 
@@ -73,7 +73,7 @@ h2: 在 C# 中将 MHTML 转换为图像的步骤
 h2: 文档中的 MHTML 到图像转换
 ---
 
-MHTML 到图像的转换允许您将 MHTML 文档另存为图像文件。请访问文档文章 [Convert MHTML to Image](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) 了解更多关于 Aspose.HTML for .NET API转换功能，并考虑最常见的转换方案的 C# 示例。在本文中，您将找到有关如何使用 ConvertMHTML() 方法将 MHTML 转换为 Image 以及如何应用 ImageSaveOptions 或 [ICreateStreamProvider](https://reference.aspose.com/html/net/aspose.html.io) 的信息/icreatestreamprovider) 参数。
+MHTML 到图像的转换允许您将 MHTML 文档另存为图像文件。请访问文档文章 [Convert MHTML to Image](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-image/) 了解更多关于 Aspose.HTML for .NET API转换功能，并考虑最常见的转换方案的 C# 示例。在本文中，您将找到有关如何使用 ConvertMHTML() 方法将 MHTML 转换为 Image 以及如何应用 ImageSaveOptions 或 ICreateStreamProvider 的信息 参数。
 
 {{<section online-converters>}}
 ---

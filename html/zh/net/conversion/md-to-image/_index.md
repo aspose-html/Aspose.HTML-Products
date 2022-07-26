@@ -61,10 +61,9 @@ using Aspose.Html.Saving;
 h2: 在 C# 中将 MD 转换为图像的步骤
 ---
 1. 指定源 Markdown 文件的路径。
-1. 将 Markdown 转换为 HTML。使用 [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/4) 方法将 Markdown 保存为 HTML 文档。
-1. 新建一个[ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)对象并指定ImageFormat。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat)。
+1. 将 Markdown 转换为 HTML。使用 [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmarkdown/#convertmarkdown_4) 方法将 Markdown 保存为 HTML 文档。
+1. 新建一个[ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)对象并指定ImageFormat。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)。
 1. 使用 [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) 方法将中间 HTML 文档渲染为 Image。您需要将 HTMLDocument、ImageSaveOptions 和输出文件路径传递给 ConvertHTML() 方法。
-
 
 {{<section documentation>}}
 ---
@@ -78,8 +77,6 @@ Markdown 是一种普遍接受的标记语言，通常用作文档和自述文�
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/#convert-markdown-to-bmp" target="_blank">将 Markdown 转换为BMP</a>
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/#convert-markdown-to-gif" target="_blank">将 Markdown 转换为动图</a>
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/#convert-markdown-to-tiff" target="_blank">将 Markdown 转换为TIFF</a>
-
-
 
 {{<section online-converters>}}
 ---

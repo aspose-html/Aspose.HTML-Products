@@ -10,7 +10,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/java/" installationsDocsLink="https://docs.aspose.com/html/java/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html" directDownloadLink="https://downloads.aspose.com/html/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/java/" installationsDocsLink="https://docs.aspose.com/html/java/getting-started/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html" directDownloadLink="https://downloads.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -153,7 +153,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 
 {{< /blocks/products/pf/carousel-item >}}
 
-{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.HTML for Java [supported file formats](https://docs.aspose.com/html/java/supported-file-formats/)  are listed." >}}
+{{< blocks/products/pf/carousel-item h3="Supported File Formats" description="Aspose.HTML for Java [supported file formats](https://docs.aspose.com/html/java/getting-started/supported-file-formats/) are listed." >}}
 <div class="diagram1 d2 d1-java">
  <div class="d1-row">
   <div class="d1-col d1-left">
@@ -381,25 +381,24 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/html/java/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-html/Aspose.Html-for-Java" >}}
-{{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.com/java/html" >}}
-{{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/html/java" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/html" >}}
+{{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.com/c/html/29" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.com/category/html/" >}}
 {{< blocks/products/pf/slr-element name="Release Notes" href="https://docs.aspose.com/html/java/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.HTML for Java?" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="Customers List" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="Success Stories" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="Customers List" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="Success Stories" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/html/java" pricingInformationLink="https://purchase.aspose.com/pricing/html/java" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/html/java/" pricingInformationLink="https://purchase.aspose.com/pricing/html/java" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.HTML" description="Aspose.HTML offers individual HTML processing APIs for other popular development environments as listed below:" >}}
 

@@ -7,11 +7,11 @@ weight: 20
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-net.svg" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://downloads.aspose.com/html/net" >}}
+{{< blocks/products/pf/upper-banner h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-net.svg" pfName="Aspose.HTML" subTitlepfName="for .NET" downloadUrl="https://releases.aspose.com/html/net/" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for .NET" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/buy" directDownloadLink="https://downloads.aspose.com/html/net" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/net" buyLink="https://purchase.aspose.com/buy" directDownloadLink="https://releases.aspose.com/html/net/" docsLink="https://docs.aspose.com/html/net/" installationsDocsLink="https://docs.aspose.com/html/net/getting-started/installation/" nugetLink="https://www.nuget.org/packages/Aspose.HTML/" nugetPackageName="Aspose.HTML"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 
@@ -268,15 +268,15 @@ weight: 20
 	<div class="col-md-3">
 		<ul>
 			<li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-pdf/">HTML to PDF</a></li>
-			<li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-md">HTML to MD </a></li>
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-mhtml">HTML to MHTML </a></li>	
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-docx">HTML to DOCX </a></li>	
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-jpeg">HTML to JPEG </a></li>							
+			<li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-md/">HTML to MD </a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-mhtml/">HTML to MHTML </a></li>	
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-docx/">HTML to DOCX </a></li>	
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/html-to-jpeg/">HTML to JPEG </a></li>							
 		</ul>
 	</div>
 	<div class="col-md-3">		
 		<ul>
-			<li><a href="/html/{{lang.url-fragment}}net/conversion/xhtml-to-pdf">XHTML to PDF</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/conversion/xhtml-to-pdf/">XHTML to PDF</a></li>
 			<li><a href="/html/{{lang.url-fragment}}net/conversion/xhtml-to-jpeg/">XHTML to JPEG</a></li>
             <li><a href="/html/{{lang.url-fragment}}net/conversion/xhtml-to-md/">XHTML to MD</a></li>
             <li><a href="/html/{{lang.url-fragment}}net/conversion/xhtml-to-mhtml/">XHTML to MHTML</a></li>
@@ -285,20 +285,20 @@ weight: 20
 	</div>
 	<div class="col-md-3">		
 		<ul>
-			<li><a href="/html/{{lang.url-fragment}}net/conversion/mhtml-to-pdf">MHTML to PDF</a></li>
-			<li><a href="/html/{{lang.url-fragment}}net/conversion/mhtml-to-docx">MHTML to DOCX</a></li>
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/mhtml-to-image">MHTML to Image</a></li>
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/epub-to-pdf">EPUB to PDF</a></li>
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/epub-to-jpeg">EPUB to JPEG</a></li>						
+			<li><a href="/html/{{lang.url-fragment}}net/conversion/mhtml-to-pdf/">MHTML to PDF</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/conversion/mhtml-to-docx/">MHTML to DOCX</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/mhtml-to-image/">MHTML to Image</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/epub-to-pdf/">EPUB to PDF</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/epub-to-jpeg/">EPUB to JPEG</a></li>						
 		</ul>
 	</div>
 	<div class="col-md-3">		
 		<ul>
 			<li><a href="/html/{{lang.url-fragment}}net/conversion/svg-to-pdf/">SVG to PDF</a></li>
-			<li><a href="/html/{{lang.url-fragment}}net/conversion/svg-to-image">SVG to IMAGE</a></li>
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/md-to-html">MD to HTML</a></li>
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/md-to-pdf">MD to PDF</a></li>
-            <li><a href="/html/{{lang.url-fragment}}net/conversion/md-to-image">MD to Image</a></li>						
+			<li><a href="/html/{{lang.url-fragment}}net/conversion/svg-to-image/">SVG to IMAGE</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/md-to-html/">MD to HTML</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/md-to-pdf/">MD to PDF</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/conversion/md-to-image/">MD to Image</a></li>						
 		</ul>
 	</div>
 </div>
@@ -378,25 +378,24 @@ weight: 20
 {{< blocks/products/pf/slr-tab tabTitle="{{i18n.learning.tabTitle}}" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.learning.name1}}" href="https://docs.aspose.com/html/net/" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.learning.name2}}" href="https://github.com/aspose-html/Aspose.Html-for-.NET" >}}
-{{< blocks/products/pf/slr-element name="{{i18n.learning.name3}}" href="https://apireference.aspose.com/net/html" >}}
-{{< blocks/products/pf/slr-element name="{{i18n.learning.name4}}" href="https://www.youtube.com/user/asposevideo" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.learning.name3}}" href="https://reference.aspose.com/html/net/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="{{i18n.support.tabTitle}}" tabId="support" >}}
-{{< blocks/products/pf/slr-element name="{{i18n.support.name1}}" href="https://forum.aspose.com/c/html" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.support.name1}}" href="https://forum.aspose.com/c/html/29" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.support.name2}}" href="https://helpdesk.aspose.com/" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.support.name3}}" href="https://blog.aspose.com/category/html/" >}}
 {{< blocks/products/pf/slr-element name="{{i18n.support.name4}}" href="https://docs.aspose.com/html/net/release-notes/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="{{i18n.why.tabTitle}}" tabId="success-stories" >}}
-{{< blocks/products/pf/slr-element name="{{i18n.why.name1}}" href="https://company.aspose.com/customers" >}}
-{{< blocks/products/pf/slr-element name="{{i18n.why.name2}}" href="https://company.aspose.com/customers/success-stories/" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.why.name1}}" href="https://about.aspose.com/customers/" >}}
+{{< blocks/products/pf/slr-element name="{{i18n.why.name2}}" href="https://about.aspose.com/customers/success-stories/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< /blocks/products/pf/support-learning-resources >}}
 
-{{< blocks/products/pf/download-section downloadFreeTrialLink="https://downloads.aspose.com/html/net" pricingInformationLink="https://purchase.aspose.com/pricing/html/net" >}}
+{{< blocks/products/pf/download-section downloadFreeTrialLink="https://releases.aspose.com/html/net/" pricingInformationLink="https://purchase.aspose.com/pricing/html/net" >}}
 
 {{< blocks/products/pf/offers-section pfName="Aspose.HTML" description="{{i18n.why.description}}" >}}
 

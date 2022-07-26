@@ -23,7 +23,7 @@ h2: Generate DOCX from EPUB source file using .NET API. Instantly convert EPUB t
 h2: Convert EPUB to DOCX Using C#
 ---
 
-In order to convert EPUB to DOCX, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. EPUB is an open XML-based format for digital books and publications that can be viewed and read on a variety of devices. DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. .NET developers can easily load & convert EPUB to DOCX in just a few lines of code.
+In order to convert EPUB to DOCX, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. EPUB is an open XML-based format for digital books and publications that can be viewed and read on a variety of devices. DOCX is a well-known format for Microsoft Word documents. This format is popular because it supports a wide range of formatting features and offers users a variety of options to write any type of document. .NET developers can easily load & convert EPUB to DOCX in just a few lines of code.
 
 {{<section demos>}}
 ---
@@ -64,10 +64,9 @@ h2: Steps to Convert EPUB to DOCX in C#
 If you would like to consider conversion functionality in your product or you want to convert EPUB to DOCX programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any conversion requires some mandatory steps:
 
 1.  Open an existing EPUB file.
-1.  Create a new [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions) object.
-1.  Use the [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) method of the Converter class to save EPUB as a DOCX file. You need to pass the EPUB file stream, DocSaveOptions, and output file path to the ConvertEPUB() method for EPUB to DOCX conversion.
+1.  Create a new [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions/) object.
+1.  Use the [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertepub/#convertepub_27) method of the Converter class to save EPUB as a DOCX file. You need to pass the EPUB file stream, DocSaveOptions, and output file path to the ConvertEPUB() method for EPUB to DOCX conversion.
 1.  The DOCX file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---

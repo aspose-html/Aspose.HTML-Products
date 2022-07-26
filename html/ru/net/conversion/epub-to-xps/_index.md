@@ -64,12 +64,9 @@ h2: Шаги по преобразованию EPUB в XPS на C#
 Если вы хотите использовать функции преобразования в своем продукте или хотите программно преобразовать EPUB в XPS, см. приведенный выше пример кода C# или изучите главу «Документация». API, вы можете преобразовать EPUB в XPS с полным контролем над широким диапазоном параметров преобразования. Это могут быть разные сценарии, но любое преобразование EPUB можно выполнить, выполнив несколько обязательных шагов:
 
 1. Откройте существующий файл EPUB.
-1. Создайте новый объект [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions).
-1. Используйте метод [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) класса Converter, чтобы сохранить EPUB в виде файла XPS. Вам необходимо передать файловый поток EPUB, PdfSaveOptions и путь к выходному файлу методу ConvertEPUB() для преобразования EPUB в XPS.
+1. Создайте новый объект [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/).
+1. Используйте метод [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/) класса Converter, чтобы сохранить EPUB в виде файла XPS. Вам необходимо передать файловый поток EPUB, PdfSaveOptions и путь к выходному файлу методу ConvertEPUB() для преобразования EPUB в XPS.
 1. Файл XPS будет сохранен по указанному пути.
-
-
-
 
 {{<section documentation>}}
 ---

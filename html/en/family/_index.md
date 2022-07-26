@@ -32,7 +32,6 @@ tabTitle: Learning Resources
 name1: Documentation
 name2: Source Code
 name3: API References
-name4: Tutorial Videos
 ---
 
 {{<section support>}}

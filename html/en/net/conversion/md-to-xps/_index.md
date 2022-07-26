@@ -23,7 +23,7 @@ h2: High-fidelity MD to XPS conversion using server-side .NET APIs. Instantly co
 h2: Convert MD to XPS Using C#
 ---
 
-In order to convert MD to XPS, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. Conversions from Markdown to other formats go through the Markdown to HTML conversion stage. .NET developers can easily load & convert MD to XPS in just a few lines of code. Powerful C# API allows you to convert MD to popular formats quickly and in high quality!
+In order to convert MD to XPS, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. Conversions from Markdown to other formats go through the Markdown to HTML conversion stage. .NET developers can easily load & convert MD to XPS in just a few lines of code. Powerful C# API allows you to convert MD to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -62,10 +62,9 @@ h2: Steps to Convert MD to XPS in C#
 ---
 
 1.  Specify a path to a source Markdown file.
-1.  Convert Markdown to HTML. Use the [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/4) method to save Markdown as an HTML document.
-1.  Create a new [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions) object.
+1.  Convert Markdown to HTML. Use the [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmarkdown/#convertmarkdown_4) method to save Markdown as an HTML document.
+1.  Create a new [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/) object.
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method to render the intermediary HTML document to an XPS file. You need to pass the HTMLDocument, DocSaveOptions, and output file path to the ConvertHTML() method.
-
 
 {{<section documentation>}}
 ---
@@ -73,6 +72,7 @@ h2: MD to XPS Conversion in Documentation
 ---
 
 Markdown is often used as a format for documentation and readme files since it allows writing in an easy-to-read and easy-to-write style. XPS is a document storage and viewing format developed by Microsoft. It has a set of advantages that support security features, such as digital signatures to provide greater document security and more. MD to XPS conversion is often required to take advantage of XPS format for specific tasks. Please visit the documentation article [Convert Markdown to XPS](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-xps/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common MD to XPS conversion scenarios. In the article, you will find information on how to convert Markdown to XPS using ConvertMarkdown() methods and how to apply XpsSaveOptions.
+
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-xps/#convert-markdown-to-xps" target="_blank">Convert Markdown to XPS</a>
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-xps/#convert-markdown-to-xps-using-xpssaveoptions" target="_blank">Convert Markdown to XPS using XpsSaveOptions</a>
 

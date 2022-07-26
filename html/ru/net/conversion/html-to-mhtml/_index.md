@@ -69,13 +69,10 @@ h2: Шаги по преобразованию HTML в MHTML в C#
 
 Если вы хотели бы использовать функции преобразования в своем продукте или хотите программно преобразовать HTML в MHTML, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование требует некоторых обязательных шагов:
 
-1. Загрузите HTML-документ с помощью одного из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
-1. Создайте новый объект [MHTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions).
+1. Загрузите HTML-документ с помощью одного из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
+1. Создайте новый объект [MHTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions/).
 1. Используйте метод [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) класса Converter, чтобы сохранить HTML как файл MHTML. Вам необходимо передать HTMLDocument, MHTMLSaveOptions и путь к выходному файлу методу ConvertHTML().
 1. Файл MHTML будет сохранен по указанному пути.
-
-
-
 
 {{<section documentation>}}
 ---

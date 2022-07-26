@@ -49,8 +49,8 @@ using Aspose.Html.Saving;
 h2: 在 C# 中将 XHTML 转换为 HTML 的步骤
 ---
 
-1. 使用 [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) 构造函数之一加载 XHTML 文档。
-1. 创建一个新的 [HTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/htmlsaveoptions) 对象。
+1. 使用 [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) 构造函数之一加载 XHTML 文档。
+1. 创建一个新的 [HTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/htmlsaveoptions/) 对象。
 1. 使用 [Save()](https://reference.aspose.com/html/net/aspose.html/htmldocument/save/) 方法将 XHTML 转换为 HTML。
 1. HTML 文件将被保存到指定路径。
 

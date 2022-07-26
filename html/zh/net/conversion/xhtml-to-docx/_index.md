@@ -69,8 +69,8 @@ h2: 在 C# 中将 XHTML 转换为 DOCX 的步骤
 
 如果您想以编程方式将 XHTML 转换为 DOCX，请参阅上面的 C# 代码示例或学习文档章节。在所有情况下，任何 XHTML 转换都需要一些强制性步骤：
 
-1. 使用 [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument) 类的 HTMLDocument() 构造函数之一加载 XHTML 文件。
-1. 创建一个新的 [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions) 对象。
+1. 使用 [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/) 类的 HTMLDocument() 构造函数之一加载 XHTML 文件。
+1. 创建一个新的 [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions/) 对象。
 1. 使用Converter类的[ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/)方法将XHTML保存为DOCX文件。
 1. DOCX 文件将保存到指定路径。
 

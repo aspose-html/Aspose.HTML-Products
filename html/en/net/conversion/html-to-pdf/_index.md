@@ -23,7 +23,7 @@ h2: Generate PDF from HTML source page using .NET API. Instantly convert HTML to
 h2: Convert HTML to PDF Using C#
 ---
 
-HTML files are frequently used to create, edit, or communicate a lot of information. Converting HTML to PDF is often required to protect documents from unwanted editing and copying, to prepare documents for printing or sending by e-mail, etc. With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can transform HTML to PDF programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to PDF conversion like reading from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
+HTML files are frequently used to create, edit, or communicate a lot of information. Converting HTML to PDF is often required to protect documents from unwanted editing and copying, to prepare documents for printing or sending by e-mail, etc. With [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can transform HTML to PDF programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to PDF conversion like reading from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,11 +69,10 @@ h2: Steps to Convert HTML to PDF in C#
 
 If you would like to consider conversion functionality in your product or you want to convert HTML to PDF programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any conversion requires some mandatory steps:
 
-1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
-1.  Create a new [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) object.
+1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) constructors. You can load HTML from a file, HTML code, stream, or URL.
+1.  Create a new [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions/) object.
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a PDF file. You need to pass the HTMLDocument, PdfSaveOptions, and output file path to the ConvertHTML() method.
 1.  The PDF file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---
@@ -81,6 +80,7 @@ h2: HTML to PDF Conversion in Documentation
 ---
 
 HTML files are frequently used to create, edit, or communicate a lot of information. HTML to PDF conversion is often required to protect documents from unwanted editing or copying, produce official documentation, prepare files for printing or sending by e-mail, etc.  Please visit the documentation article [Convert HTML to PDF](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to PDF conversion scenarios. In the article, you find information on how to convert HTML to PDF using ConvertHTML() methods, and how to apply PdfSaveOptions and ICreateStreamProvider parameters.
+
   -  <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#html-to-pdf-by-a-single-line-of-code" target="_blank">Convert HTML to PDF by a single line of code</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-in-c-using-pdfsaveoptions" target="_blank">Convert HTML to PDF using PdfSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#output-stream-providers" target="_blank">Convert HTML to PDF using MemoryStreamProvider</a>

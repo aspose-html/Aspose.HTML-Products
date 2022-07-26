@@ -23,7 +23,7 @@ h2: Generate HTML from XHTML source page using .NET API. Instantly convert XHTML
 h2: Convert XHTML to HTML Using C#
 ---
 
-The main highlight of [Aspose.HTML .NET](https://products.aspose.com/html/net/) API is a conversion feature. Using our powerful library, you can convert XHTML to HTML format programmatically with full control over various conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in the supported format. Powerful C# API allows you to convert XHTML to HTML quickly and in high quality!
+The main highlight of [Aspose.HTML .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API is a conversion feature. Using our powerful library, you can convert XHTML to HTML format programmatically with full control over various conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in the supported format. Powerful C# API allows you to convert XHTML to HTML quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -49,8 +49,8 @@ using Aspose.Html.Saving;
 h2: Steps to Convert XHTML to HTML in C#
 ---
 
-1. Load an XHTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors.
-1. Create a new [HTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/htmlsaveoptions) object.
+1. Load an XHTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) constructors.
+1. Create a new [HTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/htmlsaveoptions/) object.
 1. Use the [Save()](https://reference.aspose.com/html/net/aspose.html/htmldocument/save/) method to convert XHTML to HTML.
 1. The HTML file will be saved to the specified path.
 

@@ -61,12 +61,9 @@ using Aspose.Html.Saving;
 h2: Schritte zum Konvertieren von MD in PDF in C#
 ---
 1. Geben Sie einen Pfad zu einer Markdown-Quelldatei an.
-1. Konvertieren Sie Markdown in HTML. Verwenden Sie die Methode [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/4), um Markdown als HTML-Dokument zu speichern.
-1. Erstellen Sie ein neues [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions)-Objekt.
-1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), um das Zwischen-HTML-Dokument in eine PDF-Datei zu rendern. Sie müssen HTMLDocument, DocSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
-
-
-
+1. Konvertieren Sie Markdown in HTML. Verwenden Sie die Methode [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmarkdown/#convertmarkdown_4), um Markdown als HTML-Dokument zu speichern.
+1. Erstellen Sie ein neues [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions/)-Objekt.
+1. Verwenden Sie die Methode [ConvertHTML(),](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) um das Zwischen-HTML-Dokument in eine PDF-Datei zu rendern. Sie müssen HTMLDocument, DocSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
 
 {{<section documentation>}}
 ---
@@ -76,8 +73,6 @@ h2: MD-zu-PDF-Konvertierung in der Dokumentation
 Markdown wird häufig als Format für Dokumentationen und Readme-Dateien verwendet, da es das Schreiben in einem leicht lesbaren und leicht zu schreibenden Stil ermöglicht. Die Konvertierung von MD in PDF ist häufig erforderlich, um das PDF-Format für bestimmte Aufgaben zu nutzen. Bitte besuchen Sie den Dokumentationsartikel [Markdown in PDF konvertieren](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-pdf/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und C#-Beispiele für die gängigsten MD-zu-PDF-Konvertierungsszenarien zu betrachten. In dem Artikel finden Sie Informationen zum Konvertieren von Markdown in PDF mit ConvertMarkdown()-Methoden und zum Anwenden von PdfSaveOptions.
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-pdf/#convert-markdown-to-pdf" target="_blank">Markdown konvertieren in PDF</a>
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-pdf/#convert-markdown-to-pdf-using-pdfsaveoptions" target="_blank" >Konvertieren Sie Markdown mit PdfSaveOptions in PDF</a>
-
-
 
 {{<section online-converters>}}
 ---

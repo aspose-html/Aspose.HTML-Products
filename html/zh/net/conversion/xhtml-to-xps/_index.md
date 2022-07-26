@@ -69,8 +69,8 @@ h2: 在 C# 中将 XHTML 转换为 XPS 的步骤
 
 您要执行的任何转换都涉及加载 XHTML 文档并将其保存为 XPS 格式。要将 XHTML 转换为 XPS，您应该采取一些强制性步骤：
 
-1. 使用 [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) 构造函数之一加载 XHTML 文档。
-1. 创建一个新的 [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions) 对象。
+1. 使用 [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) 构造函数之一加载 XHTML 文档。
+1. 创建一个新的 [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/) 对象。
 1. 使用 [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) 方法将 XHTML 保存为 XPS 文件。您需要将 HTMLDocument、XpsSaveOptions 和输出文件路径传递给 ConvertHTML() 方法。
 1. XPS文件将保存到指定路径。
 

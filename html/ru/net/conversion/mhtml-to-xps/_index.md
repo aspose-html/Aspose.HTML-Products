@@ -23,7 +23,7 @@ h2: Преобразование MHTML в XPS с использованием .N
 h2: Преобразование MHTML в XPS с помощью C#
 ---
 
-Чтобы преобразовать MHTML в XPS, мы будем использовать API [Aspose.HTML для .NET](https://products.aspose.com/html/net/), который представляет собой многофункциональное, мощное и простое в использовании средство для работы с документами и API преобразования для платформы C#. Преобразования MHTML часто требуются для использования преимуществ других форматов. Используя нашу высокоскоростную библиотеку, вы можете программно конвертировать MHTML в XPS с полным контролем над различными параметрами конвертации. Мощный C# API позволяет быстро и качественно конвертировать MHTML в популярные форматы!
+Чтобы преобразовать MHTML в XPS, мы будем использовать API [Aspose.HTML для .NET,](https://products.aspose.com/html/net/) который представляет собой многофункциональное, мощное и простое в использовании средство для работы с документами и API преобразования для платформы C#. Преобразования MHTML часто требуются для использования преимуществ других форматов. Используя нашу высокоскоростную библиотеку, вы можете программно конвертировать MHTML в XPS с полным контролем над различными параметрами конвертации. Мощный C# API позволяет быстро и качественно конвертировать MHTML в популярные форматы!
 
 {{<section demos>}}
 ---
@@ -63,8 +63,8 @@ h2: Действия по преобразованию MHTML в XPS в C#
 
 Если вы хотите программно преобразовать MHTML в XPS, выполните несколько обязательных шагов:
 1. Откройте существующий файл MHTML.
-1. Создайте экземпляр класса [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions).
-1. Используйте метод [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) в [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter) для сохранения MHTML в виде XPS-файла. Вам необходимо передать файловый поток MHTML, XpsSaveOptions и путь к выходному файлу методу ConvertMHTML().
+1. Создайте экземпляр класса [XpsSaveOptions.](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions)
+1. Используйте метод [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/#convertmhtml_29) в [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter/) для сохранения MHTML в виде XPS-файла. Вам необходимо передать файловый поток MHTML, XpsSaveOptions и путь к выходному файлу методу ConvertMHTML().
 1. Файл XPS будет сохранен по указанному пути.
 
 {{<section documentation>}}

@@ -23,7 +23,7 @@ h2: High-fidelity SVG to TIFF conversion using server-side .NET APIs. Instantly 
 h2: Convert SVG to TIFF Using C#
 ---
 
-SVG is an XML language for creating two-dimensional vector and mixed vector/raster graphics. In order to convert SVG to TIFF, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. SVG conversion is often required to take advantage of other formats. Using our document processing library, you can programmatically convert SVG to TIFF image with full control over various conversion options with just a few lines of code.
+SVG is an XML language for creating two-dimensional vector and mixed vector/raster graphics. In order to convert SVG to TIFF, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. SVG conversion is often required to take advantage of other formats. Using our document processing library, you can programmatically convert SVG to TIFF image with full control over various conversion options with just a few lines of code.
 
 {{<section demos>}}
 ---
@@ -59,10 +59,9 @@ using Aspose.Html.Saving;
 h2: Steps to Convert SVG to TIFF in C#
 ---
 
-1.  Load an SVG file using one of the SVGDocument() constructors of the [SVGDocument](https://reference.aspose.com/html/net/aspose.html.dom.svg/svgdocument) class.
-1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with TIFF ImageFormat. By default, the Format property is [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1.  Use the [ConvertSVG()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertsvg/methods/3) method to save SVG as a TIFF image. You need to pass the SVGDocument, ImageSaveOptions, and output file path to the ConvertSVG() method.
-
+1.  Load an SVG file using one of the SVGDocument() constructors of the [SVGDocument](https://reference.aspose.com/html/net/aspose.html.dom.svg/svgdocument/) class.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) object with TIFF ImageFormat. By default, the Format property is [PNG.](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)
+1.  Use the [ConvertSVG()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertsvg/#convertsvg_3) method to save SVG as a TIFF image. You need to pass the SVGDocument, ImageSaveOptions, and output file path to the ConvertSVG() method.
 
 {{<section documentation>}}
 ---
@@ -70,6 +69,7 @@ h2: SVG to TIFF Conversion in Documentation
 ---
 
 TIFF is a format for storing raster graphics images with a broad palette of colors. It is widely used for polygraphy and magazine offset printing. Sometimes it may be necessary to convert SVG to TIFF. Please visit the documentation article [Convert SVG to TIFF](https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common SVG to TIFF conversion scenarios. In the article, you will find information on how to convert SVG to TIFF using ConvertSVG() methods and how to apply ImageSaveOptions.
+
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/#svg-to-tiff-by-a-single-line-of-code" target="_blank">SVG to TIFF by a single line of code</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/svg-to-tiff/#convert-svg-to-tiff-using-imagesaveoptions" target="_blank">Convert SVG to TIFF using ImageSaveOptions</a> 
 

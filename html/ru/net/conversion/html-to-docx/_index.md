@@ -69,11 +69,10 @@ h2: Шаги по преобразованию HTML в DOCX на C#
 
 Если вы хотели бы использовать функции преобразования в своем продукте или хотите программно преобразовать HTML в DOCX, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование требует некоторых обязательных шагов:
 
-1. Загрузите HTML-документ с помощью одного из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
-1. Создайте новый объект [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions).
+1. Загрузите HTML-документ с помощью одного из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
+1. Создайте новый объект [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions/).
 1. Используйте метод [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) класса Converter для сохранения HTML в виде файла DOCX. Вам необходимо передать HTMLDocument, DocSaveOptions и путь к выходному файлу методу ConvertHTML().
 1. Файл DOCX будет сохранен по указанному пути.
-
 
 {{<section documentation>}}
 ---

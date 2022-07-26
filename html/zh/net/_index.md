@@ -44,7 +44,7 @@ description: Aspose.HTML for .NET 支持 .NET 框架和 .NET 标准。
 {{<section formats>}}
 ---
 h3: 支持的文件格式
-description: Aspose.HTML for .NET [支持的格式](https://docs.aspose.com/html/net/supported-file-formats/) 如下所列。
+description: Aspose.HTML for .NET [支持的格式](https://docs.aspose.com/html/net/getting-started/supported-file-formats/) 如下所列。
 ---
 
 {{<section feature>}}
@@ -61,7 +61,7 @@ feature8: 从 HTML 文档中提取数据
 feature9: 加载 EPUB 和 MHTML 文件格式
 feature10: 将 HTML 渲染为光栅图像格式
 feature11: 一次渲染多个文档
-feature12: <a href="/html/{{lang.url-fragment}}net/conversion/md-to-html">实现 Markdown 到 HTML 转换器</a>
+feature12: <a href="/html/{{lang.url-fragment}}net/conversion/md-to-html/">实现 Markdown 到 HTML 转换器</a>
 feature13: 在 HTML 到 PDF 期间应用页眉和页脚
 feature14: 使用 XPath 查询或 CSS 选择器导航 HTML
 feature15: <a href="/html/{{lang.url-fragment}}net/conversion/">格式之间的广泛转换</a>

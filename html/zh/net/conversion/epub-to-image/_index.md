@@ -64,8 +64,8 @@ h2: 在 C# 中将 EPUB 转换为图像的步骤
 如果您想在您的产品中考虑转换功能，或者您想以编程方式将 EPUB 转换为图像，请参阅上面的 C# 代码示例或学习文档章节。它可以是不同的场景，但任何 EPUB 转换都可以通过几个必需的步骤进行：
 
 1. 打开现有的 EPUB 文件。
-1. 新建一个[ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)对象并指定ImageFormat。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat)。
-1. 使用Converter类的[ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27)方法将EPUB保存为Image。您需要将 EPUB 文件流、ImageSaveOptions 和输出文件路径传递给 ConvertEPUB() 方法以进行 EPUB 到图像的转换。
+1. 新建一个[ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)对象并指定ImageFormat。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)。
+1. 使用Converter类的[ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/)方法将EPUB保存为Image。您需要将 EPUB 文件流、ImageSaveOptions 和输出文件路径传递给 ConvertEPUB() 方法以进行 EPUB 到图像的转换。
 1. 图像文件将被保存到指定路径。
 
 

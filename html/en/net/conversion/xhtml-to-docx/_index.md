@@ -23,7 +23,7 @@ h2: Generate DOCX from XHTML source page using .NET API. Instantly convert XHTML
 h2: Convert XHTML to DOCX Using C#
 ---
 
-DOCX file format is one of the most widely used and is available through numerous programs. The DOCX file is highly editable, easy to use and manageable in size. It can be viewed, edited, searched and printed with MS Word or other Word Viewer & Editor. With [Aspose.HTML .NET](https://products.aspose.com/html/net/) API, you can convert XHTML to DOCX programmatically with full control over conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in the supported format. Powerful C# API allows you to convert XHTML to DOCX quickly and in high quality!
+DOCX file format is one of the most widely used and is available through numerous programs. The DOCX file is highly editable, easy to use and manageable in size. It can be viewed, edited, searched and printed with MS Word or other Word Viewer & Editor. With [Aspose.HTML .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can convert XHTML to DOCX programmatically with full control over conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in the supported format. Powerful C# API allows you to convert XHTML to DOCX quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,11 +69,10 @@ h2: Steps to Convert XHTML to DOCX in C#
 
 If you want to convert XHTML to DOCX programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any XHTML conversion requires some mandatory steps:
 
-1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument) class.
-1.  Create a new [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions) object.
+1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/) class.
+1.  Create a new [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions/) object.
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save XHTML as a DOCX file.
 1.  The DOCX file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---

@@ -69,8 +69,8 @@ h2: Шаги по преобразованию HTML в PDF на C#
 
 Если вы хотели бы использовать функции преобразования в своем продукте или хотите программно преобразовать HTML в PDF, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование требует некоторых обязательных шагов:
 
-1. Загрузите HTML-документ с помощью одного из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
-1. Создайте новый объект [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions).
+1. Загрузите HTML-документ с помощью одного из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/). Вы можете загрузить HTML из файла, HTML-кода, потока или URL-адреса.
+1. Создайте новый объект [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions/).
 1. Используйте метод [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) класса Converter для сохранения HTML в виде файла PDF. Вам необходимо передать HTMLDocument, PdfSaveOptions и путь к выходному файлу методу ConvertHTML().
 1. Файл PDF будет сохранен по указанному пути.
 

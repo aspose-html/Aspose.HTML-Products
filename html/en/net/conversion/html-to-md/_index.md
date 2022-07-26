@@ -23,7 +23,7 @@ h2: Generate MD from HTML source page using .NET API. Instantly convert HTML to 
 h2: Convert HTML to MD Using C#
 ---
 
-Markdown is a markup language with a plain-text-formatting syntax. Its design allows it to be easily converted to many output formats, but initially, it was created to convert only to HTML. Aspose.HTML class library provides a reversed conversion from HTML to Markdown. With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can transform HTML to MD programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to MD conversion like reading HTML from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
+Markdown is a markup language with a plain-text-formatting syntax. Its design allows it to be easily converted to many output formats, but initially, it was created to convert only to HTML. Aspose.HTML class library provides a reversed conversion from HTML to Markdown. With [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can transform HTML to MD programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to MD conversion like reading HTML from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,11 +69,10 @@ h2: Steps to Convert HTML to MD in C#
 
 If you would like to consider conversion functionality in your product or you want to convert HTML to MD programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any conversion requires some mandatory steps:
 
-1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
-1.  Create a new [MarkdownSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object.
+1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) constructors. You can load HTML from a file, HTML code, stream, or URL.
+1.  Create a new [MarkdownSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions/) object.
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a Markdown file. You need to pass the HTMLDocument, MarkdownSaveOptions, and output file path to the ConvertHTML() method.
 1.  The MD file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---
@@ -81,6 +80,7 @@ h2: HTML to Markdown Conversion in Documentation
 ---
 
 Please visit the documentation article [Convert HTML to Markdown](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to MD conversion scenarios. In the article, you find information on how to convert HTML to MD using ConvertHTML() methods, and how to apply MarkdownSaveOptions and ICreateStreamProvider parameters.
+
   -  <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#html-to-markdown-by-a-few-lines-of-code" target="_blank">HTML to Markdown by a few lines of code</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-in-c-using-markdownsaveoptions" target="_blank">Convert HTML to Markdown using MarkdownSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#limitation" target="_blank">Conversion Limitation</a>

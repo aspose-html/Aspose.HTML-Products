@@ -23,7 +23,7 @@ h2: Generate PNG from HTML source page using .NET API. Instantly convert HTML to
 h2: Convert HTML to PNG Using C#
 ---
 
-HTML files are frequently used to create, edit, or communicate a lot of information. If you need to include HTML files in a PowerPoint presentation or send them by email, please convert them to the appropriate image format and use as you want! With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can transform HTML to PNG programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to PNG conversion like reading from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
+HTML files are frequently used to create, edit, or communicate a lot of information. If you need to include HTML files in a PowerPoint presentation or send them by email, please convert them to the appropriate image format and use as you want! With [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can transform HTML to PNG programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to PNG conversion like reading from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,11 +69,10 @@ h2: Steps to Convert HTML to PNG in C#
 
 If you would like to consider conversion functionality in your product or you want to convert HTML to PNG programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any conversion requires some mandatory steps:
 
-1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
-1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object.
+1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) constructors. You can load HTML from a file, HTML code, stream, or URL.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) object.
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a PNG file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
 1.  The PNG file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---
@@ -81,6 +80,7 @@ h2: HTML to PNG Conversion in Documentation
 ---
 
 PNG is one of the most used image file formats. It supports lossless image compression which makes it popular among its users. Converting HTML files to the PNG image may be required, for example, if you want to add a web page in a PowerPoint presentation, insert it on a blog for your readers, or send it by e-mail. Please visit the documentation article [Convert HTML to PNG](https://docs.aspose.com/html/net/converting-between-formats/html-to-png/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to PNG conversion scenarios. In the article, you find information on how to convert HTML to PNG using ConvertHTML() methods, and how to apply ImageSaveOptions and ICreateStreamProvider parameters.
+
   -  <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#html-to-png-by-a-single-line-of-code" target="_blank">HTML to PNG by a single line of code</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#convert-html-to-png-using-imagesaveoptions" target="_blank">Convert HTML to PNG using ImageSaveOptions</a>
    - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-png/#output-stream-providers" target="_blank">Convert HTML to PNG using MemoryStreamProvider</a>  

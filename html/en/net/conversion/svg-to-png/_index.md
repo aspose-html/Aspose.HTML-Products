@@ -23,7 +23,7 @@ h2: High-fidelity SVG to PNG conversion using server-side .NET APIs. Instantly c
 h2: Convert SVG to PNG Using C#
 ---
 
-SVG is an XML language for creating two-dimensional vector and mixed vector/raster graphics. In order to convert SVG to PNG, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. SVG conversion is often required to take advantage of other formats. Using our document processing library, you can programmatically convert SVG to PNG image with full control over various conversion options with just a few lines of code.
+SVG is an XML language for creating two-dimensional vector and mixed vector/raster graphics. In order to convert SVG to PNG, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. SVG conversion is often required to take advantage of other formats. Using our document processing library, you can programmatically convert SVG to PNG image with full control over various conversion options with just a few lines of code.
 
 {{<section demos>}}
 ---
@@ -59,9 +59,9 @@ using Aspose.Html.Saving;
 h2: Steps to Convert SVG to PNG in C#
 ---
 
-1.  Load an SVG file using one of the SVGDocument() constructors of the [SVGDocument](https://reference.aspose.com/html/net/aspose.html.dom.svg/svgdocument) class.
-1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object. By default, the Format property is [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1.  Use the [ConvertSVG()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertsvg/methods/3) method to save SVG as a PNG image. You need to pass the SVGDocument, ImageSaveOptions, and output file path to the ConvertSVG() method.
+1.  Load an SVG file using one of the SVGDocument() constructors of the [SVGDocument](https://reference.aspose.com/html/net/aspose.html.dom.svg/svgdocument/) class.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) object. By default, the Format property is [PNG.](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)
+1.  Use the [ConvertSVG()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertsvg/#convertsvg_3) method to save SVG as a PNG image. You need to pass the SVGDocument, ImageSaveOptions, and output file path to the ConvertSVG() method.
 
 
 {{<section documentation>}}
@@ -70,6 +70,7 @@ h2: SVG to PNG Conversion in Documentation
 ---
 
 PNG file format supports lossless image compression that makes it popular among its users. Please visit the documentation article [Convert SVG to PNG](https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common SVG to PNG conversion scenarios. In the article, you will find information on how to convert SVG to PNG using ConvertSVG() methods and how to apply ImageSaveOptions.
+
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/#svg-to-png-by-a-single-line-of-code" target="_blank">SVG to PNG by a single line of code</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/#convert-svg-to-png-using-imagesaveoptions" target="_blank">Convert SVG to PNG using ImageSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/svg-to-png/#output-stream-providers" target="_blank">Convert SVG to PNG using MemoryStreamProvider</a> 
