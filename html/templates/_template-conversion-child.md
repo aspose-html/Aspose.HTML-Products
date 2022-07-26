@@ -11,6 +11,8 @@ outformat: {{i18n.outformat}}
 otherformats: {{i18n.otherformats}}
 ---
 
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="howto">}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/upper-banner h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}" p="{{i18n.banner.p}}" logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="{{i18n.outformat}}" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="HTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="MHTML" downloadUrl="https://downloads.aspose.com/html/net" >}}
