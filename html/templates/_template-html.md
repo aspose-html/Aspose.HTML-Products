@@ -12,13 +12,13 @@ weight: 30
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="{{i18n.include.title}}" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" productLink="https://products.aspose.com/html/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML for " title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" productLink="https://products.aspose.com/html/{{lang.url-fragment}}net/" >}}
 
 {{i18n.net}}
 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" productLink="https://products.aspose.com/html/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML for " title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" productLink="https://products.aspose.com/html/java/" >}}
 
 {{i18n.java}}
 
@@ -30,25 +30,25 @@ weight: 30
 
 {{< blocks/products/pf/product-card-row title="{{i18n.cloud.title}}" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-curl.png" productLink="https://products.aspose.cloud/html/curl" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud for cURL" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-curl.png" productLink="https://products.aspose.cloud/html/curl/" >}}
 
 {{i18n.curl}}
 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-net.png" productLink="https://products.aspose.cloud/html/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for .NET" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-net.png" productLink="https://products.aspose.cloud/html/net/" >}}
 
 {{i18n.sdk-net}}
 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-java.png" productLink="https://products.aspose.cloud/html/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.HTML" title="Cloud SDK for Java" imgSrc="https://www.aspose.cloud/templates/asposecloud/App_Themes/V3/images/sdk/272x272/aspose_html-for-java.png" productLink="https://products.aspose.cloud/html/java/" >}}
 
 {{i18n.sdk-java}}
 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/html/family" innerText="{{i18n.button2.innerText}}" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.cloud/html/family/" innerText="{{i18n.button2.innerText}}" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
@@ -79,7 +79,7 @@ weight: 30
 
 {{< /blocks/products/pf/main-container >}}
 
-{{< blocks/products/pf/testimonials title="{{i18n.people.title}}" subTitle="{{i18n.people.subTitle}}" caseStudiesLink="https://downloads.aspose.com/corporate/case-studies/aspose.total/" >}}
+{{< blocks/products/pf/testimonials title="{{i18n.people.title}}" subTitle="{{i18n.people.subTitle}}" caseStudiesLink="https://releases.aspose.com/corporate/success-stories/aspose.total/" >}}
 
 {{< blocks/products/pf/testimonials-quote >}}
 <p class="first">

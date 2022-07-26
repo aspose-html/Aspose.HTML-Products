@@ -68,13 +68,10 @@ h2: Schritte zum Konvertieren von HTML in MD in C#
 ---
 
 Wenn Sie die Konvertierungsfunktionalität in Ihrem Produkt in Betracht ziehen oder HTML programmgesteuert in MD konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. In allen Fällen erfordert jede Konvertierung einige obligatorische Schritte:
-1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
-1. Erstellen Sie ein neues [MarkdownSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions)-Objekt.
+1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
+1. Erstellen Sie ein neues [MarkdownSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions/)-Objekt.
 1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um HTML als Markdown-Datei zu speichern. Sie müssen HTMLDocument, MarkdownSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
 1. Die MD-Datei wird im angegebenen Pfad gespeichert.
-
-
-
 
 {{<section documentation>}}
 ---
@@ -85,7 +82,7 @@ h2: Konvertierung von HTML zu Markdown in der Dokumentation
   - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#convert-html-to-markdown-in-c-using-markdownsaveoptions" target="_blank">HTML mit MarkdownSaveOptions in Markdown konvertieren</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/#limitation" target="_blank">Konvertierungsbeschränkung</a>
 
-Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to Markdown](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten Konvertierungsszenarien von HTML in MD zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in MD mithilfe von ConvertHTML()-Methoden und zum Anwenden von MarkdownSaveOptions- und ICreateStreamProvider-Parametern.
+Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to Markdown,](https://docs.aspose.com/html/net/converting-between-formats/html-to-markdown/) um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und um C#-Beispiele für die gängigsten Konvertierungsszenarien von HTML in MD zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in MD mithilfe von ConvertHTML()-Methoden und zum Anwenden von MarkdownSaveOptions- und ICreateStreamProvider-Parametern.
 
 {{<section online-converters>}}
 ---

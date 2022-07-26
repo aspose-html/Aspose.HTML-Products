@@ -23,7 +23,7 @@ h2: Generate BMP from HTML source page using .NET API. Instantly convert HTML to
 h2: Convert HTML to BMP Using C#
 ---
 
-HTML files are frequently used to create, edit, or communicate a lot of information. If you need to include HTML files in a PowerPoint presentation or send them by email, please convert them to the appropriate image format and use as you want! With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can transform HTML to BMP programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to BMP conversion like reading from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
+HTML files are frequently used to create, edit, or communicate a lot of information. If you need to include HTML files in a PowerPoint presentation or send them by email, please convert them to the appropriate image format and use as you want! With [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can transform HTML to BMP programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to BMP conversion like reading from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,8 +69,8 @@ h2: How to Convert HTML to BMP in C#
 
 If you would like to consider conversion functionality in your product or you want to convert HTML to BMP programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any conversion requires some mandatory steps:
 
-1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
-1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with BMP ImageFormat. By default, the Format property is PNG.
+1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) constructors. You can load HTML from a file, HTML code, stream, or URL.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) object with BMP ImageFormat. By default, the Format property is PNG.
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as a BMP file. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
 1.  The BMP file will be saved to the specified path.
 
@@ -80,6 +80,7 @@ h2: HTML to BMP Conversion in Documentation
 ---
 
 BMP files are bitmap image files that are used to store high-quality bitmap digital images. Thus, it may sometimes be necessary to convert HTML to BMP. Please visit the documentation article [Convert HTML to BMP](https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to BMP conversion scenarios. In the article, you find information on how to convert HTML to BMP using ConvertHTML() methods, and how to apply ImageSaveOptions and ICreateStreamProvider parameters.
+
   -  <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/#convert-html-to-bmp" target="_blank">Convert HTML to BMP</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-bmp/#convert-html-to-bmp-in-c-using-imagesaveoptions" target="_blank">Convert HTML to BMP using ImageSaveOptions</a>  
 

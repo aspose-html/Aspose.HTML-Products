@@ -68,11 +68,10 @@ h2: Действия по преобразованию XHTML в MHTML в C#
 ---
 
 Если вы хотите программно преобразовать XHTML в MHTML, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование XHTML в MHTML требует некоторых обязательных шагов:
-1. Загрузите файл XHTML, используя один из конструкторов HTMLDocument() класса [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument).
-1. Создайте новый объект [MHTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions).
+1. Загрузите файл XHTML, используя один из конструкторов HTMLDocument() класса [HTMLDocument.](https://reference.aspose.com/html/net/aspose.html/htmldocument/)
+1. Создайте новый объект [MHTMLSaveOptions.](https://reference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions/)
 1. Используйте метод [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) класса Converter, чтобы сохранить XHTML как файл MHTML.
 1. Файл MHTML будет сохранен по указанному пути.
-
 
 {{<section documentation>}}
 ---

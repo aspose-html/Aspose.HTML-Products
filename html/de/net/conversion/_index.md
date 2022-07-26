@@ -17,11 +17,11 @@ h2: Konvertieren Sie HTML der Hypertext-Markup-Sprache in XHTML, MHTML, Markdown
 h2: So konvertieren Sie HTML mit C#
 ---
 
- 1. Laden Sie ein HTML-Dokument mithilfe eines der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument)-Konstruktoren in ein Document-Objekt. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
+ 1. Laden Sie ein HTML-Dokument mithilfe eines der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/)-Konstruktoren in ein Document-Objekt. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
  2. Erstellen Sie ein Objekt zum Speichern von Optionen.
  3. Rufen Sie eine der Methoden [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) auf und übergeben Sie ihr die erforderlichen Parameter.
 
-Hypertext-Markup-Sprache HTML ist die Sprache des Webs. Derzeit sind die meisten Informationen auf Websites in Form von Webseiten vorhanden. Daher ist die Konvertierung dieser HTML-basierten Informationen in andere Formate wie PDF, XPS, Microsoft® Word, Markdown und Bildformate ein gängiges Szenario. [.NET HTML API](https://products.aspose.com/html/net/) vereinfacht den Konvertierungsprozess für Entwickler. Es lädt die Datei mithilfe der HTMLDocument-Klasse, erstellt das relevante Speicheroptionsobjekt und verwendet die [Converter-Klasse](https://reference.aspose.com/html/net/aspose.html.converters/converter) relevante Konvertierungsmethode.</ br></br>
+Hypertext-Markup-Sprache HTML ist die Sprache des Webs. Derzeit sind die meisten Informationen auf Websites in Form von Webseiten vorhanden. Daher ist die Konvertierung dieser HTML-basierten Informationen in andere Formate wie PDF, XPS, Microsoft® Word, Markdown und Bildformate ein gängiges Szenario. [.NET HTML API](https://products.aspose.com/html/net/) vereinfacht den Konvertierungsprozess für Entwickler. Es lädt die Datei mithilfe der HTMLDocument-Klasse, erstellt das relevante Speicheroptionsobjekt und verwendet die [Converter-Klasse](https://reference.aspose.com/html/net/aspose.html.converters/converter/) relevante Konvertierungsmethode.</ br></br>
 Jede Konvertierung, die Sie durchführen möchten, beinhaltet das Laden eines HTML-Dokuments und das Speichern im unterstützten Format. Es können verschiedene Szenarien sein, aber es kann mit ein paar erforderlichen Schritten erstellt werden:</br>
 
 {{<section demos>}}
@@ -71,7 +71,7 @@ article8: Konvertieren Sie HTML in JPG
 article9: Konvertieren Sie HTML in TIFF
 ---
 
-Das wichtigste Highlight der Aspose.HTML .NET API ist eine Konvertierungsfunktion. Das Konvertieren zwischen Formaten ist aus verschiedenen Gründen erforderlich: um in einem vertrauten, bequemen Format zu arbeiten oder um verschiedene Formate für bestimmte Aufgaben zu nutzen. Der Namespace [Aspose.Html.Converters](https://reference.aspose.com/html/net/aspose.html.converters) implementiert einen einfachen Zugriff auf Konvertierungsmethoden. Es bietet eine breite Palette von HTML-Konvertierungen in gängige Formate wie PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, MHTML und MD. Bitte besuchen Sie das Dokumentationskapitel [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren.
+Das wichtigste Highlight der Aspose.HTML .NET API ist eine Konvertierungsfunktion. Das Konvertieren zwischen Formaten ist aus verschiedenen Gründen erforderlich: um in einem vertrauten, bequemen Format zu arbeiten oder um verschiedene Formate für bestimmte Aufgaben zu nutzen. Der Namespace [Aspose.Html.Converters](https://reference.aspose.com/html/net/aspose.html.converters/) implementiert einen einfachen Zugriff auf Konvertierungsmethoden. Es bietet eine breite Palette von HTML-Konvertierungen in gängige Formate wie PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, MHTML und MD. Bitte besuchen Sie das Dokumentationskapitel [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren.
 
 {{<section installing>}}
 ---

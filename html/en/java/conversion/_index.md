@@ -8,7 +8,7 @@ description: Convert hypertext markup language HTML to XPS PDF and Images via Ja
 {{< blocks/products/pf/feature-page-header h1="HTML Conversion Via Java" h2="Convert Hypertext Markup Language HTML to PDF, XPS and Images including JPG,BMP, PNG, TIFF to build cross-platform Java applications." >}}
 
 {{% blocks/products/pf/feature-page-summary %}}
-Whenever there is need of batch conversion of HTML files as well as web page from the live URL to other formats including PDF, XPS, Images and other formats, **Java HTML Parser API** is there to handle all such cases. API provides [HTMLDocument](https://apireference.aspose.com/html/java/com.aspose.html/HTMLDocument) to load the document, save options classes such as [PdfSaveOptions](https://apireference.aspose.com/html/java/com.aspose.html.saving/pdfsaveoptions), [ImageSaveOptions](https://apireference.aspose.com/html/java/com.aspose.html.saving/package-frame) etc for target file specific settings and a [Converter class](https://apireference.aspose.com/html/java/com.aspose.html/package-frame) for rendering to output file.
+Whenever there is need of batch conversion of HTML files as well as web page from the live URL to other formats including PDF, XPS, Images and other formats, **Java HTML Parser API** is there to handle all such cases. API provides [HTMLDocument](https://reference.aspose.com/html/java/com.aspose.html/HTMLDocument) to load the document, save options classes such as [PdfSaveOptions](https://reference.aspose.com/html/java/com.aspose.html.saving/pdfsaveoptions), [ImageSaveOptions](https://reference.aspose.com/html/java/com.aspose.html.saving/package-frame) etc for target file specific settings and a [Converter class](https://reference.aspose.com/html/java/com.aspose.html/package-frame) for rendering to output file.
 
 {{% /blocks/products/pf/feature-page-summary  %}}
 
@@ -26,7 +26,7 @@ For single or multiple HTML file to PDF conversion programmatically, process is,
 
 {{% blocks/products/pf/feature-page-section  h2="Convert HTML to Images BMP, JPG, PNG, TIFF and more" %}}
 
-**Java html parser API** built for reading, extracting and manipulating HTML data, can render HTML data to image formats easily. Create API [ImageSaveOptions](https://apireference.aspose.com/html/java/com.aspose.html.saving/ImageSaveOptions) class object that provides methods for all specific settings like setCompression, setFormat, setHorizontalResolution, setSmoothingMode, setVerticalResolution etc. And finally use Converter.convertHTML method for conversion, having HTMLDocument object, image options and target image as parameters.
+**Java html parser API** built for reading, extracting and manipulating HTML data, can render HTML data to image formats easily. Create API [ImageSaveOptions](https://reference.aspose.com/html/java/com.aspose.html.saving/ImageSaveOptions) class object that provides methods for all specific settings like setCompression, setFormat, setHorizontalResolution, setSmoothingMode, setVerticalResolution etc. And finally use Converter.convertHTML method for conversion, having HTMLDocument object, image options and target image as parameters.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code for Converting HTML to Image Formats" %}}
 
@@ -40,7 +40,7 @@ For single or multiple HTML file to PDF conversion programmatically, process is,
 {{% blocks/products/pf/feature-page-section  h2="Convert HTML to XPS" %}}
 
 
-Process of HTML to XPS conversion is same as of PDF and images conversion except that API has [XpsSaveOptions class](https://apireference.aspose.com/html/java/com.aspose.html.saving/xpssaveoptions) for rendering to XPS.
+Process of HTML to XPS conversion is same as of PDF and images conversion except that API has [XpsSaveOptions class](https://reference.aspose.com/html/java/com.aspose.html.saving/xpssaveoptions) for rendering to XPS.
 
 {{% blocks/products/pf/feature-page-code h3="Java Code for HTML to XPS Conversion" %}}
 

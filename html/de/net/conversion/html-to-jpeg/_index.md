@@ -68,13 +68,10 @@ h2: Schritte zum Konvertieren von HTML in JPEG in C#
 ---
 
 Wenn Sie die Konvertierungsfunktionalität in Ihrem Produkt in Betracht ziehen oder HTML programmgesteuert in JPEG konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. In allen Fällen erfordert jede Konvertierung einige obligatorische Schritte:
-1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
-1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt mit JPEG ImageFormat. Standardmäßig ist die Format-Eigenschaft PNG.
+1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
+1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)-Objekt mit JPEG ImageFormat. Standardmäßig ist die Format-Eigenschaft PNG.
 1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um HTML als JPEG-Datei zu speichern. Sie müssen HTMLDocument, ImageSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
 1. Die JPEG-Datei wird im angegebenen Pfad gespeichert.
-
-
-
 
 {{<section documentation>}}
 ---
@@ -85,7 +82,7 @@ h2: HTML-zu-JPEG-Konvertierung in der Dokumentation
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#convert-html-to-jpg-using-imagesaveoptions" target="_blank" >Konvertieren Sie HTML in JPG mit ImageSaveOptions</a>
    - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers" target="_blank">HTML in JPG konvertieren mit MemoryStreamProvider</a>
 
-JPEG ist eines der am häufigsten verwendeten Bildformate. Seine Einzigartigkeit ist der kontrollierte Qualitätsverlust während der Komprimierung. Mit dieser Komprimierungsfunktion können Sie JPG-Bilder schnell und effizient freigeben und sie im Internet, auf Computern und Mobilgeräten weit verbreitet verwenden. Das Konvertieren von HTML-Dateien in das JPG-Bild kann beispielsweise erforderlich sein, wenn Sie eine Webseite in eine PowerPoint-Präsentation einfügen oder per E-Mail versenden möchten. Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to JPEG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpeg/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und C#-Beispiele für die gängigsten HTML-zu-JPEG-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in JPEG mithilfe von ConvertHTML()-Methoden und zum Anwenden von ImageSaveOptions- und ICreateStreamProvider-Parametern.
+JPEG ist eines der am häufigsten verwendeten Bildformate. Seine Einzigartigkeit ist der kontrollierte Qualitätsverlust während der Komprimierung. Mit dieser Komprimierungsfunktion können Sie JPG-Bilder schnell und effizient freigeben und sie im Internet, auf Computern und Mobilgeräten weit verbreitet verwenden. Das Konvertieren von HTML-Dateien in das JPG-Bild kann beispielsweise erforderlich sein, wenn Sie eine Webseite in eine PowerPoint-Präsentation einfügen oder per E-Mail versenden möchten. Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to JPEG,](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpeg/) um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und C#-Beispiele für die gängigsten HTML-zu-JPEG-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in JPEG mithilfe von ConvertHTML()-Methoden und zum Anwenden von ImageSaveOptions- und ICreateStreamProvider-Parametern.
 
 {{<section online-converters>}}
 ---

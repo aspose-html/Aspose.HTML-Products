@@ -44,7 +44,7 @@ description: Aspose.HTML для .NET поддерживает .NET framework и 
 {{<section formats>}}
 ---
 h3: Поддерживаемые форматы файлов
-description: Aspose.HTML для .NET [поддерживаемые форматы](https://docs.aspose.com/html/net/supported-file-formats/) перечислены ниже.
+description: Aspose.HTML для .NET [поддерживаемые форматы](https://docs.aspose.com/html/net/getting-started/supported-file-formats/) перечислены ниже.
 ---
 
 {{<section feature>}}
@@ -61,7 +61,7 @@ feature8: Извлечение данных из HTML-документов
 feature9: Загрузка форматов файлов EPUB и MHTML
 feature10: Рендеринг HTML в форматы растровых изображений
 feature11: Отображение нескольких документов одновременно
-feature12: <a href="/html/{{lang.url-fragment}}net/conversion/md-to-html">Реализация конвертера Markdown в HTML</a>
+feature12: <a href="/html/{{lang.url-fragment}}net/conversion/md-to-html/">Реализация конвертера Markdown в HTML</a>
 feature13: Применение верхнего и нижнего колонтитула во время преобразования HTML в PDF
 feature14: Навигация по HTML с помощью XPath Query или CSS Selector
 feature15: <a href="/html/{{lang.url-fragment}}net/conversion/">Широкий диапазон преобразований между форматами</a>

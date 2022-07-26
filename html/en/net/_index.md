@@ -44,7 +44,7 @@ description: Aspose.HTML for .NET supports the .NET framework & .NET Standard.
 {{<section formats>}}
 ---
 h3: Supported File Formats
-description: Aspose.HTML for .NET [supported formats](https://docs.aspose.com/html/net/supported-file-formats/) are listed below.
+description: Aspose.HTML for .NET [supported formats](https://docs.aspose.com/html/net/getting-started/supported-file-formats/) are listed below.
 ---
 
 {{<section feature>}}
@@ -61,7 +61,7 @@ feature8: Extract data from HTML documents
 feature9: Load EPUB and MHTML file formats
 feature10: Render HTML to raster image formats
 feature11: Render multiple documents at once
-feature12: <a href="/html/{{lang.url-fragment}}net/conversion/md-to-html">Implement Markdown to HTML converter</a>
+feature12: <a href="/html/{{lang.url-fragment}}net/conversion/md-to-html/">Implement Markdown to HTML converter</a>
 feature13: Apply header and footer during HTML to PDF
 feature14: Navigate HTML using XPath Query or CSS Selector
 feature15: <a href="/html/{{lang.url-fragment}}net/conversion/">Wide range of conversions between formats</a>
@@ -230,7 +230,6 @@ tabTitle: Learning Resources
 name1: Documentation
 name2: Source Code
 name3: API References
-name4: Tutorial Videos
 ---
 
 {{<section support>}}

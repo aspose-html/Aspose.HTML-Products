@@ -68,11 +68,10 @@ h2: Действия по преобразованию XHTML в TIFF на C#
 ---
 
 Если вы хотите программно преобразовать XHTML в TIFF, см. приведенный выше пример кода C# или изучите главу «Документация». Во всех случаях любое преобразование XHTML требует некоторых обязательных шагов:
-1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument).
-1. Создайте новый объект [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) в формате TIFF ImageFormat. По умолчанию свойство Format имеет значение [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Используйте метод [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), чтобы сохранить XHTML как изображение TIFF. Вам необходимо передать HTMLDocument, ImageSaveOptions и путь к выходному файлу методу ConvertHTML().
+1. Загрузите документ XHTML, используя один из конструкторов [HTMLDocument().](https://reference.aspose.com/html/net/aspose.html/htmldocument/)
+1. Создайте новый объект [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) в формате TIFF ImageFormat. По умолчанию свойство Format имеет значение [PNG.](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)
+1. Используйте метод [ConvertHTML(),](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) чтобы сохранить XHTML как изображение TIFF. Вам необходимо передать HTMLDocument, ImageSaveOptions и путь к выходному файлу методу ConvertHTML().
 1. Файл TIFF будет сохранен по указанному пути.
-
 
 {{<section documentation>}}
 ---

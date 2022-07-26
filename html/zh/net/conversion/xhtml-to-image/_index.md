@@ -69,8 +69,8 @@ h2: 在 C# 中将 XHTML 转换为图像的步骤
 
 如果您想以编程方式将 XHTML 转换为 Image，请参阅上面的 C# 代码示例或学习文档章节。在所有情况下，任何 XHTML 转换都需要一些强制性步骤：
 
-1. 使用 [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) 构造函数之一加载 XHTML 文档。
-1. 新建一个[ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)对象并指定ImageFormat。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat)。
+1. 使用 [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) 构造函数之一加载 XHTML 文档。
+1. 新建一个[ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)对象并指定ImageFormat。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)。
 1. 使用 [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) 方法将 XHTML 保存为光栅图像。您需要将 HTMLDocument、ImageSaveOptions 和输出文件路径传递给 ConvertHTML() 方法。
 1. 图像文件将被保存到指定路径。
 

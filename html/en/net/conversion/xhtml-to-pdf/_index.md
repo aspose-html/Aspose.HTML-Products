@@ -23,7 +23,7 @@ h2: Generate PDF from XHTML source page using .NET API. Instantly convert XHTML 
 h2: Convert XHTML to PDF Using C#
 ---
 
-Converting XHTML to PDF is often required to protect documents from unwanted editing and copying, to prepare documents for printing or sending by e-mail, etc. With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can convert XHTML to PDF programmatically with full control over conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in PDF format. Powerful C# API allows you to convert XHTML to PDF quickly and in high quality!
+Converting XHTML to PDF is often required to protect documents from unwanted editing and copying, to prepare documents for printing or sending by e-mail, etc. With [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can convert XHTML to PDF programmatically with full control over conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in PDF format. Powerful C# API allows you to convert XHTML to PDF quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,11 +69,10 @@ h2: Steps to Convert XHTML to PDF in C#
 
 If you want to convert XHTML to PDF programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any XHTML to PDF conversion requires some mandatory steps:
 
-1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument) class.
-1.  Create a new [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions) object. 
+1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/) class.
+1.  Create a new [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions/) object. 
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save XHTML as a PDF file.
 1.  The PDF file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---

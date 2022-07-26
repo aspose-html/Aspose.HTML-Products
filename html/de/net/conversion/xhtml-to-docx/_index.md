@@ -69,8 +69,8 @@ h2: Schritte zum Konvertieren von XHTML in DOCX in C#
 
 Wenn Sie XHTML programmgesteuert in DOCX konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. In allen Fällen erfordert jede XHTML-Konvertierung einige obligatorische Schritte:
 
-1. Laden Sie eine XHTML-Datei mit einem der HTMLDocument()-Konstruktoren der Klasse [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument).
-1. Erstellen Sie ein neues [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions)-Objekt.
+1. Laden Sie eine XHTML-Datei mit einem der HTMLDocument()-Konstruktoren der Klasse [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/).
+1. Erstellen Sie ein neues [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions/)-Objekt.
 1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um XHTML als DOCX-Datei zu speichern.
 1. Die DOCX-Datei wird im angegebenen Pfad gespeichert.
 

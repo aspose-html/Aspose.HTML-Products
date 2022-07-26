@@ -63,8 +63,8 @@ h2: Schritte zum Konvertieren von EPUB in JPEG in C#
 
 Wenn Sie die Konvertierungsfunktion in Ihrem Produkt in Betracht ziehen oder EPUB programmgesteuert in JPEG konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. Es können verschiedene Szenarien sein, aber jede EPUB-Konvertierung kann mit ein paar erforderlichen Schritten durchgeführt werden:
 1. Öffnen Sie eine vorhandene EPUB-Datei.
-1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt mit JPEG ImageFormat. Standardmäßig ist die Format-Eigenschaft [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Verwenden Sie die Methode [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) der Converter-Klasse, um EPUB als JPEG-Bild zu speichern . Sie müssen den EPUB-Dateistream, ImageSaveOptions und den Ausgabedateipfad an die ConvertEPUB()-Methode für die EPUB-zu-JPEG-Konvertierung übergeben.
+1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)-Objekt mit JPEG ImageFormat. Standardmäßig ist die Format-Eigenschaft [PNG.](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)
+1. Verwenden Sie die Methode [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/) der Converter-Klasse, um EPUB als JPEG-Bild zu speichern . Sie müssen den EPUB-Dateistream, ImageSaveOptions und den Ausgabedateipfad an die ConvertEPUB()-Methode für die EPUB-zu-JPEG-Konvertierung übergeben.
 1. Die JPEG-Datei wird im angegebenen Pfad gespeichert.
 
 

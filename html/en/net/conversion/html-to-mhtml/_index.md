@@ -23,7 +23,7 @@ h2: Generate MHTML from HTML source page using .NET API. Instantly convert HTML 
 h2: Convert HTML to MHTML Using C#
 ---
 
-HTML files are frequently used to create, edit, or communicate a lot of information. The advantage of saving HTML as MHTML is that all of the web page elements are kept intact in a single file. MHTML contains an underlying HTML document and its embedded images, media, and other resources. With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can transform HTML to MHTML programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to MHTML conversion like reading from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
+HTML files are frequently used to create, edit, or communicate a lot of information. The advantage of saving HTML as MHTML is that all of the web page elements are kept intact in a single file. MHTML contains an underlying HTML document and its embedded images, media, and other resources. With [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can transform HTML to MHTML programmatically with full control over a wide range of conversion parameters. There are various cases for HTML to MHTML conversion like reading from a file, URL, WYSISYG Editor, string, or stream. Powerful C# API allows you to convert HTML to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,11 +69,10 @@ h2: Steps to Convert HTML to MHTML in C#
 
 If you would like to consider conversion functionality in your product or you want to convert HTML to MHTML programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any conversion requires some mandatory steps:
 
-1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
-1.  Create a new [MHTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions) object.
+1.  Load an HTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) constructors. You can load HTML from a file, HTML code, stream, or URL.
+1.  Create a new [MHTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions/) object.
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save HTML as an MHTML file. You need to pass the HTMLDocument, MHTMLSaveOptions, and output file path to the ConvertHTML() method.
 1.  The MHTML file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---
@@ -81,6 +80,7 @@ h2: HTML to MHTML Conversion in Documentation
 ---
 
 MHTML combines normal HTML with external resources like images, animations, audio, etc., into one file with the .mht file extension. Aspose.HTML for .NET API allows you to convert HTML to MHTML format quickly and with high quality. Please visit the documentation article [Convert HTML to MHTML](https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common HTML to MHTML conversion scenarios. In the article, you find information on how to convert HTML to MHTML using ConvertHTML() methods, and how to apply MHTMLSaveOptions and ICreateStreamProvider parameters.
+
   -  <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#html-to-mhtml-by-a-single-line-of-code" target="_blank">Convert HTML to MHTML by a single line of code</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-mhtml/#convert-html-to-mhtml-in-c-using-mhtmlsaveoptions" target="_blank">Convert HTML to MHTML using MHTMLSaveOptions</a>  
 

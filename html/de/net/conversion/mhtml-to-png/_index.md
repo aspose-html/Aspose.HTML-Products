@@ -63,12 +63,9 @@ h2: Schritte zum Konvertieren von MHTML in PNG in C#
 
 Wenn Sie MHTML programmgesteuert in PNG konvertieren möchten, befolgen Sie bitte einige erforderliche Schritte:
 1. Öffnen Sie eine vorhandene MHTML-Datei.
-1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt. Standardmäßig ist die Format-Eigenschaft [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)-Objekt. Standardmäßig ist die Format-Eigenschaft [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/).
 1. Verwenden Sie die Methode [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) der Converter-Klasse, um MHTML als PNG-Bild zu speichern.
 1. Die PNG-Datei wird im angegebenen Pfad gespeichert.
-
-
-
 
 {{<section documentation>}}
 ---

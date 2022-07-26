@@ -64,8 +64,8 @@ h2: 在 C# 中将 MHTML 转换为 PDF 的步骤
 如果您想以编程方式将 MHTML 转换为 PDF，请执行几个必需的步骤：
 
 1. 打开现有的 MHTML 文件。
-1. 创建[PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions)类的实例。
-1. 使用[Converter](https://reference)的[ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29)方法.aspose.com/html/net/aspose.html.converters/converter) 类将 MHTML 保存为 PDF 文件。您需要将 MHTML 文件流、PdfSaveOptions 和输出文件路径传递给 ConvertMHTML() 方法。
+1. 创建[PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions/)类的实例。
+1. 使用Converter  的[ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/#convertmhtml_29)方法 类将 MHTML 保存为 PDF 文件。您需要将 MHTML 文件流、PdfSaveOptions 和输出文件路径传递给 ConvertMHTML() 方法。
 1. PDF文件将保存到指定路径。
 
 {{<section documentation>}}

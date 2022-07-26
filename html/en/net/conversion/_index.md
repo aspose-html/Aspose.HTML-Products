@@ -17,9 +17,9 @@ h2: Convert hypertext markup language HTML to XHTML, MHTML, Markdown, PDF, XPS, 
 h2: How to Convert HTML Using C#
 ---
 
-Hypertext markup language HTML is the language of the Web. Currently, most information is present on websites in form of webpages. So converting this HTML-based information into other formats like PDF, XPS, Microsoft® Word, Markdown and image formats is a common scenario. [.NET HTML API](https://products.aspose.com/html/net/) makes the conversion process easier for developers. It loads the file using HTMLDocument class, creates the relevant save options object and uses the [Converter class](https://reference.aspose.com/html/net/aspose.html.converters/converter) relevant conversion method.</br></br> 
+Hypertext markup language HTML is the language of the Web. Currently, most information is present on websites in form of webpages. So converting this HTML-based information into other formats like PDF, XPS, Microsoft® Word, Markdown and image formats is a common scenario. [.NET HTML API](https://products.aspose.com/html/net/) makes the conversion process easier for developers. It loads the file using HTMLDocument class, creates the relevant save options object and uses the [Converter class](https://reference.aspose.com/html/net/aspose.html.converters/converter/) relevant conversion method.</br></br> 
 Any conversion you want to perform involves loading an HTML document and saving it in the supported format. It can be different scenarios, but it can be made with a few required steps:</br>
- 1. Load an HTML document into a Document object using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors. You can load HTML from a file, HTML code, stream, or URL.
+ 1. Load an HTML document into a Document object using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) constructors. You can load HTML from a file, HTML code, stream, or URL.
  2. Create a Save Options object.
  3. Invoke one of the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) methods and pass the required parameters to it.
 
@@ -70,7 +70,7 @@ article8: Convert HTML to JPG
 article9: Convert HTML to TIFF
 ---
 
-The main highlight of Aspose.HTML .NET API is a conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The [Aspose.Html.Converters](https://reference.aspose.com/html/net/aspose.html.converters) namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, MHTML, and MD. Please visit the documentation chapter [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) to learn more about Aspose.HTML for .NET API conversion features.
+The main highlight of Aspose.HTML .NET API is a conversion feature. Converting between formats is required for various reasons: to work in a familiar, convenient format or to take advantage of different formats for specific tasks. The [Aspose.Html.Converters](https://reference.aspose.com/html/net/aspose.html.converters/) namespace implements easy access to conversion methods. It provides a wide range of HTML conversions to popular formats, such as PDF, XPS, DOCX, JPEG, PNG, BMP, TIFF, GIF, MHTML, and MD. Please visit the documentation chapter [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) to learn more about Aspose.HTML for .NET API conversion features.
 
 {{<section installing>}}
 ---

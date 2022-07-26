@@ -68,13 +68,10 @@ h2: Schritte zum Konvertieren von HTML in PDF in C#
 ---
 
 Wenn Sie die Konvertierungsfunktionalität in Ihrem Produkt in Betracht ziehen oder HTML programmgesteuert in PDF konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. In allen Fällen erfordert jede Konvertierung einige obligatorische Schritte:
-1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
-1. Erstellen Sie ein neues [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions)-Objekt.
+1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
+1. Erstellen Sie ein neues [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions/)-Objekt.
 1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um HTML als PDF-Datei zu speichern. Sie müssen HTMLDocument, PdfSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
 1. Die PDF-Datei wird im angegebenen Pfad gespeichert.
-
-
-
 
 {{<section documentation>}}
 ---
@@ -85,7 +82,7 @@ h2: HTML-zu-PDF-Konvertierung in der Dokumentation
   - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#convert-html-to-pdf-in-c-using-pdfsaveoptions" target="_blank">HTML in PDF konvertieren mit PdfSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/#output-stream-providers" target="_blank">HTML in PDF konvertieren mit MemoryStreamProvider</a>
 
-HTML-Dateien werden häufig verwendet, um viele Informationen zu erstellen, zu bearbeiten oder zu kommunizieren. Die Konvertierung von HTML in PDF ist häufig erforderlich, um Dokumente vor unerwünschtem Bearbeiten oder Kopieren zu schützen, offizielle Dokumentationen zu erstellen, Dateien zum Drucken oder Versenden per E-Mail vorzubereiten usw. Bitte besuchen Sie den Dokumentationsartikel [HTML in PDF konvertieren](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/), um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele für die gängigsten HTML-zu-PDF-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in PDF mithilfe von ConvertHTML()-Methoden und zum Anwenden von PdfSaveOptions- und ICreateStreamProvider-Parametern.
+HTML-Dateien werden häufig verwendet, um viele Informationen zu erstellen, zu bearbeiten oder zu kommunizieren. Die Konvertierung von HTML in PDF ist häufig erforderlich, um Dokumente vor unerwünschtem Bearbeiten oder Kopieren zu schützen, offizielle Dokumentationen zu erstellen, Dateien zum Drucken oder Versenden per E-Mail vorzubereiten usw. Bitte besuchen Sie den Dokumentationsartikel [HTML in PDF konvertieren,](https://docs.aspose.com/html/net/converting-between-formats/html-to-pdf/) um mehr über Aspose.HTML für .NET-API-Konvertierungsfunktionen zu erfahren und C#-Beispiele für die gängigsten HTML-zu-PDF-Konvertierungsszenarien zu betrachten. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in PDF mithilfe von ConvertHTML()-Methoden und zum Anwenden von PdfSaveOptions- und ICreateStreamProvider-Parametern.
 
 {{<section online-converters>}}
 ---

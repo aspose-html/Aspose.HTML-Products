@@ -23,7 +23,7 @@ h2: Generate MHTML from XHTML source page using .NET API. Instantly convert XHTM
 h2: Convert XHTML to MHTML Using C#
 ---
 
-The advantage of saving (X)HTML as MHTML is that all of the web page elements are kept intact in a single file. MHTML contains an underlying (X)HTML document and its embedded images, media, and other resources. With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can convert XHTML to MHTML programmatically with full control over conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in MHTML format. Powerful C# API allows you to convert XHTML to MHTML quickly and in high quality!
+The advantage of saving (X)HTML as MHTML is that all of the web page elements are kept intact in a single file. MHTML contains an underlying (X)HTML document and its embedded images, media, and other resources. With [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can convert XHTML to MHTML programmatically with full control over conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in MHTML format. Powerful C# API allows you to convert XHTML to MHTML quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,11 +69,10 @@ h2: Steps to Convert XHTML to MHTML in C#
 
 If you want to convert XHTML to MHTML programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any XHTML to MHTML conversion requires some mandatory steps:
 
-1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument) class.
-1.  Create a new [MHTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions) object. 
+1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/) class.
+1.  Create a new [MHTMLSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/mhtmlsaveoptions/) object. 
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save XHTML as an MHTML file.
 1.  The MHTML file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---

@@ -23,7 +23,7 @@ h2: Преобразование SVG в XPS с использованием се
 h2: Конвертировать SVG в XPS с помощью C#
 ---
 
-SVG — это язык XML для создания двумерной векторной и смешанной векторно-растровой графики. Чтобы преобразовать SVG в XPS, мы будем использовать API [Aspose.HTML для .NET](https://products.aspose.com/html/net/), который представляет собой многофункциональное, мощное и простое в использовании средство для работы с документами. и API преобразования для платформы C#. Преобразование SVG часто требуется для использования преимуществ других форматов. Формат файла XPS обеспечивает управление правами доступа и позволяет создавать высококачественные документы для печати. Используя нашу библиотеку обработки документов, вы можете программно преобразовать изображение SVG в XPS с полным контролем над различными параметрами преобразования всего несколькими строками кода.
+SVG — это язык XML для создания двумерной векторной и смешанной векторно-растровой графики. Чтобы преобразовать SVG в XPS, мы будем использовать API [Aspose.HTML для .NET,](https://products.aspose.com/html/net/) который представляет собой многофункциональное, мощное и простое в использовании средство для работы с документами. и API преобразования для платформы C#. Преобразование SVG часто требуется для использования преимуществ других форматов. Формат файла XPS обеспечивает управление правами доступа и позволяет создавать высококачественные документы для печати. Используя нашу библиотеку обработки документов, вы можете программно преобразовать изображение SVG в XPS с полным контролем над различными параметрами преобразования всего несколькими строками кода.
 
 {{<section demos>}}
 ---
@@ -59,9 +59,9 @@ using Aspose.Html.Saving;
 h2: Шаги по преобразованию SVG в XPS на C#
 ---
 
-1. Загрузите файл SVG с помощью одного из конструкторов SVGDocument() класса [SVGDocument](https://reference.aspose.com/html/net/aspose.html.dom.svg/svgdocument).
-1. Создайте новый объект [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions).
-1. Используйте метод [ConvertSVG()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertsvg/methods/3), чтобы сохранить SVG в виде файла XPS. Вам необходимо передать SVGDocument, XpsSaveOptions и путь к выходному файлу методу ConvertSVG().
+1. Загрузите файл SVG с помощью одного из конструкторов SVGDocument() класса [SVGDocument](https://reference.aspose.com/html/net/aspose.html.dom.svg/svgdocument/).
+1. Создайте новый объект [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/).
+1. Используйте метод [ConvertSVG()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertsvg/#convertsvg_3), чтобы сохранить SVG в виде файла XPS. Вам необходимо передать SVGDocument, XpsSaveOptions и путь к выходному файлу методу ConvertSVG().
 
 {{<section documentation>}}
 ---

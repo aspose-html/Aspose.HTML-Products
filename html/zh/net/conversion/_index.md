@@ -17,9 +17,9 @@ h2: 将超文本标记语言 HTML 转换为 XHTML、MHTML、Markdown、PDF、XPS
 h2: 如何使用 C# 转换 HTML
 ---
 
-超文本标记语言 HTML 是 Web 的语言。目前，大多数信息都以网页的形式呈现在网站上。因此，将这种基于 HTML 的信息转换为其他格式，如 PDF、XPS、Microsoft® Word、Markdown 和图像格式是一种常见的情况。 [.NET HTML API](https://products.aspose.com/html/net/) 使开发人员的转换过程更容易。它使用 HTMLDocument 类加载文件，创建相关的保存选项对象并使用 [Converter 类](https://reference.aspose.com/html/net/aspose.html.converters/converter) 相关的转换方法。<br><br>
+超文本标记语言 HTML 是 Web 的语言。目前，大多数信息都以网页的形式呈现在网站上。因此，将这种基于 HTML 的信息转换为其他格式，如 PDF、XPS、Microsoft® Word、Markdown 和图像格式是一种常见的情况。 [.NET HTML API](https://products.aspose.com/html/net/) 使开发人员的转换过程更容易。它使用 HTMLDocument 类加载文件，创建相关的保存选项对象并使用 [Converter 类](https://reference.aspose.com/html/net/aspose.html.converters/converter/) 相关的转换方法。<br><br>
 您要执行的任何转换都涉及加载 HTML 文档并将其保存为支持的格式。它可以是不同的场景，但可以通过几个必要的步骤来完成：<br>
- 1. 使用 [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) 构造函数之一将 HTML 文档加载到 Document 对象中。您可以从文件、HTML 代码、流或 URL 加载 HTML。
+ 1. 使用 [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) 构造函数之一将 HTML 文档加载到 Document 对象中。您可以从文件、HTML 代码、流或 URL 加载 HTML。
  2. 创建一个保存选项对象。
  3. 调用 [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) 方法之一并将所需的参数传递给它。
 
@@ -70,7 +70,7 @@ article8: 将 HTML 转换为 JPG
 article9: 将 HTML 转换为 TIFF
 ---
 
-Aspose.HTML .NET API 的主要亮点是转换功能。出于各种原因，需要在格式之间进行转换：以熟悉、方便的格式工作，或利用不同格式完成特定任务。 [Aspose.Html.Converters](https://reference.aspose.com/html/net/aspose.html.converters) 命名空间实现了对转换方法的轻松访问。它提供广泛的 HTML 到流行格式的转换，例如 PDF、XPS、DOCX、JPEG、PNG、BMP、TIFF、GIF、MHTML 和 MD。请访问文档章节 [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) 了解有关 Aspose.HTML for .NET API 转换功能的更多信息。
+Aspose.HTML .NET API 的主要亮点是转换功能。出于各种原因，需要在格式之间进行转换：以熟悉、方便的格式工作，或利用不同格式完成特定任务。 [Aspose.Html.Converters](https://reference.aspose.com/html/net/aspose.html.converters/) 命名空间实现了对转换方法的轻松访问。它提供广泛的 HTML 到流行格式的转换，例如 PDF、XPS、DOCX、JPEG、PNG、BMP、TIFF、GIF、MHTML 和 MD。请访问文档章节 [Converting Between Formats](https://docs.aspose.com/html/net/converting-between-formats/) 了解有关 Aspose.HTML for .NET API 转换功能的更多信息。
 
 {{<section installing>}}
 ---

@@ -23,7 +23,7 @@ h2: High-fidelity MD to JPEG conversion using server-side .NET APIs. Instantly c
 h2: Convert MD to JPEG Using C#
 ---
 
-In order to convert MD to JPEG, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. Conversions from Markdown to other formats go through the Markdown to HTML conversion stage. .NET developers can easily load & convert MD to JPEG in just a few lines of code. Powerful C# API allows you to convert MD to popular formats quickly and in high quality!
+In order to convert MD to JPEG, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. Conversions from Markdown to other formats go through the Markdown to HTML conversion stage. .NET developers can easily load & convert MD to JPEG in just a few lines of code. Powerful C# API allows you to convert MD to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -62,10 +62,9 @@ h2: Steps to Convert MD to JPEG in C#
 ---
 
 1.  Specify a path to a source Markdown file.
-1.  Convert Markdown to HTML. Use the [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/4) method to save Markdown as an HTML document.
-1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with JPEG ImageFormat. By default, the Format property is [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1.  Convert Markdown to HTML. Use the [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmarkdown/#convertmarkdown_4) method to save Markdown as an HTML document.
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) object with JPEG ImageFormat. By default, the Format property is [PNG.](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method to render the intermediary HTML document to a JPEG image. You need to pass the HTMLDocument, ImageSaveOptions, and output file path to the ConvertHTML() method.
-
 
 {{<section documentation>}}
 ---

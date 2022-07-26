@@ -23,7 +23,7 @@ h2: High-fidelity MHTML to GIF conversion using .NET API. Instantly convert MHTM
 h2: Convert MHTML to GIF Using C#
 ---
 
-To convert MHTML to GIF, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. MHTML conversions are often required to take advantage of other formats. Using our high-speed library, you can convert MHTML to GIF programmatically with full control over various conversion parameters. Powerful C# API allows you to convert MHTML to popular formats quickly and in high quality!
+To convert MHTML to GIF, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. MHTML conversions are often required to take advantage of other formats. Using our high-speed library, you can convert MHTML to GIF programmatically with full control over various conversion parameters. Powerful C# API allows you to convert MHTML to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -64,10 +64,9 @@ h2: Steps to Convert MHTML to GIF in C#
 If you want to programmatically convert MHTML to GIF,  please follow a few required steps:
 
 1.  Open an existing MHTML file.
-1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) object with GIF ImageFormat. By default, the Format property is [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1.  Create a new [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) object with GIF ImageFormat. By default, the Format property is [PNG.](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)
 1.  Use the [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) method of the Converter class to save MHTML as a GIF image.
 1.  The GIF file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---

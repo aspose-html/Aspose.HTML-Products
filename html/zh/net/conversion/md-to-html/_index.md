@@ -48,7 +48,7 @@ h2: 在 C# 中将 MD 转换为 HTML 的步骤
 
 1. 指定源 Markdown 文件的路径。
 1. 准备转换文件保存的路径。
-1. 使用Converter类的[ConvertMarkdown()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/7)方法将Markdown保存为HTML文件.您需要将 `sourcePath` 和 `savePath` 传递给 ConvertMarkdown() 方法以进行 Markdown 到 HTML 的转换。
+1. 使用Converter类的[ConvertMarkdown()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmarkdown/#convertmarkdown_7)方法将Markdown保存为HTML文件.您需要将 `sourcePath` 和 `savePath` 传递给 ConvertMarkdown() 方法以进行 Markdown 到 HTML 的转换。
 1. HTML 文件将被保存到指定路径。
 
 {{<section documentation>}}

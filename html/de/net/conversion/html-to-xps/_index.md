@@ -68,13 +68,10 @@ h2: Schritte zum Konvertieren von HTML in XPS in C#
 ---
 
 Wenn Sie die Konvertierungsfunktionalität in Ihrem Produkt in Betracht ziehen oder HTML programmgesteuert in XPS konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. In allen Fällen erfordert jede Konvertierung einige obligatorische Schritte:
-1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
-1. Erstellen Sie ein neues [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions)-Objekt.
+1. Laden Sie ein HTML-Dokument mit einem der [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/)-Konstruktoren. Sie können HTML aus einer Datei, einem HTML-Code, einem Stream oder einer URL laden.
+1. Erstellen Sie ein neues [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/)-Objekt.
 1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) der Converter-Klasse, um HTML als XPS-Datei zu speichern. Sie müssen HTMLDocument, XpsSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
 1. Die XPS-Datei wird im angegebenen Pfad gespeichert.
-
-
-
 
 {{<section documentation>}}
 ---
@@ -85,7 +82,7 @@ h2: HTML-zu-XPS-Konvertierung in der Dokumentation
   - Ziel <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#convert-html-to-xps-in-c-using-xpssaveoptions" target="_blank">Konvertieren Sie HTML in XPS mit XpsSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/#output-stream-providers" target="_blank">Konvertieren Sie HTML in XPS mit MemoryStreamProvider</a>
 
-XPS ist ein von Microsoft entwickeltes Format zum Speichern und Anzeigen von Dokumenten. Es hat eine Reihe von Vorteilen, die Sicherheitsfunktionen unterstützen, wie z. B. digitale Signaturen für mehr Dokumentensicherheit und mehr. Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to XPS](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/), um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und C#-Beispiele für die häufigsten Konvertierungsszenarien von HTML in XPS. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in XPS mithilfe von ConvertHTML()-Methoden und zum Anwenden von XpsSaveOptions- und ICreateStreamProvider-Parametern.
+XPS ist ein von Microsoft entwickeltes Format zum Speichern und Anzeigen von Dokumenten. Es hat eine Reihe von Vorteilen, die Sicherheitsfunktionen unterstützen, wie z. B. digitale Signaturen für mehr Dokumentensicherheit und mehr. Bitte besuchen Sie den Dokumentationsartikel [Convert HTML to XPS,](https://docs.aspose.com/html/net/converting-between-formats/html-to-xps/) um mehr über Aspose.HTML für die .NET-API zu erfahren Konvertierungsfeatures und C#-Beispiele für die häufigsten Konvertierungsszenarien von HTML in XPS. In diesem Artikel finden Sie Informationen zum Konvertieren von HTML in XPS mithilfe von ConvertHTML()-Methoden und zum Anwenden von XpsSaveOptions- und ICreateStreamProvider-Parametern.
 
 {{<section online-converters>}}
 ---

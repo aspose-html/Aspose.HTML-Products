@@ -23,7 +23,7 @@ h2: High-fidelity MD to HTML conversion using server-side .NET APIs. Instantly c
 h2: Convert MD to HTML Using C#
 ---
 
-In order to convert MD to HTML, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. Conversions from Markdown to other formats go through the Markdown to HTML conversion stage. .NET developers can easily load & convert MD to HTML in just a few lines of code. Powerful C# API allows you to convert MD to popular formats quickly and in high quality!
+In order to convert MD to HTML, we’ll use [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. Conversions from Markdown to other formats go through the Markdown to HTML conversion stage. .NET developers can easily load & convert MD to HTML in just a few lines of code. Powerful C# API allows you to convert MD to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -48,9 +48,8 @@ h2: Steps to Convert MD to HTML in C#
 
 1. Specify a path to a source Markdown file.
 1.  Prepare a path for converted file saving.
-1.  Use the [ConvertMarkdown()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/7) method of the Converter class to save Markdown as an HTML file. You need to pass the `sourcePath` and `savePath` to the ConvertMarkdown() method for Markdown to HTML conversion.
+1.  Use the [ConvertMarkdown()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmarkdown/#convertmarkdown_7) method of the Converter class to save Markdown as an HTML file. You need to pass the `sourcePath` and `savePath` to the ConvertMarkdown() method for Markdown to HTML conversion.
 1.  The HTML file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---

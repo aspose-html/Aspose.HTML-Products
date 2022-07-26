@@ -76,9 +76,6 @@ h2: 在 C# 中将 HTML 转换为 XHTML 的步骤
 1. 传递带有 XHTML 文件扩展名的输出文件路径。
 1. XHTML 文件将被保存到指定路径。
 
-
-
-
 {{<section documentation>}}
 ---
 h2: 文档中的 HTML 转换

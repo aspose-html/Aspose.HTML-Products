@@ -23,7 +23,7 @@ h2: High-fidelity MHTML to XPS conversion using .NET API. Instantly convert MHTM
 h2: Convert MHTML to XPS Using C#
 ---
 
-To convert MHTML to XPS, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. MHTML conversions are often required to take advantage of other formats. Using our high-speed library, you can convert MHTML to XPS programmatically with full control over various conversion parameters. Powerful C# API allows you to convert MHTML to popular formats quickly and in high quality!
+To convert MHTML to XPS, we will use [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, which is a feature-rich, powerful and easy to use document manipulation and conversion API for the C# platform. MHTML conversions are often required to take advantage of other formats. Using our high-speed library, you can convert MHTML to XPS programmatically with full control over various conversion parameters. Powerful C# API allows you to convert MHTML to popular formats quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -64,10 +64,9 @@ h2: Steps to Convert MHTML to XPS in C#
 If you want to programmatically convert MHTML to XPS,  please follow a few required steps:
 
 1.  Open an existing MHTML file.
-1.  Create an instance of the [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions) class.
-1.  Use the [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/methods/29) method of the [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter) class to save MHTML as an XPS file. You need to pass the MHTML file stream, XpsSaveOptions, and output file path to the ConvertMHTML() method.
+1.  Create an instance of the [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/) class.
+1.  Use the [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/#convertmhtml_29) method of the [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter/) class to save MHTML as an XPS file. You need to pass the MHTML file stream, XpsSaveOptions, and output file path to the ConvertMHTML() method.
 1.  The XPS file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---
@@ -75,6 +74,7 @@ h2: MHTML to XPS Conversion in Documentation
 ---
 
 XPS is a document storage and viewing format developed by Microsoft. It has a set of advantages that support security features, such as digital signatures to provide greater document security and more. Please visit the documentation article [Convert MHTML to XPS](https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/) to learn more about Aspose.HTML for .NET API conversion features and to consider C# examples for the most common MHTML to XPS conversion scenarios. In the article, you will find information on how to convert MHTML to XPS using ConvertMHTML() methods and how to apply XpsSaveOptions or ICreateStreamProvider parameters.
+
   -  <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#mhtml-to-xps-by-two-lines-of-code" target="_blank">MHTML to XPS by two lines of code</a>
   -<a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#convert-mhtml-to-xps-using-xpssaveoptions" target="_blank">Convert MHTML to XPS using XpsSaveOptions</a>
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/mhtml-to-xps/#output-stream-providers" target="_blank">Convert MHTML to XPS using MemoryStreamProvider</a>

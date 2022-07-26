@@ -23,7 +23,7 @@ h2: Generate MD from XHTML source page using .NET API. Instantly convert XHTML t
 h2: Convert XHTML to MD Using C#
 ---
 
-Markdown is a markup language with a plain-text-formatting syntax. Its design allows it to be easily converted to many output formats, but initially, it was created to convert only to HTML. Aspose.HTML class library provides a reversed conversion from (X)HTML to Markdown. With [Aspose.HTML for .NET](https://products.aspose.com/html/net/) API, you can convert XHTML to MD programmatically with full control over conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in Markdown format. Powerful C# API allows you to convert XHTML to MD quickly and in high quality!
+Markdown is a markup language with a plain-text-formatting syntax. Its design allows it to be easily converted to many output formats, but initially, it was created to convert only to HTML. Aspose.HTML class library provides a reversed conversion from (X)HTML to Markdown. With [Aspose.HTML for .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API, you can convert XHTML to MD programmatically with full control over conversion parameters. Any conversion you want to perform involves loading an XHTML document and saving it in Markdown format. Powerful C# API allows you to convert XHTML to MD quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,11 +69,10 @@ h2: Steps to Convert XHTML to MD in C#
 
 If you want to convert XHTML to MD programmatically, please see the C# code example above or learn the Documentation chapter. In all cases, any XHTML to MD conversion requires some mandatory steps:
 
-1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument) class.
-1.  Create a new [MarkdownSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions) object. 
+1.  Load an XHTML file using one of HTMLDocument() constructors of the [HTMLDocument](https://reference.aspose.com/html/net/aspose.html/htmldocument/) class.
+1.  Create a new [MarkdownSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/markdownsaveoptions/) object. 
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method of the Converter class to save XHTML as a Markdown file.
 1.  The MD file will be saved to the specified path.
-
 
 {{<section documentation>}}
 ---

@@ -23,7 +23,7 @@ h2: Создание GIF из исходного файла EPUB с помощь
 h2: Преобразование EPUB в GIF с помощью C#
 ---
 
-Чтобы преобразовать EPUB в GIF, мы будем использовать API [Aspose.HTML для .NET](https://products.aspose.com/html/net/), который представляет собой многофункциональный, мощный и простой в использовании документ. API манипуляции и преобразования для платформы C#. EPUB — это открытый формат цифровых книг и публикаций на основе XML, который можно просматривать и читать на различных устройствах. Преобразование EPUB часто требуется для использования преимуществ других форматов. Вы можете программно преобразовать EPUB в GIF с полным контролем над широким диапазоном параметров преобразования. Мощный C# API позволяет быстро и качественно конвертировать EPUB в популярные форматы!
+Чтобы преобразовать EPUB в GIF, мы будем использовать API [Aspose.HTML для .NET,](https://products.aspose.com/html/net/) который представляет собой многофункциональный, мощный и простой в использовании документ. API манипуляции и преобразования для платформы C#. EPUB — это открытый формат цифровых книг и публикаций на основе XML, который можно просматривать и читать на различных устройствах. Преобразование EPUB часто требуется для использования преимуществ других форматов. Вы можете программно преобразовать EPUB в GIF с полным контролем над широким диапазоном параметров преобразования. Мощный C# API позволяет быстро и качественно конвертировать EPUB в популярные форматы!
 
 {{<section demos>}}
 ---
@@ -64,10 +64,9 @@ h2: Шаги по преобразованию EPUB в GIF на C#
 Если вы хотите использовать функции преобразования в своем продукте или хотите программно преобразовать EPUB в GIF, см. приведенный выше пример кода C# или изучите главу «Документация». Это могут быть разные сценарии, но любое преобразование EPUB можно выполнить, выполнив несколько обязательных шагов:
 
 1. Откройте существующий файл EPUB.
-1. Создайте новый объект [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions) с GIF ImageFormat. По умолчанию свойство Format имеет значение [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
-1. Используйте метод [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/methods/27) класса Converter для сохранения EPUB в виде изображения GIF. Вам необходимо передать файловый поток EPUB, ImageSaveOptions и путь к выходному файлу в метод ConvertEPUB() для преобразования EPUB в GIF.
+1. Создайте новый объект [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) с GIF ImageFormat. По умолчанию свойство Format имеет значение [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/).
+1. Используйте метод [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/) класса Converter для сохранения EPUB в виде изображения GIF. Вам необходимо передать файловый поток EPUB, ImageSaveOptions и путь к выходному файлу в метод ConvertEPUB() для преобразования EPUB в GIF.
 1. Файл GIF будет сохранен по указанному пути.
-
 
 {{<section documentation>}}
 ---

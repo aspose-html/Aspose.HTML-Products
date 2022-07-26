@@ -76,9 +76,6 @@ Wenn Sie die Konvertierungsfunktionalität in Ihrem Produkt in Betracht ziehen o
 1. Übergeben Sie den Ausgabedateipfad mit der XHTML-Dateierweiterung.
 1. Die XHTML-Datei wird im angegebenen Pfad gespeichert.
 
-
-
-
 {{<section documentation>}}
 ---
 h2: HTML-Konvertierung in der Dokumentation

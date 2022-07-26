@@ -23,7 +23,7 @@ h2: Generate XPS from XHTML source page using .NET API. Instantly convert XHTML 
 h2: Convert XHTML to XPS Using C#
 ---
 
-The main highlight of [Aspose.HTML .NET](https://products.aspose.com/html/net/) API is a conversion feature. Using our powerful library, you can convert XHTML to XPS programmatically with full control over various conversion parameters. XPS file format provides access rights management and gives high-quality printable documents. Any conversion you want to perform involves loading an XHTML document and saving it in the supported format. Powerful C# API allows you to convert XHTML to XPS quickly and in high quality!
+The main highlight of [Aspose.HTML .NET](https://products.aspose.com/html/{{lang.url-fragment}}net/) API is a conversion feature. Using our powerful library, you can convert XHTML to XPS programmatically with full control over various conversion parameters. XPS file format provides access rights management and gives high-quality printable documents. Any conversion you want to perform involves loading an XHTML document and saving it in the supported format. Powerful C# API allows you to convert XHTML to XPS quickly and in high quality!
 
 {{<section demos>}}
 ---
@@ -69,14 +69,14 @@ h2: Steps to Convert XHTML to XPS in C#
 
 Any conversion you want to perform involves loading an XHTML document and saving it in XPS format. To convert XHTML to XPS, you should take some mandatory steps:
 
-1. Load an XHTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument) constructors.
-1. Create a new [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions) object. 
+1. Load an XHTML document using one of [HTMLDocument()](https://reference.aspose.com/html/net/aspose.html/htmldocument/) constructors.
+1. Create a new [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/) object. 
 1.  Use the [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/) method to save XHTML as an XPS file. You need to pass the HTMLDocument, XpsSaveOptions, and output file path to the ConvertHTML() method.
 1.  The XPS file will be saved to the specified path.
 
 {{<section documentation>}}
 ---
-h2: (X)HTML Conversion in Documentation
+h2: XHTML Conversion in Documentation
 ---
 
 XPS is a document storage and viewing format developed by Microsoft. It has a set of advantages that support security features, such as digital signatures to provide greater document security and more. Please visit the documentation chapter <a href="https://docs.aspose.com/html/net/converting-between-formats/" target="_blank">Converting Between Formats</a> to learn more about the API conversion features. The chapter describes popular converters, as well as C# examples for the most common conversion scenarios.

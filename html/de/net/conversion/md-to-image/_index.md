@@ -61,19 +61,16 @@ using Aspose.Html.Saving;
 h2: Schritte zum Konvertieren von MD in ein Bild in C#
 ---
 1. Geben Sie einen Pfad zu einer Markdown-Quelldatei an.
-1. Konvertieren Sie Markdown in HTML. Verwenden Sie die Methode [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/4), um Markdown als HTML-Dokument zu speichern.
-1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions)-Objekt und geben Sie ImageFormat an. Standardmäßig ist die Format-Eigenschaft [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat).
+1. Konvertieren Sie Markdown in HTML. Verwenden Sie die Methode [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmarkdown/#convertmarkdown_4), um Markdown als HTML-Dokument zu speichern.
+1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)-Objekt und geben Sie ImageFormat an. Standardmäßig ist die Format-Eigenschaft [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/).
 1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), um das zwischengeschaltete HTML-Dokument in ein Bild zu rendern. Sie müssen HTMLDocument, ImageSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
-
-
-
 
 {{<section documentation>}}
 ---
 h2: MD-zu-Bild-Konvertierung in der Dokumentation
 ---
 
-Markdown ist eine allgemein anerkannte Auszeichnungssprache, die häufig als Format für Dokumentationen und Readme-Dateien verwendet wird. Mit der Aspose.HTML .NET-Bibliothek können Sie Markdown über C# in Bildformate wie JPG, PNG, GIF, TIFF und BMP konvertieren. Bitte besuchen Sie den Dokumentationsartikel [Markdown in Bild konvertieren](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/), um mehr über die API-Konvertierungsfunktionen zu erfahren und zu berücksichtigen C#-Beispiele für die gängigsten MD-zu-Image-Konvertierungsszenarien. In dem Artikel finden Sie Informationen zum Konvertieren von Markdown in Bild mithilfe von ConvertMarkdown()-Methoden und zum Anwenden von ImageSaveOptions.
+Markdown ist eine allgemein anerkannte Auszeichnungssprache, die häufig als Format für Dokumentationen und Readme-Dateien verwendet wird. Mit der Aspose.HTML .NET-Bibliothek können Sie Markdown über C# in Bildformate wie JPG, PNG, GIF, TIFF und BMP konvertieren. Bitte besuchen Sie den Dokumentationsartikel [Markdown in Bild konvertieren,](https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/) um mehr über die API-Konvertierungsfunktionen zu erfahren und zu berücksichtigen C#-Beispiele für die gängigsten MD-zu-Image-Konvertierungsszenarien. In dem Artikel finden Sie Informationen zum Konvertieren von Markdown in Bild mithilfe von ConvertMarkdown()-Methoden und zum Anwenden von ImageSaveOptions.
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/#convert-markdown-to-jpg" target="_blank">Markdown konvertieren in JPG</a>
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/#convert-markdown-to-png" target="_blank">Markdown konvertieren in PNG</a>
  - <a href="https://docs.aspose.com/html/net/converting-between-formats/markdown-to-image/#convert-markdown-to-bmp" target="_blank">Markdown konvertieren in BMP</a>

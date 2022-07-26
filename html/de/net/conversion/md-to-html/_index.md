@@ -50,9 +50,6 @@ h2: Schritte zum Konvertieren von MD in HTML in C#
 1. Verwenden Sie die Methode [ConvertMarkdown()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/7) der Converter-Klasse, um Markdown als HTML-Datei zu speichern . Sie müssen `sourcePath` und `savePath` an die ConvertMarkdown()-Methode für die Markdown-zu-HTML-Konvertierung übergeben.
 1. Die HTML-Datei wird im angegebenen Pfad gespeichert.
 
-
-
-
 {{<section documentation>}}
 ---
 h2: MD-zu-HTML-Konvertierung in der Dokumentation

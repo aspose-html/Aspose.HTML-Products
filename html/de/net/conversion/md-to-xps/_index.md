@@ -61,12 +61,9 @@ using Aspose.Html.Saving;
 h2: Schritte zum Konvertieren von MD in XPS in C#
 ---
 1. Geben Sie einen Pfad zu einer Markdown-Quelldatei an.
-1. Konvertieren Sie Markdown in HTML. Verwenden Sie die Methode [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmarkdown/methods/4), um Markdown als HTML-Dokument zu speichern.
-1. Erstellen Sie ein neues [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions)-Objekt.
+1. Konvertieren Sie Markdown in HTML. Verwenden Sie die Methode [ConvertMarkdown(`sourcePath`)](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmarkdown/#convertmarkdown_4), um Markdown als HTML-Dokument zu speichern.
+1. Erstellen Sie ein neues [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/)-Objekt.
 1. Verwenden Sie die Methode [ConvertHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/converthtml/), um das Zwischen-HTML-Dokument in eine XPS-Datei zu rendern. Sie müssen HTMLDocument, DocSaveOptions und den Ausgabedateipfad an die ConvertHTML()-Methode übergeben.
-
-
-
 
 {{<section documentation>}}
 ---
