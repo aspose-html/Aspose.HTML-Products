@@ -12,6 +12,7 @@ otherformats: {{i18n.otherformats}}
 ---
 
 {{<meta path="/{{lang}}/meta/conversion/default.md" section="howto">}}
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="faq">}}
 
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 

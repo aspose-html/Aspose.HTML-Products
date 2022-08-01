@@ -1,5 +1,6 @@
 ---
 translation: false
+deploy: false
 ---
 
 {{<section howto>}}
@@ -18,7 +19,7 @@ translation: false
             "@type": "HowToStep",
             "name": "{{name}}",
             "text": "{{text}}",
-            "image": "{{image}}",
+            "image": "{{image}}",            
             "url": "{{url}}"
         },
         {{/steps}}
@@ -26,3 +27,20 @@ translation: false
 }
 
 {{<section faq>}}
+
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [      
+      {{#qs}}
+      {
+        "@type": "Question",
+        "name": "{{name}}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{text}}"
+        }
+      },     
+    {{/qs}}    
+    ]
+}
