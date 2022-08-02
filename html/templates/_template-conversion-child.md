@@ -11,11 +11,7 @@ outformat: {{i18n.outformat}}
 otherformats: {{i18n.otherformats}}
 ---
 
-{{ if eq "{{i18n.informat}}" "MD" }}
-{{<meta path="/{{lang}}/meta/conversion/default.md" section="howtoMd">}}
-{{ else }}
-{{<meta path="/{{lang}}/meta/conversion/default.md" section="howto">}}
-{{ end }}
+{{<meta path="/{{lang}}/meta/conversion/default.md" section="{{env.howto}}">}}
 
 {{<meta path="/{{lang}}/meta/conversion/default.md" section="faq">}}
 
