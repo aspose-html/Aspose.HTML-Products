@@ -10,6 +10,7 @@ feature: conversion
 informat: XHTML
 outformat: MHTML
 otherformats: PDF XPS DOCX GIF JPEG PNG TIFF BMP HTML MD
+howto: howtoXhtml
 ---
 
 {{<section banner>}}

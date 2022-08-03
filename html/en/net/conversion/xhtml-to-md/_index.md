@@ -9,7 +9,8 @@ platformtag: net
 feature: conversion
 informat: XHTML
 outformat: MD
-otherformats: PDF XPS DOCX GIF JPEG PNG TIFF BMP HTML MHTML 
+otherformats: PDF XPS DOCX GIF JPEG PNG TIFF BMP HTML MHTML
+howto: howtoXhtml
 ---
 
 {{<section banner>}}

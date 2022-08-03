@@ -10,6 +10,7 @@ feature: conversion
 informat: MD
 outformat: XPS
 otherformats: PDF DOCX JPEG BMP GIF PNG TIFF HTML
+howto: howtoMd
 ---
 
 {{<section banner>}}
