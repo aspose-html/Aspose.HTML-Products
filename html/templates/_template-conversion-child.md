@@ -49,6 +49,21 @@ otherformats: {{i18n.otherformats}}
 <h2>{{i18n.online-converters.h2}}</h2>
 
 {{<import path="/{{lang}}/partials/_content.md" section="{{i18n.feature}}">}}
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_faq.md" section="faq.h2">}}</h2>
+
+<b>1. {{<import path="/{{lang}}/partials/_faq.md" section="faq.Q1">}}</b>
+
+{{<import path="/{{lang}}/partials/_faq.md" section="faq.A1">}}
+
+<b>2. {{<import path="/{{lang}}/partials/_faq.md" section="faq.Q2">}}</b>
+
+{{<import path="/{{lang}}/partials/_faq.md" section="faq.A2">}}
+
+<b>3. {{<import path="/{{lang}}/partials/_faq.md" section="faq.Q3">}}</b>
+
+{{<import path="/{{lang}}/partials/_faq.md" section="faq.A3">}}
 
 {{% /blocks/products/pf/agp/content %}}
 
