@@ -1,8 +1,8 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert XHTML to PNG
-description: Convert XHTML to PNG in C#. Easily use converter API within ASP.NET or any .NET application. Try online XHTML to PNG Converter for free!
+title: Convert XHTML to PNG - C# code and Online Converter
+description: Convert XHTML to PNG in C#. Save XHTML as PNG file using C# code. Try online XHTML to PNG Converter for free!
 url: /net/conversion/xhtml-to-png/
 family: html
 platformtag: net

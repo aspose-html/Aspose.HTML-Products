@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MD in PNG
-description: C#-Beispielcode für die Umwandlung von MD in PNG. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-MD-zu-PNG-Konverter kostenlos aus!
+description: C#-Beispielcode für die Umwandlung von MD in PNG. Probieren Sie den Online-MD-zu-PNG-Konverter kostenlos aus!
 url: /net/conversion/md-to-png/
 family: html
 platformtag: net

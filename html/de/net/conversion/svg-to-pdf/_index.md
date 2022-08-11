@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie SVG in PDF
-description: Konvertieren Sie SVG in C# in PDF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-SVG-zu-PDF-Konverter kostenlos aus!
+description: Konvertieren Sie SVG in PDF mit C#. SVG als PDF in C#-Code speichern. Probieren Sie den Online-SVG-zu-PDF-Konverter kostenlos aus!
 url: /net/conversion/svg-to-pdf/
 family: html
 platformtag: net

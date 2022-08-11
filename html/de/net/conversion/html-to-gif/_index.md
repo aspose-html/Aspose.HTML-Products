@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie HTML in GIF
-description: Konvertieren Sie HTML in C# in GIF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-HTML-zu-GIF-Konverter kostenlos aus!
+description: Konvertieren Sie HTML in GIF mit C#. HTML-Seite als GIF-Bild in C#-Code speichern. Probieren Sie den Online-HTML-zu-GIF-Konverter kostenlos aus!
 url: /net/conversion/html-to-gif/
 family: html
 platformtag: net

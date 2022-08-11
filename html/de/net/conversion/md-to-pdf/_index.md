@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MD in PDF – C#
-description: C#-Beispielcode für die Umwandlung von MD in PDF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-MD-zu-PDF-Konverter kostenlos aus!
+description: C#-Beispielcode für die Umwandlung von MD in PDF. Probieren Sie den Online-MD-zu-PDF-Konverter kostenlos aus!
 url: /net/conversion/md-to-pdf/
 family: html
 platformtag: net

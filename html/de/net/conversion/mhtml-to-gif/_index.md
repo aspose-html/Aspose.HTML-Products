@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MHTML in GIF
-description: Konvertieren Sie MHTML in GIF in C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online MHTML to GIF Converter aus!
+description: Konvertieren Sie MHTML in GIF mit C#. MHTML als GIF-Bild in C#-Code speichern. Probieren Sie den Online-MHTML-zu-GIF-Konverter kostenlos aus!
 url: /net/conversion/mhtml-to-gif/
 family: html
 platformtag: net

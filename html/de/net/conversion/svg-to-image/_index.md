@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie SVG in ein Bild
-description: Konvertieren Sie SVG in C# in ein Bild. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-SVG-zu-Bild-Konverter kostenlos aus!
+description: Konvertieren Sie SVG in C# in ein Bild. Probieren Sie den Online-SVG-zu-Bild-Konverter kostenlos aus!
 url: /net/conversion/svg-to-image/
 family: html
 platformtag: net

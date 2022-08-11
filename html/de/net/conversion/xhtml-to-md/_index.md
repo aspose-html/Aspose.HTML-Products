@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie XHTML in MD
-description: Konvertieren Sie XHTML in MD in C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online XHTML to MD Converter aus!
+description: Konvertieren Sie XHTML in Markdown in C#. Probieren Sie kostenlos online XHTML to MD Converter aus!
 url: /net/conversion/xhtml-to-md/
 family: html
 platformtag: net

@@ -1,8 +1,8 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert SVG to Image
-description: Convert SVG to Image in C#. Easily use converter API within ASP.NET or any .NET application. Try online SVG to Image Converter for free!
+title: Convert SVG to Image - C# code and Online Converter
+description: Convert SVG to Image in C#. Save SVG as a raster image using C# code. Try online SVG to Image Converter for free!
 url: /net/conversion/svg-to-image/
 family: html
 platformtag: net

@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MHTML in TIFF
-description: Konvertieren Sie MHTML in C# in TIFF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online MHTML to TIFF Converter aus!
+description: Konvertieren Sie MHTML in TIFF mit C#. MHTML als TIFF-Bild in C#-Code speichern. Probieren Sie den Online-MHTML-zu-TIFF-Konverter kostenlos aus!
 url: /net/conversion/mhtml-to-tiff/
 family: html
 platformtag: net

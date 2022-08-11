@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MHTML in PDF
-description: Konvertieren Sie MHTML in C# in PDF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online MHTML to PDF Converter aus!
+description: Konvertieren Sie MHTML in PDF über C#-Code. Speichern Sie MHTML als PDF-Datei. Probieren Sie kostenlos online MHTML to PDF Converter aus!
 url: /net/conversion/mhtml-to-pdf/
 family: html
 platformtag: net

@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MD in DOCX
-description: C#-Beispielcode für die Umwandlung von MD in DOCX. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-MD-zu-DOCX-Konverter kostenlos aus!
+description: C#-Beispielcode für die Umwandlung von MD in DOCX. Probieren Sie den Online-MD-zu-DOCX-Konverter kostenlos aus!
 url: /net/conversion/md-to-docx/
 family: html
 platformtag: net

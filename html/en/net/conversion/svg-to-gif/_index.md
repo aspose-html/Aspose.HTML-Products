@@ -1,8 +1,8 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert SVG to GIF
-description: Convert SVG to GIF in C#. Easily use converter API within ASP.NET or any .NET application. Try online SVG to GIF Converter for free!
+title: Convert SVG to GIF - C# code and Online Converter
+description: Convert SVG to GIF in C#. Save SVG as GIF image using C# code. Try online SVG to GIF Converter for free!
 url: /net/conversion/svg-to-gif/
 family: html
 platformtag: net

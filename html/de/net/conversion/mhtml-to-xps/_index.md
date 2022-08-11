@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MHTML in XPS
-description: Konvertieren Sie MHTML in XPS in C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online MHTML to XPS Converter kostenlos aus!
+description: Konvertieren Sie MHTML in XPS über C#-Code. Speichern Sie MHTML als XPS-Datei. Probieren Sie kostenlos online MHTML to XPS Converter aus!
 url: /net/conversion/mhtml-to-xps/
 family: html
 platformtag: net

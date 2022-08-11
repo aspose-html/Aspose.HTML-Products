@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MD in JPEG
-description: C#-Beispielcode für die Umwandlung von MD in JPEG. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-MD-zu-JPEG-Konverter kostenlos aus!
+description: C#-Beispielcode für die Umwandlung von MD in JPEG. Probieren Sie den Online-MD-zu-JPEG-Konverter kostenlos aus!
 url: /net/conversion/md-to-jpeg/
 family: html
 platformtag: net

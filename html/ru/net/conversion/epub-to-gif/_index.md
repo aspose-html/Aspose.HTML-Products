@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Преобразование EPUB в GIF - C# - онлайн-конвертер EPUB в GIF
-description: Пример кода для преобразования EPUB в GIF на C#. Легко используйте API преобразователя в ASP.NET или любом приложении .NET. Попробуйте онлайн-конвертер EPUB в GIF бесплатно!
+description: Пример кода для преобразования EPUB в GIF на C#. Легко используйте С# API в любом приложении .NET. Попробуйте онлайн-конвертер EPUB в GIF бесплатно!
 url: /net/conversion/epub-to-gif/
 family: html
 platformtag: net

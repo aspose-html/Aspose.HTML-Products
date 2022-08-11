@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: EPUB in Bild umwandeln - C# - Online-EPUB-zu-Bild-Konverter
-description: C#-Beispielcode für die Umwandlung von EPUB in Bild. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-EPUB-zu-Bild-Konverter kostenlos aus!
+description: C#-Beispielcode für die Umwandlung von EPUB in Bild. Probieren Sie den Online-EPUB-zu-Bild-Konverter kostenlos aus!
 url: /net/conversion/epub-to-image/
 family: html
 platformtag: net

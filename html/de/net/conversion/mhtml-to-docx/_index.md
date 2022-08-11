@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MHTML in DOCX
-description: Konvertieren Sie MHTML in DOCX in C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online MHTML to DOCX Converter aus!
+description: Konvertieren Sie MHTML in DOCX über C#-Code. Speichern Sie MHTML als DOCX-Datei. Probieren Sie kostenlos online MHTML to DOCX Converter aus!
 url: /net/conversion/mhtml-to-docx/
 family: html
 platformtag: net

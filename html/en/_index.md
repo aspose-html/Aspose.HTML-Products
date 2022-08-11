@@ -4,7 +4,7 @@ template: /templates/_template-html.md
 title: On Premise API, Cloud APIs & Free Apps for HTML files manipulation
 weight: 30
 url: /
-description: Parse HTML, XHTML, EPUB, MHTML or SVG files from .NET or Java using the relevant On-Premise or Cloud library. Use HTML cross-platform apps to generate, inspect, extract data, merge or convert HTML files.
+description: Parse HTML, XHTML, EPUB, MHTML or SVG files from .NET or Java using the relevant On-Premise or Cloud library. Use our collection of HTML Web Apps.
 ---
 
 {{<section banner>}}
