@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Convert XHTML to MHTML
-description: Convert XHTML to MHTML in C#. Easily use converter API within ASP.NET or any .NET application. Try online XHTML to MHTML Converter for free!
+description: Convert XHTML to MHTML in C#. Save XHTML as MHTML file using C# code. Try online XHTML to MHTML Converter for free!
 url: /net/conversion/xhtml-to-mhtml/
 family: html
 platformtag: net

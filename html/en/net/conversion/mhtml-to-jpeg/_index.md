@@ -1,8 +1,8 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert MHTML to JPEG
-description: Convert MHTML to JPEG in C#. Easily use converter API within ASP.NET or any .NET application. Try online MHTML to JPEG Converter for free!
+title: Convert MHTML to JPEG - C# code and Online Converter
+description: Convert MHTML to JPEG in C#. Save MHTML page as JPEG image using C# code. Try online MHTML to JPEG Converter for free!
 url: /net/conversion/mhtml-to-jpeg/
 family: html
 platformtag: net

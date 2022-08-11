@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MHTML in BMP
-description: Konvertieren Sie MHTML in BMP in C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos online MHTML to BMP Converter aus!
+description: Konvertieren Sie MHTML in BMP mit C#. MHTML als BMP-Bild in C#-Code speichern. Probieren Sie den Online-MHTML-zu-BMP-Konverter kostenlos aus!
 url: /net/conversion/mhtml-to-bmp/
 family: html
 platformtag: net

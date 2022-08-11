@@ -1,8 +1,8 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Convert EPUB to PDF
-description: Sample code for EPUB to PDF C# conversion. Easily use converter API within ASP.NET or any .NET application. Try online EPUB to PDF Converter for free!
+title: Convert EPUB to PDF - C# code and Online Converter
+description: Sample code for EPUB to PDF C# conversion. Easily use C# API within any .NET application. Try online EPUB to PDF Converter for free!
 url: /net/conversion/epub-to-pdf/
 family: html
 platformtag: net

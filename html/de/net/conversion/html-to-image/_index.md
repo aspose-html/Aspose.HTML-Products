@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie HTML in Bild
-description: Konvertieren Sie HTML in C# in ein Bild. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos den Online-HTML-zu-Bild-Konverter aus!
+description: Konvertieren Sie HTML in ein Bild in C#. Probieren Sie kostenlos den Online-HTML-zu-Bild-Konverter aus!
 url: /net/conversion/html-to-image/
 family: html
 platformtag: net

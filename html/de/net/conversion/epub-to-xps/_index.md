@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie EPUB in XPS in C# - Online-Konverter von EPUB in XPS
-description: Beispielcode für die Umwandlung von EPUB in XPS C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-EPUB-zu-XPS-Konverter kostenlos aus!
+description: Beispielcode für die Umwandlung von EPUB in XPS C#. Probieren Sie den Online-EPUB-zu-XPS-Konverter kostenlos aus!
 url: /net/conversion/epub-to-xps/
 family: html
 platformtag: net

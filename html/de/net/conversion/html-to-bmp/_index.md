@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie HTML in BMP
-description: Konvertieren Sie HTML in C# in BMP. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-HTML-zu-BMP-Konverter kostenlos aus!
+description: Konvertieren Sie HTML in BMP mit C#. HTML-Seite als BMP-Bild in C#-Code speichern. Probieren Sie den Online-HTML-zu-BMP-Konverter kostenlos aus!
 url: /net/conversion/html-to-bmp/
 family: html
 platformtag: net

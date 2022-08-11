@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie HTML in PDF
-description: Konvertieren Sie HTML in C# in PDF. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie kostenlos den Online-HTML-zu-PDF-Konverter aus!
+description: Konvertieren Sie HTML in PDF mit C#. HTML-Seite als PDF in C#-Code speichern. Probieren Sie den Online-HTML-zu-PDF-Konverter kostenlos aus!
 url: /net/conversion/html-to-pdf/
 family: html
 platformtag: net

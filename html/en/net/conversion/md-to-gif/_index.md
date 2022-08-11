@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Convert MD to GIF - C#
-description: Sample C# code for MD to GIF conversion. Easily use converter API within ASP.NET or any .NET application. Try online MD to GIF Converter for free!
+description: Sample C# code for MD to GIF conversion. Easily use C# API within any .NET application. Try online MD to GIF Converter for free!
 url: /net/conversion/md-to-gif/
 family: html
 platformtag: net

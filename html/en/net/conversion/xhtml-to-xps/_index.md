@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Convert XHTML to XPS in C# - Online XHTML to XPS Converter
-description: Convert XHTML to XPS in C#. Easily use converter API within ASP.NET or any .NET application. Try online XHTML to XPS Converter for free!
+description: Convert XHTML to XPS in C#. Easily use C# API within any .NET application. Try online XHTML to XPS Converter for free!
 url: /net/conversion/xhtml-to-xps/
 family: html
 platformtag: net

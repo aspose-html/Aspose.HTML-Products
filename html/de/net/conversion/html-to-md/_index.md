@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie HTML in MD
-description: Konvertieren Sie HTML in MD in C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-HTML-zu-MD-Konverter kostenlos aus!
+description: Konvertieren Sie HTML in MD in C#. HTML-Seite als Markdown in C#-Code speichern. Probieren Sie den Online-HTML-zu-MD-Konverter kostenlos aus!
 url: /net/conversion/html-to-md/
 family: html
 platformtag: net

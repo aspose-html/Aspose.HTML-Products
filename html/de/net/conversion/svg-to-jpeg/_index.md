@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie SVG in JPEG
-description: Konvertieren Sie SVG in C# in JPEG. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-SVG-zu-JPEG-Konverter kostenlos aus!
+description: Konvertieren Sie SVG in JPEG mit C#. SVG als JPEG-Bild in C#-Code speichern. Probieren Sie den Online-SVG-zu-JPEG-Konverter kostenlos aus!
 url: /net/conversion/svg-to-jpeg/
 family: html
 platformtag: net

@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie HTML in DOCX in C# .NET
-description: Konvertieren Sie HTML in C# in DOCX. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-HTML-zu-DOCX-Konverter kostenlos aus!
+description: Konvertieren Sie HTML in DOCX mit C#. HTML-Seite als DOCX in C#-Code speichern. Probieren Sie den Online-HTML-zu-DOCX-Konverter kostenlos aus!
 url: /net/conversion/html-to-docx/
 family: html
 platformtag: net

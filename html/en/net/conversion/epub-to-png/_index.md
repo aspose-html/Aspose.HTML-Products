@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Convert EPUB to PNG - C#
-description: Sample code for EPUB to PNG C# conversion. Easily use converter API within ASP.NET or any .NET application. Try online EPUB to PNG Converter for free!
+description: Sample code for EPUB to PNG C# conversion. Easily use C# API within any .NET application. Try online EPUB to PNG Converter for free!
 url: /net/conversion/epub-to-png/
 family: html
 platformtag: net

@@ -1,9 +1,9 @@
 ﻿---
 translation: true
 template: /templates/_template-conversion.md
-title: Преобразование HTML, XHTML, Markdown, MHTML, EPUB и SVG с помощью C#
+title: Преобразование HTML, XHTML, Markdown, MHTML, EPUB и SVG на C#
 url: /net/conversion/
-description: Конветрируйте HTML в XHTML, PDF, DOCX, XPS, Markdown, MHTML и изображения с помощью нескольких строк кода C#. Проверьте онлайн-конвертер HTML бесплатно!
+description: Конветрируйте HTML в XHTML, PDF, DOCX, XPS, Markdown, MHTML и изображения с помощью C#. Проверьте онлайн-конвертер HTML бесплатно!
 ---
 
 {{<section banner>}}
