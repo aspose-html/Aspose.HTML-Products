@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie SVG in PDF
@@ -60,7 +60,7 @@ h2: Schritte zum Konvertieren von SVG in PDF in C#
 ---
 1. Laden Sie eine SVG-Datei mit einem der SVGDocument()-Konstruktoren der [SVGDocument](https://reference.aspose.com/html/net/aspose.html.dom.svg/svgdocument/)-Klasse.
 1. Erstellen Sie ein neues [PdfSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions/)-Objekt.
-1. Verwenden Sie die Methode [ConvertSVG()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertsvg/methods/3), um SVG als PDF-Datei zu speichern. Sie müssen das SVGDocument, PdfSaveOptions und den Ausgabedateipfad an die Methode ConvertSVG() übergeben.
+1. Verwenden Sie die Methode [ConvertSVG()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertsvg/), um SVG als PDF-Datei zu speichern. Sie müssen das SVGDocument, PdfSaveOptions und den Ausgabedateipfad an die Methode ConvertSVG() übergeben.
 
 {{<section documentation>}}
 ---

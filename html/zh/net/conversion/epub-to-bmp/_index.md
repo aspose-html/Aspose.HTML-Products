@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /templates/_template-conversion-child.md
 title: 将 EPUB 转换为 BMP
@@ -65,7 +65,7 @@ h2: 在 C# 中将 EPUB 转换为 BMP 的步骤
 如果您想在您的产品中考虑转换功能，或者您想以编程方式将 EPUB 转换为 BMP，请参阅上面的 C# 代码示例或学习文档章节。在所有情况下，任何转换都需要一些强制性步骤：
 1. 打开现有的 EPUB 文件。
 1. 使用 BMP ImageFormat 创建一个新的 [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/) 对象。默认情况下，格式属性为 [PNG](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)。
-1. 使用Converter类的[ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/)方法将EPUB保存为BMP图片.您需要将 EPUB 文件流、ImageSaveOptions 和输出文件路径传递给 ConvertEPUB() 方法以进行 EPUB 到 BMP 的转换。
+1. 使用Converter类的[ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertepub/)方法将EPUB保存为BMP图片.您需要将 EPUB 文件流、ImageSaveOptions 和输出文件路径传递给 ConvertEPUB() 方法以进行 EPUB 到 BMP 的转换。
 1. BMP文件将保存到指定路径。
 
 {{<section documentation>}}

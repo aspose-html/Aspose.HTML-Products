@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /templates/_template-conversion-child.md
 title: 在 C# 中将 EPUB 转换为 XPS - 在线 EPUB 到 XPS 转换器
@@ -65,7 +65,7 @@ h2: 在 C# 中将 EPUB 转换为 XPS 的步骤
 
 1. 打开现有的 EPUB 文件。
 1. 创建一个新的 [XpsSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/xpssaveoptions/) 对象。
-1. 使用Converter类的[ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/)方法将EPUB保存为XPS文件.您需要将 EPUB 文件流、PdfSaveOptions 和输出文件路径传递给 ConvertEPUB() 方法以进行 EPUB 到 XPS 的转换。
+1. 使用Converter类的[ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertepub/)方法将EPUB保存为XPS文件.您需要将 EPUB 文件流、PdfSaveOptions 和输出文件路径传递给 ConvertEPUB() 方法以进行 EPUB 到 XPS 的转换。
 1. XPS文件将保存到指定路径。
 
 {{<section documentation>}}

@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /templates/_template-conversion-child.md
 title: Конвертировать MHTML в PDF
@@ -64,7 +64,7 @@ h2: Действия по преобразованию MHTML в PDF на C#
 Если вы хотите программно преобразовать MHTML в PDF, выполните несколько обязательных шагов:
 1. Откройте существующий файл MHTML.
 1. Создайте экземпляр класса [PdfSaveOptions.](https://reference.aspose.com/html/net/aspose.html.saving/pdfsaveoptions/)
-1. Используйте метод [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/#convertmhtml_29) в [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter), чтобы сохранить MHTML в виде файла PDF. Вам необходимо передать файловый поток MHTML, PdfSaveOptions и путь к выходному файлу методу ConvertMHTML().
+1. Используйте метод [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/#convertmhtml_29) в [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter/), чтобы сохранить MHTML в виде файла PDF. Вам необходимо передать файловый поток MHTML, PdfSaveOptions и путь к выходному файлу методу ConvertMHTML().
 1. Файл PDF будет сохранен по указанному пути.
 
 {{<section documentation>}}
