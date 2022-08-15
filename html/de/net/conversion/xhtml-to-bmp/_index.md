@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie XHTML in BMP
-description: Konvertieren Sie XHTML in C# in BMP. Probieren Sie kostenlos online XHTML to BMP Converter aus!
+description: Konvertieren Sie XHTML in C# in BMP. Speichern Sie XHTML als BMP-Datei. Probieren Sie kostenlos online XHTML to BMP Converter aus!
 url: /net/conversion/xhtml-to-bmp/
 family: html
 platformtag: net

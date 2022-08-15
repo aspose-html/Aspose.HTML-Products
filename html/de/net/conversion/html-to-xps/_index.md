@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie HTML in XPS
-description: Konvertieren Sie HTML in XSP mit C#. HTML-Seite als XPS-Bild in C#-Code speichern. Probieren Sie den Online-HTML-zu-XPS-Konverter kostenlos aus!
+description: Konvertieren Sie HTML in XSP in C#. HTML-Seite als XPS in C#-Code speichern. Probieren Sie den Online-HTML-zu-XPS-Konverter kostenlos aus!
 url: /net/conversion/html-to-xps/
 family: html
 platformtag: net

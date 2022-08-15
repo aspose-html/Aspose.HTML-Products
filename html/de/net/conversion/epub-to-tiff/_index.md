@@ -1,8 +1,8 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie EPUB in TIFF in C# - Online-Konverter von EPUB in TIFF
-description: Beispielcode für die Umwandlung von EPUB in TIFF C#. Verwenden Sie einfach die Konverter-API innerhalb von ASP.NET oder einer beliebigen .NET-Anwendung. Probieren Sie den Online-EPUB-zu-TIFF-Konverter kostenlos aus!
+title: Konvertieren Sie EPUB in TIFF in C#. Online-Konverter EPUB in TIFF
+description: Beispielcode für die Umwandlung von EPUB in TIFF C#. Probieren Sie den Online-EPUB-zu-TIFF-Konverter kostenlos aus!
 url: /net/conversion/epub-to-tiff/
 family: html
 platformtag: net

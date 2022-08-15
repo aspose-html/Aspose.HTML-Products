@@ -1,8 +1,8 @@
 ---
 translation: true
 template: /templates/_template-conversion-child.md
-title: Konvertieren Sie EPUB in DOCX
-description: Beispielcode für die Umwandlung von EPUB in DOCX C#. Probieren Sie den Online-EPUB-zu-DOCX-Konverter kostenlos aus!
+title: Konvertieren Sie EPUB in DOCX  in C#
+description: C#-Beispielcode zum Konvertieren von EPUB in DOCX. Probieren Sie den Online-Konverter von EPUB zu DOCX kostenlos aus!
 url: /net/conversion/epub-to-docx/
 family: html
 platformtag: net

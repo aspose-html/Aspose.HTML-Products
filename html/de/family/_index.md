@@ -1,10 +1,10 @@
 ﻿---
 translation: true
 template: /templates/_template-family.md
-title: .NET- und Java-HTML-Dateibearbeitungs-API | Analysieren Sie HTML und CSS
+title: .NET- und Java-HTML-Dateibearbeitungs-API | Analysieren Sie HTML, CSS
 weight: 10
 url: /family
-description: Erstellen, lesen, bearbeiten, parsen und konvertieren Sie HTML-Dokumente in .NET- und Java-Anwendungen mit der entsprechenden Bibliothek ohne zusätzliche Software oder Tools.
+description: Erstellen, lesen, bearbeiten, parsen und konvertieren Sie HTML-Dokumente in .NET- und Java-Anwendungen mit der entsprechenden Bibliothek.
 ---
 
 {{<section banner>}}

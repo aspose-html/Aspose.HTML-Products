@@ -1,10 +1,10 @@
 ﻿---
 translation: true
 template: /templates/_template-html.md
-title: Локальный API, облачные API и бесплатные приложения для работы с HTML-файлами
+title: Локальный API, облачные API, веб приложения для работы с HTML-файлами
 weight: 30
 url: /
-description: Анализируйте файлы HTML, XHTML, EPUB, MHTML, SVG на .NET или Java, используя соответствующую локальную или облачную библиотеку. Проверьте в работе веб-приложения.
+description: Анализируйте файлы HTML, XHTML, EPUB, MHTML, SVG на .NET или Java, используя соответствующую локальную или облачную библиотеку.
 ---
 
 {{<section banner>}}

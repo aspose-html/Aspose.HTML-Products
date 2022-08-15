@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie XHTML in Bild
-description: Konvertieren Sie XHTML in C# in Bild. Probieren Sie den XHTML to Image Converter kostenlos online aus!
+description: Konvertieren Sie XHTML in C# in Bild. Speichern Sie XHTML als Bilddatei. Probieren Sie den XHTML to Image Converter kostenlos online aus!
 url: /net/conversion/xhtml-to-image/
 family: html
 platformtag: net

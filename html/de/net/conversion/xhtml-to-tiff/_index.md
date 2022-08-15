@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie XHTML in TIFF
-description: Konvertieren Sie XHTML in C# in TIFF. Probieren Sie kostenlos online XHTML to TIFF Converter aus!
+description: Konvertieren Sie XHTML in C# in TIFF. Speichern Sie XHTML als TIFF-Datei. Probieren Sie kostenlos online XHTML to TIFF Converter aus!
 url: /net/conversion/xhtml-to-tiff/
 family: html
 platformtag: net

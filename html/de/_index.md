@@ -1,7 +1,7 @@
 ﻿---
 translation: true
 template: /templates/_template-html.md
-title: On-Premise-API, Cloud-APIs und kostenlose Apps für die Manipulation von HTML-Dateien
+title: On-Premise-API, Cloud-APIs und Apps für die Manipulation von HTML
 weight: 30
 url: /
 description: Analysieren Sie HTML-, XHTML-, EPUB-, MHTML- oder SVG-Dateien aus .NET oder Java mit der entsprechenden On-Premise- oder Cloud-Bibliothek.
