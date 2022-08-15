@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie XHTML in GIF
-description: Konvertieren Sie XHTML in C# in GIF. Probieren Sie kostenlos online XHTML to GIF Converter aus!
+description: Konvertieren Sie XHTML in C# in GIF. Speichern Sie XHTML als GIF-Datei. Probieren Sie kostenlos online XHTML to GIF Converter aus!
 url: /net/conversion/xhtml-to-gif/
 family: html
 platformtag: net

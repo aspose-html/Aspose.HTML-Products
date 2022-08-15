@@ -2,7 +2,7 @@
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie XHTML in DOCX
-description: Konvertieren Sie XHTML in DOCX in C#. Probieren Sie kostenlos online XHTML to DOCX Converter aus!
+description: Konvertieren Sie XHTML  in DOCX in C#. Speichern Sie XHTML als DOC-Datei. Probieren Sie XHTML to DOCX Converter kostenlos online aus!
 url: /net/conversion/xhtml-to-docx/
 family: html
 platformtag: net
