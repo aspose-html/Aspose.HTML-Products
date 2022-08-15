@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie MHTML in DOCX
@@ -64,7 +64,7 @@ h2: Schritte zum Konvertieren von MHTML in DOCX in C#
 Wenn Sie MHTML programmgesteuert in DOCX konvertieren möchten, befolgen Sie bitte einige erforderliche Schritte:
 1. Öffnen Sie eine vorhandene MHTML-Datei.
 1. Erstellen Sie eine Instanz der Klasse [DocSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/docsaveoptions/).
-1. Verwenden Sie die Methode [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertmhtml/) des [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter/), um MHTML als DOCX-Datei zu speichern. Sie müssen den MHTML-Dateistream, DocSaveOptions und den Ausgabedateipfad an die Methode ConvertMHTML() übergeben.
+1. Verwenden Sie die Methode [ConvertMHTML()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertmhtml/) des [Converter](https://reference.aspose.com/html/net/aspose.html.converters/converter/), um MHTML als DOCX-Datei zu speichern. Sie müssen den MHTML-Dateistream, DocSaveOptions und den Ausgabedateipfad an die Methode ConvertMHTML() übergeben.
 1. Die DOCX-Datei wird im angegebenen Pfad gespeichert.
 
 {{<section documentation>}}

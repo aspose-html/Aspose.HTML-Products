@@ -1,4 +1,4 @@
-﻿---
+---
 translation: true
 template: /templates/_template-conversion-child.md
 title: Konvertieren Sie EPUB in TIFF in C# - Online-Konverter von EPUB in TIFF
@@ -64,7 +64,7 @@ h2: Schritte zum Konvertieren von EPUB in TIFF in C#
 Wenn Sie die Konvertierungsfunktion in Ihrem Produkt in Betracht ziehen oder EPUB programmgesteuert in TIFF konvertieren möchten, sehen Sie sich bitte das obige C#-Codebeispiel an oder lesen Sie das Kapitel Dokumentation. Sie können EPUB in TIFF umwandeln und dabei die volle Kontrolle über eine Vielzahl von Konvertierungsparametern haben. Es können verschiedene Szenarien sein, aber jede EPUB-Konvertierung kann mit ein paar erforderlichen Schritten durchgeführt werden:
 1. Öffnen Sie eine vorhandene EPUB-Datei.
 1. Erstellen Sie ein neues [ImageSaveOptions](https://reference.aspose.com/html/net/aspose.html.saving/imagesaveoptions/)-Objekt mit TIFF ImageFormat. Standardmäßig ist die Format-Eigenschaft [PNG.](https://reference.aspose.com/html/net/aspose.html.rendering.image/imageformat/)
-1. Verwenden Sie die Methode [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters.converter/convertepub/) der Converter-Klasse, um EPUB als TIFF-Bild zu speichern. Sie müssen den EPUB-Dateistream, ImageSaveOptions und den Ausgabedateipfad an die ConvertEPUB()-Methode für die EPUB-zu-TIFF-Konvertierung übergeben.
+1. Verwenden Sie die Methode [ConvertEPUB()](https://reference.aspose.com/html/net/aspose.html.converters/converter/convertepub/) der Converter-Klasse, um EPUB als TIFF-Bild zu speichern. Sie müssen den EPUB-Dateistream, ImageSaveOptions und den Ausgabedateipfad an die ConvertEPUB()-Methode für die EPUB-zu-TIFF-Konvertierung übergeben.
 1. Die TIFF-Datei wird im angegebenen Pfad gespeichert.
 
 {{<section documentation>}}
