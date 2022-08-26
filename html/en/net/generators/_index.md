@@ -15,3 +15,5 @@ h2: HTML Generators
 * [iframe](iframe)
 * [button](button)
 * [checkbox](checkbox)
+* [radio](radio)
+* [color](color)
