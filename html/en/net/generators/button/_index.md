@@ -2,13 +2,13 @@
 translation: true
 title: HTML Button Generator
 template: /templates/_template-generators-child.md
-description: HTML button Generator
+description: HTML Button Generator
 url: /net/generators/button/
 ---
 
 {{<section overview>}}
 ---
-h2: HTML IFrame Generator
+h2: HTML Button Generator
 ---
 
 The **`<button>`** [HTML](https://html.spec.whatwg.org/multipage/form-elements.html#the-button-element) element is an interactive element activated by a user with a mouse, keyboard, finger, voice command, or other assistive technology. Once activated, it then performs a programmable action, such as submitting a [form](https://html.spec.whatwg.org/multipage/forms.html#the-form-element) or opening a dialog.

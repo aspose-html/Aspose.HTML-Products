@@ -14,3 +14,4 @@ h2: HTML Generators
 * [table](table)
 * [iframe](iframe)
 * [button](button)
+* [checkbox](checkbox)
