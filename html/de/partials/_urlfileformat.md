@@ -35,7 +35,7 @@ https://docs.fileformat.com/page-description-language/svg/
 
 {{<section PDF>}}
 
-https://docs.fileformat.com/view/pdf/
+https://docs.fileformat.com/pdf/
 
 
 {{<section XPS>}}
