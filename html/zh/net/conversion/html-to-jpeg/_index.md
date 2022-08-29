@@ -82,7 +82,7 @@ h2: 文档中的 HTML 到 JPEG 转换
   - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#convert-html-to-jpg-using-imagesaveoptions" target="_blank" >使用 ImageSaveOptions 将 HTML 转换为 JPG</a>
    - <a href="https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/#output-stream-providers" target="_blank">使用将 HTML 转换为 JPG MemoryStreamProvider</a>
 
-JPEG 是最常用的图像格式之一。它的独特之处在于压缩过程中质量的可控损失。此压缩功能允许您快速有效地共享 JPG 图像并在 Web、计算机和移动设备上广泛使用它们。可能需要将 HTML 文件转换为 JPG 图像，例如，如果您想在 PowerPoint 演示文稿中添加网页或通过电子邮件发送网页。请访问文档文章 [将 HTML 转换为 JPEG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpeg/) 以了解有关 Aspose.HTML for .NET API 的更多信息转换功能，并考虑最常见的 HTML 到 JPEG 转换方案的 C# 示例。在本文中，您可以找到有关如何使用 ConvertHTML() 方法将 HTML 转换为 JPEG 以及如何应用 ImageSaveOptions 和 ICreateStreamProvider 参数的信息。
+JPEG 是最常用的图像格式之一。它的独特之处在于压缩过程中质量的可控损失。此压缩功能允许您快速有效地共享 JPG 图像并在 Web、计算机和移动设备上广泛使用它们。可能需要将 HTML 文件转换为 JPG 图像，例如，如果您想在 PowerPoint 演示文稿中添加网页或通过电子邮件发送网页。请访问文档文章 [将 HTML 转换为 JPG](https://docs.aspose.com/html/net/converting-between-formats/html-to-jpg/) 以了解有关 Aspose.HTML for .NET API 的更多信息转换功能，并考虑最常见的 HTML 到 JPEG 转换方案的 C# 示例。在本文中，您可以找到有关如何使用 ConvertHTML() 方法将 HTML 转换为 JPEG 以及如何应用 ImageSaveOptions 和 ICreateStreamProvider 参数的信息。
 
 {{<section online-converters>}}
 ---
