@@ -22,3 +22,6 @@ h2: HTML Generators
   * [email](email)
   * [file](file)
   * [image](image-input)
+  * [number](number)
+  * [password](password)
+  * [range](range)
