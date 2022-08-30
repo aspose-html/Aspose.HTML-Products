@@ -19,3 +19,6 @@ h2: HTML Generators
   * [radio](radio)
   * [color](color)
   * [date-time](date-time)
+  * [email](email)
+  * [file](file)
+  * [image](image-input)
