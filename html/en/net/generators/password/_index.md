@@ -1,6 +1,6 @@
 ---
 translation: true
-title: HTML Password Input Input Generator
+title: HTML Password Input Generator
 template: /templates/_template-generators-child.md
 description: HTML Password Input Generator
 url: /net/generators/password/
