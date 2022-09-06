@@ -31,3 +31,7 @@ h2: HTML Generators
   * [text](text)
   * [textarea](textarea)
   * [url](url-input)
+* Media
+  * [audio](audio)
+  * [image](image)
+  * [video](video)
