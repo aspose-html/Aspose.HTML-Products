@@ -11,8 +11,6 @@ url: /net/generators/
 h2: HTML Generators
 ---
 
-* [table](table)
-* [iframe](iframe)
 * Input
   * [button](button)
   * [checkbox](checkbox)
@@ -46,3 +44,12 @@ h2: HTML Generators
   * [Strikethrough](strikethrough)
   * [Superscript & Subscript](superscript-subscript)
   * [Underline](unarticulated)
+* Other
+  * [table](table)
+  * [iframe](iframe)
+  * [details](details)
+  * [dialog](dialog)
+  * [hyperlink](hyperlink)
+  * [meter](meter)
+  * [progress](progress)
+  * [list](list)
