@@ -1,16 +1,16 @@
 ---
-title: Java HTML API | HTML CSS Markup Parser and Translator 
+title: Java HTML API | HTML CSS Markup Parser and Translator
 weight: 700
-url: /java/ 
+url: /java/
 description: Read write modify parse translate and convert HTML XHTML MHTML and EPUB file formats with Java library
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-java.svg" pfName="Aspose.HTML" subTitlepfName="for Java" downloadUrl="https://downloads.aspose.com/html/java" >}}
+{{< blocks/products/pf/upper-banner h1="Java HTML Files Manipulation APIs" h2="Manipulate and Render HTML documents including CSS styles to PDF & Raster Image formats." logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/headers/aspose_html-for-java.svg" pfName="Aspose.HTML" subTitlepfName="for Java" downloadUrl="https://releases.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.HTML" subTitlepfName="for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/java/" installationsDocsLink="https://docs.aspose.com/html/java/getting-started/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html" directDownloadLink="https://downloads.aspose.com/html/java" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-java.svg" liveDemosLink="https://products.aspose.app/html/family" PricingLink="https://purchase.aspose.com/pricing/html/java" buyLink="https://purchase.aspose.com/buy" docsLink="https://docs.aspose.com/html/java/" installationsDocsLink="https://docs.aspose.com/html/java/getting-started/installation/" nugetLink="" nugetPackageName="" mavenRepoLink="https://repository.aspose.com/#/artifacts/browse/tree/General/repo/com/aspose/aspose-html" directDownloadLink="https://releases.aspose.com/html/java" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>
@@ -382,6 +382,7 @@ description: Read write modify parse translate and convert HTML XHTML MHTML and 
 {{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.com/html/java/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-html/Aspose.Html-for-Java" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://reference.aspose.com/html/java" >}}
+{{< blocks/products/pf/slr-element name="Repository" href="https://repository.aspose.com/html/" >}}
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Product Support" tabId="support" >}}
