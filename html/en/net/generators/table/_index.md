@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Table Generator
+title: HTML Table Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Table Generator
 url: /net/generators/table/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

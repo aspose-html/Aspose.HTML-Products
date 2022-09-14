@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Progress Generator
+title: HTML Progress Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Progress Generator
 url: /net/generators/progress/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

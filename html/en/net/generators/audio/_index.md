@@ -4,6 +4,9 @@ title: HTML Audio Generator
 template: /templates/_template-generators-child.md
 description: HTML Audio Generator
 url: /net/generators/audio/
+platformtag: net
+generator: HTML Audio Generator
+element: audio
 ---
 
 {{<section overview>}}

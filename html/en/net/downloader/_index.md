@@ -1,7 +1,7 @@
 ---
 translation: true
 title: HTML Downloader
-template: /templates/_template-generators-child.md
+template: /templates/_template-generators.md
 description: HTML Downloader
 url: /net/downloader/
 ---

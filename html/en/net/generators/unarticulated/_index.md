@@ -4,6 +4,9 @@ title: Underline (Unarticulated) Text HTML Generator
 template: /templates/_template-generators-child.md
 description: Underline (Unarticulated) Text HTML Generator
 url: /net/generators/unarticulated/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

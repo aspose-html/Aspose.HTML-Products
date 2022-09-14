@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Video Generator
+title: HTML Video Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Video Generator
 url: /net/generators/video/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

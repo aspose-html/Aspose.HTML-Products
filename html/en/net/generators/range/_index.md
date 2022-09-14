@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Range Input Input Generator
+title: HTML Range Input Input Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Range Input Generator
 url: /net/generators/range/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

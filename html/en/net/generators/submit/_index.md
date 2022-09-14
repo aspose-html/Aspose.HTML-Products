@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Submit Input Generator
+title: HTML Submit Input Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Submit Input Generator
 url: /net/generators/submit/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

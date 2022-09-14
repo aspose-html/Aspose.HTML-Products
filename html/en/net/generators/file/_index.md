@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML File Input Input Generator
+title: HTML File Input Input Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML File Input Generator
 url: /net/generators/file/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

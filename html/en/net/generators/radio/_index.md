@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Radio Button Generator
+title: HTML Radio Button Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Radio Button Generator
 url: /net/generators/radio/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

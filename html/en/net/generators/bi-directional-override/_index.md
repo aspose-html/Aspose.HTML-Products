@@ -4,6 +4,9 @@ title: Bi-Directional Override HTML Generator
 template: /templates/_template-generators-child.md
 description: Bi-Directional Override HTML Generator
 url: /net/generators/bi-directional-override/
+platformtag: net
+generator: Bi-Directional Override HTML Generator
+element: bi-directional override
 ---
 
 {{<section overview>}}

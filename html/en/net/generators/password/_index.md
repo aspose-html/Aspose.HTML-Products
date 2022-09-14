@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Password Input Generator
+title: HTML Password Input Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Password Input Generator
 url: /net/generators/password/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

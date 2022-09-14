@@ -1,9 +1,12 @@
 ---
 translation: true
-title: Italic (Emphasize) Text HTML Generator
+title: Italic (Emphasize) Text HTML Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: Italic (Emphasize) Text HTML Generator
 url: /net/generators/emphasize/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

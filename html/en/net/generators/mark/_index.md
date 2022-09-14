@@ -1,9 +1,12 @@
 ---
 translation: true
-title: Highlight (Mark) Text HTML Generator
+title: Highlight (Mark) Text HTML Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: Highlight (Mark) Text HTML Generator
 url: /net/generators/mark/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

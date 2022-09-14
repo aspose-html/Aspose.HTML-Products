@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Email Input Input Generator
+title: HTML Email Input Input Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Email Input Generator
 url: /net/generators/email/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

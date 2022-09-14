@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML List Generator
+title: HTML List Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML List Generator
 url: /net/generators/list/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

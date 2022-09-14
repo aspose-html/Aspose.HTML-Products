@@ -1,9 +1,12 @@
 ---
 translation: true
-title: Superscript & Subscript HTML Generator
+title: Superscript & Subscript HTML Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: Superscript & Subscript HTML Generator
 url: /net/generators/superscript-subscript/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

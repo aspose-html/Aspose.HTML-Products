@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Textarea Generator
+title: HTML Textarea Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Text Input Generator
 url: /net/generators/textarea/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

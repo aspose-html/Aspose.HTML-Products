@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Hyperlink Generator
+title: HTML Hyperlink Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Hyperlink Generator
 url: /net/generators/hyperlink/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

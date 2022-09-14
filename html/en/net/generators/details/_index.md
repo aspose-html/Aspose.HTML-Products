@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Details Generator
+title: HTML Details Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Details Generator
 url: /net/generators/details/
+platformtag: net
+generator: HTML Details Generator
+element: details
 ---
 
 {{<section overview>}}

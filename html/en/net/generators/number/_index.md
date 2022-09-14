@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Number Input Input Generator
+title: HTML Number Input Input Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Number Input Generator
 url: /net/generators/number/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

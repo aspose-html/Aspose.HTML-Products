@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML IFrame Generator
+title: HTML IFrame Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML IFrame Generator
 url: /net/generators/iframe/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

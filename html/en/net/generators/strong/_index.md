@@ -1,9 +1,12 @@
 ---
 translation: true
-title: Bold (Strong Importance) Text HTML Generator
+title: Bold (Strong Importance) Text HTML Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: Bold (Strong Importance) Text HTML Generator
 url: /net/generators/strong/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

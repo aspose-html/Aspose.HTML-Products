@@ -4,6 +4,9 @@ title: Image Downloader
 template: /templates/_template-generators-child.md
 description: Image Downloader
 url: /net/downloader/image/
+platformtag: net
+generator: Image Generator
+element: image
 ---
 
 {{<section overview>}}

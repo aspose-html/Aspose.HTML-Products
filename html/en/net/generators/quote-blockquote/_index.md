@@ -1,9 +1,12 @@
 ---
 translation: true
-title: Quote & Blockquote HTML Generator
+title: Quote & Blockquote HTML Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: Quote & Blockquote HTML Generator
 url: /net/generators/quote-blockquote/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

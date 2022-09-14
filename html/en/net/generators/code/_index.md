@@ -1,9 +1,12 @@
 ---
 translation: true
-title: Code HTML Generator
+title: Code HTML Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: Code HTML Generator
 url: /net/generators/code/
+platformtag: net
+generator: Code HTML Generator
+element: code
 ---
 
 {{<section overview>}}

@@ -1,9 +1,12 @@
 ---
 translation: true
-title: Strikethrough HTML Generator
+title: Strikethrough HTML Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: Strikethrough HTML Generator
 url: /net/generators/strikethrough/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}

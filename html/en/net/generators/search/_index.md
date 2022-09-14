@@ -1,9 +1,12 @@
 ---
 translation: true
-title: HTML Search Input Generator
+title: HTML Search Input Generator - online tool and C# code
 template: /templates/_template-generators-child.md
 description: HTML Search Input Generator
 url: /net/generators/search/
+platformtag: net
+generator: HTML Button Generator
+element: button
 ---
 
 {{<section overview>}}
