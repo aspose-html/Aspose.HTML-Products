@@ -18,14 +18,15 @@ h2:  Generate HTML and C# code for an HTML Color Input and use it in your own we
 
 {{<section overview>}}
 ---
-h2: HTML Color Input Generator
+h2: Generate HTML Color Input Easily!
 ---
 
 An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) element with `type="color"` defines a color picker. It provides a user interface element that allows a user to specify a color, either through a visual color picker interface or by typing the color into a text field in hexadecimal format #RRGGBB. HTML Color Input Code Generator helps to generate HTML input color code that can be inserted into HTML.<br>
 The control consists of a small button inside which the current color is displayed. Clic the color button to open the color picker with an initial value. A preview of the selected color is displayed inside the control.
 
-{{< app/html/generator name="color" >}}
+{{<section plugin>}}
 
+{{< app/html/generator name="color" >}}
 <br>
 <h2> Attributes </h2>
 
@@ -36,7 +37,6 @@ You can generate an HTML color input tag and color picker C# code by selecting a
 <h2> Create HTML Color Input in C#</h2>
 
 Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a color picker, see the C# code example above. This can be done with a few lines of C# code:
-
 {{< /app/html/generator >}}
 
 {{<section steps>}}
@@ -45,8 +45,9 @@ h2: Steps to Create Color Input in C#
 ---
 
 1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) It creates the HTML element specified by tagName.
-1. Set attributes for the HTMLInputElement such as [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/) and [Name.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/)
+1. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/) and [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/) attributes.
 1. Use [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/) method to add `value` attribute and its value in hexadecimal format.
+1. Copy C# code for the HTML color input and use it in your C# project.
 
 {{<section other-generators>}}
 ---

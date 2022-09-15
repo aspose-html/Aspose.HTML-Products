@@ -6,7 +6,8 @@ description: HTML Button Generator creates HTML button and C# code for this elem
 url: /net/generators/button/
 platformtag: net
 generator: HTML Button Generator
-element: button
+element: HTML button
+tag: button
 ---
 
 {{<section banner>}}
@@ -21,7 +22,6 @@ h2: Generate HTML Button on the fly!
 ---
 
 The `<button>` [HTML](https://html.spec.whatwg.org/multipage/form-elements.html#the-button-element) element is an interactive element that defines a clickable button. You can activate the HTML button using the mouse,  keyboard, voice command, or other assistive technology. The `<button>` is a type of form element that is used to submit, reset a [form](https://html.spec.whatwg.org/multipage/forms.html#the-form-element) or open a dialog box. Once activated, it performs a programmable action. 
-
 
 {{<section plugin>}}
 
@@ -46,7 +46,8 @@ h2: Steps to Create HTML Button in C#
 ---
 
 1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLButtonElement.](https://reference.aspose.com/html/net/aspose.html/htmlbuttonelement/) It creates the HTML element specified by tagName, or an HTMLUnknownElement if tagName isn’t recognized.
-2. Set attributes for the HTMLButtonElement such as [Type](https://reference.aspose.com/html/net/aspose.html/htmlbuttonelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlbuttonelement/name/), [TextContent](https://reference.aspose.com/html/net/aspose.html.dom/element/textcontent/) and [Disabled.](https://reference.aspose.com/html/net/aspose.html/htmlbuttonelement/disabled/)
+2. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlbuttonelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlbuttonelement/name/), [TextContent](https://reference.aspose.com/html/net/aspose.html.dom/element/textcontent/) and [Disabled](https://reference.aspose.com/html/net/aspose.html/htmlbuttonelement/disabled/) attributes.
+3. Copy C# code for the HTML button and use it in your C# project.
 
 {{<section other-generators>}}
 ---

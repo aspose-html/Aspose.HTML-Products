@@ -2,11 +2,12 @@
 translation: true
 title: HTML Checkbox Generator - online tool and C# code
 template: /templates/_template-generators-child.md
-description: Checkbox Generator lets you create checkbox elements for your website. You can preview the checkbox and copy generated HTML and C# code.
+description: Checkbox Generator lets you create HTML checkboxes for your website. You can preview the checkbox and copy generated HTML and C# code.
 url: /net/generators/checkbox/
 platformtag: net
 generator: HTML Checkbox Generator
 element: checkbox
+tag: checkbox
 ---
 
 {{<section banner>}}
@@ -30,7 +31,7 @@ The [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element)
 <h2> Attributes </h2>
 
 The checkbox usually contains a `name` and `value` attribute. This name/value pair will be sent to the server when the form is submitted. If the `value` attribute is not specified, then the reported default value is "on".<br>
-You can generate an HTML checkbox input tag and checkbox C# code by selecting attributes such as `name`, `checked`, `id` etc. Each checkbox is associated with a label element wrapped around the checkbox. Please always include a `<label>` tag for better accessibility!<br><br>
+You can generate an HTML checkbox input tag and checkbox C# code by selecting attributes such as `name`, `checked`, `id`, etc. Each checkbox is associated with a label element wrapped around the checkbox. Please always include a `<label>` tag for better accessibility!<br><br>
 
 <h2> Create HTML Checkbox in C#</h2>
 
@@ -44,8 +45,9 @@ h2: Steps to Create HTML Checkbox in C#
 ---
 
 1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) It creates the HTML element specified by tagName.
-1. Set attributes for the HTMLInputElement such as [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/), [Id](https://reference.aspose.com/html/net/aspose.html/htmlelement/id/) and [Checked.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/checked/)
+1. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/), [Id](https://reference.aspose.com/html/net/aspose.html/htmlelement/id/) and [Checked](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/checked/) attributes.
 1. Create the [HTMLLabelElement](https://reference.aspose.com/html/net/aspose.html/htmllabelelement/) and set required attributes.
+1. Copy C# code for the HTML checkbox and use it in your C# project.
 
 {{<section other-generators>}}
 ---

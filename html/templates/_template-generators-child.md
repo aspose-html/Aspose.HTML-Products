@@ -10,6 +10,10 @@ generator: {{i18n.generator}}
 element: {{i18n.element}}
 ---
 
+{{<meta path="/{{lang}}/meta/generator/default.md" section="faq">}}
+
+{{<meta path="/{{lang}}/meta/generator/default.md" section="{{env.howto}}">}}
+
 {{< blocks/products/pf/main-wrap-class isAutogenPage="true" >}}
 
 {{< blocks/products/pf/upper-banner h1="{{i18n.banner.h1}}" h2="{{i18n.banner.h2}}"  logoImageSrc="https://www.aspose.cloud/templates/aspose/img/products/html/aspose_html-for-net.svg" sourceAdditionalConversionTag="" additionalConversionTag="HTML" pfName="" subTitlepfName="" downloadUrl="" fileiconsmall1="XHTML" fileiconsmall2="JPG" fileiconsmall3="PDF" fileiconsmall4="XML" fileiconsmall5="MHTML" downloadUrl="https://releases.aspose.com/html/net/" >}}
@@ -18,9 +22,11 @@ element: {{i18n.element}}
 
 {{% blocks/products/pf/agp/content h2="{{i18n.overview.h2}}" %}}
 
-{{i18n.overview}}<br><br>
+{{i18n.overview}}
+<br>
 
-{{i18n.plugin}}<br>
+{{i18n.plugin}}
+<br>
 
 <h2>{{i18n.steps.h2}}</h2>
 

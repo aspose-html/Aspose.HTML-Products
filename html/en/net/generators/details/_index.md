@@ -7,6 +7,8 @@ url: /net/generators/details/
 platformtag: net
 generator: HTML Details Generator
 element: details
+tag: button
+ignore: true
 ---
 
 {{<section overview>}}

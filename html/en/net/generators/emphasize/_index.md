@@ -7,6 +7,8 @@ url: /net/generators/emphasize/
 platformtag: net
 generator: HTML Button Generator
 element: button
+tag: button
+ignore: true
 ---
 
 {{<section overview>}}

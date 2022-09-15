@@ -7,6 +7,7 @@ url: /net/generators/cite/
 platformtag: net
 generator: Citation HTML Generator
 element: cite
+tag: button
 ---
 
 {{<section banner>}}

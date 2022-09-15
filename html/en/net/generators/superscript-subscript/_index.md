@@ -7,6 +7,7 @@ url: /net/generators/superscript-subscript/
 platformtag: net
 generator: HTML Button Generator
 element: button
+tag: button
 ---
 
 {{<section overview>}}

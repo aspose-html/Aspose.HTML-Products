@@ -17,6 +17,7 @@ feature: generators
 {{% blocks/products/pf/agp/content h2="{{i18n.overview.h2}}" %}}
 
 {{i18n.overview}}
+<br><br>
 
 <div class="row">
 	<div class="col-md-3">
@@ -30,9 +31,9 @@ feature: generators
             <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/email/" target="_blank">email</a></li>
             <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" target="_blank">file</a></li>
             <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" target="_blank">image</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/number/" target="_blank">number</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/password/" target="_blank">password</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/range/" target="_blank">range</a></li>
+            <li>number</li>
+            <li>password</li>
+            <li>range</li>
 			<li>range</li>
 			<li>search</li>
 			<li>submit</li>
@@ -45,17 +46,17 @@ feature: generators
 	<div class="col-md-3">		
 		<h4>Media</h4>
         <ul>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/audio/" target="_blank">audio</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/video/" target="_blank">video</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image/" target="_blank">image</a></li>
+			<li>audio</li>
+			<li>video</li>
+			<li>image</li>
         </ul>
 	</div>
 	<div class="col-md-3">		
 		<h4>Text</h4>
         <ul>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/bi-directional-override/" target="_blank">Bi-Directional Override</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/strong/" target="_blank">strong</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/cite/" target="_blank">Citation</a></li>
+			<li>Bi-Directional Override</li>
+			<li>strong</li>
+			<li>Citation</li>
 			<li>code</li>
 			<li>Italic</li>
 			<li>Highlight</li>
@@ -68,9 +69,9 @@ feature: generators
     <div class="col-md-3">		
 		<h4>Other</h4>
         <ul>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/table/" target="_blank">table</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/iframe/" target="_blank">iframe</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/details/" target="_blank">details</a></li>
+			<li>table</li>
+			<li>iframe</li>
+			<li>details</li>
 			<li>dialog</li>
 			<li>hyperlink</li>
 			<li>meter</li>

@@ -7,6 +7,8 @@ url: /net/generators/dialog/
 platformtag: net
 generator: HTML Dialog Generator
 element: dialog
+tag: button
+ignore: true
 ---
 
 {{<section overview>}}

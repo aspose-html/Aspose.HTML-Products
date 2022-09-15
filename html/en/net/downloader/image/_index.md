@@ -7,6 +7,7 @@ url: /net/downloader/image/
 platformtag: net
 generator: Image Generator
 element: image
+tag: image
 ---
 
 {{<section overview>}}

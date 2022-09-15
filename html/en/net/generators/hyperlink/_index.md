@@ -7,6 +7,7 @@ url: /net/generators/hyperlink/
 platformtag: net
 generator: HTML Button Generator
 element: button
+tag: button
 ---
 
 {{<section overview>}}

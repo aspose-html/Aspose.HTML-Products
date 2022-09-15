@@ -7,6 +7,7 @@ url: /net/generators/code/
 platformtag: net
 generator: Code HTML Generator
 element: code
+tag: button
 ---
 
 {{<section overview>}}

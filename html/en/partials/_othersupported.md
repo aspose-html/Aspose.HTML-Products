@@ -85,9 +85,9 @@ deploy: false
 
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/button/" name="HTML Button Generator" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/checkbox/" name="HTML Checkbox Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/cite/" name="Citation HTML Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/code/" name="Code HTML Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/radio/" name="HTML Radio Button Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/email/" name="HTML Email Input Generator" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/color/" name="HTML Color Input Generator" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/date-time/" name="HTML Date & Time Input Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/details/" name="HTML Details Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/dialog/" name="HTML Dialog Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" name="HTML File Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" name="HTML Image Input Generator" >}}

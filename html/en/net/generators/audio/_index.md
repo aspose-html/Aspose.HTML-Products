@@ -7,6 +7,7 @@ url: /net/generators/audio/
 platformtag: net
 generator: HTML Audio Generator
 element: audio
+tag: audio
 ---
 
 {{<section overview>}}

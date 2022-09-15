@@ -7,6 +7,7 @@ url: /net/generators/bi-directional-override/
 platformtag: net
 generator: Bi-Directional Override HTML Generator
 element: bi-directional override
+tag: bi-directional-override
 ---
 
 {{<section overview>}}

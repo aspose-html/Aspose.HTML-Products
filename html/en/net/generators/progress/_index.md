@@ -7,6 +7,7 @@ url: /net/generators/progress/
 platformtag: net
 generator: HTML Button Generator
 element: button
+tag: button
 ---
 
 {{<section overview>}}

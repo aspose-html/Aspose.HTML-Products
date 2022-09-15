@@ -7,6 +7,8 @@ url: /net/generators/list/
 platformtag: net
 generator: HTML Button Generator
 element: button
+tag: button
+ignore: true
 ---
 
 {{<section overview>}}
