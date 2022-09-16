@@ -8,6 +8,7 @@ platformtag: net
 generator: Citation HTML Generator
 element: cite
 tag: button
+ignore: true
 ---
 
 {{<section banner>}}

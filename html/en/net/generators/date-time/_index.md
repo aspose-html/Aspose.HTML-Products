@@ -37,7 +37,7 @@ HTML Date & Time Input Generator helps to generate HTML date & time input code t
 
 <h2> Create HTML Date & Time Input in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML date & time input, see the C# code example above. This can be done with a few lines of C# code:
+Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML date & time input, see the C# code example below. You can create the desired element with a few lines of C# code:
 
 {{< /app/html/generator >}}
 

@@ -8,6 +8,7 @@ platformtag: net
 generator: Bi-Directional Override HTML Generator
 element: bi-directional override
 tag: bi-directional-override
+ignore: true
 ---
 
 {{<section overview>}}

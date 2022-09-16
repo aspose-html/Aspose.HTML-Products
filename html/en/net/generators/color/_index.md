@@ -36,7 +36,7 @@ You can generate an HTML color input tag and color picker C# code by selecting a
 
 <h2> Create HTML Color Input in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a color picker, see the C# code example above. This can be done with a few lines of C# code:
+Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a color picker, see the C# code example below:
 {{< /app/html/generator >}}
 
 {{<section steps>}}

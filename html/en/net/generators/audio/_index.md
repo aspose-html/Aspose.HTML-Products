@@ -8,6 +8,7 @@ platformtag: net
 generator: HTML Audio Generator
 element: audio
 tag: audio
+ignore: true
 ---
 
 {{<section overview>}}

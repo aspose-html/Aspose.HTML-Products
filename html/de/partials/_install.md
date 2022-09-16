@@ -4,6 +4,9 @@ deploy: false
 ---
 
 {{<section net>}}
+---
+h2: Erste Schritte mit der .NET-HTML-API
+---
 
 Sie haben mehrere Möglichkeiten, die Aspose.HTML-Bibliothek für .NET auf Ihrem System zu installieren:
 

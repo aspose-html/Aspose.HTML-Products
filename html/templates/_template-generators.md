@@ -17,7 +17,7 @@ feature: generators
 {{% blocks/products/pf/agp/content h2="{{i18n.overview.h2}}" %}}
 
 {{i18n.overview}}
-<br><br>
+<br>
 
 <div class="row">
 	<div class="col-md-3">
@@ -81,11 +81,25 @@ feature: generators
 	</div>	
 </div>
 
+{{i18n.elements}}
+<br>
+
 <h2>{{i18n.online-generators.h2}}</h2>
 
 {{i18n.online-generators}}
+<br><br>
+
+<h2>{{<import path="/{{lang}}/partials/_install.md" section="net.h2">}}</h2>
+
+{{<import path="/{{lang}}/partials/_install.md" section="{{i18n.platformtag}}">}}
 
 {{% /blocks/products/pf/agp/content %}}
+
+{{< blocks/products/pf/agp/other-supported-section title="{{i18n.other-aspose.title}}" subTitle="{{i18n.other-aspose.subTitle}}" >}}
+
+{{<import path="/{{lang}}/partials/_othersupported.md" section="aspose">}}
+
+{{< /blocks/products/pf/agp/other-supported-section >}}
 
 {{< /blocks/products/pf/main-container >}}
 {{< /blocks/products/pf/main-wrap-class >}}

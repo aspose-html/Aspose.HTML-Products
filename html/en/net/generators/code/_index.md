@@ -7,7 +7,8 @@ url: /net/generators/code/
 platformtag: net
 generator: Code HTML Generator
 element: code
-tag: button
+tag: code
+ignore: true
 ---
 
 {{<section overview>}}
