@@ -47,7 +47,7 @@ Aspose.HTML for .NET API поддерживает набор элементов 
 h2: Шаги для создания HTML File Input на C#
 ---
 1. Используйте метод [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) класса Document для создания [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) Он создает элемент HTML, указанный в tagName.
-1. Установите значения для [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/ net/aspose.html/htmlinputelement/name/) и [Accept](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/accept/) атрибутов.
+1. Установите значения для [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/) и [Accept](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/accept/) атрибутов.
 1. Используйте метод [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/), чтобы добавить `multiple` атрибут.
 1. Скопируйте код HTML File Input и используйте его в своем проекте C#.
 

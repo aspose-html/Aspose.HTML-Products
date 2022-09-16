@@ -26,6 +26,7 @@ h2: Создать HTML Image Input
 {{<section plugin>}}
 
 {{< app/html/generator name="image-input" >}}
+
 - Атрибут `src` указывает URL-адрес файла изображения, который будет отображаться для представления графической кнопки отправки.
 - Атрибуты `width` и `height` задают числа, которые указывают ширину и высоту для отрисовки изображения на кнопке в пикселях CSS.
 - Атрибут `alt` предоставляет альтернативный текст для использования в качестве метки кнопки, если изображение не может быть отображено.
@@ -43,7 +44,7 @@ Aspose.HTML for .NET API поддерживает набор элементов 
 h2: Шаги по созданию HTML Image Input на C#
 ---
 1. Используйте метод [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) класса Document для создания [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) Он создает элемент HTML, указанный в tagName.
-1. Установите значения для [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/ net/aspose.html/htmlinputelement/name/) и [Src](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/src/) атрибутов.
+1. Установите значения для [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/) и [Src](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/src/) атрибутов.
 1. Используйте метод [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/), чтобы добавить `alt`, `width`, `height` и `autofocus` атрибуты.
 1. Скопируйте код для HTML Image Input и используйте его в своем проекте C#.
 

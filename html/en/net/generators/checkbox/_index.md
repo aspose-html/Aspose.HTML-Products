@@ -31,7 +31,7 @@ The [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element)
 <h2> Attributes </h2>
 
 The checkbox usually contains a `name` and `value` attribute. This name/value pair will be sent to the server when the form is submitted. If the `value` attribute is not specified, then the reported default value is "on".<br>
-You can generate an HTML checkbox input tag and checkbox C# code by selecting attributes such as `name`, `checked`, `id`, etc. Each checkbox is associated with a label element wrapped around the checkbox. Please always include a `<label>` tag for better accessibility!<br><br>
+You can generate an HTML checkbox input tag and checkbox C# code by selecting attributes such as `name`, `checked`, `id`, etc. Each checkbox is associated with a `<label>` element wrapped around the checkbox. Please always include a `<label>` tag for better accessibility!<br><br>
 
 <h2> Create HTML Checkbox in C#</h2>
 

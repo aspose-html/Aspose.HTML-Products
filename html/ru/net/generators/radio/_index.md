@@ -49,7 +49,7 @@ Aspose.HTML for .NET API поддерживает набор элементов 
 h2: Шаги по созданию радиокнопки HTML на C#
 ---
 1. Используйте метод [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) класса Document для создания [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/)
-1. Установите значения для атрибутов [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/ net/aspose.html/htmlinputelement/name/), [Id](https://reference.aspose.com/html/net/aspose.html/htmlelement/id/) и [Checked](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/checked/).
+1. Установите значения для атрибутов [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/), [Id](https://reference.aspose.com/html/net/aspose.html/htmlelement/id/) и [Checked](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/checked/).
 1. Создайте элемент [HTMLLabelElement](https://reference.aspose.com/html/net/aspose.html/htmllabelelement/) и установите необходимые атрибуты.
 1. Скопируйте код для переключателя HTML и используйте его в своем проекте C#.
 

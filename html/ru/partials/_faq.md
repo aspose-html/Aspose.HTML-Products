@@ -17,10 +17,10 @@ A3: "По умолчанию мы поддерживаем документы HT
 {{<section faq-generatos>}}
 ---
 h2: FAQ
-Q1: "Why is this {{i18n.generator}} useful?"
-A1: "This tool is great for people who don't know how to code and need {{i18n.element}} to put on their website. Also, this {{i18n.generator}} will be useful for developers who want to quickly and easily create and customize elements for their HTML or C# projects. Generate, preview the result and use the generated code where you need it. No coding required!"
-Q2: "What browsers can I use? "
-A2: "Generated HTML code for {{i18n.element}} will run without issues in all modern browsers such as Chrome, Opera, Firefox, Safari, Edge and IE as well as other major browsers. Aspose.HTML for the .NET API allows you to create C# code that can be used in any .NET application. It works from all platforms including Windows, Linux, Mac OS, Android, and iOS."
-Q3: "How to copy the code to my website?"
-A3: "After creating the {{i18n.element}} design, go to the generated code. Copy the HTML code and paste it wherever you want the element to appear on your site. On other hand, you can get C# code for the {{i18n.element}}, copy and use it in your C# project."
+Q1: "Зачем использовать {{i18n.generator}}?"
+A1: "Этот инструмент отлично подходит для людей, которые не умеют программировать и нуждаются в {{i18n.element}} для размещения на своем веб-сайте. Кроме того, этот {{i18n.generator}} будет полезен разработчикам, которые хотят быстро и легко создавать и настраивать элементы для своих проектов HTML или C#. Генерируйте, предварительно просматривайте результат и используйте сгенерированный код там, где он вам нужен."
+Q2: "Какие браузеры я могу использовать?"
+A2: "Сгенерированный HTML код для {{i18n.element}} будет работать без проблем во всех современных браузерах, таких как Chrome, Opera, Firefox, Safari, Edge и IE, а также в других основных браузерах. Aspose.HTML for .NET API позволяет создавать код C#, который можно использовать в любом приложении .NET. Он работает на всех платформах, включая Windows, Linux, Mac OS, Android и iOS."
+Q3: "Как скопировать код для моего сайта?"
+A3: "После создания {{i18n.element}} перейдите к сгенерированному коду. Скопируйте HTML код и вставьте его туда, куда вам требуется, чтобы элемент отображался в нужном месте на вашем сайте. С другой стороны, вы можете получить код C# для {{i18n.element}}, скопируйте и используйте его в своем проекте C#."
 ---

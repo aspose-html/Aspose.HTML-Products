@@ -20,11 +20,11 @@ steps[2].image: "https://products.aspose.com/html/images/generator/step1.png"
 steps[2].url: "https://products.aspose.com/html/net/generators/{{i18n.tag}}/"
 steps[3].name: "Set attributes in C#"
 steps[3].text: "Set values for the Type, Name, etc. attributes."
-steps[3].image: "https://products.aspose.com/html/images/generator/step2.png"
+steps[3].image: "https://products.aspose.com/html/images/generator/step-{{i18n.tag}}-2.png"
 steps[3].url: "https://products.aspose.com/html/net/generators/{{i18n.tag}}/"
 steps[4].name: "Get the result"
 steps[4].text: "Copy C# code for the {{i18n.element}} and use it in your C# project."
-steps[4].image: "https://products.aspose.com/html/images/generator/step3.png"
+steps[4].image: "https://products.aspose.com/html/images/generator/step-{{i18n.tag}}-3.png"
 steps[4].url: "https://products.aspose.com/html/net/generators/{{i18n.tag}}/"
 ---
 

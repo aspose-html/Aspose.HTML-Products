@@ -31,7 +31,7 @@ The [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element)
 <h2> Attributes </h2>
 
 If you choose input type `type='date'`, you create an input field that allows users to enter a date. The resulting value includes the year, month, and day.
-The `type='month'` input type creates an input field that allows users to enter the month and year. The value is a string in the format "YYYY-MM", where YYYY is the four-digit year and MM is the month. The input `type='week'` creates an input field that allows users to quickly select a year plus the week number for that year, which can be from week 1 to 52 or 53. The input `type='time'` is used to create an input field that allows users to quickly enter time - hours and minutes, sometimes seconds.
+The `type='month'` input type creates an input field that allows users to enter the month and year. The input `type='week'` creates an input field that allows users to quickly select a year plus the week number for that year, which can be from week 1 to 52 or 53. The input `type='time'` is used to create an input field that allows users to quickly enter time - hours and minutes, sometimes seconds.
 
 HTML Date & Time Input Generator helps to generate HTML date & time input code that can be inserted into HTML. Select options and create a date & time picker!<br><br>
 

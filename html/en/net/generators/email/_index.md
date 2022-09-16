@@ -18,7 +18,7 @@ h2: Generate HTML and C# code for an HTML Email Input and use it in your own web
 
 {{<section overview>}}
 ---
-h2: HTML Email Input Generator
+h2: 轻松生成 HTML Email Input！
 ---
 
 An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) element with `type='email'` is used to allow the user to enter and edit an email address or a list of email addresses. The input value is automatically validated to ensure that it is a properly-formatted email address.

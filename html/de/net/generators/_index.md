@@ -1,8 +1,8 @@
 ﻿---
 translation: true
-title: HTML-Code-Generator - Online-Code-Tools und C#-Bibliothek
+title: HTML-Code-Generatoren – Online-Code-Tools und C#-Bibliothek
 template: /templates/_template-generators.md
-description: HTML-Code-Generatoren helfen beim Erstellen von HTML-Elementen online oder mit C#. Generieren Sie Bilder, Tabellen, Formulare, Medien usw.
+description: HTML-Codegeneratoren helfen beim Erstellen von HTML-Elementen online oder in C#. Generieren Sie Bilder, Tabellen, Formulare, Medien usw.
 url: /net/generators/
 platformtag: net
 ---
