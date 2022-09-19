@@ -18,7 +18,7 @@ h2: 为 HTML 电子邮件输入生成 HTML 和 C# 代码，并在您自己的网
 
 {{<section overview>}}
 ---
-h2: HTML Email Input 发电机
+h2: 轻松生成 HTML Email Input！
 ---
 
 带有 `type='email'` 的 [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) 元素用于允许用户输入和编辑电子邮件地址或电子邮件地址列表。输入值会自动验证，以确保它是格式正确的电子邮件地址。
