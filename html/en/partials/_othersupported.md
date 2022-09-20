@@ -91,6 +91,15 @@ deploy: false
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/date-time/" name="HTML Date & Time Input Generator" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" name="HTML File Input Generator" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" name="HTML Image Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/number/" name="HTML Number Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/password/" name="HTML Password Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/range/" name="HTML Range Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/search/" name="HTML Search Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/submit/" name="HTML Submit Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/telephone/" name="HTML Telephone Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/text/" name="HTML Text Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/textarea/" name="HTML Textarea Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/url-input/" name="HTML URL Input Generator" >}}
 
 {{<section aspose>}}
 
