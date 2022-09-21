@@ -31,13 +31,13 @@ An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) 
 <h2> Attributes </h2>
 
 The HTML number input usually contains a `name`, `value`, `min`, `max`, and `step` attributes. <br>
-- With the `min`, `max`, and `step` attributes, you can control the default value and set the minimum, maximum, and initial values.
+- With the `min` and `max` attributes you can set the minimum and maximum values.
 - The `step` attribute is a number indicating the granularity. The default step value is 1.
 - The `placeholder` attribute is a string that gives the user a brief hint about what information is expected in the field. For example, "multiple of 2".<br><br>
 
 <h2> Create Number Input in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a number input, see the C# code example below:
+Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a number input, see the C# code example below:
 
 {{< /app/html/generator >}}
 

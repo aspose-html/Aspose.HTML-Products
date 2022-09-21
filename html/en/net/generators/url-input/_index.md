@@ -21,7 +21,7 @@ h2: Generate HTML and C# code for an HTML URL Input and use it in your own websi
 h2: Generate HTML URL Input Easily!
 ---
 
-[input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) elements of type *url* are used to let the user enter and edit a URL.
+An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) with `type='url'` defines a field for entering a URL. It only accepts null or a valid URL. This input value is automatically validated before the form is submitted. HTML URL Input Generator helps you to generate code which can be pasted into HTML. Just select options and generate the URL input on the fly!
 
 {{<section plugin>}}
 
@@ -30,12 +30,15 @@ h2: Generate HTML URL Input Easily!
 <br>
 <h2> Attributes </h2>
 
-The checkbox usually contains a `name` and `value` attribute. This name/value pair will be sent to the server when the form is submitted. If the `value` attribute is not specified, then the reported default value is "on".<br>
-You can generate an HTML checkbox input tag and checkbox C# code by selecting attributes such as `name`, `checked`, `id`, etc. Each checkbox is associated with a `<label>` element wrapped around the checkbox. Please always include a `<label>` tag for better accessibility!<br><br>
+With the input `type='url'` element you can use attributes such as *name*, *id*, *size*, *pattern*, *placeholder*, *list*, *maxlength*, *minlength*, etc.
+- The `size` attribute is a numeric value indicating how many characters can be in the input field. 
+- The `placeholder` attribute is a string that gives the user a brief hint about what information is expected in the field.
+- The `pattern` attribute, if specified, is a regular expression that the input value must match in order for the value to pass validation. 
+<br><br>
 
 <h2> Create URL Input in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a checkbox, see the C# code example below. You can create a checkbox with a few lines of C# code:
+Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your C# product or programmatically add an HTML URL input, see the C# code example below:
 
 {{< /app/html/generator >}}
 
@@ -44,13 +47,13 @@ Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTM
 h2: Steps to Create URL Input in C#
 ---
 
-1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) It creates the HTML element specified by tagName.
-1. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/), [Id](https://reference.aspose.com/html/net/aspose.html/htmlelement/id/) and [Checked](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/checked/) attributes.
-1. Create the [HTMLLabelElement](https://reference.aspose.com/html/net/aspose.html/htmllabelelement/) and set required attributes.
-1. Copy C# code for the HTML checkbox and use it in your C# project.
+1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/)
+1. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/) and [Size](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/size/) attributes.
+1. Use [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/) method to add `placeholder`, `pattern`, or other supported attributes with their values.
+1. Copy code for the HTML URL input and use it in your C# project.
 
 {{<section other-generators>}}
 ---
 title: Other Supported HTML Generators
-subTitle: "With these HTML Code Generators, all the hard work has already been done for you. All you have to do is copy and paste!"
+subTitle: "With HTML Code Generators, all the hard work has already been done for you. All you have to do is copy and paste!"
 ---

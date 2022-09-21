@@ -2,11 +2,11 @@
 translation: true
 title: HTML Textarea Generator - online tool and C# code
 template: /templates/_template-generators-child.md
-description: Сreate HTML Textarea for your website. Рreview the textarea, copy and use generated HTML and C# code in your project!
+description: Сreate HTML Textarea element for your website. Рreview the textarea, copy and use generated HTML and C# code in your project!
 url: /net/generators/textarea/
 platformtag: net
 generator: HTML Textarea Generator
-element: HTML Textarea
+element: HTML textarea
 tag: textarea
 ---
 
@@ -18,10 +18,12 @@ h2: Generate HTML and C# code for an HTML Textarea element and use it in your ow
 
 {{<section overview>}}
 ---
-h2: HTML Textarea Generator
+h2: Generate HTML Textarea on the fly!
 ---
 
-The [textarea](https://html.spec.whatwg.org/multipage/form-elements.html#the-textarea-element) HTML element represents a multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text, for example a comment on a review or feedback form.
+The [textarea](https://html.spec.whatwg.org/multipage/form-elements.html#the-textarea-element) HTML element defines an area where you can enter multiple lines of text. This is a multi-line plain text editing element, that allows users to enter large amounts of text in an arbitrary form, such as reviews, comments or feedback forms.
+
+<b>Note:</b> Text boxes are classified into two types: text fields and text areas. These two text boxes serve different purposes and help users understand what they should be entering into the text field. A text area is defined by a `<textarea>` tag. You can define a small [text input](/html/{{lang.url-fragment}}net/generators/text/) box using HTML `<input>` elements with `type='text'`. 
 
 {{<section plugin>}}
 
@@ -30,12 +32,17 @@ The [textarea](https://html.spec.whatwg.org/multipage/form-elements.html#the-tex
 <br>
 <h2> Attributes </h2>
 
-The checkbox usually contains a `name` and `value` attribute. This name/value pair will be sent to the server when the form is submitted. If the `value` attribute is not specified, then the reported default value is "on".<br>
-You can generate an HTML checkbox input tag and checkbox C# code by selecting attributes such as `name`, `checked`, `id`, etc. Each checkbox is associated with a `<label>` element wrapped around the checkbox. Please always include a `<label>` tag for better accessibility!<br><br>
+A text area is a large text box where you can enter multiple lines of text, such as descriptions, paragraphs, and so on.
+
+- A `name` attribute specifies a name for a text area. It is needed to reference the form data after the form is submitted.
+- A `placeholder` attribute is a string that gives the user a brief hint about what information is expected in the field.
+- A `spellcheck` is an attribute that is used to indicate whether to enable spell-checking for an element.
+- `minlength` and `maxlength` attributes define the minimum and maximum number of characters the user can enter.
+<br><br>
 
 <h2> Create HTML Textarea in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a checkbox, see the C# code example below. You can create a checkbox with a few lines of C# code:
+Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add an HTML `<textarea>` element, see the C# example below. You can create a text area with a few lines of code:
 
 {{< /app/html/generator >}}
 
@@ -44,10 +51,10 @@ Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTM
 h2: Steps to Create HTML Textarea in C#
 ---
 
-1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) It creates the HTML element specified by tagName.
-1. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/), [Id](https://reference.aspose.com/html/net/aspose.html/htmlelement/id/) and [Checked](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/checked/) attributes.
-1. Create the [HTMLLabelElement](https://reference.aspose.com/html/net/aspose.html/htmllabelelement/) and set required attributes.
-1. Copy C# code for the HTML checkbox and use it in your C# project.
+1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLTextareaElement.](https://reference.aspose.com/html/net/aspose.html/htmltextareaelement/) It creates the HTML element specified by tagName.
+1. Set values for the [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/), [Cols](https://reference.aspose.com/html/net/aspose.html/htmltextareaelement/cols/) and [Rows](https://reference.aspose.com/html/net/aspose.html/htmltextareaelement/rows/) attributes.
+1. Use [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/) method to add `placeholder`, `spellcheck`, `minlength`, `maxlength` or other supported attributes with their values.
+1. Copy C# code for the HTML textarea element and use it in your project.
 
 {{<section other-generators>}}
 ---

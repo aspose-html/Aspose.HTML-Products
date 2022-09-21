@@ -21,7 +21,7 @@ h2: Generate HTML and C# code for an HTML Range Input and use it in your own web
 h2: Generate HTML Range Input Easily!
 ---
 
-The *range* input type or range slider allows you to specify a numeric value that must be no less than or no more than the given value. The default range is 0 to 100. However, the exact value is not considered important. You can usually find the range slider when manipulating the volume or brightness controls on your computer.
+An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) element with `type="range"` or range slider allows you to specify a numeric value that must be no less than or no more than the given value. The default range is 0 to 100. However, the exact value is not considered important. You can usually find the range slider when manipulating the volume or brightness controls on your computer.
 
 {{<section plugin>}}
 

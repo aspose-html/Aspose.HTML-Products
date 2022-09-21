@@ -18,10 +18,12 @@ h2: Generate HTML and C# code for an HTML Text Input element and use it in your 
 
 {{<section overview>}}
 ---
-h2: HTML Text Input Generator
+h2: Generate HTML Text Input Easily!
 ---
 
-[input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) elements of type *text* create basic single-line text fields.
+HTML [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) elements with `type='text'` create basic single-line text inputs. Use them if you want users to enter a single line value. An on-screen keyboard will appear if you are using a smartphone or tablet. You can use this HTML Text Input Generator to create code which can be pasted into HTML. Just select options and get the text input on the fly!
+
+<b>Note:</b> Text boxes are classified into two types: text fields and [text areas.](/html/{{lang.url-fragment}}net/generators/textarea/) These two text boxes serve different purposes and help users understand what they should be entering into the text field. An HTML `<textarea>` tag defines an area where you can enter multiple lines of text. 
 
 {{<section plugin>}}
 
@@ -30,12 +32,16 @@ h2: HTML Text Input Generator
 <br>
 <h2> Attributes </h2>
 
-The checkbox usually contains a `name` and `value` attribute. This name/value pair will be sent to the server when the form is submitted. If the `value` attribute is not specified, then the reported default value is "on".<br>
-You can generate an HTML checkbox input tag and checkbox C# code by selecting attributes such as `name`, `checked`, `id`, etc. Each checkbox is associated with a `<label>` element wrapped around the checkbox. Please always include a `<label>` tag for better accessibility!<br><br>
+With the input `type='text'` element you can use attributes such as *name*, *size*, *placeholder*, *list*, *required*, *spellcheck*, *maxlength*, *minlength*, etc.
+- The `size` attribute is a numeric value indicating how many characters should be in the input field. The default width of the text field is 20 characters.
+- The `placeholder` attribute is a string that gives the user a brief hint about what information is expected in the field.
+- The `spellcheck` is an attribute that is used to indicate whether to enable spell-checking for an element.
+- Add a `required` attribute to ensure users fill this field.
+<br><br>
 
 <h2> Create HTML Text Input in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a checkbox, see the C# code example below. You can create a checkbox with a few lines of C# code:
+Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a text input, see the C# code example below:
 
 {{< /app/html/generator >}}
 
@@ -45,9 +51,9 @@ h2: Steps to Create Text Input in C#
 ---
 
 1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) It creates the HTML element specified by tagName.
-1. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/), [Id](https://reference.aspose.com/html/net/aspose.html/htmlelement/id/) and [Checked](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/checked/) attributes.
-1. Create the [HTMLLabelElement](https://reference.aspose.com/html/net/aspose.html/htmllabelelement/) and set required attributes.
-1. Copy C# code for the HTML checkbox and use it in your C# project.
+1. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/), and [Size](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/size/) attributes.
+1. Use [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/) method to add `placeholder`, `spellcheck` or other supported attributes with their values.
+1. Copy C# code for the HTML text input and use it in your project.
 
 {{<section other-generators>}}
 ---

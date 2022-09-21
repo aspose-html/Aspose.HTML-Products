@@ -18,7 +18,7 @@ h2: Generate HTML and C# code for an HTML submit input element and use it in you
 
 {{<section overview>}}
 ---
-h2: HTML Submit Input Generator
+h2: Generate HTML Submit Input Easily!
 ---
 
 An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) element with `type='submit'` is rendered as a submit button which submits the form to the server. When the user clicked the button, the user agent attempts to submit the form to the server. HTML Submit Input Generator helps you to generate code which can be pasted into HTML. Just select options and generate the submit button on the fly!
@@ -34,7 +34,7 @@ A `value` attribute contains a string that is displayed as the label of the butt
 
 <h2> Create HTML Submit Input in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a submit button, see the C# code example below. You can create a submit input tag with a few lines of C# code:
+Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a submit button, see the C# code example below. You can create a submit input tag with a few lines:
 
 {{< /app/html/generator >}}
 
@@ -46,7 +46,7 @@ h2: Steps to Create HTML Submit Input in C#
 1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) It creates the HTML element specified by tagName.
 1. Set values for the [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/) and [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/) attributes.
 1.  Use [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/) method to add `value`, `disabled`, or other supported attributes with their values.
-1. Copy C# code for the HTML checkbox and use it in your project.
+1. Copy C# code for the submit button and use it in your project.
 
 {{<section other-generators>}}
 ---
