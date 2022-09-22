@@ -2,7 +2,7 @@
 translation: true
 title: HTML Number Input Generator – Online-Tool und C#-Code
 template: /templates/_template-generators-child.md
-description: Erstellen Sie eine HTML Number Input für Ihre Website. Überprüfen Sie die Zahleneingabe, kopieren und verwenden Sie generierten HTML- und C#-Code in Ihrem Projekt!
+description: Erstellen Sie eine HTML-Zahleneingabe für Ihre Website. Vorschau, Kopieren und Verwenden von HTML- und C#-Code in Ihrem Projekt!
 url: /net/generators/number/
 platformtag: net
 generator: HTML Number Input Generator
@@ -30,7 +30,7 @@ Ein [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element)
 <br>
 <h2> Attributes </h2>
 
-Die HTML-Nummerneingabe enthält normalerweise die Attribute `name`, `value`, `min`, `max` und `step`.
+Die HTML-Number-Input enthält normalerweise die Attribute `name`, `value`, `min`, `max` und `step`.
 
 - Mit den Attributen `min` und `max` können Sie die Minimal- und Maximalwerte festlegen.
 - Das Attribut `step` ist eine Zahl, die die Granularität angibt. Der Standardschrittwert ist 1.
@@ -38,7 +38,7 @@ Die HTML-Nummerneingabe enthält normalerweise die Attribute `name`, `value`, `m
 
 <h2> Zahleneingabe in C# erstellen</h2>
 
-Aspose.HTML für die .NET-API funktioniert als Headless-Browser, mit dem Sie vorhandene HTML-Dokumente aus verschiedenen Quellen erstellen oder öffnen können, um Bearbeitungsvorgänge wie das Entfernen, Anhängen und Ersetzen von HTML-Knoten durchzuführen. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine Zahleneingabe hinzufügen möchten, sehen Sie sich das folgende C#-Codebeispiel an:
+Aspose.HTML for .NET API funktioniert als Headless-Browser, mit dem Sie vorhandene HTML-Dokumente aus verschiedenen Quellen erstellen oder öffnen können, um Bearbeitungsvorgänge wie das Entfernen, Anhängen und Ersetzen von HTML-Knoten durchzuführen. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine Zahleneingabe hinzufügen möchten, sehen Sie sich das folgende C#-Codebeispiel an:
 
 {{< /app/html/generator >}}
 

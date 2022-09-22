@@ -18,10 +18,10 @@ h2: Generieren Sie HTML- und C#-Code für eine HTML-Image-Input und verwenden Si
 
 {{<section overview>}}
 ---
-h2: HTML-Image-Button Generieren
+h2: Generieren Sie ganz einfach eine HTML-Image-Input!
 ---
 
-Ein [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element)-Element mit `type='image'` wird verwendet, um eine grafische Senden-Schaltfläche zu erstellen, die die Form von hat ein Bild statt Text. Der HTML-Bildeingabegenerator hilft beim Generieren von HTML-Code für eine Schaltfläche zum Senden eines Bilds, indem Attribute wie `name`, `src`, `alt`, `width`, `height` und `autofocus`. ausgewählt werden. Generieren Sie ganz einfach Bildschaltflächen-Tags mit HTML-Syntax!
+Ein [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element)-Element mit `type='image'` wird verwendet, um eine grafische Senden-Schaltfläche zu erstellen, die die Form von hat ein Bild statt Text. Der HTML-Image-Input-Generator hilft beim Generieren von HTML-Code für eine Schaltfläche zum Senden eines Bilds, indem Attribute wie `name`, `src`, `alt`, `width`, `height` und `autofocus`. ausgewählt werden. Generieren Sie ganz einfach Bildschaltflächen-Tags mit HTML-Syntax!
 
 {{<section plugin>}}
 
@@ -35,13 +35,13 @@ Ein [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element)
 
 <h2> Bildschaltfläche in C# erstellen</h2>
 
-Aspose.HTML für die .NET-API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine Bildschaltfläche hinzufügen möchten, sehen Sie sich das folgende C#-Codebeispiel an:
+Aspose.HTML for .NET API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine Bildschaltfläche hinzufügen möchten, sehen Sie sich das folgende C#-Codebeispiel an:
 
 {{< /app/html/generator >}}
 
 {{<section steps>}}
 ---
-h2: Schritte zum Erstellen einer HTML-Bildeingabe in C#
+h2: Schritte zum Erstellen einer HTML-Image-Input in C#
 ---
 1. Verwenden Sie die Methode [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) der Document-Klasse, um [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) Erstellt das durch tagName angegebene HTML-Element.
 1. Legen Sie Werte für [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/) und [Src](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/src/) Attribute.

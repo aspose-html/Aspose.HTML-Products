@@ -33,6 +33,7 @@ HTML [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element
 <h2> Attributes </h2>
 
 With the input `type='text'` element you can use attributes such as *name*, *size*, *placeholder*, *list*, *required*, *spellcheck*, *maxlength*, *minlength*, etc.
+
 - The `size` attribute is a numeric value indicating how many characters should be in the input field. The default width of the text field is 20 characters.
 - The `placeholder` attribute is a string that gives the user a brief hint about what information is expected in the field.
 - The `spellcheck` is an attribute that is used to indicate whether to enable spell-checking for an element.

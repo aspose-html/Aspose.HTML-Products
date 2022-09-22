@@ -36,7 +36,7 @@ Innerhalb eines `<button>`-Tags können Sie Text einfügen und Ihrem Button Symb
 
 <h2> HTML-Schaltfläche in C# erstellen</h2>
 
-Aspose.HTML für die .NET-API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert ein `<button>`-Element hinzufügen möchten, sehen Sie sich das C#-Codebeispiel unten an. Sie können eine Schaltfläche mit ein paar Zeilen C#-Code erstellen:
+Aspose.HTML for .NET API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert ein `<button>`-Element hinzufügen möchten, sehen Sie sich das C#-Codebeispiel unten an. Sie können eine Schaltfläche mit ein paar Zeilen C#-Code erstellen:
 
 {{< /app/html/generator >}}
 

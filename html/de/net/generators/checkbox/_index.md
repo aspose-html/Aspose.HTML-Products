@@ -35,7 +35,7 @@ Sie können ein HTML-Checkbox-Eingabe-Tag und einen Checkbox-C#-Code generieren,
 
 <h2> HTML-Kontrollkästchen in C# erstellen</h2>
 
-Aspose.HTML für die .NET-API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert ein Kontrollkästchen hinzufügen möchten, sehen Sie sich das C#-Codebeispiel unten an. Sie können ein Kontrollkästchen mit ein paar Zeilen C#-Code erstellen:
+Aspose.HTML for .NET API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert ein Kontrollkästchen hinzufügen möchten, sehen Sie sich das C#-Codebeispiel unten an. Sie können ein Kontrollkästchen mit ein paar Zeilen C#-Code erstellen:
 
 {{< /app/html/generator >}}
 

@@ -34,7 +34,7 @@ Die Passworteingabe enthält normalerweise die Attribute `name`, `size`, `placeh
 
 <h2> HTML Password Input in C# erstellen</h2>
 
-Aspose.HTML für die .NET-API funktioniert als Headless-Browser, mit dem Sie vorhandene HTML-Dokumente aus verschiedenen Quellen erstellen oder öffnen können, um Bearbeitungsvorgänge wie das Entfernen, Anhängen und Ersetzen von HTML-Knoten durchzuführen. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine HTML-Kennworteingabe hinzufügen möchten, sehen Sie sich das C#-Beispiel unten an. Sie können die Passworteingabe mit ein paar Zeilen C#-Code erstellen:
+Aspose.HTML for .NET API funktioniert als Headless-Browser, mit dem Sie vorhandene HTML-Dokumente aus verschiedenen Quellen erstellen oder öffnen können, um Bearbeitungsvorgänge wie das Entfernen, Anhängen und Ersetzen von HTML-Knoten durchzuführen. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine HTML-Kennworteingabe hinzufügen möchten, sehen Sie sich das C#-Beispiel unten an. Sie können die Passworteingabe mit ein paar Zeilen C#-Code erstellen:
 
 {{< /app/html/generator >}}
 

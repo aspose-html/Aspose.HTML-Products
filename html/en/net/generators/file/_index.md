@@ -18,7 +18,7 @@ h2: Generate HTML and C# code for an HTML file input and use it in your own webs
 
 {{<section overview>}}
 ---
-h2: Generate File Input Easily!
+h2: Generate HTML File Input Easily!
 ---
 
 An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) element with `type="file"` allows the user to select one or more files from their device's storage. Once chosen, the files can be uploaded to a server using form submission, or manipulated using JavaScript code and the File API. Easily generate file input tag with HTML syntax! 
