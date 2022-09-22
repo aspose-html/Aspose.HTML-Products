@@ -31,16 +31,15 @@ feature: generators
             <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/email/" target="_blank">email</a></li>
             <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" target="_blank">file</a></li>
             <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" target="_blank">image</a></li>
-            <li>number</li>
-            <li>password</li>
-            <li>range</li>
-			<li>range</li>
-			<li>search</li>
-			<li>submit</li>
-			<li>telephone</li>
-			<li>text</li>
-			<li>textarea</li>
-			<li>url</li>					
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/number/" target="_blank">number</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/password/" target="_blank">password</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/range/" target="_blank">range</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/search/" target="_blank">search</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/submit/" target="_blank">submit</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/telephone/" target="_blank">telephone</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/text/" target="_blank">text</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/textarea/" target="_blank">textarea</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/url-input/" target="_blank">url</a></li>					
 		</ul>
 	</div>
 	<div class="col-md-3">		

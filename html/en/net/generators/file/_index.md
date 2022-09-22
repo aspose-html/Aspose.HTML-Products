@@ -18,7 +18,7 @@ h2: Generate HTML and C# code for an HTML file input and use it in your own webs
 
 {{<section overview>}}
 ---
-h2: Generate File Input Easily!
+h2: Generate HTML File Input Easily!
 ---
 
 An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) element with `type="file"` allows the user to select one or more files from their device's storage. Once chosen, the files can be uploaded to a server using form submission, or manipulated using JavaScript code and the File API. Easily generate file input tag with HTML syntax! 
@@ -37,7 +37,7 @@ HTML File Input Generator helps to generate HTML codefor input tag with `type='f
 
 <h2> Create HTML File Input in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML file input, see the C# code example below. You can create the desired element with a few lines of C# code:
+Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML file input, see the C# example below. You can create the desired element with a few lines of code:
 
 {{< /app/html/generator >}}
 

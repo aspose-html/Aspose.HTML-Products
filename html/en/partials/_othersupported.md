@@ -83,14 +83,23 @@ deploy: false
 
 {{<section generators>}}
 
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/button/" name="HTML Button Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/checkbox/" name="HTML Checkbox Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/radio/" name="HTML Radio Button Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/email/" name="HTML Email Input Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/color/" name="HTML Color Input Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/date-time/" name="HTML Date & Time Input Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" name="HTML File Input Generator" >}}
-{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" name="HTML Image Input Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/button/" name="HTML Button" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/checkbox/" name="HTML Checkbox" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/radio/" name="HTML Radio Button" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/email/" name="HTML Email Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/color/" name="HTML Color Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/date-time/" name="HTML Date & Time Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" name="HTML File Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" name="HTML Image Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/number/" name="HTML Number Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/password/" name="HTML Password Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/range/" name="HTML Range Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/search/" name="HTML Search Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/submit/" name="HTML Submit Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/telephone/" name="HTML Telephone Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/text/" name="HTML Text Input" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/textarea/" name="HTML Textarea" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/url-input/" name="HTML URL Input" >}}
 
 {{<section aspose>}}
 

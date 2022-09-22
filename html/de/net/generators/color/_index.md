@@ -36,7 +36,7 @@ Sie können ein HTML-Farbeingabe-Tag und einen C#-Code für die Farbauswahl gene
 
 <h2> HTML-Farbeingabe in C# erstellen</h2>
 
-Aspose.HTML für die .NET-API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine Farbauswahl hinzufügen möchten, sehen Sie sich das folgende C#-Codebeispiel an:
+Aspose.HTML for .NET API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine Farbauswahl hinzufügen möchten, sehen Sie sich das folgende C#-Codebeispiel an:
 {{< /app/html/generator >}}
 
 {{<section steps>}}

@@ -29,7 +29,7 @@ An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) 
 
 HTML Email Input Generator helps to generate HTML code for the input tag with `type='email'` by selecting attributes like `name`, `placeholder`, `size`, `multiple`, `required`, and `pattern`. 
 - The `placeholder` attribute is a string that gives the user a brief hint about what information is expected in the field.
-- The `size` attribute is a numeric value indicating how many characters should be in the input field. The default value is 20.
+- The `size` attribute is a numeric value indicating how many characters wide should be in the input field. The default value is 20.
 - The `multiple` boolean attribute specifies that the user can enter multiple email addresses separated by commas.
 - The `pattern` attribute is a regular expression that the input value must match in order for the value to pass the constraint validation. If the specified pattern is not specified or is invalid, the regular expression is not applied and this attribute is completely ignored.
 <br>

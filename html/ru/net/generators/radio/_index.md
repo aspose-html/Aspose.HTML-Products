@@ -29,7 +29,7 @@ Checkboxes аналогичны HTML radio button, но переключател
 {{< app/html/generator name="radio" >}}
 
 <br>
-<h2> Attributes </h2>
+<h2> Атрибуты </h2>
 
 Вы можете сгенерировать HTML тег для переключателя radio button и код C#, выбрав такие атрибуты, как `name`, `id`, `checked` и т. д.
 
