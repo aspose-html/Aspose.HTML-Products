@@ -23,31 +23,31 @@ feature: generators
 	<div class="col-md-3">
         <h4>Input</h4>				
 		<ul>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/button/" target="_blank">button</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/checkbox/" target="_blank">checkbox</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/radio/" target="_blank">radio</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/color/" target="_blank">color</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/date-time/" target="_blank">date-time</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/email/" target="_blank">email</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" target="_blank">file</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" target="_blank">image</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/number/" target="_blank">number</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/password/" target="_blank">password</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/range/" target="_blank">range</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/search/" target="_blank">search</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/submit/" target="_blank">submit</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/telephone/" target="_blank">telephone</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/text/" target="_blank">text</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/textarea/" target="_blank">textarea</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/url-input/" target="_blank">url</a></li>					
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/button/" >HTML Button</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/checkbox/" >HTML Checkbox</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/radio/" >HTML Radio Button</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/color/" >HTML Color Input</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/date-time/" >date-time</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/email/" >email</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" >file</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" >image</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/number/" >number</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/password/" >password</a></li>
+            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/range/" >range</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/search/" >search</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/submit/" >submit</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/telephone/" >telephone</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/text/" >text</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/textarea/" >textarea</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/url-input/" >url</a></li>					
 		</ul>
 	</div>
 	<div class="col-md-3">		
 		<h4>Media</h4>
         <ul>
-			<li>audio</li>
-			<li>video</li>
-			<li>image</li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/audio/" >HTML Audio</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/video/" >HTML Video</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image/" >HTML Image</a></li>
         </ul>
 	</div>
 	<div class="col-md-3">		
@@ -68,8 +68,8 @@ feature: generators
     <div class="col-md-3">		
 		<h4>Other</h4>
         <ul>
-			<li>table</li>
-			<li>iframe</li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/table/" >HTML Table</a></li>
+			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/iframe/" >HTML iFrame</a></li>
 			<li>details</li>
 			<li>dialog</li>
 			<li>hyperlink</li>
