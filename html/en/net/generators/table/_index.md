@@ -35,7 +35,7 @@ The `<table>` element can include global attributes such as `style`, `border`, `
  - The `border` attribute specifies the border width. A value of "0" means no border.
  - The `align` attribute indicates how the table must be aligned inside the containing document. It may have the following values: left, center, right.
  - The `width` attribute specifies the width of the table. 
- <br>
+ <br><br>
 
 <h2> Create HTML Table in C#</h2>
 

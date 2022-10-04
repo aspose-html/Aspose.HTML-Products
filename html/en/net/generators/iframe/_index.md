@@ -21,7 +21,7 @@ h2: Generate HTML and C# code for an HTML iFrame element and use it in your own 
 h2: Generate HTML iFrame on the fly!
 ---
 
-The HTML [iframe](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element) element represents a [nested browsing context;](https://html.spec.whatwg.org/multipage/browsers.html#nested-browsing-context) it is used to embed another document in the current HTML document. With the HTML iFrame Generator, you can create iframe codes and customize them to your requirements. You can specify its width and height in percentage as well as in pixels, give the name, set scrolling and borders.
+The HTML [iframe](https://html.spec.whatwg.org/multipage/iframe-embed-object.html#the-iframe-element) element represents a [nested browsing context;](https://html.spec.whatwg.org/multipage/browsers.html#nested-browsing-context) it is used to embed another document in the current HTML document. With the HTML iFrame Generator, you can create an `<iframe>` tag and customize it to your requirements. You can specify its width and height in percentage as well as in pixels, give the name, set scrolling and borders.
 
 {{<section plugin>}}
 
@@ -34,7 +34,7 @@ The HTML [iframe](https://html.spec.whatwg.org/multipage/iframe-embed-object.htm
  - The `name` attribute specifies the targetable name of an iframe.
  - The `width` and `height` attributes specify the width and height of an iframe. Default width is 300 pixels and default height is 150 pixels.
  - The `scrolling` attribute specifies when the browser should provide a scrollbar for the frame.
- <br>
+ <br><br>
 
 <h2> Create HTML iFrame in C#</h2>
 

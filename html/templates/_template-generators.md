@@ -23,31 +23,31 @@ feature: generators
 	<div class="col-md-3">
         <h4>Input</h4>				
 		<ul>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/button/" >HTML Button</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/checkbox/" >HTML Checkbox</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/radio/" >HTML Radio Button</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/color/" >HTML Color Input</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/date-time/" >date-time</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/email/" >email</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/file/" >file</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image-input/" >image</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/number/" >number</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/password/" >password</a></li>
-            <li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/range/" >range</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/search/" >search</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/submit/" >submit</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/telephone/" >telephone</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/text/" >text</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/textarea/" >textarea</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/url-input/" >url</a></li>					
+			<li><a href="/html/{{lang.url-fragment}}net/generators/button/" >HTML Button Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/checkbox/" >HTML Checkbox Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/radio/" >HTML Radio Button Generator</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/generators/color/" >HTML Color Input Generator</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/generators/date-time/" >HTML Date & Time Input Generator</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/generators/email/" >HTML Email Input Generatorl</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/generators/file/" >HTML File Input Generator</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/generators/image-input/" >HTML Image Input Generator</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/generators/number/" >HTML Number Input Generator</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/generators/password/" >HTML Password Input Generator</a></li>
+            <li><a href="/html/{{lang.url-fragment}}net/generators/range/" >HTML Range Input Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/search/" >HTML Search Input Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/submit/" >HTML Submit Input Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/telephone/" >HTML Telephone Input Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/text/" >HTML Text Input Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/textarea/" >HTML Textarea Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/url-input/" >HTML URL Input Generator</a></li>					
 		</ul>
 	</div>
 	<div class="col-md-3">		
 		<h4>Media</h4>
         <ul>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/audio/" >HTML Audio</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/video/" >HTML Video</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/image/" >HTML Image</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/audio/" >HTML Audio Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/video/" >HTML Video Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/image/" >HTML Image Tag Generator</a></li>
         </ul>
 	</div>
 	<div class="col-md-3">		
@@ -68,8 +68,8 @@ feature: generators
     <div class="col-md-3">		
 		<h4>Other</h4>
         <ul>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/table/" >HTML Table</a></li>
-			<li><a href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/iframe/" >HTML iFrame</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/table/" >HTML Table Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/iframe/" >HTML iFrame Generator</a></li>
 			<li>details</li>
 			<li>dialog</li>
 			<li>hyperlink</li>

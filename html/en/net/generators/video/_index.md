@@ -21,7 +21,7 @@ h2: Generate HTML and C# code for an HTML video element and use it in your own w
 h2: Generate HTML Video Tag Easily!
 ---
 
-The [video](https://html.spec.whatwg.org/multipage/media.html#the-video-element) HTML element is used to embed a media player that supports video playback in a document. The `<video>` tag can contain one or more <source> tags with different video sources. The browser will choose the first source it supports. You can enable or disable various attributes to specify information such as the width and height of the video, whether you want it to autoplay and loop, whether you want to display video controls by default in the browser, and more.
+The [video](https://html.spec.whatwg.org/multipage/media.html#the-video-element) HTML element is used to embed a media player that supports video playback in a document. The `<video>` tag can contain one or more `<source>` tags with different video sources. The browser will choose the first source it supports. You can enable or disable various attributes to specify information such as the width and height of the video, whether you want it to autoplay and loop, whether you want to display video controls by default in the browser, and more.
 
 
 {{<section plugin>}}
@@ -52,8 +52,8 @@ h2: Steps to Create HTML Video Element in C#
 
 1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create a video element. In an HTML document, the Document.CreateElement() method creates the HTML element specified by tagName, in our case the tagName is "video".
 2. Use [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/) method to add `controls` and other required attributes.
-3. Create a source element and set required attributes for it. Use the CreateElement() method with "source" tagName.
-4. Use [AppendChild()](https://reference.aspose.com/html/net/aspose.html.dom/node/appendchild/) method to add the source element into the video element. 
+3. Create a `<source>` element and set required attributes for it. Use the CreateElement() method with "source" tagName.
+4. Use [AppendChild()](https://reference.aspose.com/html/net/aspose.html.dom/node/appendchild/) method to add the `<source>` element into the `<video>` element. 
 5. Copy C# code for the HTML video element and use it in your project.
 
 {{<section other-generators>}}

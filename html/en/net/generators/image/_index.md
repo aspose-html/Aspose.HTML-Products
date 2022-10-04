@@ -21,7 +21,7 @@ h2: Generate HTML and C# code for an HTML image element and use it in your websi
 h2: Generate HTML <img> Tag Easily!
 ---
 
-The `<img>` tag is used to embed an image in an HTML page. Using an HTML image element will certainly make your web page more interesting. Images are not technically inserted into a web page, but images are linked to web pages. The <img> tag creates a holding space for the referenced image.
+The `<img>` tag is used to embed an image in an HTML page. Using an HTML image element will certainly make your web page more interesting. Images are not technically inserted into a web page, but images are linked to web pages. The `<img>` tag creates a holding space for the referenced image.
 
 {{<section plugin>}} 
 
@@ -33,7 +33,7 @@ The `<img>` tag is used to embed an image in an HTML page. Using an HTML image e
  - The `src` attribute is required and includes the path of an image to a particular document. In other words, it is used to link images in HTML documents.
  - The `alt` attribute is optional but incredibly useful for accessibility. It contains a text description of the image that is displayed on the page if the image cannot be loaded for some reason.
  - It is recommended to always specify the `width` and `height` of the image. If these attributes are not specified, the page may flicker while the image is loading.  
-<br>
+<br><br>
 
 <h2> Create HTML Image Element in C#</h2>
 
@@ -46,7 +46,7 @@ Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTM
 h2: Steps to Create HTML Image Element in C#
 ---
 
-1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create an image element. In an HTML document, the Document.CreateElement() method creates the HTML element specified by tagName, in our case the tagName is "img".
+1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create an [HTMLImageElement.](https://reference.aspose.com/html/net/aspose.html/htmlimageelement/) In an HTML document, the Document.CreateElement() method creates the HTML element specified by tagName, in our case the tagName is "img".
 2. Set value for the required `src` attribute.
 3. Copy C# code for the HTML image element and use it in your project.
 

@@ -21,7 +21,7 @@ h2: Generate HTML and C# code for an HTML audio element and use it in your websi
 h2: Generate HTML Audio Tag Easily!
 ---
 
-The [audio](https://html.spec.whatwg.org/multipage/media.html#the-audio-element) HTML element is used to embed music or any sound content in an HTML document. The `<audio>` element can contain one or more `<source>` tags with different audio sources. The browser will choose the first source it supports. Support for the audio element varies by browser. Add sounds to your web page using this HTML Audio Generator!
+The [audio](https://html.spec.whatwg.org/multipage/media.html#the-audio-element) HTML element is used to embed music or any sound content in an HTML document. The `<audio>` element can contain one or more `<source>` tags with different audio sources. The browser will choose the first source it supports. Support for the `<audio>` element varies by browser. Add sounds to your web page using this HTML Audio Generator!
 
 {{<section plugin>}}
 
@@ -30,7 +30,8 @@ The [audio](https://html.spec.whatwg.org/multipage/media.html#the-audio-element)
 <br>
 <h2> Attributes </h2>
 
-There are many options available in HTML Audio Generator that you can use to generate HTML audio tag code and then copy & paste it into your own website. Main attributes supported by the audio element are `controls`, `autoplay`, `loop`, `preload` and `src`. You can enable or disable various options such as audio controls, autoplay, looping, and preloading.
+There are many options available in HTML Audio Generator that you can use to generate HTML audio tag code and then copy & paste it into your own website. Main attributes supported by the audio element are `controls`, `autoplay`, `loop`, `preload` and `src`. 
+
  - The audio `preload` attribute specifies the audio file should be loaded when the page loads.
  - The `src` attribute specifies the URL of the audio to embed. But this is optional. Instead, you can use the `<source>` element in the audio block to specify the audio to embed.
  - The `autoplay` boolean attribute, if specified, will automatically start playing.
@@ -52,8 +53,8 @@ h2: Steps to Create HTML Audio Element in C#
 
 1. Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create an audio element. In an HTML document, the Document.CreateElement() method creates the HTML element specified by tagName, in our case the tagName is "audio".
 2. Use [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/) method to add `controls` and other required attributes.
-3. Create one or more source elements and set required attributes for them. Use the CreateElement() method with "source" tagName.
-4. Use [AppendChild()](https://reference.aspose.com/html/net/aspose.html.dom/node/appendchild/) method to add source elements into the audio element. 
+3. Create one or more `<source>` elements and set required attributes for them. Use the CreateElement() method with "source" tagName.
+4. Use [AppendChild()](https://reference.aspose.com/html/net/aspose.html.dom/node/appendchild/) method to add `<source>` elements into the `<audio>` element. 
 5. Copy C# code for the HTML audio element and use it in your C# project.
 
 {{<section other-generators>}}
