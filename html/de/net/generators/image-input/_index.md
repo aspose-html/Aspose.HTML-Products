@@ -33,7 +33,7 @@ Ein [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element)
 - Das boolesche Attribut `autofocus`, falls vorhanden, gibt an, dass das Element `<input>` automatisch den Fokus erhalten soll, wenn die Seite geladen wird.
 <br>
 
-<h2> Bildschaltfläche in C# erstellen</h2>
+<h2> Erstellen Sie eine HTML-Image-Input in C#</h2>
 
 Aspose.HTML for .NET API unterstützt eine Reihe von HTML-Elementen, die im HTML-Standard definiert sind, zusammen mit Regeln darüber, wie die Elemente verschachtelt werden können. Sie können das Dokument ändern, indem Sie neue Elemente anhängen, den Inhalt vorhandener Knoten entfernen oder bearbeiten. Wenn Sie die HTML-Bearbeitungsfunktionen in Ihrem Produkt verwenden oder programmgesteuert eine Bildschaltfläche hinzufügen möchten, sehen Sie sich das folgende C#-Codebeispiel an:
 
@@ -43,9 +43,10 @@ Aspose.HTML for .NET API unterstützt eine Reihe von HTML-Elementen, die im HTML
 ---
 h2: Schritte zum Erstellen einer HTML-Image-Input in C#
 ---
+
 1. Verwenden Sie die Methode [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) der Document-Klasse, um [HTMLInputElement.](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/) Erstellt das durch tagName angegebene HTML-Element.
 1. Legen Sie Werte für [Type](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/type/), [Name](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/name/) und [Src](https://reference.aspose.com/html/net/aspose.html/htmlinputelement/src/) Attribute.
-1. Verwenden Sie die Methode [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/), um `alt`, `width`, `height` und hinzuzufügen `autofokus`-Attribute.
+1. Verwenden Sie die Methode [SetAttribute()](https://reference.aspose.com/html/net/aspose.html.dom/element/setattribute/), um `alt`, `width`, `height` und hinzuzufügen `autofocus`-Attribute.
 1. Kopieren Sie den C#-Code für die Bildschaltfläche und verwenden Sie ihn in Ihrem C#-Projekt.
 
 {{<section other-generators>}}
