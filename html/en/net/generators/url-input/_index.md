@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML URL Input for your website. Рreview the URL Input, copy and use generated HTML and C# code in your project!
 url: /net/generators/url-input/
 platformtag: net
+family: html
 generator: HTML URL Input Generator
 element: HTML URL input
 tag: url-input

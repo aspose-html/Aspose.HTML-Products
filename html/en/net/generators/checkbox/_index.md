@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Checkbox Generator lets you create HTML checkboxes for your website. You can preview the checkbox and copy generated HTML and C# code.
 url: /net/generators/checkbox/
 platformtag: net
+family: html
 generator: HTML Checkbox Generator
 element: checkbox
 tag: checkbox

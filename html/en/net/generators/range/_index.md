@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Range Input for your website. Рreview the Range Input, copy and use generated HTML and C# code in your project!
 url: /net/generators/range/
 platformtag: net
+family: html
 generator: HTML Range Input Generator
 element: HTML range input
 tag: range

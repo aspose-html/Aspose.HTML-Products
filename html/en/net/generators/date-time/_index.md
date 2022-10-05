@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Generate HTML date & time input, preview the result and copy the generated HTML and C# code to your website.
 url: /net/generators/date-time/
 platformtag: net
+family: html
 generator: HTML Date & Time Input Generator
 element: HTML Date & Time Input
 tag: date-time

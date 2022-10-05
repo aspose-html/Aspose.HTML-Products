@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Password Input for your website. Рreview the Password Input, copy and use generated HTML and C# code in your project!
 url: /net/generators/password/
 platformtag: net
+family: html
 generator: HTML Password Input Generator
 element: HTML password input
 tag: password

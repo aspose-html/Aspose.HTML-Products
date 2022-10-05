@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Number Input for your website. Рreview the Number Input, copy and use generated HTML and C# code in your project!
 url: /net/generators/number/
 platformtag: net
+family: html
 generator: HTML Number Input Generator
 element: HTML number input
 tag: number

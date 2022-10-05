@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML Audio Generator creates HTML and C# code for an audio element. You can generate code and use it in your own website or C# project.
 url: /net/generators/audio/
 platformtag: net
+family: html
 generator: HTML Audio Generator
 element: HTML audio
 tag: audio

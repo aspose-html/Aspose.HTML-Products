@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML Image Generator creates HTML and C# code for an HTML image element. You can generate code and use it in your own website or C# project.
 url: /net/generators/image/
 platformtag: net
+family: html
 generator: HTML Image Generator
 element: HTML image
 tag: image

@@ -53,16 +53,16 @@ feature: generators
 	<div class="col-md-3">		
 		<h4>Text</h4>
         <ul>
-			<li>Bi-Directional Override</li>
-			<li>strong</li>
-			<li>Citation</li>
-			<li>code</li>
-			<li>Italic</li>
-			<li>Highlight</li>
-			<li>Quote & Blockquote</li>
-			<li>Strikethrough</li>
-			<li>Superscript & Subscript</li>
-			<li>Underline</li>								
+			<li><a href="/html/{{lang.url-fragment}}net/generators/bdo/" >Bi-Directional Override HTML Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/bold-text/" >Bold Text HTML Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/cite/" >Citation HTML Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/code/" >HTML code Tag Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/emphasize/" >Emphasize Text HTML Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/mark/" >HTML mark Tag Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/quote-blockquote/" >Quote & Blockquote HTML Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/strikethrough/" >Strikethrough HTML Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/superscript-subscript/" >Superscript & Subscript HTML Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/unarticulated/" >Underline (Unarticulated) Text HTML Generator</a></li>								
 		</ul>
 	</div>
     <div class="col-md-3">		

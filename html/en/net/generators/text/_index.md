@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Text Input for your website. Рreview the text box, copy and use generated HTML and C# code in your project!
 url: /net/generators/text/
 platformtag: net
+family: html
 generator: HTML Text Input Generator
 element: HTML text input
 tag: text

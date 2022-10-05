@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Generate HTML Image Button, preview the result and copy the generated HTML and C# code to your website.
 url: /net/generators/image-input/
 platformtag: net
+family: html
 generator: HTML Image Input Generator
 element: HTML image input
 tag: image-input

@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Generate HTML email input, preview the result and copy the generated HTML and C# code to your website.
 url: /net/generators/email/
 platformtag: net
+family: html
 generator: HTML Email Input Generator
 element: HTML email input
 tag: email

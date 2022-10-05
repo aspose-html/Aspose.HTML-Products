@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Submit Input for your website. Рreview the submit button, copy and use generated HTML and C# code in your project!
 url: /net/generators/submit/
 platformtag: net
+family: html
 generator: HTML Submit Input Generator
 element: HTML submit input
 tag: submit

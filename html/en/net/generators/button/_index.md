@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML Button Generator creates HTML button and C# code for this element. You can generate code and use it in your own website or C# project.
 url: /net/generators/button/
 platformtag: net
+family: html
 generator: HTML Button Generator
 element: HTML button
 tag: button

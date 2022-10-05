@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Generate HTML search input, preview the result and copy the generated HTML and C# code to your website.
 url: /net/generators/search/
 platformtag: net
+family: html
 generator: HTML Search Input Generator
 element: HTML search input
 tag: search

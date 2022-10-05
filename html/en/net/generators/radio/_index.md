@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Generate HTML Radio Buttons for your website. You can preview the radio buttons and copy generated HTML and C# code.
 url: /net/generators/radio/
 platformtag: net
+family: html
 generator: HTML Radio Button Generator
 element: HTML radio button
 tag: radio

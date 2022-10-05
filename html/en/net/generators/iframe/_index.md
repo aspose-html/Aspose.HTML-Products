@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML iFrame Generator creates HTML and C# code for an iframe element. Preview the result and copy the generated code to your website.
 url: /net/generators/iframe/
 platformtag: net
+family: html
 generator: HTML iFrame Generator
 element: HTML iframe
 tag: iframe

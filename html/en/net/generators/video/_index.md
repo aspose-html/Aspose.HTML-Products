@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML Video Generator creates HTML and C# code for a video element. You can generate code and use it in your own website or C# project.
 url: /net/generators/video/
 platformtag: net
+family: html
 generator: HTML Video Generator
 element: HTML video
 tag: video

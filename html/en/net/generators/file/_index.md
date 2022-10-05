@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Generate HTML file input, preview the result and copy the generated HTML and C# code to your website.
 url: /net/generators/file/
 platformtag: net
+family: html
 generator: HTML File Input Generator
 element: HTML file input
 tag: file
@@ -30,7 +31,7 @@ An [input](https://html.spec.whatwg.org/multipage/input.html#the-input-element) 
 <br>
 <h2> Attributes </h2>
 
-HTML File Input Generator helps to generate HTML codefor input tag with `type='file'` by selecting attributes like `name`, `accept`, and `multiple`. 
+HTML File Input Generator helps to generate HTML code for input tag with `type='file'` by selecting attributes like `name`, `accept`, and `multiple`. 
  - The value of the `accept` attribute is a string containing one or more unique file type specifiers separated by commas. These can be file extensions including a dot, such as .jpg, .png, .pdf, or MIME type strings without extensions, such as audio/* - any audio file is accepted. If the attribute value is left empty, all file types are accepted. 
  - When the `multiple` boolean attribute is set, the file input allows the user to choose more than one file.
 <br><br>

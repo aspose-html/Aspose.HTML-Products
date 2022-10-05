@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Generate HTML color input, preview the result and copy the generated HTML and C# code to your website.
 url: /net/generators/color/
 platformtag: net
+family: html
 generator: HTML Color Input Generator
 tag: color
 element: HTML color input

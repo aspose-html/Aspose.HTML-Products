@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML Table Generator creates HTML and C# code for a table element. You can generate code and use it in your own website or C# project.
 url: /net/generators/table/
 platformtag: net
+family: html
 generator: HTML Table Generator
 element: HTML table
 tag: table

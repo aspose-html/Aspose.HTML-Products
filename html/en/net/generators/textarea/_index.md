@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Textarea element for your website. Рreview the textarea, copy and use generated HTML and C# code in your project!
 url: /net/generators/textarea/
 platformtag: net
+family: html
 generator: HTML Textarea Generator
 element: HTML textarea
 tag: textarea

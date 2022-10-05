@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Telephone Input for your website. Рreview the Telephone Input, copy and use generated HTML and C# code in your project!
 url: /net/generators/telephone/
 platformtag: net
+family: html
 generator: HTML Telephone Input Generator
 element: HTML telephone input
 tag: telephone
