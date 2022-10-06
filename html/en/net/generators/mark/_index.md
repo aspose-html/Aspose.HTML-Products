@@ -19,7 +19,7 @@ h2: Generate HTML and C# code for an HTML Highlight and use it in your website o
 
 {{<section overview>}}
 ---
-h2: HTML <mark> Tag Generator
+h2: Generate HTML <mark> Tag on the fly!
 ---
 
 The `<mark>` HTML element defines the text that should be marked or highlighted. The `<mark>` tag indicates a part of the document's content that you find of interest, for example, to indicate the words that matched a search operation.
@@ -31,7 +31,7 @@ The `<mark>` HTML element defines the text that should be marked or highlighted.
 <br>
 <h2> Create HTML mark tag in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML mark tag, see the C# example below:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML mark tag, see the C# example below:
 
 {{< /app/html/generator >}}
 

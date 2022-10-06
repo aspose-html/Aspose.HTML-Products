@@ -38,7 +38,7 @@ HTML File Input Generator helps to generate HTML code for input tag with `type='
 
 <h2> Create HTML File Input in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML file input, see the C# example below. You can create the desired element with a few lines of code:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML file input, see the C# example below. You can create the desired element with a few lines of code:
 
 {{< /app/html/generator >}}
 

@@ -35,7 +35,7 @@ A `value` attribute contains a string that is displayed as the label of the butt
 
 <h2> Create HTML Submit Input in C#</h2>
 
-Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a submit button, see the C# code example below. You can create a submit input tag with a few lines:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a submit button, see the C# code example below. You can create a submit input tag with a few lines:
 
 {{< /app/html/generator >}}
 

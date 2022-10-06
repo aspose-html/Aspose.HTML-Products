@@ -40,7 +40,7 @@ You can generate an HTML radio button input tag and C# code by selecting attribu
 
 <h2> Create Radio Button in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a radio button, see the C# example below. You can create the desired element with a few lines of code:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a radio button, see the C# example below. You can create the desired element with a few lines of code:
 
 {{< /app/html/generator >}}
 

@@ -35,7 +35,7 @@ The password input usually contains a `name`, `size`, `placeholder` and `minleng
 
 <h2> Create HTML Password Input in C#</h2>
 
-Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add an HTML password input, see the C# example below. You can create the password input with a few lines of C# code:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add an HTML password input, see the C# example below. You can create the password input with a few lines of C# code:
 
 {{< /app/html/generator >}}
 

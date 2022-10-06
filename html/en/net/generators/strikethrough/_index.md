@@ -2,42 +2,51 @@
 translation: true
 title: Strikethrough HTML Generator - Online Tool and C# Code
 template: /templates/_template-generators-child.md
-description: Strikethrough HTML Generator
+description: Generate HTML Strikethrough tag, preview the result and copy the generated HTML and C# code to your website.
 url: /net/generators/strikethrough/
 platformtag: net
 family: html
 generator: Strikethrough HTML Generator
-element: Strikethrough HTML
+element: Strikethrough HTML tag
 tag: strikethrough
 ---
 
 {{<section banner>}}
 ---
-h1: HTML Audio Generator
-h2: Generate HTML and C# code for an HTML audio element and use it in your website or C# project.
+h1: Strikethrough HTML Generator
+h2: Generate HTML and C# code for an HTML `<s>` tag and use it in your website or C# project.
 ---
 
 {{<section overview>}}
 ---
-h2: Strikethrough HTML Generator
+h2: Generate HTML <s> Tag Easily!
 ---
 
-The *s* HTML element renders text with a strikethrough, or a line through it. Use the *s* element to represent things that are no longer relevant or no longer accurate. However, *s* is not appropriate when indicating document edits; for that, use the *del* and *ins* elements, as appropriate.
+The HTML `<s>` tag specifies text that is no longer correct, accurate or relevant. The text will be displayed with a line through it. The `<s>` tag is uses when you are trying to represent things that are no longer relevant or no longer accurate. However, `<s>` is not appropriate when indicating document edits; for that, use the `<del>` and `<ins>` elements, as appropriate.
 
 {{<section plugin>}}
 
 {{< app/html/generator name="strikethrough" >}}
 
 <br>
-<h2> Attributes </h2>
+<h2> Create Strikethrough HTML element in C#</h2>
 
-HTML File Input Generator helps to generate HTML codefor input tag with `type='file'` by selecting attributes like `name`, `accept`, and `multiple`. 
- - The value of the `accept` attribute is a string containing one or more unique file type specifiers separated by commas. These can be file extensions including a dot, such as .jpg, .png, .pdf, or MIME type strings without extensions, such as audio/* - any audio file is accepted. If the attribute value is left empty, all file types are accepted. 
- - When the `multiple` boolean attribute is set, the file input allows the user to choose more than one file.
-<br><br>
-
-<h2> Create HTML File Input in C#</h2>
-
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML file input, see the C# example below. You can create the desired element with a few lines of code:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an HTML `<s>` tag, see the C# example below:
 
 {{< /app/html/generator >}}
+
+{{<section steps>}}
+---
+h2: Steps to Create Strikethrough HTML Tag in C#
+---
+
+1.  Use the [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) method of Document class to create an `<s>` element. In an HTML document, the Document.CreateElement() method creates the HTML element specified by tagName, in our case the tagName is "s".
+2. Create text content using [CreateTextNode()](https://reference.aspose.com/html/net/aspose.html.dom/document/createtextnode/) method.
+3. Use [AppendChild()](https://reference.aspose.com/html/net/aspose.html.dom/node/appendchild/) method to add text content into the HTML `<s>` element.
+4. Copy C# code for the HTML `<s>` tag and use it in your C# project. 
+
+{{<section other-generators>}}
+---
+title: Other Supported HTML Generators
+subTitle: "Use HTML Generators to build highly customizable HTML elements with no coding! Clear, safe and simple!"
+---

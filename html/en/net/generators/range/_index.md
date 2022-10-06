@@ -39,7 +39,7 @@ The range input usually contains a `name`, `value`, `min`, `max`, and `step` att
 
 <h2> Create HTML Range Input in C#</h2>
 
-Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a range input, see the C# code example below:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a range input, see the C# code example below:
 
 {{< /app/html/generator >}}
 

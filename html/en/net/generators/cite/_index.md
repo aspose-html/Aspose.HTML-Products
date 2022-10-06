@@ -22,7 +22,7 @@ h2: Generate HTML and C# code for an HTML `<cite>` tag and use it in your own we
 h2: Generate HTML <cite> Tag Easily!
 ---
 
-The `<cite>` HTML element is used to describe a reference to a cited creative work, such as a book, poem, movie, film, painting, song, etc.  It must include the title of the cited work and may be in an abbreviated form according to established requirements.
+The `<cite>` HTML element is used to describe a reference to a cited creative work, such as a book, poem, movie, film, painting, song, etc. It must include the title of the cited work, which may be in an abbreviated form according to established requirements.
 
 {{<section plugin>}}
 
@@ -31,7 +31,7 @@ The `<cite>` HTML element is used to describe a reference to a cited creative wo
 <br>
 <h2> Create HTML cite Tag in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a `<cite>` element, see the C# code example below:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a `<cite>` element, see the C# code example below:
 
 {{< /app/html/generator >}}
 

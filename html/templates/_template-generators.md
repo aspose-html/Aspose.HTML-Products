@@ -54,7 +54,7 @@ feature: generators
 		<h4>Text</h4>
         <ul>
 			<li><a href="/html/{{lang.url-fragment}}net/generators/bdo/" >Bi-Directional Override HTML Generator</a></li>
-			<li><a href="/html/{{lang.url-fragment}}net/generators/bold-text/" >Bold Text HTML Generator</a></li>
+			<li><a href="/html/{{lang.url-fragment}}net/generators/strong/" >HTML strong Tag Generator</a></li>
 			<li><a href="/html/{{lang.url-fragment}}net/generators/cite/" >Citation HTML Generator</a></li>
 			<li><a href="/html/{{lang.url-fragment}}net/generators/code/" >HTML code Tag Generator</a></li>
 			<li><a href="/html/{{lang.url-fragment}}net/generators/emphasize/" >Emphasize Text HTML Generator</a></li>
