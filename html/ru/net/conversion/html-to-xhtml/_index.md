@@ -39,7 +39,7 @@ h2: Как преобразовать HTML в XHTML в C#
 using Aspose.Html;
 using Aspose.Html.Saving;
 
-    using var document = new HTMLDocument("document.{{input lower}}");
+    using var document = new HTMLDocument("{{input lower}}");
 {{#if_output 'PDF'}}
     var options = new PdfSaveOptions();
 {{/if_output}}

@@ -38,7 +38,7 @@ Test the quality of MD to HTML conversion right in your browser! It's fast, easy
 {{< app/html/converter MD HTML>}}
 using Aspose.Html.Converters;
 
-    Converter.ConvertMarkdown("document.{{input lower}}", "output.{{output lower}}");   
+    Converter.ConvertMarkdown("{{input lower}}", "output.{{output lower}}");   
 {{< /app/html/converter>}} 
 
 

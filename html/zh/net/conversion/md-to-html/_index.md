@@ -38,7 +38,7 @@ h2: 免费在线转换器现场演示
 {{< app/html/converter MD HTML>}}
 using Aspose.Html.Converters;
 
-    Converter.ConvertMarkdown("document.{{input lower}}", "output.{{output lower}}");   
+    Converter.ConvertMarkdown("{{input lower}}", "output.{{output lower}}");   
 {{< /app/html/converter>}} 
 
 
