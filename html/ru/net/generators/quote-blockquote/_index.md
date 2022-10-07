@@ -45,6 +45,7 @@ Aspose.HTML for .NET API поддерживает набор элементов 
 ---
 h2: Шаги по созданию HTML-тега Quote на C#
 ---
+
 1. Используйте метод [CreateElement()](https://reference.aspose.com/html/net/aspose.html.dom/document/createelement/) класса Document для создания HTML-элемента `<q>`. Метод Document.CreateElement() создает [HTMLQuoteElement](https://reference.aspose.com/html/net/aspose.html/htmlquoteelement/), указанный в tagName, в нашем случае tagName "q".
 2. Установите значение атрибута [Cite.](https://reference.aspose.com/html/net/aspose.html/htmlquoteelement/cite/)
 3. Создайте текстовое содержимое с помощью метода [CreateTextNode().](https://reference.aspose.com/html/net/aspose.html.dom/document/createtextnode/)

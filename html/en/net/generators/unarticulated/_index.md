@@ -3,7 +3,7 @@ translation: true
 title: Underline Text HTML Generator - Online Tool and C# Code
 template: /templates/_template-generators-child.md
 description: Generate Underline HTML tag, preview the result and copy the generated HTML and C# code to your website. 
-url: /net/generators/unarticulated/
+url: /net/generators/underline/
 platformtag: net
 family: html
 generator: Underline Text HTML Generator
@@ -23,7 +23,7 @@ h2: Generate Underline HTML Tag on the fly!
 ---
 
 The `<u>` HTML tag represents some text that is styled differently from normal text, such as misspelt words. The content inside the `<u>` tag is typically displayed with a simple solid underline. <br>
-Avoid using the `<u>` element where it could be confused with a hyperlink! So, it is not recommended to underline text unless you really need it. If you need to [highlight text](/html/{{lang.url-fragment}}net/generators/emphasize/), use the `<em>` tag. Use the `<strong>` tag to give [strong importance](/html/{{lang.url-fragment}}net/generators/strong/) to the text. These elements were created specifically for those purpose, and browsers usually render this text accordingly.
+Avoid using the `<u>` element where it could be confused with a hyperlink! So, it is not recommended to underline text unless you really need it. If you need to [emphasize text](/html/{{lang.url-fragment}}net/generators/emphasize/), use the `<em>` tag. Use the `<strong>` tag to give [strong importance](/html/{{lang.url-fragment}}net/generators/strong/) to the text. These elements were created specifically for those purpose, and browsers usually render this text accordingly.
 
 {{<section plugin>}}
 

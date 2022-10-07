@@ -14,12 +14,12 @@ tag: superscript-subscript
 {{<section banner>}}
 ---
 h1: Superscript & Subscript HTML Generator
-h2: Generate HTML and C# code for an HTML <sup> or <sub> tag and use it in your website or C# project.
+h2: Generate HTML and C# code for an HTML `<sup>` or `<sub>` tag and use it in your website or C# project.
 ---
 
 {{<section overview>}}
 ---
-h2: Superscript & Subscript HTML Generator
+h2: Generate Superscript & Subscript HTML Tags Easily!
 ---
 
 The `<sup>` HTML tag is used to add superscript text to an HTML document. Superscripts are usually rendered with a raised baseline, using smaller text. Superscript text appears half a character above a normal line and is usually used for footnotes.
