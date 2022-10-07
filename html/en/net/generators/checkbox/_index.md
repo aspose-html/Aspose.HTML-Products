@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Checkbox Generator lets you create HTML checkboxes for your website. You can preview the checkbox and copy generated HTML and C# code.
 url: /net/generators/checkbox/
 platformtag: net
+family: html
 generator: HTML Checkbox Generator
 element: checkbox
 tag: checkbox
@@ -35,7 +36,7 @@ You can generate an HTML checkbox input tag and checkbox C# code by selecting at
 
 <h2> Create HTML Checkbox in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a checkbox, see the C# code example below. You can create a checkbox with a few lines of C# code:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add a checkbox, see the C# code example below. You can create a checkbox with a few lines of C# code:
 
 {{< /app/html/generator >}}
 

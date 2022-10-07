@@ -2,7 +2,7 @@
 translation: true
 title: HTML Telephone Input Generator – Online-Tool und C#-Code
 template: /templates/_template-generators-child.md
-description: Erstellen Sie eine HTML Telephone Input für Ihre Website. Überprüfen Sie die Telefoneingabe, kopieren und verwenden Sie generierten HTML- und C#-Code in Ihrem Projekt!
+description: Generieren Sie HTML- und C# Code für HTML Telephone Input und verwenden Sie ihn in Ihrer eigenen Website oder im C#-Projekt.
 url: /net/generators/telephone/
 platformtag: net
 generator: HTML Telephone Input Generator

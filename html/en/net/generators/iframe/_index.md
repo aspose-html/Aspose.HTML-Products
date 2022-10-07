@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML iFrame Generator creates HTML and C# code for an iframe element. Preview the result and copy the generated code to your website.
 url: /net/generators/iframe/
 platformtag: net
+family: html
 generator: HTML iFrame Generator
 element: HTML iframe
 tag: iframe
@@ -38,7 +39,7 @@ The HTML [iframe](https://html.spec.whatwg.org/multipage/iframe-embed-object.htm
 
 <h2> Create HTML iFrame in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an `<iframe>` element, see the C# code example below:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an `<iframe>` element, see the C# code example below:
 
 {{< /app/html/generator >}}
 

@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML URL Input for your website. Рreview the URL Input, copy and use generated HTML and C# code in your project!
 url: /net/generators/url-input/
 platformtag: net
+family: html
 generator: HTML URL Input Generator
 element: HTML URL input
 tag: url-input
@@ -38,7 +39,7 @@ With the input `type='url'` element you can use attributes such as *name*, *id*,
 
 <h2> Create URL Input in C#</h2>
 
-Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your C# product or programmatically add an HTML URL input, see the C# code example below:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your C# product or programmatically add an HTML URL input, see the C# code example below:
 
 {{< /app/html/generator >}}
 

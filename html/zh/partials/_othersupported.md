@@ -105,6 +105,16 @@ deploy: false
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/video/" name="HTML Video 发电机" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/table/" name="HTML Table 发电机" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/iframe/" name="HTML iFrame 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/bdo/" name="HTML <bdo> 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/code/" name="HTML <code> 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/cite/" name="HTML <cite> 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/mark/" name="HTML <mark> 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/strong/" name="HTML <strong> 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/emphasize/" name="HTML Emphasize Text 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/strikethrough/" name="HTML Strikethrough 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/superscript-subscript/" name="HTML Superscript & Subscript 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/underline/" name="HTML Underline Text 发电机" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/quote-blockquote/" name="HTML Quote & Blockquote 发电机" >}}
 
 
 {{<section aspose>}}

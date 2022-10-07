@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Number Input for your website. Рreview the Number Input, copy and use generated HTML and C# code in your project!
 url: /net/generators/number/
 platformtag: net
+family: html
 generator: HTML Number Input Generator
 element: HTML number input
 tag: number
@@ -37,7 +38,7 @@ The HTML number input usually contains a `name`, `value`, `min`, `max`, and `ste
 
 <h2> Create Number Input in C#</h2>
 
-Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a number input, see the C# code example below:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a number input, see the C# code example below:
 
 {{< /app/html/generator >}}
 

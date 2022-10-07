@@ -105,6 +105,16 @@ deploy: false
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/video/" name="HTML-Video-Generator" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/table/" name="HTML-Table-Generator" >}}
 {{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/iframe/" name="HTML-iFrame-Generator" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/bdo/" name="HTML-<bdo>-Tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/code/" name="HTML-<code>-Tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/cite/" name="HTML-<cite>-Tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/mark/" name="HTML-<mark>-Tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/strong/" name="HTML-<strong>-Tag" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/emphasize/" name="HTML-Emphasize-Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/strikethrough/" name="HTML-Strikethrough" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/superscript-subscript/" name="HTML-Superscript-und-Subscript" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/underline/" name="HTML-Underline-Text" >}}
+{{< blocks/products/pf/agp/other-supported-section-item href="https://products.aspose.com/html/{{lang.url-fragment}}net/generators/quote-blockquote/" name="HTML-Quote-und-Blockquote" >}}
 
 
 {{<section aspose>}}

@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML Table Generator creates HTML and C# code for a table element. You can generate code and use it in your own website or C# project.
 url: /net/generators/table/
 platformtag: net
+family: html
 generator: HTML Table Generator
 element: HTML table
 tag: table
@@ -39,7 +40,7 @@ The `<table>` element can include global attributes such as `style`, `border`, `
 
 <h2> Create HTML Table in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an `<table>` element, see the C# code example below:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an `<table>` element, see the C# code example below:
 
 {{< /app/html/generator >}}
 

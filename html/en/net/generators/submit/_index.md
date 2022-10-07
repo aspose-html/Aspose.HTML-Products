@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: Сreate HTML Submit Input for your website. Рreview the submit button, copy and use generated HTML and C# code in your project!
 url: /net/generators/submit/
 platformtag: net
+family: html
 generator: HTML Submit Input Generator
 element: HTML submit input
 tag: submit
@@ -34,7 +35,7 @@ A `value` attribute contains a string that is displayed as the label of the butt
 
 <h2> Create HTML Submit Input in C#</h2>
 
-Aspose.HTML for .NET API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a submit button, see the C# code example below. You can create a submit input tag with a few lines:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API works as a headless browser that allows you to create or open existing HTML documents from various sources in order to perform editing operations such as removing, appending and replacing HTML nodes. If you want to use the HTML editing features in your product or programmatically add a submit button, see the C# code example below. You can create a submit input tag with a few lines:
 
 {{< /app/html/generator >}}
 

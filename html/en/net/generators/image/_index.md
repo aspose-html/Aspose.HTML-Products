@@ -5,6 +5,7 @@ template: /templates/_template-generators-child.md
 description: HTML Image Generator creates HTML and C# code for an HTML image element. You can generate code and use it in your own website or C# project.
 url: /net/generators/image/
 platformtag: net
+family: html
 generator: HTML Image Generator
 element: HTML image
 tag: image
@@ -37,7 +38,7 @@ The `<img>` tag is used to embed an image in an HTML page. Using an HTML image e
 
 <h2> Create HTML Image Element in C#</h2>
 
-Aspose.HTML for .NET API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an `<img>` element, see the C# code example below:
+[Aspose.HTML for .NET](/html/{{lang.url-fragment}}net/) API supports a set of HTML elements that are defined in HTML Standard, along with rules about how the elements can be nested. You can modify the document by appending new elements, removing, or editing the content of existing nodes. If you want to use the HTML editing features in your product or programmatically add an `<img>` element, see the C# code example below:
 
 {{< /app/html/generator >}}
 
